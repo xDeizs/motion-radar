@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+_site/
+node_modules/
+.DS_Store
+# Keep credentials and local article exports out of the public repository
+.env
+.env.*
+motion-radar-links.json
+motion-radar-context.md
+motion-radar-note.md

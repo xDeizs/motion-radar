@@ -1,0 +1,62 @@
+name: Update and publish Motion Radar
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '37 */6 * * *'
+  push:
+    branches: [main]
+    paths-ignore: ['README.md', 'LICENSE', 'tests/**']
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: motion-radar-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run safety and parser tests
+        run: python -m unittest discover -s tests -v
+      - name: Refresh RSS, GitHub discovery, references and license evidence
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python scripts/update.py
+      - name: Keep the latest snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/feed.json data/research.json index.html
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh public feeds and verification snapshot [skip ci]"
+            git push
+          fi
+      - name: Prepare public site only
+        run: |
+          mkdir -p _site/data
+          cp index.html _site/
+          cp data/feed.json _site/data/
+          touch _site/.nojekyll
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

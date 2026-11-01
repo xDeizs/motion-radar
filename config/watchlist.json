@@ -1,0 +1,219 @@
+[
+  {
+    "repo": "charlie947/motion-graphics-skills",
+    "title": "Motion Graphics Skills",
+    "type": "skill",
+    "summary": "Рекламные ролики, титры и короткие motion-сцены из кода. Подходит для подготовки брифа и сборки промо.",
+    "tags": [
+      "Remotion",
+      "Титры",
+      "Промо"
+    ],
+    "caution": "Не все навыки проверены по коду. Примеры и внешние материалы могут иметь отдельные условия.",
+    "skill_paths": [
+      "skills/animated-chart/SKILL.md",
+      "skills/apple-launch-film/SKILL.md",
+      "skills/brand-intake/SKILL.md"
+    ]
+  },
+  {
+    "repo": "whaleyxbt/claude-motion",
+    "title": "Claude Motion",
+    "type": "skill",
+    "summary": "Пайплайн motion-дизайна: направление, рендер, разбор кадров и звук. Полезен для последовательной доработки ролика.",
+    "tags": [
+      "Remotion",
+      "Review",
+      "Звук"
+    ],
+    "caution": "Звук, внешние модели и дополнительные сервисы могут требовать отдельных ключей и оплаты.",
+    "skill_paths": [
+      ".claude/skills/motion-design/SKILL.md",
+      ".claude/skills/review-loop/SKILL.md",
+      ".claude/skills/sound-design/SKILL.md"
+    ]
+  },
+  {
+    "repo": "t3knobox/klik-anim-skill-creation",
+    "title": "Klik Anim · kinetic type",
+    "type": "skill",
+    "summary": "Референс по кинетической типографике, сценам и камере. Входная точка — присланная заметка kinetic-type.md.",
+    "tags": [
+      "Типографика",
+      "Камера",
+      "Референс"
+    ],
+    "caution": "Лицензия не обнаружена. Ссылка для изучения; права на копирование и перераспространение не подтверждены.",
+    "skill_paths": [
+      "klik-anim/SKILL.md",
+      "klik-cam/SKILL.md",
+      "klik-remotion-method/SKILL.md"
+    ],
+    "entry_url": "https://github.com/t3knobox/klik-anim-skill-creation/blob/main/klik-anim/references/kinetic-type.md"
+  },
+  {
+    "repo": "cth9191/animate",
+    "title": "Animate",
+    "type": "skill",
+    "summary": "Процедурные Canvas-сцены и экспорт видео. Подходит для воспроизводимых анимаций с фиксированным временем кадра.",
+    "tags": [
+      "Canvas",
+      "FFmpeg",
+      "Видео"
+    ],
+    "caution": "Требуются браузер и FFmpeg. Команды и зависимости перед запуском нужно просмотреть.",
+    "skill_paths": [
+      "plugins/animate/skills/animate/SKILL.md"
+    ]
+  },
+  {
+    "repo": "iart-ai/motion-design-skills",
+    "title": "Motion Design Skills",
+    "type": "skill",
+    "summary": "Базовые принципы тайминга, цвета, композиции и motion-направления. Есть сценарии для Remotion и After Effects.",
+    "tags": [
+      "Композиция",
+      "Remotion",
+      "After Effects"
+    ],
+    "caution": "Навык не заменяет сам редактор: After Effects — отдельный коммерческий продукт.",
+    "skill_paths": [
+      "skills/after-effects/SKILL.md",
+      "skills/animation-principles/SKILL.md",
+      "skills/beat-sync-editing/SKILL.md"
+    ]
+  },
+  {
+    "repo": "howseen-ai/claude-motion-design",
+    "title": "Claude Motion Design",
+    "type": "skill",
+    "summary": "HTML-анимации с покадровым захватом через браузер и сборкой в видео. Полезен для точного воспроизводимого рендера.",
+    "tags": [
+      "HTML",
+      "Playwright",
+      "Видео"
+    ],
+    "caution": "Браузер и FFmpeg устанавливаются отдельно. Зависимости не запускались.",
+    "skill_paths": [
+      "skill/motion-design/SKILL.md"
+    ]
+  },
+  {
+    "repo": "LottieFiles/motion-design-skill",
+    "title": "Motion Design · LottieFiles",
+    "type": "skill",
+    "summary": "Тайминг, easing, иерархия движения и хореография интерфейсов. Применим к разным движкам анимации.",
+    "tags": [
+      "Easing",
+      "UI motion",
+      "Принципы"
+    ],
+    "caution": "Это инструкции для агента, а не генератор или лицензия на все материалы LottieFiles.",
+    "skill_paths": [
+      "skills/motion-design/SKILL.md"
+    ]
+  },
+  {
+    "repo": "199-biotechnologies/motion-dev-animations-skill",
+    "title": "Motion.dev Animations",
+    "type": "skill",
+    "summary": "Пружины, жесты и scroll-анимации на Motion.dev. Удобная отправная точка для анимации веб-интерфейсов.",
+    "tags": [
+      "Motion",
+      "React",
+      "Scroll"
+    ],
+    "caution": "Проверяй совместимость примеров с установленной версией Motion.",
+    "skill_paths": [
+      "SKILL.md"
+    ]
+  },
+  {
+    "repo": "motiondivision/motion",
+    "title": "Motion",
+    "type": "library",
+    "summary": "Библиотека для анимаций JavaScript, React и Vue: spring, layout, жесты и scroll. Это runtime, а не skill.",
+    "tags": [
+      "JavaScript",
+      "React",
+      "Spring"
+    ],
+    "caution": "Открытая библиотека и платные дополнительные продукты бренда — разные вещи.",
+    "skill_paths": []
+  },
+  {
+    "repo": "airbnb/lottie-web",
+    "title": "Lottie Web",
+    "type": "library",
+    "summary": "Воспроизведение Lottie JSON из After Effects в браузере. Полезен для лёгких векторных интерфейсных анимаций.",
+    "tags": [
+      "Lottie",
+      "SVG",
+      "JSON"
+    ],
+    "caution": "Права на библиотеку не дают прав на любую загруженную Lottie-анимацию.",
+    "skill_paths": []
+  },
+  {
+    "repo": "lovisdotio/motion2code",
+    "title": "Motion2Code",
+    "type": "skill",
+    "summary": "Разбор разрешённого видеореференса и восстановление движения в SVG и GSAP с проверкой по кадрам.",
+    "tags": [
+      "SVG",
+      "GSAP",
+      "Референс → код"
+    ],
+    "caution": "Используй свои или разрешённые референсы. Не копируй чужие ассеты, брендинг и закрытый код.",
+    "skill_paths": [
+      "skills/motion2code/SKILL.md"
+    ]
+  },
+  {
+    "repo": "scriptscrypt/animation-reverse-engineering",
+    "title": "Animation Reverse Engineering",
+    "type": "skill",
+    "summary": "Разбор движения по кадрам и перенос механики в код. Полезен для исследования timing и переходов.",
+    "tags": [
+      "Разбор кадров",
+      "FFmpeg",
+      "Исследование"
+    ],
+    "caution": "Лицензия не обнаружена. Не устанавливай и не перераспространяй код без уточнения прав.",
+    "skill_paths": [
+      "SKILL.md"
+    ]
+  },
+  {
+    "repo": "alextnetto/res",
+    "title": "RES · product research",
+    "type": "research",
+    "summary": "Исследование публичного поведения продуктов и структурирование наблюдений. Не специализированный motion-движок.",
+    "tags": [
+      "Браузер",
+      "Исследование",
+      "Знания"
+    ],
+    "caution": "Дополнительный инструмент исследования. Не нужен для базовой работы ленты.",
+    "skill_paths": [
+      "skills/reverse-engineering-saas/SKILL.md"
+    ]
+  },
+  {
+    "repo": "morluto/rea",
+    "title": "REA · research tools",
+    "type": "research",
+    "summary": "Широкий набор инструментов анализа и reverse engineering. В каталоге как дополнительный источник, не как движок сайта.",
+    "tags": [
+      "Анализ",
+      "Исследование",
+      "Дополнительно"
+    ],
+    "caution": "Значительно шире motion-задач. Нативные утилиты и скрипты не запускались и не прошли полный аудит.",
+    "skill_paths": [
+      ".agents/skills/rea-analysis-optimization/SKILL.md",
+      ".agents/skills/rea-changelog-update/SKILL.md",
+      ".agents/skills/rea-ci-tests-audit/SKILL.md"
+    ]
+  }
+]

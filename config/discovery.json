@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "max_age_days": 180,
+  "per_query": 4,
+  "queries": [
+    {
+      "id": "motion-skills",
+      "name": "Motion и agent skills",
+      "query": "motion skill in:name,description archived:false fork:false"
+    },
+    {
+      "id": "ae-scripts",
+      "name": "Скрипты After Effects",
+      "query": "\"after effects\" script in:description archived:false fork:false"
+    },
+    {
+      "id": "creative-code",
+      "name": "Creative coding",
+      "query": "topic:creative-coding animation archived:false fork:false"
+    }
+  ]
+}

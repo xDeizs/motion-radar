@@ -1,0 +1,72 @@
+[
+  {
+    "id": "codrops",
+    "name": "Codrops",
+    "url": "https://feeds.feedburner.com/Codrops",
+    "site": "https://tympanus.net/codrops/",
+    "kind": "rss",
+    "category": "motion",
+    "tag": "Web / Motion"
+  },
+  {
+    "id": "maxime",
+    "name": "Maxime Heckel",
+    "url": "https://blog.maximeheckel.com/rss.xml",
+    "site": "https://blog.maximeheckel.com/",
+    "kind": "rss",
+    "category": "code",
+    "tag": "Shaders"
+  },
+  {
+    "id": "blender",
+    "name": "Blender Developers",
+    "url": "https://code.blender.org/feed/",
+    "site": "https://code.blender.org/",
+    "kind": "rss",
+    "category": "motion",
+    "tag": "Blender",
+    "image_hosts": [
+      "code.blender.org"
+    ]
+  },
+  {
+    "id": "three",
+    "name": "Three.js",
+    "url": "https://github.com/mrdoob/three.js/releases.atom",
+    "site": "https://threejs.org/",
+    "kind": "atom",
+    "category": "tools",
+    "tag": "Three.js",
+    "max_items": 1
+  },
+  {
+    "id": "motion",
+    "name": "Motion",
+    "url": "https://github.com/motiondivision/motion/releases.atom",
+    "site": "https://motion.dev/",
+    "kind": "atom",
+    "category": "tools",
+    "tag": "Motion",
+    "max_items": 1
+  },
+  {
+    "id": "r3f",
+    "name": "React Three Fiber",
+    "url": "https://github.com/pmndrs/react-three-fiber/releases.atom",
+    "site": "https://r3f.docs.pmnd.rs/",
+    "kind": "atom",
+    "category": "tools",
+    "tag": "React / 3D",
+    "max_items": 2
+  },
+  {
+    "id": "lottie",
+    "name": "Lottie Web",
+    "url": "https://github.com/airbnb/lottie-web/releases.atom",
+    "site": "https://github.com/airbnb/lottie-web",
+    "kind": "atom",
+    "category": "tools",
+    "tag": "Lottie",
+    "max_items": 1
+  }
+]

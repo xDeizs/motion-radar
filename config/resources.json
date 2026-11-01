@@ -1,0 +1,47 @@
+[
+  {
+    "id":"polyhaven","title":"Poly Haven","url":"https://polyhaven.com/",
+    "summary":"HDRI, PBR-материалы и 3D-модели для твоих сцен.",
+    "tags":["HDRI","PBR","3D"],"source_name":"Poly Haven","badge":"CC0",
+    "terms_url":"https://polyhaven.com/license","evidence_pattern":"\\bCC0\\b",
+    "terms_label":"Ассеты — CC0","scope":"Лицензия ассетов; платные дополнительные сервисы сюда не входят."
+  },
+  {
+    "id":"ambientcg","title":"ambientCG","url":"https://ambientcg.com/",
+    "summary":"Библиотека PBR-материалов и окружения для 3D.",
+    "tags":["Textures","PBR","3D"],"source_name":"ambientCG","badge":"CC0",
+    "terms_url":"https://docs.ambientcg.com/license/","evidence_pattern":"\\bCC0\\b",
+    "terms_label":"Ассеты — CC0","scope":"Проверь условия конкретного ассета перед использованием."
+  },
+  {
+    "id":"kenney","title":"Kenney Assets","url":"https://kenney.nl/assets",
+    "summary":"2D- и 3D-ассеты для прототипов, сцен и игровых интерфейсов.",
+    "tags":["Assets","2D","3D"],"source_name":"Kenney","badge":"CC0",
+    "terms_url":"https://kenney.nl/support","evidence_pattern":"\\bCC0\\b",
+    "terms_label":"Ассеты — CC0","scope":"Речь об ассетах, а не обо всех инструментах и товарах Kenney."
+  },
+  {
+    "id":"threejs","title":"Three.js","url":"https://threejs.org/",
+    "summary":"JavaScript-библиотека для 3D, WebGL и WebGPU в браузере.",
+    "tags":["JavaScript","WebGL","WebGPU"],"source_name":"Three.js","badge":"MIT",
+    "terms_url":"https://raw.githubusercontent.com/mrdoob/three.js/dev/LICENSE",
+    "evidence_pattern":"The MIT License","terms_label":"Код — MIT",
+    "scope":"Сохраняй уведомление о лицензии; внешние модели и текстуры имеют свои условия."
+  },
+  {
+    "id":"motionjs","title":"Motion","url":"https://motion.dev/",
+    "summary":"Анимация интерфейсов на JavaScript и React. Здесь — открытая библиотека.",
+    "tags":["JavaScript","React","Animation"],"source_name":"Motion","badge":"MIT",
+    "terms_url":"https://raw.githubusercontent.com/motiondivision/motion/main/LICENSE.md",
+    "evidence_pattern":"The MIT License","terms_label":"Открытый код — MIT",
+    "scope":"Motion+ и другие платные продукты не включены."
+  },
+  {
+    "id":"blender-app","title":"Blender","url":"https://www.blender.org/",
+    "summary":"3D-моделирование, рендер, анимация и Geometry Nodes.",
+    "tags":["3D","Animation","Geometry Nodes"],"source_name":"Blender","badge":"GPL",
+    "terms_url":"https://www.blender.org/about/license/",
+    "evidence_pattern":"GNU General Public License","terms_label":"Программа — GNU GPL",
+    "scope":"Лицензии сторонних аддонов и ассетов проверяются отдельно."
+  }
+]
