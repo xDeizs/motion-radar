@@ -9,3 +9,9 @@ node_modules/
 motion-radar-links.json
 motion-radar-context.md
 motion-radar-note.md
+
+# Binary media are reproducible from config/motion-assets (text-only MCP).
+/assets/motion/
+/scrollcraft/builds/*/assets/*-source.jpg
+/scrollcraft/lab/
+/_site/

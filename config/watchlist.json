@@ -1,5 +1,20 @@
 [
   {
+    "repo": "nateherkai/scroll-craft",
+    "title": "Scroll Craft",
+    "type": "skill",
+    "summary": "Скролл-сцены с независимыми слоями, короткий бриф, партитура движения и визуальная проверка. Этот сайт использует его неизменённый MIT-движок и собственную хореографию.",
+    "tags": [
+      "Scroll",
+      "Parallax",
+      "Web"
+    ],
+    "caution": "Генерация через Kie.ai в исходном навыке требует отдельного аккаунта и может быть платной. Для этого сайта Kie не подключался: изображения сгенерированы в сессии, видеофон собран локально. Сторонние API-клиенты не запускались.",
+    "skill_paths": [
+      "plugins/nateherk-design/skills/scroll-craft/SKILL.md"
+    ]
+  },
+  {
     "repo": "charlie947/motion-graphics-skills",
     "title": "Motion Graphics Skills",
     "type": "skill",

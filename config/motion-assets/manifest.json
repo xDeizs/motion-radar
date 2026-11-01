@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "destination": "assets/motion",
+  "assets": [
+    {
+      "file": "background-source-v5.webp",
+      "bytes": 38916,
+      "sha256": "fe46a43843b855f3a159a4aeca3b6d5a4bd3e57aa18f92283062cb6cb75121c5",
+      "parts": [
+        "background-source-v5.webp.00.b64"
+      ]
+    },
+    {
+      "file": "material-bed-mobile-v5.mp4",
+      "bytes": 380497,
+      "sha256": "86c4045e923f4a13655f4166367a3d8ac67f2a275fe39625e9bcf2641907cda0",
+      "parts": [
+        "material-bed-mobile-v5.mp4.00.b64"
+      ]
+    },
+    {
+      "file": "material-bed-v5.mp4",
+      "bytes": 548741,
+      "sha256": "7eecd8df8aa144beb6980e28b8b4d8255639c2ca35d48a0589278bcece08382c",
+      "parts": [
+        "material-bed-v5.mp4.00.b64",
+        "material-bed-v5.mp4.01.b64"
+      ]
+    },
+    {
+      "file": "material-poster-mobile-v5.webp",
+      "bytes": 18148,
+      "sha256": "2d9e38afb16cfc8b23a910fd951a26afd2f8623abdd28d7d2c35892bea1443af",
+      "parts": [
+        "material-poster-mobile-v5.webp.00.b64"
+      ]
+    },
+    {
+      "file": "material-poster-v5.webp",
+      "bytes": 25446,
+      "sha256": "86b82003e94e631dc290756ccdb62e8d7bf84170647c6b226c40a8aee06f9404",
+      "parts": [
+        "material-poster-v5.webp.00.b64"
+      ]
+    },
+    {
+      "file": "near-loop-v5.webp",
+      "bytes": 26922,
+      "sha256": "1aed4a47643f15c95f6df47a7bf2b780acb8238be32a1d94b4a7b3a8a7aac9c0",
+      "parts": [
+        "near-loop-v5.webp.00.b64"
+      ]
+    },
+    {
+      "file": "orbit-reference-v5.webp",
+      "bytes": 116438,
+      "sha256": "b57d48c653de12c3f929fa9c95b10c63626cfc76d26a0370b902c6603c9d14f9",
+      "parts": [
+        "orbit-reference-v5.webp.00.b64"
+      ]
+    },
+    {
+      "file": "orbit-v5.webp",
+      "bytes": 97476,
+      "sha256": "256bf2aa9f0167ff9624414dd5a3be898e798fd44b8ccc8fe3ffd580068d0479",
+      "parts": [
+        "orbit-v5.webp.00.b64"
+      ]
+    }
+  ]
+}

@@ -26,6 +26,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Decode and verify public motion media
+        run: python scripts/decode_motion_assets.py
       - name: Run safety and parser tests
         run: python -m unittest discover -s tests -v
       - name: Refresh RSS, GitHub discovery, references and license evidence
@@ -43,9 +45,13 @@ jobs:
           fi
       - name: Prepare public site only
         run: |
-          mkdir -p _site/data
+          mkdir -p _site/data _site/web/vendor _site/assets
           cp index.html _site/
           cp data/feed.json _site/data/
+          cp -R assets/motion _site/assets/
+          cp web/vendor/scrollcraft.js _site/web/vendor/
+          cp web/vendor/SCROLLCRAFT-LICENSE.txt _site/web/vendor/
+          cp FLOW_PROMPTS.md _site/
           touch _site/.nojekyll
       - uses: actions/upload-pages-artifact@v3
         with:

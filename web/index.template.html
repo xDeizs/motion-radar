@@ -6,9 +6,10 @@
 <meta name="color-scheme" content="light dark">
 <meta name="description" content="Открытый радар моушен-дизайна и creative coding. Новости, skills, скрипты, референсы и лаборатория анимаций без платных API.">
 <meta name="referrer" content="no-referrer">
-<title>Motion Radar — код, skills и движение</title>
+<title>Motion Radar · motion-библиотека и creative coding</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Crect width='48' height='48' rx='10' fill='%237444C4'/%3E%3Cpath d='M11 32V16h8l5 8 5-8h8v16h-7V21l-6 9-6-9v11' fill='white'/%3E%3C/svg%3E">
 <style>
+__SC_ENGINE_CSS__
 :root{--bg:#fff;--surface:#f9f8f7;--surface2:#f0efed;--ink:#2c2c2b;--muted:#67645f;--line:#e6e5e3;--blue:#186cc1;--bluebg:#e5f2fc;--good:#286b49;--goodbg:#e8f1ec;--warn:#8d4c16;--warnbg:#fbebde;--bad:#af3d33;--badbg:#fce9e7;--focus:#2783de;--shadow:0 4px 24px #00000010}
 @media(prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#191919;--surface:#202020;--surface2:#292928;--ink:#f7f7f5;--muted:#b7b5b0;--line:#484847;--blue:#82b8f5;--bluebg:#203145;--good:#8fd3ac;--goodbg:#21352a;--warn:#efb47e;--warnbg:#362c23;--bad:#f79c94;--badbg:#3a2625;--focus:#82b8f5;--shadow:0 8px 28px #0004}}
 :root[data-theme=dark]{--bg:#191919;--surface:#202020;--surface2:#292928;--ink:#f7f7f5;--muted:#b7b5b0;--line:#484847;--blue:#82b8f5;--bluebg:#203145;--good:#8fd3ac;--goodbg:#21352a;--warn:#efb47e;--warnbg:#362c23;--bad:#f79c94;--badbg:#3a2625;--focus:#82b8f5;--shadow:0 8px 28px #0004}
@@ -23,46 +24,27 @@
 
 __HUB_CSS__
 __PURPLE_CSS__
+__SCROLL_CSS__
 </style>
 </head>
 <body>
 <a class="skip" href="#main">Перейти к материалам</a>
 <header class="top">
 <div class="wrap top-inner">
-  <a class="brand" href="#" aria-label="Motion Radar — главная">
+  <a class="brand" href="#" aria-label="Motion Radar: главная">
     <span class="brand-mark" aria-hidden="true"><svg width="25" height="25" viewBox="0 0 32 32" fill="none"><path d="M5 23V9h6l5 8 5-8h6v14h-5V14l-6 9-6-9v9" fill="currentColor"/></svg></span>
     <span><span class="wordmark">motion<span>/</span>radar</span><span class="brand-sub">INDEPENDENT MOTION LIBRARY</span></span>
   </a>
   <div class="top-actions">
-    <span class="top-note mono">ИЗ ИДЕИ — В ДВИЖЕНИЕ.</span>
+    <span class="top-note mono">ИЗ ИДЕИ В ДВИЖЕНИЕ.</span>
     <button class="btn sources-top" data-action="sources" aria-label="Источники"><span class="btn-icon" id="sources-icon"></span><span class="sources-label">Источники</span></button>
+    <button class="icon top-motion" id="scene-motion-toggle" aria-label="Выключить движение" aria-pressed="true"><span data-symbol="pause" aria-hidden="true"></span></button>
     <button class="icon" id="theme" aria-label="Переключить светлую и тёмную тему"></button>
     <button class="btn primary add-top" data-action="add"><span id="add-icon"></span><span class="add-label">Добавить ссылку</span></button>
   </div>
 </div>
 </header>
-<div class="wrap">
-  <div class="notice" id="notice"></div>
-  <section class="hero" aria-labelledby="hero-title">
-    <div class="hero-art" aria-hidden="true"><img id="hero-visual" alt="" fetchpriority="high"><div class="art-reticle reticle-a"></div><div class="art-reticle reticle-b"></div></div>
-    <div class="hero-copy">
-      <div class="eyebrow mono"><span class="small-square"></span><span id="hero-eyebrow">Независимая библиотека / motion & code</span></div>
-      <h1 id="hero-title">Идеи.<br>Код.<br><span>Движение.</span></h1>
-      <p class="hero-description" id="hero-description">Всё, что превращает «а что, если»<br>в твой следующий проект.</p>
-      <div class="hero-actions"><button class="btn hero-primary" data-action="hero-lab">Пробовать движение <span aria-hidden="true">↗</span></button><button class="btn hero-secondary" data-action="hero-explore">Исследовать <span aria-hidden="true">↓</span></button></div>
-    </div>
-    <div class="hero-art-label mono"><span>MATERIAL STUDY / 001</span><span>ORIGINAL AI ART · MR</span></div>
-    <aside class="signal-panel" aria-label="Состояние снимка">
-      <div class="signal-title mono"><span class="signal-spark" aria-hidden="true">✳︎</span>МЕНЬШЕ ПОИСКА.<br>БОЛЬШЕ ДВИЖЕНИЯ.</div>
-      <div class="signal-stats"><div class="stat"><strong id="items-stat">—</strong><span id="items-label">материалов</span></div><div class="stat"><strong id="sources-stat">—</strong><span>RSS-лент прочитано</span></div><div class="stat"><strong id="repos-stat">—</strong><span>репозиториев</span></div></div>
-      <div class="signal-time" id="snapshot-time"></div>
-    </aside>
-  </section>
-  <section class="entry-points" aria-label="С чего начать">
-    <button class="entry-point entry-look" data-jump="references"><span class="entry-top mono">01 / СМОТРЕТЬ <span aria-hidden="true">↗</span></span><strong>Насмотренность —<br>тоже инструмент.</strong><span class="entry-bottom">Авторы, сайты и визуальные приёмы</span><span class="entry-glyph" aria-hidden="true">✳︎</span></button>
-    <button class="entry-point entry-make" data-jump="lab"><span class="entry-top mono">02 / ДЕЛАТЬ <span aria-hidden="true">↗</span></span><strong>Не сохраняй.<br>Попробуй.</strong><span class="entry-bottom">Три motion-сцены с исходным кодом</span><span class="entry-glyph" aria-hidden="true">↗</span></button>
-    <button class="entry-point entry-code" data-jump="code"><span class="entry-top mono">03 / СОБИРАТЬ <span aria-hidden="true">↗</span></span><strong>Твой следующий<br>creative stack.</strong><span class="entry-bottom">Skills, библиотеки и скрипты</span><span class="entry-glyph" aria-hidden="true">{ }</span></button>
-  </section>
+__PROLOGUE_HTML__
   <main id="main">
     <div class="explore-heading"><span class="mono">THE RADAR / ОТКРЫТАЯ КОЛЛЕКЦИЯ</span><span class="explore-side">Найти. Сохранить. Сделать.</span></div>
     <nav class="tabs" role="tablist" aria-label="Разделы">
@@ -94,6 +76,10 @@ __PURPLE_CSS__
       <div class="load-wrap"><button class="btn" id="load-more" hidden>Показать ещё</button></div>
     </section>
   </main>
+  <section class="source-ledger" aria-labelledby="ledger-title">
+    <div class="ledger-heading"><h2 id="ledger-title">У каждой находки<br>есть источник.</h2><p>Открытые данные, прямые ссылки и понятные ограничения. Никаких выдуманных раздач.</p><button class="textbtn ledger-link" data-action="sources">Как работает радар <span data-symbol="arrow" aria-hidden="true"></span></button></div>
+    <aside class="signal-panel" aria-label="Состояние снимка"><div class="signal-stats"><div class="stat"><strong id="items-stat">0</strong><span id="items-label">материалов</span></div><div class="stat"><strong id="sources-stat">0</strong><span>RSS-лент прочитано</span></div><div class="stat"><strong id="repos-stat">0</strong><span>репозиториев</span></div></div><div class="signal-time" id="snapshot-time"></div></aside>
+  </section>
   <section class="explain" aria-label="Принципы работы">
     <div class="explain-item"><span data-icon="rss"></span><div><strong>Источники, а не перепечатки</strong><p>Короткий фрагмент и ссылка на оригинал. Заголовки остаются на языке автора.</p></div></div>
     <div class="explain-item"><span data-icon="shield"></span><div><strong>Доступно ≠ бесплатно</strong><p>Рабочая ссылка не доказывает условия акции. Лицензия проверяется отдельно.</p></div></div>
@@ -107,6 +93,7 @@ __PURPLE_CSS__
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 <noscript><div class="wrap notice">Для поиска и показа карточек нужен JavaScript. Исходные данные доступны в data/feed.json.</div></noscript>
 <script id="initial-data" type="application/json">__INITIAL_DATA__</script>
+<script src="web/vendor/scrollcraft.js"></script>
 <script>
 'use strict';
 const icons={
@@ -213,6 +200,7 @@ function render(){
  const stale=Date.now()-Date.parse(data.meta.generated_at)>36*60*60*1000;
  const deployed=data.meta.built_in_actions&&!['localhost','127.0.0.1',''].includes(location.hostname);
  $('#notice').innerHTML=ico('info',16)+'<span>'+(stale?'<b>Снимок старше 36 часов.</b> Проверь расписание обновлений в GitHub Actions. ':deployed?'Плановое обновление — каждые 6 часов, возможны задержки. ':'<b>Предпросмотр.</b> Сбор по расписанию запустится после публикации. ')+(good<data.sources.length?'Часть источников сейчас недоступна — смотри «Источники».':'X и Reddit — вручную.')+'</span>';
+ $('#notice').hidden=!stale&&good===data.sources.length;
  $$('#cards img').forEach(img=>img.addEventListener('error',()=>{const c=img.parentElement;c.classList.add('img-failed');const label=c.querySelector('.cover-label');if(label){label.style.position='static';label.style.fontSize='22px';label.style.background='transparent'}}));
 }
 function reset(){state.q='';state.source='all';state.category='all';state.limit=12;$('#search').value='';$('#source-filter').value='all';render()}
@@ -328,6 +316,7 @@ $('#sources-icon').innerHTML=ico('rss',18);$('#search-icon').innerHTML=ico('sear
 $$('[data-icon]').forEach(e=>e.innerHTML=ico(e.dataset.icon,20));
 __HUB_JS__
 __PURPLE_JS__
+__SCROLL_JS__
 const opts=[...data.sources.map(s=>({id:s.id,name:s.name})),{id:'library',name:'Библиотека'},{id:'local',name:'Личные ссылки'},{id:'manual',name:'Ручные публикации'},{id:'github',name:'GitHub · код / skills'},{id:'reference',name:'Референсы'}];
 $('#source-filter').insertAdjacentHTML('beforeend',opts.map(s=>'<option value="'+esc(s.id)+'">'+esc(s.name)+'</option>').join(''));
 render();

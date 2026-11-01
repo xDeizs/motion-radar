@@ -277,13 +277,17 @@ def write_site(payload):
     # Escaping prevents feed text from terminating the inline data script.
     inline = json.dumps(payload, ensure_ascii=False).replace("<", "\\u003c").replace(">", "\\u003e").replace("&", "\\u0026")
     template = (ROOT / "web/index.template.html").read_text("utf-8")
-    for marker, path in [("__HUB_CSS__", "web/hub.css"), ("__HUB_JS__", "web/hub.js"),
+    for marker, path in [("__PROLOGUE_HTML__", "web/prologue.html"),
+                         ("__SC_ENGINE_CSS__", "web/vendor/scrollcraft.css"),
+                         ("__SCROLL_CSS__", "web/scroll.css"), ("__SCROLL_JS__", "web/scroll.js"),
+                         ("__HUB_CSS__", "web/hub.css"), ("__HUB_JS__", "web/hub.js"),
                          ("__PURPLE_CSS__", "web/purple.css"), ("__PURPLE_JS__", "web/purple.js")]:
         if marker in template:
             template = template.replace(marker, (ROOT / path).read_text("utf-8"))
     for marker, value in [
         ("__VISUALS__", load(ROOT / "config/visuals.json", {"images": []})),
-        ("__DESIGN_NOTES__", (ROOT / "DESIGN_RESEARCH.md").read_text("utf-8"))
+        ("__DESIGN_NOTES__", (ROOT / "DESIGN_RESEARCH.md").read_text("utf-8")),
+        ("__FLOW_PROMPTS__", (ROOT / "FLOW_PROMPTS.md").read_text("utf-8"))
     ]:
         encoded = json.dumps(value, ensure_ascii=False).replace("<", "\\u003c").replace(">", "\\u003e").replace("&", "\\u0026")
         template = template.replace(marker, encoded)

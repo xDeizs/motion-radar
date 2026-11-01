@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-01T02:43:15Z",
+    "generated_at": "2026-11-01T02:06:36Z",
     "version": 2,
     "mode": "public_read_only",
     "ai_enabled": false,
@@ -8,6 +8,45 @@
     "refresh_hours": 6
   },
   "catalog": [
+    {
+      "id": "repo-nateherkai--scroll-craft",
+      "repo": "nateherkai/scroll-craft",
+      "url": "https://github.com/nateherkai/scroll-craft",
+      "entry_url": "https://github.com/nateherkai/scroll-craft",
+      "api_url": "https://api.github.com/repos/nateherkai/scroll-craft",
+      "title": "Scroll Craft",
+      "summary": "Скролл-сцены с независимыми слоями, короткий бриф, партитура движения и визуальная проверка. Этот сайт использует его неизменённый MIT-движок и собственную хореографию.",
+      "upstream_description": "An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding agents. Also available as a Claude Code plugin.",
+      "source_id": "github",
+      "source_name": "nateherkai",
+      "kind": "repository",
+      "category": "code",
+      "repo_type": "skill",
+      "type_label": "Skill",
+      "origin": "watchlist",
+      "tags": [
+        "Scroll",
+        "Parallax",
+        "Web"
+      ],
+      "pushed_at": "2026-09-30T13:31:42Z",
+      "published_at": "2026-09-30T13:31:42Z",
+      "seen_at": "2026-11-01T03:22:14Z",
+      "checked_at": "2026-11-01T03:22:14Z",
+      "default_branch": "main",
+      "archived": false,
+      "license": "MIT",
+      "license_name": "MIT License",
+      "license_basis": "GitHub API · license.spdx_id",
+      "caution": "Генерация через Kie.ai в исходном навыке требует отдельного аккаунта и может быть платной. Для этого сайта Kie не подключался: изображения сгенерированы в сессии, видеофон собран локально. Сторонние API-клиенты не запускались.",
+      "skill_paths": [
+        "plugins/nateherk-design/skills/scroll-craft/SKILL.md"
+      ],
+      "metadata_status": "ok",
+      "inspection": "metadata_and_selected_docs",
+      "link_status": "ok",
+      "thumbnail": null
+    },
     {
       "id": "repo-charlie947--motion-graphics-skills",
       "repo": "charlie947/motion-graphics-skills",
@@ -1048,7 +1087,7 @@
       "category": "motion",
       "source_id": "reference",
       "source_name": "Референсы",
-      "checked_at": "2026-11-01T02:43:15Z",
+      "checked_at": "2026-11-01T02:06:36Z",
       "published_at": null,
       "thumbnail": null,
       "link_status": "ok",
@@ -1106,8 +1145,8 @@
       "thumbnail": null,
       "link_status": "unknown",
       "render_status": "not_checked",
-      "page_status": "stale",
-      "last_attempt_at": "2026-11-01T02:43:15Z",
+      "page_status": "error",
+      "last_attempt_at": "2026-11-01T02:06:36Z",
       "page_error": "Response exceeds safety limit"
     },
     {
@@ -1132,8 +1171,8 @@
       "thumbnail": null,
       "link_status": "unknown",
       "render_status": "not_checked",
-      "page_status": "stale",
-      "last_attempt_at": "2026-11-01T02:43:15Z",
+      "page_status": "error",
+      "last_attempt_at": "2026-11-01T02:06:36Z",
       "page_error": "Response exceeds safety limit"
     },
     {
@@ -1153,7 +1192,7 @@
       "category": "motion",
       "source_id": "reference",
       "source_name": "Референсы",
-      "checked_at": "2026-11-01T02:43:15Z",
+      "checked_at": "2026-11-01T02:31:10Z",
       "published_at": null,
       "thumbnail": null,
       "link_status": "ok",
