@@ -29,7 +29,7 @@ changes only grammar and world will fail it.
 | Build | Grammar | Nav treatment | Hero device | Act-sequence shape | Close pattern | Signature move | World | Port |
 |---|---|---|---|---|---|---|---|---|
 
-| Motion Radar v5 (source package) | Library prologue | Working 8-tab collection + labeled signal dock | Scrub plate + two independent alpha planes, pointer depth | One 2.8vh/2.25vh held prologue, in-flow handoff, actual library, source ledger | Static source/collection/export close | Signal dock: ordered spatial controls converge into useful navigation | Cool satin silver, lavender lacquer, macro material | 4515 |
+| Motion Radar v5 | Library prologue | Working 8-tab collection + labeled signal dock | Scrub plate + two independent alpha planes, pointer depth | One 2.8vh/2.25vh held prologue, in-flow handoff, actual library, source ledger | Static source/collection/export close | Signal dock: ordered spatial controls converge into useful navigation | Cool satin silver, lavender lacquer, macro material | 4515 |
 
 ---
 
@@ -40,7 +40,7 @@ reusing: a grammar, a nav treatment, a close pattern, a signature move, an
 act-count-and-length band. The shared columns are what the next build inherits
 as a constraint, so writing them down is the whole point.
 
-- Motion Radar v5 claims the Library prologue + Signal dock combination: a short dimensional entry to a real working collection. No previous registry rows existed; nothing was compared or silently removed. Delivered as a tested source package; public deployment status is tracked in VERIFICATION.md.
+- Motion Radar v5 claims the Library prologue + Signal dock combination: a short dimensional entry to a real working collection. No previous registry rows existed; nothing was compared or silently removed. Published on GitHub Pages and delivered as a tested source package. Public and local verification are recorded in VERIFICATION.md.
 
 ---
 
