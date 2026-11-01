@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-11-01T02:06:29Z",
+    "generated_at": "2026-11-01T03:50:32Z",
     "version": 2,
-    "built_in_actions": false,
+    "built_in_actions": true,
     "refresh_hours": 6,
     "max_age_days": 180,
     "ai_enabled": false,
@@ -18,7 +18,7 @@
       "category": "motion",
       "tag": "Web / Motion",
       "status": "ok",
-      "checked_at": "2026-11-01T02:06:29Z",
+      "checked_at": "2026-11-01T03:50:32Z",
       "error": null,
       "count": 5,
       "newest_at": "2026-09-14T11:30:10Z"
@@ -32,7 +32,7 @@
       "category": "code",
       "tag": "Shaders",
       "status": "ok",
-      "checked_at": "2026-11-01T02:06:29Z",
+      "checked_at": "2026-11-01T03:50:32Z",
       "error": null,
       "count": 2,
       "newest_at": "2026-08-18T08:00:00Z"
@@ -49,7 +49,7 @@
         "code.blender.org"
       ],
       "status": "ok",
-      "checked_at": "2026-11-01T02:06:29Z",
+      "checked_at": "2026-11-01T03:50:32Z",
       "error": null,
       "count": 5,
       "newest_at": "2026-10-30T13:18:52Z"
@@ -64,7 +64,7 @@
       "tag": "Three.js",
       "max_items": 1,
       "status": "ok",
-      "checked_at": "2026-11-01T02:06:29Z",
+      "checked_at": "2026-11-01T03:50:32Z",
       "error": null,
       "count": 1,
       "newest_at": "2026-10-30T08:03:18Z"
@@ -79,7 +79,7 @@
       "tag": "Motion",
       "max_items": 1,
       "status": "ok",
-      "checked_at": "2026-11-01T02:06:29Z",
+      "checked_at": "2026-11-01T03:50:32Z",
       "error": null,
       "count": 1,
       "newest_at": "2026-10-30T10:22:53Z"
@@ -94,7 +94,7 @@
       "tag": "React / 3D",
       "max_items": 2,
       "status": "ok",
-      "checked_at": "2026-11-01T02:06:29Z",
+      "checked_at": "2026-11-01T03:50:32Z",
       "error": null,
       "count": 2,
       "newest_at": "2026-10-17T01:54:18Z"
@@ -109,7 +109,7 @@
       "tag": "Lottie",
       "max_items": 1,
       "status": "ok",
-      "checked_at": "2026-11-01T02:06:29Z",
+      "checked_at": "2026-11-01T03:50:32Z",
       "error": null,
       "count": 0,
       "newest_at": null
@@ -133,7 +133,7 @@
       "thumbnail": "https://code.blender.org/wp-content/uploads/2026/10/dogwalk_splat_in_blender-1024x642.webp?x95207",
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-01T02:06:29Z",
+      "checked_at": "2026-11-01T03:50:32Z",
       "resolved_url": "https://code.blender.org/2026/10/splatting-the-gaussians-into-blender/",
       "check_note": null
     },
@@ -154,7 +154,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-01T02:06:29Z",
+      "checked_at": "2026-11-01T03:50:32Z",
       "resolved_url": "https://github.com/motiondivision/motion/releases/tag/v14.9.0",
       "check_note": null
     },
@@ -175,7 +175,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-01T02:06:29Z",
+      "checked_at": "2026-11-01T03:50:32Z",
       "resolved_url": "https://github.com/mrdoob/three.js/releases/tag/r187",
       "check_note": null
     },
@@ -197,7 +197,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-01T02:06:29Z",
+      "checked_at": "2026-11-01T03:50:32Z",
       "resolved_url": "https://github.com/pmndrs/react-three-fiber/releases/tag/v10.0.0-alpha.6",
       "check_note": null
     },
@@ -218,7 +218,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-01T02:06:29Z",
+      "checked_at": "2026-11-01T03:50:32Z",
       "resolved_url": "https://github.com/pmndrs/react-three-fiber/releases/tag/v9.8.2",
       "check_note": null
     },
@@ -239,7 +239,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-01T02:06:29Z",
+      "checked_at": "2026-11-01T03:50:32Z",
       "resolved_url": "https://code.blender.org/2026/10/bcon26-talks-by-blender-developers/",
       "check_note": null
     },
@@ -261,7 +261,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-01T02:06:29Z",
+      "checked_at": "2026-11-01T03:50:32Z",
       "resolved_url": "https://code.blender.org/2026/10/geometry-nodes-workshop-september-2026/",
       "check_note": null
     },
@@ -282,7 +282,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-01T02:06:29Z",
+      "checked_at": "2026-11-01T03:50:32Z",
       "resolved_url": "https://tympanus.net/codrops/2026/09/14/inside-resns-digital-experiences/",
       "check_note": null
     },
@@ -303,7 +303,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-01T02:06:29Z",
+      "checked_at": "2026-11-01T03:50:32Z",
       "resolved_url": "https://tympanus.net/codrops/2026/09/13/building-depth-designing-and-developing-a-3d-renderer-inside-figma/",
       "check_note": null
     },
@@ -324,7 +324,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-01T02:06:29Z",
+      "checked_at": "2026-11-01T03:50:32Z",
       "resolved_url": "https://tympanus.net/codrops/2026/09/12/yestalgia-bringing-decathlons-90s-spirit-to-life-through-a-playful-digital-experience/",
       "check_note": null
     },
@@ -345,7 +345,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-01T02:06:29Z",
+      "checked_at": "2026-11-01T03:50:32Z",
       "resolved_url": "https://code.blender.org/2026/09/small-teams-ambitious-projects/",
       "check_note": null
     },
@@ -367,7 +367,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-01T02:06:29Z",
+      "checked_at": "2026-11-01T03:50:32Z",
       "resolved_url": "https://tympanus.net/codrops/2026/09/10/inside-the-first-three-js-conference-in-paris/",
       "check_note": null
     },
@@ -389,7 +389,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-01T02:06:29Z",
+      "checked_at": "2026-11-01T03:50:32Z",
       "resolved_url": "https://tympanus.net/codrops/2026/09/09/turning-names-into-digital-architecture-with-three-js/",
       "check_note": null
     },
@@ -411,7 +411,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-01T02:06:29Z",
+      "checked_at": "2026-11-01T03:50:32Z",
       "resolved_url": "https://blog.maximeheckel.com/posts/shading-motion/",
       "check_note": null
     },
@@ -433,7 +433,7 @@
       "thumbnail": "https://code.blender.org/wp-content/uploads/2026/07/cloth_tear_space_fabric-1024x564.webp?x95207",
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-01T02:06:29Z",
+      "checked_at": "2026-11-01T03:50:32Z",
       "resolved_url": "https://code.blender.org/2026/07/geometry-nodes-physics/",
       "check_note": null
     },
@@ -454,7 +454,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-01T02:06:29Z",
+      "checked_at": "2026-11-01T03:50:32Z",
       "resolved_url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
       "check_note": null
     }
@@ -480,12 +480,12 @@
       "category": "free",
       "source_id": "library",
       "published_at": null,
-      "seen_at": "2026-11-01T02:06:29Z",
+      "seen_at": "2026-11-01T03:50:32Z",
       "offer_status": null,
       "terms_status": "confirmed",
-      "terms_checked_at": "2026-11-01T02:06:29Z",
+      "terms_checked_at": "2026-11-01T03:50:32Z",
       "terms_evidence": "donate/sell their work to Poly Haven. Our assets are all licensed as CC0, which is effectively Public Domain even in jurisdictions that do not support the Public Domain. He",
-      "checked_at": "2026-11-01T02:06:29Z",
+      "checked_at": "2026-11-01T03:50:32Z",
       "link_status": "ok",
       "resolved_url": "https://polyhaven.com/",
       "check_note": null
@@ -510,12 +510,12 @@
       "category": "free",
       "source_id": "library",
       "published_at": null,
-      "seen_at": "2026-11-01T02:06:29Z",
+      "seen_at": "2026-11-01T03:50:32Z",
       "offer_status": null,
       "terms_status": "confirmed",
-      "terms_checked_at": "2026-11-01T02:06:29Z",
+      "terms_checked_at": "2026-11-01T03:50:32Z",
       "terms_evidence": "rmation¶ All ambientCG assets are provided under the Creative Commons CC0 1.0 Universal License. This applies to the downloadable asset files and the material preview render",
-      "checked_at": "2026-11-01T02:06:29Z",
+      "checked_at": "2026-11-01T03:50:32Z",
       "link_status": "ok",
       "resolved_url": "https://ambientcg.com/",
       "check_note": null
@@ -540,12 +540,12 @@
       "category": "free",
       "source_id": "library",
       "published_at": null,
-      "seen_at": "2026-11-01T02:06:29Z",
+      "seen_at": "2026-11-01T03:50:32Z",
       "offer_status": null,
       "terms_status": "confirmed",
-      "terms_checked_at": "2026-11-01T02:06:29Z",
+      "terms_checked_at": "2026-11-01T03:50:32Z",
       "terms_evidence": "? Yes, all game assets on the asset pages are public domain licensed (CC0). You’re free to use them, even in commercial projects. For full details, see the included license",
-      "checked_at": "2026-11-01T02:06:29Z",
+      "checked_at": "2026-11-01T03:50:32Z",
       "link_status": "ok",
       "resolved_url": "https://kenney.nl/assets",
       "check_note": null
@@ -570,12 +570,12 @@
       "category": "free",
       "source_id": "library",
       "published_at": null,
-      "seen_at": "2026-11-01T02:06:29Z",
+      "seen_at": "2026-11-01T03:50:32Z",
       "offer_status": null,
       "terms_status": "confirmed",
-      "terms_checked_at": "2026-11-01T02:06:29Z",
+      "terms_checked_at": "2026-11-01T03:50:32Z",
       "terms_evidence": "The MIT License Copyright © 2010-2026 three.js authors Permission is hereby granted, free of charge, to any perso",
-      "checked_at": "2026-11-01T02:06:29Z",
+      "checked_at": "2026-11-01T03:50:32Z",
       "link_status": "ok",
       "resolved_url": "https://threejs.org/",
       "check_note": null
@@ -600,12 +600,12 @@
       "category": "free",
       "source_id": "library",
       "published_at": null,
-      "seen_at": "2026-11-01T02:06:29Z",
+      "seen_at": "2026-11-01T03:50:32Z",
       "offer_status": null,
       "terms_status": "confirmed",
-      "terms_checked_at": "2026-11-01T02:06:29Z",
+      "terms_checked_at": "2026-11-01T03:50:32Z",
       "terms_evidence": "The MIT License (MIT) Copyright (c) 2024 [Motion](https://motion.dev) B.V. Permission is hereby granted, free of",
-      "checked_at": "2026-11-01T02:06:29Z",
+      "checked_at": "2026-11-01T03:50:32Z",
       "link_status": "ok",
       "resolved_url": "https://motion.dev/",
       "check_note": null
@@ -630,12 +630,12 @@
       "category": "free",
       "source_id": "library",
       "published_at": null,
-      "seen_at": "2026-11-01T02:06:29Z",
+      "seen_at": "2026-11-01T03:50:32Z",
       "offer_status": null,
       "terms_status": "confirmed",
-      "terms_checked_at": "2026-11-01T02:06:29Z",
+      "terms_checked_at": "2026-11-01T03:50:32Z",
       "terms_evidence": "ur Work. Reynante Martinez The Software Blender is released under the GNU General Public License (GPL, or “free software”). This license grants people a number of freedoms: You are free to use Ble",
-      "checked_at": "2026-11-01T02:06:29Z",
+      "checked_at": "2026-11-01T03:50:32Z",
       "link_status": "ok",
       "resolved_url": "https://www.blender.org/",
       "check_note": null
@@ -1721,7 +1721,7 @@
       "category": "motion",
       "source_id": "reference",
       "source_name": "Референсы",
-      "checked_at": "2026-11-01T02:06:36Z",
+      "checked_at": "2026-11-01T03:50:38Z",
       "published_at": null,
       "thumbnail": null,
       "link_status": "ok",
@@ -1779,8 +1779,8 @@
       "thumbnail": null,
       "link_status": "unknown",
       "render_status": "not_checked",
-      "page_status": "error",
-      "last_attempt_at": "2026-11-01T02:06:36Z",
+      "page_status": "stale",
+      "last_attempt_at": "2026-11-01T03:50:38Z",
       "page_error": "Response exceeds safety limit"
     },
     {
@@ -1805,8 +1805,8 @@
       "thumbnail": null,
       "link_status": "unknown",
       "render_status": "not_checked",
-      "page_status": "error",
-      "last_attempt_at": "2026-11-01T02:06:36Z",
+      "page_status": "stale",
+      "last_attempt_at": "2026-11-01T03:50:38Z",
       "page_error": "Response exceeds safety limit"
     },
     {
@@ -1826,7 +1826,7 @@
       "category": "motion",
       "source_id": "reference",
       "source_name": "Референсы",
-      "checked_at": "2026-11-01T02:31:10Z",
+      "checked_at": "2026-11-01T03:50:38Z",
       "published_at": null,
       "thumbnail": null,
       "link_status": "ok",
