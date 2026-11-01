@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-01T02:06:36Z",
+    "generated_at": "2026-11-01T02:43:15Z",
     "version": 2,
     "mode": "public_read_only",
     "ai_enabled": false,
@@ -1048,7 +1048,7 @@
       "category": "motion",
       "source_id": "reference",
       "source_name": "Референсы",
-      "checked_at": "2026-11-01T02:06:36Z",
+      "checked_at": "2026-11-01T02:43:15Z",
       "published_at": null,
       "thumbnail": null,
       "link_status": "ok",
@@ -1106,8 +1106,8 @@
       "thumbnail": null,
       "link_status": "unknown",
       "render_status": "not_checked",
-      "page_status": "error",
-      "last_attempt_at": "2026-11-01T02:06:36Z",
+      "page_status": "stale",
+      "last_attempt_at": "2026-11-01T02:43:15Z",
       "page_error": "Response exceeds safety limit"
     },
     {
@@ -1132,8 +1132,8 @@
       "thumbnail": null,
       "link_status": "unknown",
       "render_status": "not_checked",
-      "page_status": "error",
-      "last_attempt_at": "2026-11-01T02:06:36Z",
+      "page_status": "stale",
+      "last_attempt_at": "2026-11-01T02:43:15Z",
       "page_error": "Response exceeds safety limit"
     },
     {
@@ -1153,7 +1153,7 @@
       "category": "motion",
       "source_id": "reference",
       "source_name": "Референсы",
-      "checked_at": "2026-11-01T02:31:10Z",
+      "checked_at": "2026-11-01T02:43:15Z",
       "published_at": null,
       "thumbnail": null,
       "link_status": "ok",
