@@ -311,5 +311,243 @@
         "bytes": 2387
       }
     ]
+  },
+  {
+    "repository": "https://github.com/greensock/gsap-skills",
+    "commit": "aed9cfd3277740755f6bfc1155c7aa645403b760",
+    "skill": "gsap-core",
+    "license": "MIT",
+    "installation": "Project-local Markdown reference and license only; no executable code, installer, hooks, API keys or network tools installed.",
+    "files": [
+      {
+        "path": ".agents/skills/gsap-core/LICENSE",
+        "sha256": "51b04b06556662dd817e8f4aa6d06bc7139dc73739e1319a7233cfde3e147b90",
+        "bytes": 1066
+      },
+      {
+        "path": ".agents/skills/gsap-core/SKILL.md",
+        "sha256": "3887b47e050ab5afbe2a9a820f23d39fa02ab785e06a343be44c6f91d84d12b3",
+        "bytes": 14792
+      }
+    ]
+  },
+  {
+    "repository": "https://github.com/greensock/gsap-skills",
+    "commit": "aed9cfd3277740755f6bfc1155c7aa645403b760",
+    "skill": "gsap-scrolltrigger",
+    "license": "MIT",
+    "installation": "Project-local Markdown reference and license only; no executable code, installer, hooks, API keys or network tools installed.",
+    "files": [
+      {
+        "path": ".agents/skills/gsap-scrolltrigger/LICENSE",
+        "sha256": "51b04b06556662dd817e8f4aa6d06bc7139dc73739e1319a7233cfde3e147b90",
+        "bytes": 1066
+      },
+      {
+        "path": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+        "sha256": "9351b6666a4749c0740406ea363aaccb99a087ff45cc5e8b99a0f367facf3ef4",
+        "bytes": 18390
+      }
+    ]
+  },
+  {
+    "repository": "https://github.com/greensock/gsap-skills",
+    "commit": "aed9cfd3277740755f6bfc1155c7aa645403b760",
+    "skill": "gsap-performance",
+    "license": "MIT",
+    "installation": "Project-local Markdown reference and license only; no executable code, installer, hooks, API keys or network tools installed.",
+    "files": [
+      {
+        "path": ".agents/skills/gsap-performance/LICENSE",
+        "sha256": "51b04b06556662dd817e8f4aa6d06bc7139dc73739e1319a7233cfde3e147b90",
+        "bytes": 1066
+      },
+      {
+        "path": ".agents/skills/gsap-performance/SKILL.md",
+        "sha256": "cb5408d6fba707aabcbfe3320317a14c1f8fca6070074e5261047930f50d441e",
+        "bytes": 4139
+      }
+    ]
+  },
+  {
+    "repository": "https://github.com/cloudai-x/threejs-skills",
+    "commit": "0e181866f095b5f06d005133876e926515390d95",
+    "skill": "threejs-fundamentals",
+    "license": "MIT",
+    "installation": "Project-local Markdown reference and license only; no executable code, installer, hooks, API keys or network tools installed.",
+    "files": [
+      {
+        "path": ".agents/skills/threejs-fundamentals/LICENSE",
+        "sha256": "d26f12fa1a0e03fd5aa4d3cbf05262a9f1c684672d0864abac78b3bbb12b268c",
+        "bytes": 1066
+      },
+      {
+        "path": ".agents/skills/threejs-fundamentals/SKILL.md",
+        "sha256": "cb6a0db8f05bb7d8196cad0ca6ae245e2baec53da4675e1b94be4fa735ed8a09",
+        "bytes": 23598
+      }
+    ]
+  },
+  {
+    "repository": "https://github.com/cloudai-x/threejs-skills",
+    "commit": "0e181866f095b5f06d005133876e926515390d95",
+    "skill": "threejs-materials",
+    "license": "MIT",
+    "installation": "Project-local Markdown reference and license only; no executable code, installer, hooks, API keys or network tools installed.",
+    "files": [
+      {
+        "path": ".agents/skills/threejs-materials/LICENSE",
+        "sha256": "d26f12fa1a0e03fd5aa4d3cbf05262a9f1c684672d0864abac78b3bbb12b268c",
+        "bytes": 1066
+      },
+      {
+        "path": ".agents/skills/threejs-materials/SKILL.md",
+        "sha256": "7d17cefac80196f3dd5068e2042e66244073925d24a55b7ca77534d594c5bc81",
+        "bytes": 26722
+      }
+    ]
+  },
+  {
+    "repository": "https://github.com/cloudai-x/threejs-skills",
+    "commit": "0e181866f095b5f06d005133876e926515390d95",
+    "skill": "threejs-shaders",
+    "license": "MIT",
+    "installation": "Project-local Markdown reference and license only; no executable code, installer, hooks, API keys or network tools installed.",
+    "files": [
+      {
+        "path": ".agents/skills/threejs-shaders/LICENSE",
+        "sha256": "d26f12fa1a0e03fd5aa4d3cbf05262a9f1c684672d0864abac78b3bbb12b268c",
+        "bytes": 1066
+      },
+      {
+        "path": ".agents/skills/threejs-shaders/SKILL.md",
+        "sha256": "8dc55ed6cc348abaad60851ae9f3f5ebcc6e3027dd7f7a55acc1832c73f11bca",
+        "bytes": 26503
+      }
+    ]
+  },
+  {
+    "repository": "https://github.com/cloudai-x/threejs-skills",
+    "commit": "0e181866f095b5f06d005133876e926515390d95",
+    "skill": "threejs-lighting",
+    "license": "MIT",
+    "installation": "Project-local Markdown reference and license only; no executable code, installer, hooks, API keys or network tools installed.",
+    "files": [
+      {
+        "path": ".agents/skills/threejs-lighting/LICENSE",
+        "sha256": "d26f12fa1a0e03fd5aa4d3cbf05262a9f1c684672d0864abac78b3bbb12b268c",
+        "bytes": 1066
+      },
+      {
+        "path": ".agents/skills/threejs-lighting/SKILL.md",
+        "sha256": "f12faf79625a7f42952124a5456d338e8399a65e16326c1a6a3239aa8e5ce489",
+        "bytes": 23467
+      }
+    ]
+  },
+  {
+    "repository": "https://github.com/anthropics/skills",
+    "commit": "ca45fc496a3436251f191354091d557da31c15b5",
+    "skill": "frontend-design",
+    "license": "Apache-2.0",
+    "installation": "Project-local Markdown reference and license only; no executable code, installer, hooks, API keys or network tools installed.",
+    "files": [
+      {
+        "path": ".agents/skills/frontend-design/LICENSE.txt",
+        "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594",
+        "bytes": 10174
+      },
+      {
+        "path": ".agents/skills/frontend-design/SKILL.md",
+        "sha256": "d91970639e9f5c37682ac7ab60094d35f1c7c1f38d731bd56396563aee10c1d3",
+        "bytes": 9390
+      }
+    ]
+  },
+  {
+    "repository": "https://github.com/emilkowalski/skills",
+    "commit": "a81dbca07f2217b7103e510c0f13f8d5b017afc9",
+    "skill": "animation-vocabulary",
+    "license": "MIT",
+    "installation": "Project-local Markdown reference and license only; no executable code, installer, hooks, API keys or network tools installed.",
+    "files": [
+      {
+        "path": ".agents/skills/animation-vocabulary/LICENSE",
+        "sha256": "4ff5bdb7887ec1435c9cab0e8d1a7caee704d894d65c2a008ccc68b1cc2f260b",
+        "bytes": 1070
+      },
+      {
+        "path": ".agents/skills/animation-vocabulary/SKILL.md",
+        "sha256": "40d2b27adfdfeb0570a9f20e7d0255109d9233c50603878bcd0dcd04c923fd94",
+        "bytes": 13425
+      }
+    ]
+  },
+  {
+    "repository": "https://github.com/vercel-labs/skills",
+    "commit": "92a9a34ac3bf88e695e468b90c7bf32f163d32c8",
+    "skill": "find-skills",
+    "license": "MIT",
+    "installation": "Project-local Markdown reference and license only; no executable code, installer, hooks, API keys or network tools installed.",
+    "files": [
+      {
+        "path": ".agents/skills/find-skills/LICENSE",
+        "sha256": "661142e53c313d2bb5e1b055f5c0a39001450ff1b5e27b89dc4bc7de9a6352ca",
+        "bytes": 1069
+      },
+      {
+        "path": ".agents/skills/find-skills/SKILL.md",
+        "sha256": "c00eeea0e13e74fe4a9d84ba0a8542205a1b736d65f13134fe1a6647eb14976f",
+        "bytes": 5472
+      }
+    ]
+  },
+  {
+    "repository": "https://github.com/leonxlnx/taste-skill",
+    "commit": "12af471f627f866411b4bd785b19646d3672784c",
+    "skill": "design-taste-frontend",
+    "license": "MIT",
+    "installation": "SKILL.md and license only; the upstream asset library, evals and scripts are not vendored. Nothing here is executed by the site.",
+    "files": [
+      {
+        "path": ".agents/skills/design-taste-frontend/LICENSE",
+        "sha256": "4575a543ab88dad12ccea7d97e563d0bce5b448b06072e65d3264497dad326df",
+        "bytes": 1065
+      },
+      {
+        "path": ".agents/skills/design-taste-frontend/SKILL.md",
+        "sha256": "3435ed963b15a1b6447746ec8844ab2cd38d8d2e8ead3451937f42df01e408c4",
+        "bytes": 39537
+      }
+    ]
+  },
+  {
+    "skill": "agent-reach",
+    "repo": "Panniantong/Agent-Reach",
+    "commit": "7a38047acf26a729cbb27851e3cb81639da86b29",
+    "license": "MIT",
+    "files": [
+      {
+        "path": ".agents/skills/agent-reach/SKILL.md",
+        "sha256": "86f6bd3d377f30ec553e8fdac801fc41fe3eda3e0a9a2aa7690d5adb30e8ad7e"
+      },
+      {
+        "path": ".agents/skills/agent-reach/LICENSE",
+        "sha256": "e94c131ac1c2f78cfd8f7e69da354c0ff58e4e54071697703d56856c036de402"
+      },
+      {
+        "path": ".agents/skills/agent-reach/references/capabilities.md",
+        "sha256": "36105d4686493e67eb2f6d7cb47479e06bef6fbfe7159f08d3a6b64314b1cd79"
+      },
+      {
+        "path": ".agents/skills/agent-reach/references/sessions.md",
+        "sha256": "2b15b340db21838680659b4694a419f6799036e49ddb4b8042e7b893a4dbadd3"
+      },
+      {
+        "path": ".agents/skills/agent-reach/references/maintenance.md",
+        "sha256": "316585c8837f3e12fd88cb1769cf9b00eed9c83c2fc70f46a6dcb791012121e1"
+      }
+    ],
+    "mode": "reference-only; no installer, browser, cookies or upstream commands executed"
   }
 ]

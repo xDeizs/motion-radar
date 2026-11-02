@@ -1,70 +1,192 @@
 {
-  "format": 1,
-  "destination": "assets/motion",
+  "format": 2,
+  "root": "assets",
   "assets": [
     {
-      "file": "background-source-v5.webp",
-      "bytes": 38916,
-      "sha256": "fe46a43843b855f3a159a4aeca3b6d5a4bd3e57aa18f92283062cb6cb75121c5",
+      "path": "assets/fonts/onest-cyrillic.woff2",
+      "bytes": 15860,
+      "sha256": "68e5e01d6265bd68967746d4f5a9d18d0e6cbb5d15583c7082d6384ab1229b27",
       "parts": [
-        "background-source-v5.webp.00.b64"
+        "fonts-onest-cyrillic.woff2.00.b64"
       ]
     },
     {
-      "file": "material-bed-mobile-v5.mp4",
-      "bytes": 380497,
-      "sha256": "86c4045e923f4a13655f4166367a3d8ac67f2a275fe39625e9bcf2641907cda0",
+      "path": "assets/fonts/onest-latin.woff2",
+      "bytes": 33760,
+      "sha256": "052df74533250c2e0ca0c4bdd32de594e107d99c1648e63820ef9c6142067828",
       "parts": [
-        "material-bed-mobile-v5.mp4.00.b64"
+        "fonts-onest-latin.woff2.00.b64"
       ]
     },
     {
-      "file": "material-bed-v5.mp4",
-      "bytes": 548741,
-      "sha256": "7eecd8df8aa144beb6980e28b8b4d8255639c2ca35d48a0589278bcece08382c",
+      "path": "assets/fonts/unbounded-cyrillic.woff2",
+      "bytes": 31424,
+      "sha256": "e30bf6a6063b6a47232bbd657e24c7cf4fdaf76fc2c50d92d9ee63e2ad2087cf",
       "parts": [
-        "material-bed-v5.mp4.00.b64",
-        "material-bed-v5.mp4.01.b64"
+        "fonts-unbounded-cyrillic.woff2.00.b64"
       ]
     },
     {
-      "file": "material-poster-mobile-v5.webp",
-      "bytes": 18148,
-      "sha256": "2d9e38afb16cfc8b23a910fd951a26afd2f8623abdd28d7d2c35892bea1443af",
+      "path": "assets/fonts/unbounded-latin.woff2",
+      "bytes": 50904,
+      "sha256": "22f9b928aa3928a896340422b54d690fbb5875c30eae4c106f029c61f2289fd6",
       "parts": [
-        "material-poster-mobile-v5.webp.00.b64"
+        "fonts-unbounded-latin.woff2.00.b64"
       ]
     },
     {
-      "file": "material-poster-v5.webp",
-      "bytes": 25446,
-      "sha256": "86b82003e94e631dc290756ccdb62e8d7bf84170647c6b226c40a8aee06f9404",
+      "path": "assets/img/build-sm.webp",
+      "bytes": 11182,
+      "sha256": "ce7a007c57aea4da87819b8bf3f63eb2b58a773f149b7cf6db3ccd41ff2722ad",
       "parts": [
-        "material-poster-v5.webp.00.b64"
+        "img-build-sm.webp.00.b64"
       ]
     },
     {
-      "file": "near-loop-v5.webp",
-      "bytes": 26922,
-      "sha256": "1aed4a47643f15c95f6df47a7bf2b780acb8238be32a1d94b4a7b3a8a7aac9c0",
+      "path": "assets/img/build.webp",
+      "bytes": 23728,
+      "sha256": "00bf00d957a630c08fb647f31b73bfedb9571c4a28825adfa24db1ba575f4297",
       "parts": [
-        "near-loop-v5.webp.00.b64"
+        "img-build.webp.00.b64"
       ]
     },
     {
-      "file": "orbit-reference-v5.webp",
-      "bytes": 116438,
-      "sha256": "b57d48c653de12c3f929fa9c95b10c63626cfc76d26a0370b902c6603c9d14f9",
+      "path": "assets/img/cover-blender.webp",
+      "bytes": 20200,
+      "sha256": "35004e68a0b709cb0b6a95fc391dfaac6f3070d15dfd4006dbe6bd427c65112d",
       "parts": [
-        "orbit-reference-v5.webp.00.b64"
+        "img-cover-blender.webp.00.b64"
       ]
     },
     {
-      "file": "orbit-v5.webp",
-      "bytes": 97476,
-      "sha256": "256bf2aa9f0167ff9624414dd5a3be898e798fd44b8ccc8fe3ffd580068d0479",
+      "path": "assets/img/cover-codrops.webp",
+      "bytes": 25054,
+      "sha256": "3cbe4984adb2b45288b7868e06723b0890bc097397ab5182b3fb4ff4ac2a1511",
       "parts": [
-        "orbit-v5.webp.00.b64"
+        "img-cover-codrops.webp.00.b64"
+      ]
+    },
+    {
+      "path": "assets/img/cover-heckel.webp",
+      "bytes": 18774,
+      "sha256": "9b581f5cfde66027d8f437f27826c5de516cc44000e18fba677dc3c774d19385",
+      "parts": [
+        "img-cover-heckel.webp.00.b64"
+      ]
+    },
+    {
+      "path": "assets/img/cover-lottie.webp",
+      "bytes": 15576,
+      "sha256": "1e9995b711538b23b5f322e528fd8ea18b427d3260b868579bfcea66357d0382",
+      "parts": [
+        "img-cover-lottie.webp.00.b64"
+      ]
+    },
+    {
+      "path": "assets/img/cover-motion.webp",
+      "bytes": 20886,
+      "sha256": "76a2125964292e9cb02793f866d4810b26e006aae8cdc731f9836b70c4ab2384",
+      "parts": [
+        "img-cover-motion.webp.00.b64"
+      ]
+    },
+    {
+      "path": "assets/img/cover-r3f.webp",
+      "bytes": 20416,
+      "sha256": "fdf4df0331904e95113a70cdc681ff20a3937f7af76ac16695ef586f6fc934ee",
+      "parts": [
+        "img-cover-r3f.webp.00.b64"
+      ]
+    },
+    {
+      "path": "assets/img/cover-signal.webp",
+      "bytes": 17176,
+      "sha256": "e7538c0d456c9d73c94f78628b5a3c4b355aab3dd7911d07b6f5875999f3a1d5",
+      "parts": [
+        "img-cover-signal.webp.00.b64"
+      ]
+    },
+    {
+      "path": "assets/img/cover-threejs.webp",
+      "bytes": 21134,
+      "sha256": "c2a957b01aefdc1264196e8cb87f854c2712c83aaadc0129cec5a69f86cf3eac",
+      "parts": [
+        "img-cover-threejs.webp.00.b64"
+      ]
+    },
+    {
+      "path": "assets/img/look-sm.webp",
+      "bytes": 13586,
+      "sha256": "168e20d630ef9ca72f01196d4804eaf979985db9b7a28e174c994eff217bdb81",
+      "parts": [
+        "img-look-sm.webp.00.b64"
+      ]
+    },
+    {
+      "path": "assets/img/look.webp",
+      "bytes": 31472,
+      "sha256": "13adb4f6467ac1014683087b482f7a41288abbcd8b741a75118ae0361160dcca",
+      "parts": [
+        "img-look.webp.00.b64"
+      ]
+    },
+    {
+      "path": "assets/img/make-sm.webp",
+      "bytes": 18502,
+      "sha256": "03b000217d45a43f5a90ca33e496d9d2828b26b90ce268affe950cd31d98968f",
+      "parts": [
+        "img-make-sm.webp.00.b64"
+      ]
+    },
+    {
+      "path": "assets/img/make.webp",
+      "bytes": 39180,
+      "sha256": "c0ac204690f4d1920996c9f8b54166ee8f34fbe7e6eabcb94a67c9141d4aa816",
+      "parts": [
+        "img-make.webp.00.b64"
+      ]
+    },
+    {
+      "path": "assets/img/mascot-sm.webp",
+      "bytes": 21138,
+      "sha256": "3205e661349e4c9821d6dc2dbbad72c0c74ab48794e0d4633d6ad9311035d78f",
+      "parts": [
+        "img-mascot-sm.webp.00.b64"
+      ]
+    },
+    {
+      "path": "assets/img/mascot.webp",
+      "bytes": 42358,
+      "sha256": "98694a0832c5dd1e510c8e4cd2983f5ec0e8fab9fab3e951970d78724e310477",
+      "parts": [
+        "img-mascot.webp.00.b64"
+      ]
+    },
+    {
+      "path": "assets/video/led-wall-poster.webp",
+      "bytes": 150610,
+      "sha256": "bf4ce4d36b90f56240a87cef9b4092c526721fe239a9bf714331402671648261",
+      "parts": [
+        "video-led-wall-poster.webp.00.b64"
+      ]
+    },
+    {
+      "path": "assets/video/led-wall.mp4",
+      "bytes": 1637084,
+      "sha256": "e4d889c2ad73df15b71290d7eba584f59d0611df54fc39e6ad3654fefd94e135",
+      "parts": [
+        "video-led-wall.mp4.00.b64",
+        "video-led-wall.mp4.01.b64",
+        "video-led-wall.mp4.02.b64",
+        "video-led-wall.mp4.03.b64"
+      ]
+    },
+    {
+      "path": "assets/video/led-wall.webm",
+      "bytes": 506958,
+      "sha256": "788268a99acb59429daf56d308c36f8293b2d11ef24556fd9ac8dddc6810a20f",
+      "parts": [
+        "video-led-wall.webm.00.b64"
       ]
     }
   ]

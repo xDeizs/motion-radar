@@ -68,5 +68,66 @@
     "category": "tools",
     "tag": "Lottie",
     "max_items": 1
+  },
+  {
+    "id": "lesterbanks",
+    "name": "Lesterbanks",
+    "url": "https://lesterbanks.com/feed/",
+    "site": "https://lesterbanks.com/",
+    "kind": "rss",
+    "category": "motion",
+    "tag": "Практика",
+    "max_items": 6
+  },
+  {
+    "id": "blendernation",
+    "name": "BlenderNation",
+    "url": "https://feeds.feedburner.com/Blendernation",
+    "site": "https://www.blendernation.com/",
+    "kind": "rss",
+    "category": "motion",
+    "tag": "Blender",
+    "max_items": 5
+  },
+  {
+    "id": "hf-video",
+    "name": "Hugging Face · visual AI",
+    "url": "https://huggingface.co/blog/feed.xml",
+    "site": "https://huggingface.co/",
+    "kind": "rss",
+    "category": "ai",
+    "tag": "AI / видео",
+    "max_items": 4,
+    "include": "video|image|diffusion|3d|vision|comfy|animation|generat"
+  },
+  {
+    "id": "comfyui",
+    "name": "ComfyUI",
+    "url": "https://github.com/Comfy-Org/ComfyUI/releases.atom",
+    "site": "https://github.com/Comfy-Org/ComfyUI",
+    "kind": "atom",
+    "category": "ai",
+    "tag": "ComfyUI",
+    "max_items": 1
+  },
+  {
+    "id": "rive",
+    "name": "Rive runtime",
+    "url": "https://github.com/rive-app/rive-wasm/releases.atom",
+    "site": "https://rive.app/",
+    "kind": "atom",
+    "category": "tools",
+    "tag": "Rive",
+    "max_items": 1
+  },
+  {
+    "id": "remotion",
+    "name": "Remotion",
+    "url": "https://github.com/remotion-dev/remotion/releases.atom",
+    "site": "https://www.remotion.dev/",
+    "kind": "atom",
+    "category": "code",
+    "tag": "Remotion",
+    "max_items": 1
   }
 ]

@@ -1,0 +1,461 @@
+{
+  "900e199369b6bee06c": {
+    "fingerprint": "42b4fbdc72c5f30acbf4e6ba8bff1b5e431cc7e1c52c8d80cae66754956bc3c0",
+    "engine": "transformers",
+    "model": "Qwen/Qwen2.5-0.5B-Instruct",
+    "summary": "In Blender 5.3, we are introducing initial support for 3D Gaussian splats!",
+    "takeaways": [
+      "This enables importing, editing, and rendering of fast, high-quality scene captures.",
+      "A lot of groundwork has been done to integrate 3D Gaussian splats (gsplats) into Blender natively, and we’ll continue to refine our implementation in upcoming releases."
+    ],
+    "topics": [
+      "3D / Blender"
+    ],
+    "input_kind": "public_html",
+    "source_url": "https://code.blender.org/2026/10/splatting-the-gaussians-into-blender/",
+    "generated_at": "2026-11-01T17:13:30+00:00",
+    "note": "Публичный HTML · robots.txt соблюдён. Модель выбрала фрагменты оригинала, а не написала перевод. Проверяй контекст у автора.",
+    "summary_style": "model_selected_source_excerpts"
+  },
+  "99b1ff2496c24a5bee": {
+    "fingerprint": "7c9e5d035eb0837511998264ab46e35ab73242cf1f6a0288ab378620288abc25",
+    "engine": "extractive",
+    "model": null,
+    "summary": "v14.9.0",
+    "takeaways": [],
+    "topics": [
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/motiondivision/motion/releases/tag/v14.9.0",
+    "generated_at": "2026-11-01T17:13:48+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "de8c72df8d1a2394b1": {
+    "fingerprint": "eaa0ebdf952f836b8429887af8fd23a6b680549ee8e3263289714ca0e608bbe0",
+    "engine": "extractive",
+    "model": null,
+    "summary": "https://github.com/mrdoob/three.js/wiki/Migration-Guide#186--187 https://github.com/mrdoob/three.js/milestone/100?closed=1 Global Remove code deprecated in r177. #34517 (@linbingquan, @Mugen87) AnimationUtils Fix cubic…",
+    "takeaways": [],
+    "topics": [
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/mrdoob/three.js/releases/tag/r187",
+    "generated_at": "2026-11-01T17:13:48+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "55743b4ddea9bce185": {
+    "fingerprint": "74bab9806129812a5cd0a5a8b9a50b8af1caa2979d450d04562f72b98238dd59",
+    "engine": "extractive",
+    "model": null,
+    "summary": "ComfyUI v0.43.2",
+    "takeaways": [],
+    "topics": [
+      "AI / видео"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.43.2",
+    "generated_at": "2026-11-01T17:13:48+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "71058bf436136143f6": {
+    "fingerprint": "bcc70599d85474e074ead70eb61f73340c339a0d2307227c9b8fcf933519e6af",
+    "engine": "extractive",
+    "model": null,
+    "summary": "fix(audio): exact mp3 lengths, and toBlob decodes a slice per poll without pool threads #15191 feat(runtime): WinHTTP transport for scripts' fetch() on Windows #15168 feat(layouts): Aspect ratio lock #15163…",
+    "takeaways": [],
+    "topics": [
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/rive-app/rive-wasm/releases/tag/2.49.0",
+    "generated_at": "2026-11-01T17:13:48+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "10014f52844b97cf2d": {
+    "fingerprint": "7b2da1c690fe40c632bfe3fcf940500762ef5c6867acc76e24e8946581bdeed1",
+    "engine": "extractive",
+    "model": null,
+    "summary": "What's Changed @remotion/effects: Add curves() and graphical color controls in Studio by @JonnyBurger in #12550 @remotion/effects: Add shatter() for 3D fragment animations by @JonnyBurger in #12578 remotion: Fix…",
+    "takeaways": [],
+    "topics": [
+      "3D / Blender"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.539",
+    "generated_at": "2026-11-01T17:13:48+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "fe7b225f29d029cecf": {
+    "fingerprint": "6300dcc4a8f74500e3a662a383314f5dbd6659a89ecdac0e0b54080516f54da3",
+    "engine": "extractive",
+    "model": null,
+    "summary": "R3F v10 Alpha 6 After feedback from the Paris conference, it was decided to make v10 a clean break for some major portions of r3f to better align with the web and ThreeJS ecosystem. Alpha 6 is also the biggest alpha so…",
+    "takeaways": [],
+    "topics": [
+      "3D / Blender"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/pmndrs/react-three-fiber/releases/tag/v10.0.0-alpha.6",
+    "generated_at": "2026-11-01T17:13:48+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "6589cb60831970accb": {
+    "fingerprint": "315e292e0024ff856efa4e32459fb8129dedfd9aaff29194c82ba27068d6c752",
+    "engine": "extractive",
+    "model": null,
+    "summary": "We have another set of bug fixes, some backported from v10. Here are the highlights: Portal memory leaks have been fixed. The portal's root state would get held by the parent even when the portal got unmounted…",
+    "takeaways": [],
+    "topics": [
+      "3D / Blender"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/pmndrs/react-three-fiber/releases/tag/v9.8.2",
+    "generated_at": "2026-11-01T17:13:48+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "eb67409897ed2136a7": {
+    "fingerprint": "009d5829a5163e1779f9cb618bb11bff6b82d645edaeb8f7c9b3f5a640536177",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Welcome FLUX.3 Image Klein in Diffusers",
+    "takeaways": [],
+    "topics": [
+      "AI / видео"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://huggingface.co/blog/flux-3",
+    "generated_at": "2026-11-01T17:13:48+00:00",
+    "note": "AI-разбор не выполнен (ValueError). Сохранена выдержка из RSS."
+  },
+  "a1f3db65653cf65854": {
+    "fingerprint": "5f43823479d9221841e2ccf6f9485777b7c04ae57b323080614bc070e1b922b5",
+    "engine": "extractive",
+    "model": null,
+    "summary": "What an eventful edition of the Blender Conference we had earlier this September! Over three days, 700+ attendees from more than 50 countries gathered at the Felix Meritis venue to share their passion for creating with…",
+    "takeaways": [],
+    "topics": [
+      "3D / Blender"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://code.blender.org/2026/10/bcon26-talks-by-blender-developers/",
+    "generated_at": "2026-11-01T17:14:00+00:00",
+    "note": "AI-разбор не выполнен (ValueError). Сохранена выдержка из RSS."
+  },
+  "8a085ef017581985d0": {
+    "fingerprint": "5163c0012c7e1b02c430891508cc105662b0b246a4386be542ef1a2123c8f0b8",
+    "engine": "transformers",
+    "model": "Qwen/Qwen2.5-0.5B-Instruct",
+    "summary": "Since the last workshop, a lot of development happened for Blender 5.1, 5.2 LTS, and 5.3.",
+    "takeaways": [
+      "Geometry Bundles: Any data can be attached to a geometry now, allowing for more decentralized workflows where inputs are configured on multiple objects.",
+      "Curves: New nodes to set the NURBS order and weight have been added."
+    ],
+    "topics": [
+      "3D / Blender"
+    ],
+    "input_kind": "public_html",
+    "source_url": "https://code.blender.org/2026/10/geometry-nodes-workshop-september-2026/",
+    "generated_at": "2026-11-01T17:14:14+00:00",
+    "note": "Публичный HTML · robots.txt соблюдён. Модель выбрала фрагменты оригинала, а не написала перевод. Проверяй контекст у автора.",
+    "summary_style": "model_selected_source_excerpts"
+  },
+  "56c490db040147f1de": {
+    "fingerprint": "08af6ae0d684515e64ec5977597272d936732bb25067fc930d164fd18a0819cf",
+    "engine": "extractive",
+    "model": null,
+    "summary": "AutoSynthData: Generating Training Data for Enterprise Agents",
+    "takeaways": [],
+    "topics": [
+      "AI / видео"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "generated_at": "2026-11-01T17:14:32+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "c8566f6a69ddc2807c": {
+    "fingerprint": "abed677c0729130538401b13dcf5ab8bf047057d81f32dc287bb77434ff4daf7",
+    "engine": "extractive",
+    "model": null,
+    "summary": "A look at how Resn combines brand, content, technology and a healthy disregard for boring websites to create digital experiences people actually want to explore.",
+    "takeaways": [],
+    "topics": [
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://tympanus.net/codrops/2026/09/14/inside-resns-digital-experiences/",
+    "generated_at": "2026-11-01T17:14:32+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "6ac95cc8a8f3622243": {
+    "fingerprint": "a1bf027ff862e7d6a04756a5662b4bbda81f190105c5712829ed87b533156d59",
+    "engine": "extractive",
+    "model": null,
+    "summary": "A look at how Depth came together, from building a 3D renderer inside Figma to designing a website that explores what it can do.",
+    "takeaways": [],
+    "topics": [
+      "3D / Blender",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://tympanus.net/codrops/2026/09/13/building-depth-designing-and-developing-a-3d-renderer-inside-figma/",
+    "generated_at": "2026-11-01T17:14:32+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "e5b60107e6763277b1": {
+    "fingerprint": "0e4b0789aa64462004877899244fd1c4c94496d03ab9feaa04c675d27612a8ec",
+    "engine": "extractive",
+    "model": null,
+    "summary": "A closer look at how Yestalgia brings Decathlon’s ’90s-inspired vision to the web through art direction, interaction, animation, and creative development.",
+    "takeaways": [],
+    "topics": [
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://tympanus.net/codrops/2026/09/12/yestalgia-bringing-decathlons-90s-spirit-to-life-through-a-playful-digital-experience/",
+    "generated_at": "2026-11-01T17:14:32+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "b36261991ac0195317": {
+    "fingerprint": "6065123a2ec0d32581b4a0fe9330dd8be179664b32fd580d3b358c08ba3bf3be",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Enabling individuals and small teams to create with free and open source technology has always been at the core of Blender’s mission. As the software has evolved, generalist users have been able to single-handedly…",
+    "takeaways": [],
+    "topics": [
+      "3D / Blender"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://code.blender.org/2026/09/small-teams-ambitious-projects/",
+    "generated_at": "2026-11-01T17:14:32+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "4f7f988bf02b3fb9b2": {
+    "fingerprint": "e2b041fafc4b6b7febcb01be2bdebad3d87bae198d8bb8b3e557028d1f15d9ee",
+    "engine": "extractive",
+    "model": null,
+    "summary": "A look inside the first-ever Three.js Conference, straight from Paris.",
+    "takeaways": [],
+    "topics": [
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://tympanus.net/codrops/2026/09/10/inside-the-first-three-js-conference-in-paris/",
+    "generated_at": "2026-11-01T17:14:32+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "21c53a4a25549fbd6a": {
+    "fingerprint": "ca0ec9e5cf5c79b512d7a7cb9209edd62d536a691d0250b879396cac9ff7a6c2",
+    "engine": "extractive",
+    "model": null,
+    "summary": "For the Three.js Conference in Paris, BL/S® created an interactive experiment that transforms your name into a dynamic 3D structure.",
+    "takeaways": [],
+    "topics": [
+      "3D / Blender",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://tympanus.net/codrops/2026/09/09/turning-names-into-digital-architecture-with-three-js/",
+    "generated_at": "2026-11-01T17:14:32+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "1c80df51d84652392e": {
+    "fingerprint": "57e670230cb51ae201259ae51c02b2c533a7c59ff91365fa8926e0ce1503d370",
+    "engine": "extractive",
+    "model": null,
+    "summary": "A deep dive into detecting, extracting, and stylizing motion with WebGPU and TSL, covering motion masking, blob tracking, optical flow, and velocity-based motion blur.",
+    "takeaways": [],
+    "topics": [
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://blog.maximeheckel.com/posts/shading-motion",
+    "generated_at": "2026-11-01T17:14:32+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "ba8fbad82a9b229283": {
+    "fingerprint": "4a6f1856a80e5d401747f7829cc7a92d6f596da86519f21be489ca5f8a735484",
+    "engine": "extractive",
+    "model": null,
+    "summary": "In Blender 5.2 LTS we released the first version of a new hair and cloth dynamics system powered by Geometry Nodes. This post describes what we have so far and what our plans for the future are. State in Blender 5.2 LTS…",
+    "takeaways": [],
+    "topics": [
+      "3D / Blender"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://code.blender.org/2026/07/geometry-nodes-physics/",
+    "generated_at": "2026-11-01T17:14:32+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "96537f9acc12bc3d68": {
+    "fingerprint": "3ea79a52d73ccc2e8464cb0fde04190b0d93db50da20a0e34de60a06b930d578",
+    "engine": "extractive",
+    "model": null,
+    "summary": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "takeaways": [],
+    "topics": [
+      "AI / видео"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "generated_at": "2026-11-01T17:14:32+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "96f5dc656a14a80624": {
+    "fingerprint": "9c5bad492c2c9bac752e39f3fb015f8f2bf172a5ab555a95dd4eef8de48e2906",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+    "takeaways": [],
+    "topics": [
+      "AI / видео"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://huggingface.co/blog/nunchaku-diffusers",
+    "generated_at": "2026-11-01T17:14:32+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "089c7a4580d379ee85": {
+    "fingerprint": "7344203997c11c602a10086c89ddff4d10d71c3e046e9f0e1433b7d29376597d",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Build the Whole Ornatrix Stack at Once, and Keep Your Viewport Fast By Ruxin Liang Here is a problem every Ornatrix user hits. You start a groom in Maya. You...",
+    "takeaways": [],
+    "topics": [
+      "Практика"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://lesterbanks.com/2026/07/ruxin-liang-shares-tips-keeping-ornatrix-fast/",
+    "generated_at": "2026-11-01T17:14:32+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "a5a1e0a36884c03268": {
+    "fingerprint": "ace2c7ffc8dc30a7e2adba9caf4c2f6c7211b67c9a8e3b7db5af8dd16a956fa9",
+    "engine": "extractive",
+    "model": null,
+    "summary": "His films are often deceptively simple on the surface, but technically and conceptually precise underneath.",
+    "takeaways": [],
+    "topics": [
+      "Практика"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://lesterbanks.com/2026/06/creator-spotlight-ilija-brunck/",
+    "generated_at": "2026-11-01T17:14:32+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "3689b1531736e95422": {
+    "fingerprint": "fc9140c6fe6c188ed3c76f2ed688d5a87eea647b83af3e8191443c4e6cead460",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Miquel Campos, developer of mGear, the open-source rigging framework for Maya, created a new tool to help animators, filmmakers, and artists track project progress. There are many tools out there...",
+    "takeaways": [],
+    "topics": [
+      "Практика"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://lesterbanks.com/2026/06/growframe-offers-an-inspirational-way-to-visualize-passion-projects/",
+    "generated_at": "2026-11-01T17:14:32+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "f352fea16d5305ae33": {
+    "fingerprint": "73a562d63612a6e48624d399f1f022f478828e77f8b9f91852501f7e76529c19",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Phoney Baloney is a very expressive character rig of a smartphone, as seen in the viral short film, “Like and Follow”. Recently, Brent posted the Phoney Baloney Maya character rig...",
+    "takeaways": [],
+    "topics": [
+      "Практика"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://lesterbanks.com/2026/06/get-the-character-rig-from-brent-forrests-like-and-follow-short/",
+    "generated_at": "2026-11-01T17:14:32+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "9a3168b380e4def684": {
+    "fingerprint": "fe06b9db2b2f1fc046f71a33ac897d4ffd1fc13ce99c02233a90012bc43710ce",
+    "engine": "extractive",
+    "model": null,
+    "summary": "This article explores how to render realistic skies and atmospheres in real time in the browser with shaders, from simple sky domes, to entire planets using shaders, raymarching, Rayleigh and Mie scattering, and ozone…",
+    "takeaways": [],
+    "topics": [
+      "3D / Blender"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets",
+    "generated_at": "2026-11-01T17:14:32+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "1fd8dbea8fa8176828": {
+    "fingerprint": "edee19bc695c8188e4f5cab8a2d0aa100d63da607574279d5ec76a23ec441720",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Ichno is a new free add-on, available on extensions.blender.org, that generates technical drawings from a Blender scene in one click. Ely writes: It produces orthographic and isometric views with overall and chain…",
+    "takeaways": [],
+    "topics": [
+      "Плагины",
+      "3D / Blender"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://www.blendernation.com/2026/11/01/ichno-free-one-click-technical-drawings-from-blender-scenes/",
+    "generated_at": "2026-11-01T17:15:19+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "500132667f9ec65906": {
+    "fingerprint": "19aa74877e17456b208cfd86945140b901ebf1bef6045db05f3e6dc707bc21e1",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Every week, hundreds of artists share their work on the Blender Artists forum. I’m putting some of the best work in the spotlight in a weekly post here on BlenderNation. Source",
+    "takeaways": [],
+    "topics": [
+      "3D / Blender"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://www.blendernation.com/2026/10/31/best-of-blender-artists-2026-44/",
+    "generated_at": "2026-11-01T17:15:19+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "ea9f125d4a2b5bbeca": {
+    "fingerprint": "c7525a0e864d3f0729d79761d159be26f4fb89b28fd9aa24ec46dbcc9a889117",
+    "engine": "extractive",
+    "model": null,
+    "summary": "5 Tips from Blender Secrets: Square to Round shapes, Inverted Hull, Reduce polycount, find double geometry, better bevel. Source",
+    "takeaways": [],
+    "topics": [
+      "3D / Blender"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://www.blendernation.com/2026/10/31/5-tips-square-to-round-shapes-inverted-hull-reduce-polycount-find-double-geometry-better-bevels/",
+    "generated_at": "2026-11-01T17:15:19+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "ba4fcfce640b35c6b7": {
+    "fingerprint": "8f80d6fc83928e504824a822fe0cc2d74bbf77b663f0dc28cda5f0499d5cc519",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Chris Bailey creates materials for the Master Sword from the Legend of Zelda. In the bonus content section, we’ll take our finished sword and create a cool environment for a finished render. We’ll do everything without…",
+    "takeaways": [],
+    "topics": [
+      "3D / Blender"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://www.blendernation.com/2026/10/30/easy-materials-for-links-sword/",
+    "generated_at": "2026-11-01T17:15:19+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "b60021bdf55fe5abf8": {
+    "fingerprint": "9b15a6af92afbf67ea44f3f78dd3f2352dc623636f19ce37f0f0c42d02e03b57",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Here’s an overview of the most recent Blender jobs on Blender Artists, ArtStation and 3djobs.xyz: VFX Artist Art Lead Senior 3D Character Artist (Stylized Games | Unity3D) Europe Senior Technical Animator (Unreal Engine…",
+    "takeaways": [],
+    "topics": [
+      "3D / Blender"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://www.blendernation.com/2026/10/30/blender-jobs-for-october-30-2026/",
+    "generated_at": "2026-11-01T17:15:19+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  }
+}

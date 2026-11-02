@@ -10,8 +10,20 @@ motion-radar-links.json
 motion-radar-context.md
 motion-radar-note.md
 
-# Binary media are reproducible from config/motion-assets (text-only MCP).
+# Binary media are restored from config/motion-assets by scripts/decode_motion_assets.py
+# (the GitHub MCP used for publishing is text-only).
+/assets/fonts/*.woff2
+/assets/img/
+/assets/video/
 /assets/motion/
 /scrollcraft/builds/*/assets/*-source.jpg
 /scrollcraft/lab/
 /_site/
+
+.venv/
+.venv-*/
+.pytest_cache/
+
+# Never publish tokens or unreviewed social API content
+.private/
+*.postman_environment.json

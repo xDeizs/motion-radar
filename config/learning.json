@@ -1,0 +1,220 @@
+{
+  "schema_version": 1,
+  "business_model": "paid_private_learning",
+  "catalog_url": "https://chen.media/guides",
+  "presets": [
+    {
+      "id": "grok-motion",
+      "title": "Grok motion",
+      "match_groups": [
+        [
+          "grok",
+          "motion"
+        ],
+        [
+          "grok",
+          "animation"
+        ],
+        [
+          "grok",
+          "imagine"
+        ]
+      ],
+      "x_query": "(\"Grok motion\" OR \"Grok Imagine\" OR \"Grok animation\")",
+      "expert_ids": [
+        "learning-damkin"
+      ],
+      "note": ""
+    },
+    {
+      "id": "claude-youtube",
+      "title": "Claude YouTube",
+      "match_groups": [
+        [
+          "claude",
+          "youtube"
+        ],
+        [
+          "faceless",
+          "youtube"
+        ]
+      ],
+      "x_query": "(Claude YouTube) OR \"faceless YouTube\"",
+      "expert_ids": [
+        "learning-chen",
+        "learning-creatorize"
+      ],
+      "note": ""
+    },
+    {
+      "id": "claude-scenario",
+      "title": "Claude scenario",
+      "match_groups": [
+        [
+          "claude",
+          "storyboard"
+        ],
+        [
+          "claude",
+          "script"
+        ],
+        [
+          "claude",
+          "scenario"
+        ]
+      ],
+      "x_query": "Claude (scenario OR storyboard OR script)",
+      "expert_ids": [
+        "learning-damkin"
+      ],
+      "note": ""
+    },
+    {
+      "id": "claude-skills",
+      "title": "Claude skills",
+      "match_groups": [
+        [
+          "claude",
+          "skill"
+        ],
+        [
+          "engineering",
+          "skill"
+        ]
+      ],
+      "x_query": "Claude (skills OR engineering)",
+      "expert_ids": [
+        "learning-matt",
+        "learning-last30days"
+      ],
+      "note": ""
+    },
+    {
+      "id": "claude-instagram",
+      "title": "Claude Instagram",
+      "match_groups": [
+        [
+          "claude",
+          "instagram"
+        ],
+        [
+          "claude",
+          "reel"
+        ]
+      ],
+      "x_query": "Claude (Instagram OR Reels)",
+      "expert_ids": [
+        "learning-chen"
+      ],
+      "note": ""
+    },
+    {
+      "id": "claude-ceo",
+      "title": "Claude CEO",
+      "match_groups": [
+        [
+          "gstack"
+        ],
+        [
+          "claude",
+          "ceo"
+        ],
+        [
+          "claude",
+          "agent",
+          "team"
+        ]
+      ],
+      "x_query": "gstack OR (Claude CEO) OR (Claude \"agent teams\")",
+      "expert_ids": [
+        "learning-gstack",
+        "learning-matt"
+      ],
+      "note": ""
+    },
+    {
+      "id": "claude-animation",
+      "title": "Claude animation",
+      "match_groups": [
+        [
+          "claude",
+          "animat"
+        ],
+        [
+          "claude",
+          "motion"
+        ],
+        [
+          "remotion"
+        ]
+      ],
+      "x_query": "Claude (animation OR motion OR Remotion)",
+      "expert_ids": [
+        "learning-damkin",
+        "research-official-remotion"
+      ],
+      "note": ""
+    },
+    {
+      "id": "claude-character",
+      "title": "Claude character",
+      "match_groups": [
+        [
+          "claude",
+          "character"
+        ],
+        [
+          "character",
+          "consisten"
+        ],
+        [
+          "character",
+          "animat"
+        ]
+      ],
+      "x_query": "(Claude character) OR \"character consistency\"",
+      "expert_ids": [
+        "learning-damkin"
+      ],
+      "note": ""
+    },
+    {
+      "id": "graphify",
+      "title": "Graphify",
+      "match_groups": [
+        [
+          "graphify"
+        ]
+      ],
+      "x_query": "Graphify",
+      "expert_ids": [
+        "learning-graphify"
+      ],
+      "note": ""
+    },
+    {
+      "id": "characters-opus",
+      "title": "Characters / Opus",
+      "match_groups": [
+        [
+          "opus",
+          "character"
+        ],
+        [
+          "opus",
+          "animat"
+        ],
+        [
+          "claude",
+          "character"
+        ]
+      ],
+      "x_query": "(Opus characters) OR (Opus animation)",
+      "expert_ids": [
+        "learning-damkin"
+      ],
+      "note": "Исходный запрос «Charactes opus 5.5» нормализован. Название модели в запросе не подтверждает её наличие или доступ."
+    }
+  ],
+  "publication": "metadata_only; social bodies stay private; manual review before publication"
+}

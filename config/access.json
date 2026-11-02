@@ -1,0 +1,42 @@
+[
+  {
+    "id": "access-gemini",
+    "title": "Gemini API · официальный free tier",
+    "url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "summary": "У некоторых моделей есть бесплатный тариф с квотами. Это не бесплатный безлимит и не доступ к X/Reddit. Доступность модели, региона и обработку данных проверь в своём проекте.",
+    "category": "freebie",
+    "offer_type": "quota",
+    "source_name": "Google AI for Developers",
+    "source_id": "official-access",
+    "kind": "access",
+    "tags": [
+      "API",
+      "Квоты"
+    ],
+    "scope": "По таблице Google: условия различаются по модели; free-tier данные могут использоваться для улучшения продуктов. Не отправляй личные заметки.",
+    "checked_at": "2026-11-01",
+    "offer_status": "official_terms",
+    "expires_at": null,
+    "link_status": "unknown"
+  },
+  {
+    "id": "access-notion-trial",
+    "title": "Notion Business · официальный триал",
+    "url": "https://www.notion.com/help/paid-plan-trials",
+    "summary": "Справка описывает 30-дневный Business-триал для новых команд. Право конкретного workspace на триал и доступные AI-кредиты нужно проверить отдельно.",
+    "category": "trial",
+    "offer_type": "trial",
+    "source_name": "Notion Help",
+    "source_id": "official-access",
+    "kind": "access",
+    "tags": [
+      "Notion",
+      "Условия"
+    ],
+    "scope": "Не продлевается обещанием «много аккаунтов»; массовые повторные регистрации и обход квот не входят в проект.",
+    "checked_at": "2026-11-01",
+    "offer_status": "official_terms",
+    "expires_at": null,
+    "link_status": "unknown"
+  }
+]
