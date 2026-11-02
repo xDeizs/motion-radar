@@ -1,0 +1,15 @@
+{
+  "pin": "e627941543d9988b155dc610bb9cc0115a5e365e",
+  "file": "sims/kit/director.js",
+  "scope": "source-module with stub DOM/stage; not full-render or pixel test",
+  "sequence": [
+    0,
+    1,
+    2,
+    1
+  ],
+  "focus_x_at_first_t1": 100,
+  "focus_x_at_replay_t1": 200,
+  "order_dependency_confirmed": true,
+  "qualification": "Only when returned foci vary by time and director uses a tight shot. Not every sim is affected. No production project was executed or changed."
+}

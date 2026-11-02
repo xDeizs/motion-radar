@@ -30,6 +30,7 @@ changes only grammar and world will fail it.
 |---|---|---|---|---|---|---|---|---|
 
 | Motion Radar v5 | Library prologue | Working 8-tab collection + labeled signal dock | Scrub plate + two independent alpha planes, pointer depth | One 2.8vh/2.25vh held prologue, in-flow handoff, actual library, source ledger | Static source/collection/export close | Signal dock: ordered spatial controls converge into useful navigation | Cool satin silver, lavender lacquer, macro material | 4515 |
+| Motion Radar 5 Neon | Chaptered pinned acts handing off to the working library | Auto-hiding bar + keycap tabs; hero keys are section links | Live Three.js keycaps continuing the headline rows + thin-film bubbles | Hero, pinned word-by-word manifesto over LED wall with crossing tapes, horizontal 3-card track, scroll-scrubbed radar sweep, library | Mascot + sticker close with routes back into the library | Keycaps continue the typed headline; click routes, smiley key sends a wave | Night-club LED wall, icy cobalt + acid lime, glossy vinyl toys | 8766 |
 
 ---
 
@@ -41,6 +42,7 @@ act-count-and-length band. The shared columns are what the next build inherits
 as a constraint, so writing them down is the whole point.
 
 - Motion Radar v5 claims the Library prologue + Signal dock combination: a short dimensional entry to a real working collection. No previous registry rows existed; nothing was compared or silently removed. Published on GitHub Pages and delivered as a tested source package. Public and local verification are recorded in VERIFICATION.md.
+- Motion Radar 5 Neon claims the Keycap headline hero + scroll-scrubbed Radar sweep. It differs from Motion Radar v5 on grammar, nav treatment, hero device, act-sequence shape, close pattern and signature move; it shares only the working library at the end. Proposed as a pull request that replaces v5 on the site; v5 stays in git history. Verification: VERIFICATION.md.
 
 ---
 

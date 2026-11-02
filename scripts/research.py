@@ -17,7 +17,7 @@ STAMP = NOW.isoformat(timespec="seconds").replace("+00:00", "Z")
 API = "https://api.github.com"
 UA = "MotionRadar/2.0 (read-only public repository discovery)"
 REPO = re.compile(r"^[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$")
-TYPE_LABELS = {"skill": "Skill", "library": "Библиотека", "research": "Исследование", "candidate": "Находка"}
+TYPE_LABELS = {"plugin": "Плагин", "skill": "Skill", "library": "Библиотека", "research": "Исследование", "candidate": "Находка"}
 
 
 def load(path, fallback):

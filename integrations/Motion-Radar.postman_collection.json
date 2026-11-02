@@ -1,0 +1,110 @@
+{
+  "info": {
+    "name": "Motion Radar · own API access checks",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "description": "No stolen keys or account rotation. X may be billed. Reddit requires approved OAuth access. Gemini listModels does not prove generation quota. Run requests individually. Keep secrets in Postman Vault or local secret variables, not shared collection values."
+  },
+  "item": [
+    {
+      "name": "GitHub · public repositories",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Accept",
+            "value": "application/vnd.github+json"
+          }
+        ],
+        "url": "https://api.github.com/search/repositories?q={{github_query}}&per_page=5",
+        "description": "Используйте только собственные права. Перед запуском проверьте квоты и биллинг. Не публикуйте коллекцию с заполненными секретами."
+      },
+      "response": []
+    },
+    {
+      "name": "Gemini · list models (no generation)",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "x-goog-api-key",
+            "value": "{{gemini_api_key}}"
+          }
+        ],
+        "url": "https://generativelanguage.googleapis.com/v1beta/models",
+        "description": "Используйте только собственные права. Перед запуском проверьте квоты и биллинг. Не публикуйте коллекцию с заполненными секретами."
+      },
+      "response": []
+    },
+    {
+      "name": "X · recent search (METERED, optional)",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{x_bearer_token}}"
+          }
+        ],
+        "url": "https://api.x.com/2/tweets/search/recent?query={{x_query}}&max_results=10",
+        "description": "Используйте только собственные права. Перед запуском проверьте квоты и биллинг. Не публикуйте коллекцию с заполненными секретами."
+      },
+      "response": []
+    },
+    {
+      "name": "Reddit · approved OAuth search only",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{reddit_access_token}}"
+          },
+          {
+            "key": "User-Agent",
+            "value": "{{reddit_user_agent}}"
+          }
+        ],
+        "url": "https://oauth.reddit.com/search?q={{reddit_query}}&type=link&sort=relevance&limit=5&raw_json=1",
+        "description": "Используйте только собственные права. Перед запуском проверьте квоты и биллинг. Не публикуйте коллекцию с заполненными секретами."
+      },
+      "response": []
+    }
+  ],
+  "variable": [
+    {
+      "key": "github_query",
+      "value": "remotion%20claude%20is%3Apublic",
+      "type": "string"
+    },
+    {
+      "key": "x_query",
+      "value": "remotion%20claude%20-is%3Aretweet",
+      "type": "string"
+    },
+    {
+      "key": "reddit_query",
+      "value": "remotion%20claude",
+      "type": "string"
+    },
+    {
+      "key": "gemini_api_key",
+      "value": "",
+      "type": "string"
+    },
+    {
+      "key": "x_bearer_token",
+      "value": "",
+      "type": "string"
+    },
+    {
+      "key": "reddit_access_token",
+      "value": "",
+      "type": "string"
+    },
+    {
+      "key": "reddit_user_agent",
+      "value": "",
+      "type": "string"
+    }
+  ]
+}
