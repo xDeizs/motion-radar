@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-02T02:24:51Z",
+    "generated_at": "2026-11-02T06:42:59Z",
     "version": 6,
     "built_in_actions": true,
     "refresh_hours": 6,
@@ -19,7 +19,7 @@
       "category": "motion",
       "tag": "Web / Motion",
       "status": "ok",
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "error": null,
       "count": 5,
       "newest_at": "2026-09-14T11:30:10Z"
@@ -33,7 +33,7 @@
       "category": "code",
       "tag": "Shaders",
       "status": "ok",
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "error": null,
       "count": 2,
       "newest_at": "2026-08-18T08:00:00Z"
@@ -50,7 +50,7 @@
         "code.blender.org"
       ],
       "status": "ok",
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "error": null,
       "count": 5,
       "newest_at": "2026-10-30T13:18:52Z"
@@ -65,7 +65,7 @@
       "tag": "Three.js",
       "max_items": 1,
       "status": "ok",
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "error": null,
       "count": 1,
       "newest_at": "2026-10-30T08:03:18Z"
@@ -80,7 +80,7 @@
       "tag": "Motion",
       "max_items": 1,
       "status": "ok",
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "error": null,
       "count": 1,
       "newest_at": "2026-10-30T10:22:53Z"
@@ -95,7 +95,7 @@
       "tag": "React / 3D",
       "max_items": 2,
       "status": "ok",
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "error": null,
       "count": 2,
       "newest_at": "2026-10-17T01:54:18Z"
@@ -110,7 +110,7 @@
       "tag": "Lottie",
       "max_items": 1,
       "status": "ok",
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "error": null,
       "count": 0,
       "newest_at": null
@@ -124,11 +124,10 @@
       "category": "motion",
       "tag": "Практика",
       "max_items": 6,
-      "status": "ok",
-      "checked_at": "2026-11-02T02:24:51Z",
-      "error": null,
-      "count": 4,
-      "newest_at": "2026-07-17T21:25:41Z"
+      "status": "error",
+      "checked_at": "2026-11-02T06:42:59Z",
+      "error": "mismatched tag: line 93, column 2",
+      "count": 4
     },
     {
       "id": "blendernation",
@@ -140,7 +139,7 @@
       "tag": "Blender",
       "max_items": 5,
       "status": "ok",
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "error": null,
       "count": 5,
       "newest_at": "2026-11-01T07:55:23Z"
@@ -156,7 +155,7 @@
       "max_items": 4,
       "include": "video|image|diffusion|3d|vision|comfy|animation|generat",
       "status": "ok",
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "error": null,
       "count": 4,
       "newest_at": "2026-10-15T00:00:00Z"
@@ -171,7 +170,7 @@
       "tag": "ComfyUI",
       "max_items": 1,
       "status": "ok",
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "error": null,
       "count": 1,
       "newest_at": "2026-10-30T01:24:06Z"
@@ -186,7 +185,7 @@
       "tag": "Rive",
       "max_items": 1,
       "status": "ok",
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "error": null,
       "count": 1,
       "newest_at": "2026-10-29T04:21:44Z"
@@ -201,7 +200,7 @@
       "tag": "Remotion",
       "max_items": 1,
       "status": "ok",
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "error": null,
       "count": 1,
       "newest_at": "2026-10-26T12:04:13Z"
@@ -225,7 +224,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://www.blendernation.com/2026/11/01/ichno-free-one-click-technical-drawings-from-blender-scenes/",
       "check_note": null,
       "analysis": {
@@ -261,7 +260,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://www.blendernation.com/2026/10/31/best-of-blender-artists-2026-44/",
       "check_note": null,
       "analysis": {
@@ -296,7 +295,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://www.blendernation.com/2026/10/31/5-tips-square-to-round-shapes-inverted-hull-reduce-polycount-find-double-geometry-better-bevels/",
       "check_note": null,
       "analysis": {
@@ -331,7 +330,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://www.blendernation.com/2026/10/30/easy-materials-for-links-sword/",
       "check_note": null,
       "analysis": {
@@ -366,7 +365,7 @@
       "thumbnail": "https://code.blender.org/wp-content/uploads/2026/10/dogwalk_splat_in_blender-1024x642.webp?x95207",
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://code.blender.org/2026/10/splatting-the-gaussians-into-blender/",
       "check_note": null,
       "analysis": {
@@ -405,7 +404,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://github.com/motiondivision/motion/releases/tag/v14.9.0",
       "check_note": null,
       "analysis": {
@@ -440,7 +439,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://www.blendernation.com/2026/10/30/blender-jobs-for-october-30-2026/",
       "check_note": null,
       "analysis": {
@@ -475,7 +474,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://github.com/mrdoob/three.js/releases/tag/r187",
       "check_note": null,
       "analysis": {
@@ -510,7 +509,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.43.2",
       "check_note": null,
       "analysis": {
@@ -545,7 +544,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://github.com/rive-app/rive-wasm/releases/tag/2.49.0",
       "check_note": null,
       "analysis": {
@@ -580,7 +579,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.539",
       "check_note": null,
       "analysis": {
@@ -616,7 +615,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://github.com/pmndrs/react-three-fiber/releases/tag/v10.0.0-alpha.6",
       "check_note": null,
       "analysis": {
@@ -651,7 +650,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://github.com/pmndrs/react-three-fiber/releases/tag/v9.8.2",
       "check_note": null,
       "analysis": {
@@ -686,7 +685,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://huggingface.co/blog/flux-3",
       "check_note": null,
       "analysis": {
@@ -721,7 +720,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://code.blender.org/2026/10/bcon26-talks-by-blender-developers/",
       "check_note": null,
       "analysis": {
@@ -757,7 +756,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://code.blender.org/2026/10/geometry-nodes-workshop-september-2026/",
       "check_note": null,
       "analysis": {
@@ -796,7 +795,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
       "check_note": null,
       "analysis": {
@@ -831,7 +830,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://tympanus.net/codrops/2026/09/14/inside-resns-digital-experiences/",
       "check_note": null,
       "analysis": {
@@ -866,7 +865,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://tympanus.net/codrops/2026/09/13/building-depth-designing-and-developing-a-3d-renderer-inside-figma/",
       "check_note": null,
       "analysis": {
@@ -902,7 +901,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://tympanus.net/codrops/2026/09/12/yestalgia-bringing-decathlons-90s-spirit-to-life-through-a-playful-digital-experience/",
       "check_note": null,
       "analysis": {
@@ -937,7 +936,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://code.blender.org/2026/09/small-teams-ambitious-projects/",
       "check_note": null,
       "analysis": {
@@ -973,7 +972,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://tympanus.net/codrops/2026/09/10/inside-the-first-three-js-conference-in-paris/",
       "check_note": null,
       "analysis": {
@@ -1009,7 +1008,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://tympanus.net/codrops/2026/09/09/turning-names-into-digital-architecture-with-three-js/",
       "check_note": null,
       "analysis": {
@@ -1046,7 +1045,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://blog.maximeheckel.com/posts/shading-motion/",
       "check_note": null,
       "analysis": {
@@ -1082,7 +1081,7 @@
       "thumbnail": "https://code.blender.org/wp-content/uploads/2026/07/cloth_tear_space_fabric-1024x564.webp?x95207",
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://code.blender.org/2026/07/geometry-nodes-physics/",
       "check_note": null,
       "analysis": {
@@ -1117,7 +1116,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
       "check_note": null,
       "analysis": {
@@ -1152,7 +1151,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://huggingface.co/blog/nunchaku-diffusers",
       "check_note": null,
       "analysis": {
@@ -1187,7 +1186,7 @@
       "thumbnail": "https://lesterbanks.com/lxb_metal/wp-content/uploads/2026/07/feature_Viewport_titled-1024x576.jpg",
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://lesterbanks.com/2026/07/ruxin-liang-shares-tips-keeping-ornatrix-fast/",
       "check_note": null,
       "analysis": {
@@ -1203,7 +1202,8 @@
         "source_url": "https://lesterbanks.com/2026/07/ruxin-liang-shares-tips-keeping-ornatrix-fast/",
         "generated_at": "2026-11-01T17:14:32+00:00",
         "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-      }
+      },
+      "source_stale": true
     },
     {
       "id": "a5a1e0a36884c03268",
@@ -1222,7 +1222,7 @@
       "thumbnail": "https://lesterbanks.com/lxb_metal/wp-content/uploads/2026/04/1773121578341.jpeg",
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://lesterbanks.com/2026/06/creator-spotlight-ilija-brunck/",
       "check_note": null,
       "analysis": {
@@ -1238,7 +1238,8 @@
         "source_url": "https://lesterbanks.com/2026/06/creator-spotlight-ilija-brunck/",
         "generated_at": "2026-11-01T17:14:32+00:00",
         "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-      }
+      },
+      "source_stale": true
     },
     {
       "id": "3689b1531736e95422",
@@ -1257,7 +1258,7 @@
       "thumbnail": "https://lesterbanks.com/lxb_metal/wp-content/uploads/2026/06/GrowFrame-app-1024x614.jpg",
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://lesterbanks.com/2026/06/growframe-offers-an-inspirational-way-to-visualize-passion-projects/",
       "check_note": null,
       "analysis": {
@@ -1273,7 +1274,8 @@
         "source_url": "https://lesterbanks.com/2026/06/growframe-offers-an-inspirational-way-to-visualize-passion-projects/",
         "generated_at": "2026-11-01T17:14:32+00:00",
         "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-      }
+      },
+      "source_stale": true
     },
     {
       "id": "f352fea16d5305ae33",
@@ -1292,7 +1294,7 @@
       "thumbnail": "https://lesterbanks.com/lxb_metal/wp-content/uploads/2026/06/Phoney-Baloney-Character-Rig-for-Maa-1024x576.jpg",
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://lesterbanks.com/2026/06/get-the-character-rig-from-brent-forrests-like-and-follow-short/",
       "check_note": null,
       "analysis": {
@@ -1308,7 +1310,8 @@
         "source_url": "https://lesterbanks.com/2026/06/get-the-character-rig-from-brent-forrests-like-and-follow-short/",
         "generated_at": "2026-11-01T17:14:32+00:00",
         "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-      }
+      },
+      "source_stale": true
     },
     {
       "id": "9a3168b380e4def684",
@@ -1327,7 +1330,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "resolved_url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
       "check_note": null,
       "analysis": {
@@ -1367,12 +1370,12 @@
       "category": "free",
       "source_id": "library",
       "published_at": null,
-      "seen_at": "2026-11-02T02:24:51Z",
+      "seen_at": "2026-11-02T06:42:59Z",
       "offer_status": null,
       "terms_status": "confirmed",
-      "terms_checked_at": "2026-11-02T02:24:51Z",
+      "terms_checked_at": "2026-11-02T06:42:59Z",
       "terms_evidence": "donate/sell their work to Poly Haven. Our assets are all licensed as CC0, which is effectively Public Domain even in jurisdictions that do not support the Public Domain. He",
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "link_status": "ok",
       "resolved_url": "https://polyhaven.com/",
       "check_note": null
@@ -1397,12 +1400,12 @@
       "category": "free",
       "source_id": "library",
       "published_at": null,
-      "seen_at": "2026-11-02T02:24:51Z",
+      "seen_at": "2026-11-02T06:42:59Z",
       "offer_status": null,
       "terms_status": "confirmed",
-      "terms_checked_at": "2026-11-02T02:24:51Z",
+      "terms_checked_at": "2026-11-02T06:42:59Z",
       "terms_evidence": "rmation¶ All ambientCG assets are provided under the Creative Commons CC0 1.0 Universal License. This applies to the downloadable asset files and the material preview render",
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "link_status": "ok",
       "resolved_url": "https://ambientcg.com/",
       "check_note": null
@@ -1427,12 +1430,12 @@
       "category": "free",
       "source_id": "library",
       "published_at": null,
-      "seen_at": "2026-11-02T02:24:51Z",
+      "seen_at": "2026-11-02T06:42:59Z",
       "offer_status": null,
       "terms_status": "confirmed",
-      "terms_checked_at": "2026-11-02T02:24:51Z",
+      "terms_checked_at": "2026-11-02T06:42:59Z",
       "terms_evidence": "? Yes, all game assets on the asset pages are public domain licensed (CC0). You’re free to use them, even in commercial projects. For full details, see the included license",
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "link_status": "ok",
       "resolved_url": "https://kenney.nl/assets",
       "check_note": null
@@ -1457,12 +1460,12 @@
       "category": "free",
       "source_id": "library",
       "published_at": null,
-      "seen_at": "2026-11-02T02:24:51Z",
+      "seen_at": "2026-11-02T06:42:59Z",
       "offer_status": null,
       "terms_status": "confirmed",
-      "terms_checked_at": "2026-11-02T02:24:51Z",
+      "terms_checked_at": "2026-11-02T06:42:59Z",
       "terms_evidence": "The MIT License Copyright © 2010-2026 three.js authors Permission is hereby granted, free of charge, to any perso",
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "link_status": "ok",
       "resolved_url": "https://threejs.org/",
       "check_note": null
@@ -1487,12 +1490,12 @@
       "category": "free",
       "source_id": "library",
       "published_at": null,
-      "seen_at": "2026-11-02T02:24:51Z",
+      "seen_at": "2026-11-02T06:42:59Z",
       "offer_status": null,
       "terms_status": "confirmed",
-      "terms_checked_at": "2026-11-02T02:24:51Z",
+      "terms_checked_at": "2026-11-02T06:42:59Z",
       "terms_evidence": "The MIT License (MIT) Copyright (c) 2024 [Motion](https://motion.dev) B.V. Permission is hereby granted, free of",
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "link_status": "ok",
       "resolved_url": "https://motion.dev/",
       "check_note": null
@@ -1517,12 +1520,12 @@
       "category": "free",
       "source_id": "library",
       "published_at": null,
-      "seen_at": "2026-11-02T02:24:51Z",
+      "seen_at": "2026-11-02T06:42:59Z",
       "offer_status": null,
       "terms_status": "confirmed",
-      "terms_checked_at": "2026-11-02T02:24:51Z",
+      "terms_checked_at": "2026-11-02T06:42:59Z",
       "terms_evidence": "ur Work. Reynante Martinez The Software Blender is released under the GNU General Public License (GPL, or “free software”). This license grants people a number of freedoms: You are free to use Ble",
-      "checked_at": "2026-11-02T02:24:51Z",
+      "checked_at": "2026-11-02T06:42:59Z",
       "link_status": "ok",
       "resolved_url": "https://www.blender.org/",
       "check_note": null
@@ -2716,7 +2719,7 @@
       "category": "motion",
       "source_id": "reference",
       "source_name": "Референсы",
-      "checked_at": "2026-11-02T02:24:59Z",
+      "checked_at": "2026-11-02T06:43:07Z",
       "published_at": null,
       "thumbnail": null,
       "link_status": "ok",
@@ -2775,7 +2778,7 @@
       "link_status": "unknown",
       "render_status": "not_checked",
       "page_status": "stale",
-      "last_attempt_at": "2026-11-02T02:24:59Z",
+      "last_attempt_at": "2026-11-02T06:43:07Z",
       "page_error": "Response exceeds safety limit"
     },
     {
@@ -2801,7 +2804,7 @@
       "link_status": "unknown",
       "render_status": "not_checked",
       "page_status": "stale",
-      "last_attempt_at": "2026-11-02T02:24:59Z",
+      "last_attempt_at": "2026-11-02T06:43:07Z",
       "page_error": "Response exceeds safety limit"
     },
     {
@@ -2821,7 +2824,7 @@
       "category": "motion",
       "source_id": "reference",
       "source_name": "Референсы",
-      "checked_at": "2026-11-02T02:24:59Z",
+      "checked_at": "2026-11-02T06:43:07Z",
       "published_at": null,
       "thumbnail": null,
       "link_status": "ok",
@@ -2830,7 +2833,7 @@
       "resolved_url": "https://threejs-journey.com/highlights/1",
       "page_title": "Highlights — Three.js Journey",
       "content_hash": "b5e4a4ede9498a9fbcb36aabcf37f1d17092732fd645cbb5202e15af60281542",
-      "changed": true,
+      "changed": false,
       "changed_at": "2026-11-02T02:24:59Z",
       "observation": "HTML страницы получен. Рендер и игровая сцена автоматически не тестировались."
     },
@@ -4262,7 +4265,7 @@
     }
   ],
   "topic_research": {
-    "generated_at": "2026-11-02T02:25:24Z",
+    "generated_at": "2026-11-02T06:43:09Z",
     "scope": "RSS snapshot + first page of public GitHub. Not the entire internet. Social content excluded.",
     "topics": [
       {
@@ -4280,7 +4283,7 @@
             "source_name": "Three.js",
             "basis": "rss_excerpt",
             "published_at": "2026-10-30T08:03:18Z",
-            "checked_at": "2026-11-02T02:24:51Z"
+            "checked_at": "2026-11-02T06:42:59Z"
           },
           {
             "id": "10014f52844b97cf2d",
@@ -4291,7 +4294,7 @@
             "source_name": "Remotion",
             "basis": "rss_excerpt",
             "published_at": "2026-10-26T12:04:13Z",
-            "checked_at": "2026-11-02T02:24:51Z"
+            "checked_at": "2026-11-02T06:42:59Z"
           },
           {
             "id": "e5b60107e6763277b1",
@@ -4302,7 +4305,7 @@
             "source_name": "Codrops",
             "basis": "rss_excerpt",
             "published_at": "2026-09-12T08:40:31Z",
-            "checked_at": "2026-11-02T02:24:51Z"
+            "checked_at": "2026-11-02T06:42:59Z"
           },
           {
             "id": "1c80df51d84652392e",
@@ -4313,7 +4316,7 @@
             "source_name": "Maxime Heckel",
             "basis": "rss_excerpt",
             "published_at": "2026-08-18T08:00:00Z",
-            "checked_at": "2026-11-02T02:24:51Z"
+            "checked_at": "2026-11-02T06:42:59Z"
           },
           {
             "id": "topic-repo-sadidi13--wedo-claude-motion",
@@ -4325,7 +4328,8 @@
             "basis": "metadata_only",
             "license": "MIT",
             "published_at": "2026-11-01T21:35:12Z",
-            "checked_at": "2026-11-02T02:25:09Z"
+            "checked_at": "2026-11-02T02:25:09Z",
+            "stale": false
           },
           {
             "id": "topic-repo-tonyprots--motion-film-skill",
@@ -4337,7 +4341,8 @@
             "basis": "metadata_only",
             "license": "NOASSERTION",
             "published_at": "2026-11-01T21:00:24Z",
-            "checked_at": "2026-11-02T02:25:09Z"
+            "checked_at": "2026-11-02T02:25:09Z",
+            "stale": false
           },
           {
             "id": "topic-repo-framecoreworks--fcwm",
@@ -4349,7 +4354,8 @@
             "basis": "metadata_only",
             "license": "Apache-2.0",
             "published_at": "2026-11-01T20:23:08Z",
-            "checked_at": "2026-11-02T02:25:09Z"
+            "checked_at": "2026-11-02T02:25:09Z",
+            "stale": false
           },
           {
             "id": "topic-repo-elan6666--claude-video-editing-motion",
@@ -4361,7 +4367,8 @@
             "basis": "metadata_only",
             "license": "MIT",
             "published_at": "2026-11-01T13:01:31Z",
-            "checked_at": "2026-11-02T02:25:09Z"
+            "checked_at": "2026-11-02T02:25:09Z",
+            "stale": false
           },
           {
             "id": "topic-repo-heshamadel1--ctrl-h",
@@ -4373,7 +4380,8 @@
             "basis": "metadata_only",
             "license": "MIT",
             "published_at": "2026-10-31T22:28:43Z",
-            "checked_at": "2026-11-02T02:25:09Z"
+            "checked_at": "2026-11-02T02:25:09Z",
+            "stale": false
           }
         ],
         "health": {
@@ -4382,9 +4390,8 @@
             "count": 4
           },
           "github": {
-            "status": "ok",
-            "count": 5,
-            "note": "Первая страница, публичные метаданные; не аудит кода"
+            "status": "cached",
+            "note": "Снимок младше 6 часов; без запроса API"
           },
           "gemini": {
             "status": "not_requested"
@@ -4398,7 +4405,7 @@
         },
         "ai_selected_ids": [],
         "checked_at": "2026-11-02T02:25:09Z",
-        "last_attempt_at": "2026-11-02T02:25:11Z"
+        "last_attempt_at": "2026-11-02T06:43:09Z"
       },
       {
         "id": "remotion",
@@ -4415,7 +4422,7 @@
             "source_name": "Remotion",
             "basis": "rss_excerpt",
             "published_at": "2026-10-26T12:04:13Z",
-            "checked_at": "2026-11-02T02:24:51Z"
+            "checked_at": "2026-11-02T06:42:59Z"
           },
           {
             "id": "topic-repo-stablyai--orca",
@@ -4427,7 +4434,8 @@
             "basis": "metadata_only",
             "license": "MIT",
             "published_at": "2026-11-02T02:25:05Z",
-            "checked_at": "2026-11-02T02:25:12Z"
+            "checked_at": "2026-11-02T02:25:12Z",
+            "stale": false
           },
           {
             "id": "topic-repo-evanzhang008--open-walnut",
@@ -4439,7 +4447,8 @@
             "basis": "metadata_only",
             "license": "MIT",
             "published_at": "2026-11-02T02:24:06Z",
-            "checked_at": "2026-11-02T02:25:12Z"
+            "checked_at": "2026-11-02T02:25:12Z",
+            "stale": false
           },
           {
             "id": "topic-repo-remote-arc--remote-arc",
@@ -4451,7 +4460,8 @@
             "basis": "metadata_only",
             "license": "NOASSERTION",
             "published_at": "2026-11-02T02:22:06Z",
-            "checked_at": "2026-11-02T02:25:12Z"
+            "checked_at": "2026-11-02T02:25:12Z",
+            "stale": false
           },
           {
             "id": "topic-repo-caezium--cc-tools",
@@ -4463,7 +4473,8 @@
             "basis": "metadata_only",
             "license": "MIT",
             "published_at": "2026-11-02T02:16:54Z",
-            "checked_at": "2026-11-02T02:25:12Z"
+            "checked_at": "2026-11-02T02:25:12Z",
+            "stale": false
           },
           {
             "id": "topic-repo-wi202im--maricode",
@@ -4475,7 +4486,8 @@
             "basis": "metadata_only",
             "license": "AGPL-3.0",
             "published_at": "2026-11-02T02:12:50Z",
-            "checked_at": "2026-11-02T02:25:12Z"
+            "checked_at": "2026-11-02T02:25:12Z",
+            "stale": false
           }
         ],
         "health": {
@@ -4484,9 +4496,8 @@
             "count": 1
           },
           "github": {
-            "status": "ok",
-            "count": 5,
-            "note": "Первая страница, публичные метаданные; не аудит кода"
+            "status": "cached",
+            "note": "Снимок младше 6 часов; без запроса API"
           },
           "gemini": {
             "status": "not_requested"
@@ -4500,7 +4511,7 @@
         },
         "ai_selected_ids": [],
         "checked_at": "2026-11-02T02:25:12Z",
-        "last_attempt_at": "2026-11-02T02:25:14Z"
+        "last_attempt_at": "2026-11-02T06:43:09Z"
       },
       {
         "id": "grok-video",
@@ -4518,7 +4529,8 @@
             "basis": "metadata_only",
             "license": null,
             "published_at": "2026-11-02T01:04:47Z",
-            "checked_at": "2026-11-02T02:25:14Z"
+            "checked_at": "2026-11-02T02:25:14Z",
+            "stale": false
           },
           {
             "id": "topic-repo-cyberdreadx--cyberpunk-grok-api",
@@ -4530,7 +4542,8 @@
             "basis": "metadata_only",
             "license": null,
             "published_at": "2026-11-01T22:49:42Z",
-            "checked_at": "2026-11-02T02:25:14Z"
+            "checked_at": "2026-11-02T02:25:14Z",
+            "stale": false
           },
           {
             "id": "topic-repo-dapao-777--roamcat",
@@ -4542,7 +4555,8 @@
             "basis": "metadata_only",
             "license": "MPL-2.0",
             "published_at": "2026-11-01T21:16:59Z",
-            "checked_at": "2026-11-02T02:25:14Z"
+            "checked_at": "2026-11-02T02:25:14Z",
+            "stale": false
           },
           {
             "id": "topic-repo-youmind-openlab--awesome-grok-imagine-prompts",
@@ -4554,7 +4568,8 @@
             "basis": "metadata_only",
             "license": "NOASSERTION",
             "published_at": "2026-11-01T20:45:49Z",
-            "checked_at": "2026-11-02T02:25:14Z"
+            "checked_at": "2026-11-02T02:25:14Z",
+            "stale": false
           },
           {
             "id": "topic-repo-imaginevid--awesome-grok-imagine-video-prompts-and-skills",
@@ -4566,7 +4581,8 @@
             "basis": "metadata_only",
             "license": "NOASSERTION",
             "published_at": "2026-11-01T20:09:50Z",
-            "checked_at": "2026-11-02T02:25:14Z"
+            "checked_at": "2026-11-02T02:25:14Z",
+            "stale": false
           }
         ],
         "health": {
@@ -4575,9 +4591,8 @@
             "count": 0
           },
           "github": {
-            "status": "ok",
-            "count": 5,
-            "note": "Первая страница, публичные метаданные; не аудит кода"
+            "status": "cached",
+            "note": "Снимок младше 6 часов; без запроса API"
           },
           "gemini": {
             "status": "not_requested"
@@ -4591,7 +4606,7 @@
         },
         "ai_selected_ids": [],
         "checked_at": "2026-11-02T02:25:14Z",
-        "last_attempt_at": "2026-11-02T02:25:16Z"
+        "last_attempt_at": "2026-11-02T06:43:09Z"
       },
       {
         "id": "motion-web",
@@ -4608,7 +4623,7 @@
             "source_name": "Three.js",
             "basis": "rss_excerpt",
             "published_at": "2026-10-30T08:03:18Z",
-            "checked_at": "2026-11-02T02:24:51Z"
+            "checked_at": "2026-11-02T06:42:59Z"
           },
           {
             "id": "10014f52844b97cf2d",
@@ -4619,7 +4634,7 @@
             "source_name": "Remotion",
             "basis": "rss_excerpt",
             "published_at": "2026-10-26T12:04:13Z",
-            "checked_at": "2026-11-02T02:24:51Z"
+            "checked_at": "2026-11-02T06:42:59Z"
           },
           {
             "id": "fe7b225f29d029cecf",
@@ -4630,7 +4645,7 @@
             "source_name": "React Three Fiber",
             "basis": "rss_excerpt",
             "published_at": "2026-10-17T01:54:18Z",
-            "checked_at": "2026-11-02T02:24:51Z"
+            "checked_at": "2026-11-02T06:42:59Z"
           },
           {
             "id": "c8566f6a69ddc2807c",
@@ -4641,7 +4656,7 @@
             "source_name": "Codrops",
             "basis": "rss_excerpt",
             "published_at": "2026-09-14T11:30:10Z",
-            "checked_at": "2026-11-02T02:24:51Z"
+            "checked_at": "2026-11-02T06:42:59Z"
           },
           {
             "id": "6ac95cc8a8f3622243",
@@ -4652,7 +4667,7 @@
             "source_name": "Codrops",
             "basis": "rss_excerpt",
             "published_at": "2026-09-13T11:34:39Z",
-            "checked_at": "2026-11-02T02:24:51Z"
+            "checked_at": "2026-11-02T06:42:59Z"
           },
           {
             "id": "e5b60107e6763277b1",
@@ -4663,7 +4678,7 @@
             "source_name": "Codrops",
             "basis": "rss_excerpt",
             "published_at": "2026-09-12T08:40:31Z",
-            "checked_at": "2026-11-02T02:24:51Z"
+            "checked_at": "2026-11-02T06:42:59Z"
           },
           {
             "id": "1c80df51d84652392e",
@@ -4674,7 +4689,7 @@
             "source_name": "Maxime Heckel",
             "basis": "rss_excerpt",
             "published_at": "2026-08-18T08:00:00Z",
-            "checked_at": "2026-11-02T02:24:51Z"
+            "checked_at": "2026-11-02T06:42:59Z"
           },
           {
             "id": "topic-repo-darby9123-arch--lolite-os",
@@ -4686,7 +4701,8 @@
             "basis": "metadata_only",
             "license": null,
             "published_at": "2026-11-02T02:19:17Z",
-            "checked_at": "2026-11-02T02:25:17Z"
+            "checked_at": "2026-11-02T02:25:17Z",
+            "stale": false
           },
           {
             "id": "topic-repo-rehan-devs--scoop---ice-cream-website",
@@ -4698,7 +4714,8 @@
             "basis": "metadata_only",
             "license": null,
             "published_at": "2026-11-02T02:06:59Z",
-            "checked_at": "2026-11-02T02:25:17Z"
+            "checked_at": "2026-11-02T02:25:17Z",
+            "stale": false
           },
           {
             "id": "topic-repo-rawframe-project--maul-tween",
@@ -4710,7 +4727,8 @@
             "basis": "metadata_only",
             "license": "MIT",
             "published_at": "2026-11-02T02:05:54Z",
-            "checked_at": "2026-11-02T02:25:17Z"
+            "checked_at": "2026-11-02T02:25:17Z",
+            "stale": false
           },
           {
             "id": "topic-repo-dagger75hogcher--artoonix",
@@ -4722,7 +4740,8 @@
             "basis": "metadata_only",
             "license": "MIT",
             "published_at": "2026-11-02T01:56:58Z",
-            "checked_at": "2026-11-02T02:25:17Z"
+            "checked_at": "2026-11-02T02:25:17Z",
+            "stale": false
           },
           {
             "id": "topic-repo-kirkhoney77--banner-maker-pro-full-version-unlocked",
@@ -4734,7 +4753,8 @@
             "basis": "metadata_only",
             "license": "MIT",
             "published_at": "2026-11-02T01:56:02Z",
-            "checked_at": "2026-11-02T02:25:17Z"
+            "checked_at": "2026-11-02T02:25:17Z",
+            "stale": false
           }
         ],
         "health": {
@@ -4743,9 +4763,8 @@
             "count": 7
           },
           "github": {
-            "status": "ok",
-            "count": 5,
-            "note": "Первая страница, публичные метаданные; не аудит кода"
+            "status": "cached",
+            "note": "Снимок младше 6 часов; без запроса API"
           },
           "gemini": {
             "status": "not_requested"
@@ -4759,7 +4778,7 @@
         },
         "ai_selected_ids": [],
         "checked_at": "2026-11-02T02:25:17Z",
-        "last_attempt_at": "2026-11-02T02:25:19Z"
+        "last_attempt_at": "2026-11-02T06:43:09Z"
       },
       {
         "id": "blender",
@@ -4776,7 +4795,7 @@
             "source_name": "BlenderNation",
             "basis": "rss_excerpt",
             "published_at": "2026-11-01T07:55:23Z",
-            "checked_at": "2026-11-02T02:24:51Z"
+            "checked_at": "2026-11-02T06:42:59Z"
           },
           {
             "id": "500132667f9ec65906",
@@ -4787,7 +4806,7 @@
             "source_name": "BlenderNation",
             "basis": "rss_excerpt",
             "published_at": "2026-10-31T10:27:03Z",
-            "checked_at": "2026-11-02T02:24:51Z"
+            "checked_at": "2026-11-02T06:42:59Z"
           },
           {
             "id": "ea9f125d4a2b5bbeca",
@@ -4798,7 +4817,7 @@
             "source_name": "BlenderNation",
             "basis": "rss_excerpt",
             "published_at": "2026-10-31T08:00:33Z",
-            "checked_at": "2026-11-02T02:24:51Z"
+            "checked_at": "2026-11-02T06:42:59Z"
           },
           {
             "id": "900e199369b6bee06c",
@@ -4809,7 +4828,7 @@
             "source_name": "Blender Developers",
             "basis": "rss_excerpt",
             "published_at": "2026-10-30T13:18:52Z",
-            "checked_at": "2026-11-02T02:24:51Z"
+            "checked_at": "2026-11-02T06:42:59Z"
           },
           {
             "id": "b60021bdf55fe5abf8",
@@ -4820,7 +4839,7 @@
             "source_name": "BlenderNation",
             "basis": "rss_excerpt",
             "published_at": "2026-10-30T10:15:00Z",
-            "checked_at": "2026-11-02T02:24:51Z"
+            "checked_at": "2026-11-02T06:42:59Z"
           },
           {
             "id": "de8c72df8d1a2394b1",
@@ -4831,7 +4850,7 @@
             "source_name": "Three.js",
             "basis": "rss_excerpt",
             "published_at": "2026-10-30T08:03:18Z",
-            "checked_at": "2026-11-02T02:24:51Z"
+            "checked_at": "2026-11-02T06:42:59Z"
           },
           {
             "id": "10014f52844b97cf2d",
@@ -4842,7 +4861,7 @@
             "source_name": "Remotion",
             "basis": "rss_excerpt",
             "published_at": "2026-10-26T12:04:13Z",
-            "checked_at": "2026-11-02T02:24:51Z"
+            "checked_at": "2026-11-02T06:42:59Z"
           },
           {
             "id": "a1f3db65653cf65854",
@@ -4853,7 +4872,7 @@
             "source_name": "Blender Developers",
             "basis": "rss_excerpt",
             "published_at": "2026-10-14T12:26:59Z",
-            "checked_at": "2026-11-02T02:24:51Z"
+            "checked_at": "2026-11-02T06:42:59Z"
           },
           {
             "id": "8a085ef017581985d0",
@@ -4864,7 +4883,7 @@
             "source_name": "Blender Developers",
             "basis": "rss_excerpt",
             "published_at": "2026-10-05T14:29:39Z",
-            "checked_at": "2026-11-02T02:24:51Z"
+            "checked_at": "2026-11-02T06:42:59Z"
           },
           {
             "id": "e5b60107e6763277b1",
@@ -4875,7 +4894,7 @@
             "source_name": "Codrops",
             "basis": "rss_excerpt",
             "published_at": "2026-09-12T08:40:31Z",
-            "checked_at": "2026-11-02T02:24:51Z"
+            "checked_at": "2026-11-02T06:42:59Z"
           },
           {
             "id": "b36261991ac0195317",
@@ -4886,7 +4905,7 @@
             "source_name": "Blender Developers",
             "basis": "rss_excerpt",
             "published_at": "2026-09-10T15:56:53Z",
-            "checked_at": "2026-11-02T02:24:51Z"
+            "checked_at": "2026-11-02T06:42:59Z"
           },
           {
             "id": "ba8fbad82a9b229283",
@@ -4897,7 +4916,7 @@
             "source_name": "Blender Developers",
             "basis": "rss_excerpt",
             "published_at": "2026-07-30T14:52:49Z",
-            "checked_at": "2026-11-02T02:24:51Z"
+            "checked_at": "2026-11-02T06:42:59Z"
           },
           {
             "id": "topic-repo-godistimemrepic--blender",
@@ -4909,7 +4928,8 @@
             "basis": "metadata_only",
             "license": "MIT",
             "published_at": "2026-11-02T01:56:50Z",
-            "checked_at": "2026-11-02T02:25:19Z"
+            "checked_at": "2026-11-02T02:25:19Z",
+            "stale": false
           },
           {
             "id": "topic-repo-crenet-games--orthorig",
@@ -4921,7 +4941,8 @@
             "basis": "metadata_only",
             "license": "MIT",
             "published_at": "2026-11-02T01:51:04Z",
-            "checked_at": "2026-11-02T02:25:19Z"
+            "checked_at": "2026-11-02T02:25:19Z",
+            "stale": false
           },
           {
             "id": "topic-repo-hoovytubeofficial--hoovytools-sfmsessionimport-blender",
@@ -4933,7 +4954,8 @@
             "basis": "metadata_only",
             "license": "NOASSERTION",
             "published_at": "2026-11-02T01:40:48Z",
-            "checked_at": "2026-11-02T02:25:19Z"
+            "checked_at": "2026-11-02T02:25:19Z",
+            "stale": false
           },
           {
             "id": "topic-repo-dustooned--2dope",
@@ -4945,7 +4967,8 @@
             "basis": "metadata_only",
             "license": null,
             "published_at": "2026-11-02T01:24:20Z",
-            "checked_at": "2026-11-02T02:25:19Z"
+            "checked_at": "2026-11-02T02:25:19Z",
+            "stale": false
           },
           {
             "id": "topic-repo-bungov--nifskope-wildwastelandedition",
@@ -4957,7 +4980,8 @@
             "basis": "metadata_only",
             "license": "NOASSERTION",
             "published_at": "2026-11-02T02:20:51Z",
-            "checked_at": "2026-11-02T02:25:19Z"
+            "checked_at": "2026-11-02T02:25:19Z",
+            "stale": false
           }
         ],
         "health": {
@@ -4966,9 +4990,8 @@
             "count": 12
           },
           "github": {
-            "status": "ok",
-            "count": 5,
-            "note": "Первая страница, публичные метаданные; не аудит кода"
+            "status": "cached",
+            "note": "Снимок младше 6 часов; без запроса API"
           },
           "gemini": {
             "status": "not_requested"
@@ -4982,7 +5005,7 @@
         },
         "ai_selected_ids": [],
         "checked_at": "2026-11-02T02:25:19Z",
-        "last_attempt_at": "2026-11-02T02:25:21Z"
+        "last_attempt_at": "2026-11-02T06:43:09Z"
       },
       {
         "id": "comfyui",
@@ -4999,7 +5022,7 @@
             "source_name": "ComfyUI",
             "basis": "rss_excerpt",
             "published_at": "2026-10-30T01:24:06Z",
-            "checked_at": "2026-11-02T02:24:51Z"
+            "checked_at": "2026-11-02T06:42:59Z"
           },
           {
             "id": "topic-repo-sytesims--imagination-is-all-you-need",
@@ -5011,7 +5034,8 @@
             "basis": "metadata_only",
             "license": "AGPL-3.0",
             "published_at": "2026-11-02T02:22:18Z",
-            "checked_at": "2026-11-02T02:25:22Z"
+            "checked_at": "2026-11-02T02:25:22Z",
+            "stale": false
           },
           {
             "id": "topic-repo-slit-company--viral-hit",
@@ -5023,7 +5047,8 @@
             "basis": "metadata_only",
             "license": "Apache-2.0",
             "published_at": "2026-11-02T02:11:18Z",
-            "checked_at": "2026-11-02T02:25:22Z"
+            "checked_at": "2026-11-02T02:25:22Z",
+            "stale": false
           },
           {
             "id": "topic-repo-rebeltortuga--comfyui-free-local-wan-video-quality",
@@ -5035,7 +5060,8 @@
             "basis": "metadata_only",
             "license": "MIT",
             "published_at": "2026-11-02T01:41:04Z",
-            "checked_at": "2026-11-02T02:25:22Z"
+            "checked_at": "2026-11-02T02:25:22Z",
+            "stale": false
           },
           {
             "id": "topic-repo-rebeltortuga--comfyui-free-local-wan-video-high-resolution",
@@ -5047,7 +5073,8 @@
             "basis": "metadata_only",
             "license": "MIT",
             "published_at": "2026-11-02T01:41:06Z",
-            "checked_at": "2026-11-02T02:25:22Z"
+            "checked_at": "2026-11-02T02:25:22Z",
+            "stale": false
           },
           {
             "id": "topic-repo-workingprototype--fuobe",
@@ -5059,7 +5086,8 @@
             "basis": "metadata_only",
             "license": "MIT",
             "published_at": "2026-11-02T02:06:35Z",
-            "checked_at": "2026-11-02T02:25:22Z"
+            "checked_at": "2026-11-02T02:25:22Z",
+            "stale": false
           }
         ],
         "health": {
@@ -5068,9 +5096,8 @@
             "count": 1
           },
           "github": {
-            "status": "ok",
-            "count": 5,
-            "note": "Первая страница, публичные метаданные; не аудит кода"
+            "status": "cached",
+            "note": "Снимок младше 6 часов; без запроса API"
           },
           "gemini": {
             "status": "not_requested"
@@ -5084,13 +5111,13 @@
         },
         "ai_selected_ids": [],
         "checked_at": "2026-11-02T02:25:22Z",
-        "last_attempt_at": "2026-11-02T02:25:24Z"
+        "last_attempt_at": "2026-11-02T06:43:09Z"
       }
     ]
   },
   "signals": {
     "schema_version": 1,
-    "generated_at": "2026-11-02T02:25:24Z",
+    "generated_at": "2026-11-02T06:43:09Z",
     "mode": "public_metadata_only",
     "schedule_minutes": 30,
     "sources": [
@@ -5102,9 +5129,9 @@
         "status": "ok",
         "count": 5,
         "config_signature": "040b1222912c",
-        "last_attempt": "2026-11-02T02:25:24Z",
-        "last_success": "2026-11-02T02:25:24Z",
-        "next_check": "2026-11-02T02:55:24+00:00"
+        "last_attempt": "2026-11-02T06:43:09Z",
+        "last_success": "2026-11-02T06:43:09Z",
+        "next_check": "2026-11-02T07:13:09+00:00"
       },
       {
         "id": "hyperframes",
@@ -5114,9 +5141,9 @@
         "status": "ok",
         "count": 5,
         "config_signature": "b02bec891cfe",
-        "last_attempt": "2026-11-02T02:25:24Z",
-        "last_success": "2026-11-02T02:25:24Z",
-        "next_check": "2026-11-02T02:55:24+00:00"
+        "last_attempt": "2026-11-02T06:43:09Z",
+        "last_success": "2026-11-02T06:43:09Z",
+        "next_check": "2026-11-02T07:13:09+00:00"
       },
       {
         "id": "pouya",
@@ -5126,23 +5153,23 @@
         "status": "error",
         "count": 0,
         "config_signature": "63b934b73c2d",
-        "last_attempt": "2026-11-02T02:25:24Z",
+        "last_attempt": "2026-11-02T06:43:09Z",
         "error": "http_404",
         "last_success": null,
-        "next_check": "2026-11-02T02:55:24+00:00"
+        "next_check": "2026-11-02T07:13:09+00:00"
       },
       {
         "id": "louise",
         "label": "Louise de Sadeleer · статьи",
         "platform": "rss",
         "enabled": true,
-        "status": "error",
+        "status": "backoff",
         "count": 1,
         "config_signature": "f1f189758c10",
         "last_attempt": "2026-11-02T02:25:24Z",
-        "error": "http_403",
         "last_success": "2026-11-02T00:47:43Z",
-        "next_check": "2026-11-02T08:25:24+00:00"
+        "next_check": "2026-11-02T08:25:24+00:00",
+        "error": "http_403"
       },
       {
         "id": "x-movez",
@@ -5207,6 +5234,48 @@
     ],
     "items": [
       {
+        "id": "signal-c3063422e6f47b942b",
+        "title": "v0.9.0",
+        "url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.9.0",
+        "summary": "Новый релиз открытого проекта. Release notes ещё не разобраны.",
+        "source_name": "HyperFrames · релизы",
+        "source_id": "watch-hyperframes",
+        "watch_id": "hyperframes",
+        "platform": "github",
+        "kind": "watch_signal",
+        "basis": "metadata_only",
+        "published_at": "2026-11-02T05:41:28Z",
+        "seen_at": "2026-11-02T06:43:09Z",
+        "checked_at": "2026-11-02T06:43:09Z",
+        "tags": [
+          "Новый сигнал",
+          "github"
+        ],
+        "link_status": "ok",
+        "research_state": "needs_review"
+      },
+      {
+        "id": "signal-56bc46b8f71cc283c8",
+        "title": "v0.8.231",
+        "url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.8.231",
+        "summary": "Новый релиз открытого проекта. Release notes ещё не разобраны.",
+        "source_name": "HyperFrames · релизы",
+        "source_id": "watch-hyperframes",
+        "watch_id": "hyperframes",
+        "platform": "github",
+        "kind": "watch_signal",
+        "basis": "metadata_only",
+        "published_at": "2026-11-02T03:58:24Z",
+        "seen_at": "2026-11-02T06:43:09Z",
+        "checked_at": "2026-11-02T06:43:09Z",
+        "tags": [
+          "Новый сигнал",
+          "github"
+        ],
+        "link_status": "ok",
+        "research_state": "needs_review"
+      },
+      {
         "id": "signal-fecdb6c99c46b5548e",
         "title": "v0.8.230",
         "url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.8.230",
@@ -5219,7 +5288,7 @@
         "basis": "metadata_only",
         "published_at": "2026-11-02T00:15:43Z",
         "seen_at": "2026-11-02T00:47:43Z",
-        "checked_at": "2026-11-02T02:25:24Z",
+        "checked_at": "2026-11-02T06:43:09Z",
         "tags": [
           "Новый сигнал",
           "github"
@@ -5240,7 +5309,7 @@
         "basis": "metadata_only",
         "published_at": "2026-11-01T20:52:35Z",
         "seen_at": "2026-11-02T00:47:43Z",
-        "checked_at": "2026-11-02T02:25:24Z",
+        "checked_at": "2026-11-02T06:43:09Z",
         "tags": [
           "Новый сигнал",
           "github"
@@ -5261,49 +5330,7 @@
         "basis": "metadata_only",
         "published_at": "2026-11-01T18:40:22Z",
         "seen_at": "2026-11-02T00:47:43Z",
-        "checked_at": "2026-11-02T02:25:24Z",
-        "tags": [
-          "Новый сигнал",
-          "github"
-        ],
-        "link_status": "ok",
-        "research_state": "needs_review"
-      },
-      {
-        "id": "signal-493035603331d2ad26",
-        "title": "v0.8.227",
-        "url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.8.227",
-        "summary": "Новый релиз открытого проекта. Release notes ещё не разобраны.",
-        "source_name": "HyperFrames · релизы",
-        "source_id": "watch-hyperframes",
-        "watch_id": "hyperframes",
-        "platform": "github",
-        "kind": "watch_signal",
-        "basis": "metadata_only",
-        "published_at": "2026-11-01T16:41:08Z",
-        "seen_at": "2026-11-02T00:47:43Z",
-        "checked_at": "2026-11-02T02:25:24Z",
-        "tags": [
-          "Новый сигнал",
-          "github"
-        ],
-        "link_status": "ok",
-        "research_state": "needs_review"
-      },
-      {
-        "id": "signal-d03c229556f2825b7d",
-        "title": "v0.8.226",
-        "url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.8.226",
-        "summary": "Новый релиз открытого проекта. Release notes ещё не разобраны.",
-        "source_name": "HyperFrames · релизы",
-        "source_id": "watch-hyperframes",
-        "watch_id": "hyperframes",
-        "platform": "github",
-        "kind": "watch_signal",
-        "basis": "metadata_only",
-        "published_at": "2026-11-01T06:30:44Z",
-        "seen_at": "2026-11-02T00:47:43Z",
-        "checked_at": "2026-11-02T02:25:24Z",
+        "checked_at": "2026-11-02T06:43:09Z",
         "tags": [
           "Новый сигнал",
           "github"
@@ -5324,7 +5351,7 @@
         "basis": "metadata_only",
         "published_at": "2026-10-09T19:45:22Z",
         "seen_at": "2026-11-02T00:47:43Z",
-        "checked_at": "2026-11-02T02:25:24Z",
+        "checked_at": "2026-11-02T06:43:09Z",
         "tags": [
           "Новый сигнал",
           "github"
@@ -5345,7 +5372,7 @@
         "basis": "metadata_only",
         "published_at": "2026-10-09T17:17:06Z",
         "seen_at": "2026-11-02T00:47:43Z",
-        "checked_at": "2026-11-02T02:25:24Z",
+        "checked_at": "2026-11-02T06:43:09Z",
         "tags": [
           "Новый сигнал",
           "github"
@@ -5366,7 +5393,7 @@
         "basis": "metadata_only",
         "published_at": "2026-10-04T12:48:37Z",
         "seen_at": "2026-11-02T00:47:43Z",
-        "checked_at": "2026-11-02T02:25:24Z",
+        "checked_at": "2026-11-02T06:43:09Z",
         "tags": [
           "Новый сигнал",
           "github"
@@ -5387,7 +5414,7 @@
         "basis": "metadata_only",
         "published_at": "2026-09-29T18:46:13Z",
         "seen_at": "2026-11-02T00:47:43Z",
-        "checked_at": "2026-11-02T02:25:24Z",
+        "checked_at": "2026-11-02T06:43:09Z",
         "tags": [
           "Новый сигнал",
           "github"
@@ -5408,7 +5435,7 @@
         "basis": "metadata_only",
         "published_at": "2026-09-29T16:41:25Z",
         "seen_at": "2026-11-02T00:47:43Z",
-        "checked_at": "2026-11-02T02:25:24Z",
+        "checked_at": "2026-11-02T06:43:09Z",
         "tags": [
           "Новый сигнал",
           "github"
@@ -5439,10 +5466,10 @@
         "source_stale": true
       }
     ],
-    "network_calls": 4
+    "network_calls": 3
   },
   "library": {
-    "generated_at": "2026-11-02T02:25:25Z",
+    "generated_at": "2026-11-02T06:43:10Z",
     "last_attempt": "2026-11-02T01:14:59Z",
     "source_url": "https://chen.media/guides",
     "mode": "public_catalog_metadata",

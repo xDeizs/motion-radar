@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-02T02:24:59Z",
+    "generated_at": "2026-11-02T06:43:07Z",
     "version": 2,
     "mode": "public_read_only",
     "ai_enabled": false,
@@ -1195,7 +1195,7 @@
       "category": "motion",
       "source_id": "reference",
       "source_name": "Референсы",
-      "checked_at": "2026-11-02T02:24:59Z",
+      "checked_at": "2026-11-02T06:43:07Z",
       "published_at": null,
       "thumbnail": null,
       "link_status": "ok",
@@ -1254,7 +1254,7 @@
       "link_status": "unknown",
       "render_status": "not_checked",
       "page_status": "stale",
-      "last_attempt_at": "2026-11-02T02:24:59Z",
+      "last_attempt_at": "2026-11-02T06:43:07Z",
       "page_error": "Response exceeds safety limit"
     },
     {
@@ -1280,7 +1280,7 @@
       "link_status": "unknown",
       "render_status": "not_checked",
       "page_status": "stale",
-      "last_attempt_at": "2026-11-02T02:24:59Z",
+      "last_attempt_at": "2026-11-02T06:43:07Z",
       "page_error": "Response exceeds safety limit"
     },
     {
@@ -1300,7 +1300,7 @@
       "category": "motion",
       "source_id": "reference",
       "source_name": "Референсы",
-      "checked_at": "2026-11-02T02:24:59Z",
+      "checked_at": "2026-11-02T06:43:07Z",
       "published_at": null,
       "thumbnail": null,
       "link_status": "ok",
@@ -1309,7 +1309,7 @@
       "resolved_url": "https://threejs-journey.com/highlights/1",
       "page_title": "Highlights — Three.js Journey",
       "content_hash": "b5e4a4ede9498a9fbcb36aabcf37f1d17092732fd645cbb5202e15af60281542",
-      "changed": true,
+      "changed": false,
       "changed_at": "2026-11-02T02:24:59Z",
       "observation": "HTML страницы получен. Рендер и игровая сцена автоматически не тестировались."
     },

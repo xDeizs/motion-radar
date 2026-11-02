@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T02:25:24Z",
+  "generated_at": "2026-11-02T06:43:09Z",
   "scope": "RSS snapshot + first page of public GitHub. Not the entire internet. Social content excluded.",
   "topics": [
     {
@@ -17,7 +17,7 @@
           "source_name": "Three.js",
           "basis": "rss_excerpt",
           "published_at": "2026-10-30T08:03:18Z",
-          "checked_at": "2026-11-02T02:24:51Z"
+          "checked_at": "2026-11-02T06:42:59Z"
         },
         {
           "id": "10014f52844b97cf2d",
@@ -28,7 +28,7 @@
           "source_name": "Remotion",
           "basis": "rss_excerpt",
           "published_at": "2026-10-26T12:04:13Z",
-          "checked_at": "2026-11-02T02:24:51Z"
+          "checked_at": "2026-11-02T06:42:59Z"
         },
         {
           "id": "e5b60107e6763277b1",
@@ -39,7 +39,7 @@
           "source_name": "Codrops",
           "basis": "rss_excerpt",
           "published_at": "2026-09-12T08:40:31Z",
-          "checked_at": "2026-11-02T02:24:51Z"
+          "checked_at": "2026-11-02T06:42:59Z"
         },
         {
           "id": "1c80df51d84652392e",
@@ -50,7 +50,7 @@
           "source_name": "Maxime Heckel",
           "basis": "rss_excerpt",
           "published_at": "2026-08-18T08:00:00Z",
-          "checked_at": "2026-11-02T02:24:51Z"
+          "checked_at": "2026-11-02T06:42:59Z"
         },
         {
           "id": "topic-repo-sadidi13--wedo-claude-motion",
@@ -62,7 +62,8 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-11-01T21:35:12Z",
-          "checked_at": "2026-11-02T02:25:09Z"
+          "checked_at": "2026-11-02T02:25:09Z",
+          "stale": false
         },
         {
           "id": "topic-repo-tonyprots--motion-film-skill",
@@ -74,7 +75,8 @@
           "basis": "metadata_only",
           "license": "NOASSERTION",
           "published_at": "2026-11-01T21:00:24Z",
-          "checked_at": "2026-11-02T02:25:09Z"
+          "checked_at": "2026-11-02T02:25:09Z",
+          "stale": false
         },
         {
           "id": "topic-repo-framecoreworks--fcwm",
@@ -86,7 +88,8 @@
           "basis": "metadata_only",
           "license": "Apache-2.0",
           "published_at": "2026-11-01T20:23:08Z",
-          "checked_at": "2026-11-02T02:25:09Z"
+          "checked_at": "2026-11-02T02:25:09Z",
+          "stale": false
         },
         {
           "id": "topic-repo-elan6666--claude-video-editing-motion",
@@ -98,7 +101,8 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-11-01T13:01:31Z",
-          "checked_at": "2026-11-02T02:25:09Z"
+          "checked_at": "2026-11-02T02:25:09Z",
+          "stale": false
         },
         {
           "id": "topic-repo-heshamadel1--ctrl-h",
@@ -110,7 +114,8 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-10-31T22:28:43Z",
-          "checked_at": "2026-11-02T02:25:09Z"
+          "checked_at": "2026-11-02T02:25:09Z",
+          "stale": false
         }
       ],
       "health": {
@@ -119,9 +124,8 @@
           "count": 4
         },
         "github": {
-          "status": "ok",
-          "count": 5,
-          "note": "Первая страница, публичные метаданные; не аудит кода"
+          "status": "cached",
+          "note": "Снимок младше 6 часов; без запроса API"
         },
         "gemini": {
           "status": "not_requested"
@@ -135,7 +139,7 @@
       },
       "ai_selected_ids": [],
       "checked_at": "2026-11-02T02:25:09Z",
-      "last_attempt_at": "2026-11-02T02:25:11Z"
+      "last_attempt_at": "2026-11-02T06:43:09Z"
     },
     {
       "id": "remotion",
@@ -152,7 +156,7 @@
           "source_name": "Remotion",
           "basis": "rss_excerpt",
           "published_at": "2026-10-26T12:04:13Z",
-          "checked_at": "2026-11-02T02:24:51Z"
+          "checked_at": "2026-11-02T06:42:59Z"
         },
         {
           "id": "topic-repo-stablyai--orca",
@@ -164,7 +168,8 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-11-02T02:25:05Z",
-          "checked_at": "2026-11-02T02:25:12Z"
+          "checked_at": "2026-11-02T02:25:12Z",
+          "stale": false
         },
         {
           "id": "topic-repo-evanzhang008--open-walnut",
@@ -176,7 +181,8 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-11-02T02:24:06Z",
-          "checked_at": "2026-11-02T02:25:12Z"
+          "checked_at": "2026-11-02T02:25:12Z",
+          "stale": false
         },
         {
           "id": "topic-repo-remote-arc--remote-arc",
@@ -188,7 +194,8 @@
           "basis": "metadata_only",
           "license": "NOASSERTION",
           "published_at": "2026-11-02T02:22:06Z",
-          "checked_at": "2026-11-02T02:25:12Z"
+          "checked_at": "2026-11-02T02:25:12Z",
+          "stale": false
         },
         {
           "id": "topic-repo-caezium--cc-tools",
@@ -200,7 +207,8 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-11-02T02:16:54Z",
-          "checked_at": "2026-11-02T02:25:12Z"
+          "checked_at": "2026-11-02T02:25:12Z",
+          "stale": false
         },
         {
           "id": "topic-repo-wi202im--maricode",
@@ -212,7 +220,8 @@
           "basis": "metadata_only",
           "license": "AGPL-3.0",
           "published_at": "2026-11-02T02:12:50Z",
-          "checked_at": "2026-11-02T02:25:12Z"
+          "checked_at": "2026-11-02T02:25:12Z",
+          "stale": false
         }
       ],
       "health": {
@@ -221,9 +230,8 @@
           "count": 1
         },
         "github": {
-          "status": "ok",
-          "count": 5,
-          "note": "Первая страница, публичные метаданные; не аудит кода"
+          "status": "cached",
+          "note": "Снимок младше 6 часов; без запроса API"
         },
         "gemini": {
           "status": "not_requested"
@@ -237,7 +245,7 @@
       },
       "ai_selected_ids": [],
       "checked_at": "2026-11-02T02:25:12Z",
-      "last_attempt_at": "2026-11-02T02:25:14Z"
+      "last_attempt_at": "2026-11-02T06:43:09Z"
     },
     {
       "id": "grok-video",
@@ -255,7 +263,8 @@
           "basis": "metadata_only",
           "license": null,
           "published_at": "2026-11-02T01:04:47Z",
-          "checked_at": "2026-11-02T02:25:14Z"
+          "checked_at": "2026-11-02T02:25:14Z",
+          "stale": false
         },
         {
           "id": "topic-repo-cyberdreadx--cyberpunk-grok-api",
@@ -267,7 +276,8 @@
           "basis": "metadata_only",
           "license": null,
           "published_at": "2026-11-01T22:49:42Z",
-          "checked_at": "2026-11-02T02:25:14Z"
+          "checked_at": "2026-11-02T02:25:14Z",
+          "stale": false
         },
         {
           "id": "topic-repo-dapao-777--roamcat",
@@ -279,7 +289,8 @@
           "basis": "metadata_only",
           "license": "MPL-2.0",
           "published_at": "2026-11-01T21:16:59Z",
-          "checked_at": "2026-11-02T02:25:14Z"
+          "checked_at": "2026-11-02T02:25:14Z",
+          "stale": false
         },
         {
           "id": "topic-repo-youmind-openlab--awesome-grok-imagine-prompts",
@@ -291,7 +302,8 @@
           "basis": "metadata_only",
           "license": "NOASSERTION",
           "published_at": "2026-11-01T20:45:49Z",
-          "checked_at": "2026-11-02T02:25:14Z"
+          "checked_at": "2026-11-02T02:25:14Z",
+          "stale": false
         },
         {
           "id": "topic-repo-imaginevid--awesome-grok-imagine-video-prompts-and-skills",
@@ -303,7 +315,8 @@
           "basis": "metadata_only",
           "license": "NOASSERTION",
           "published_at": "2026-11-01T20:09:50Z",
-          "checked_at": "2026-11-02T02:25:14Z"
+          "checked_at": "2026-11-02T02:25:14Z",
+          "stale": false
         }
       ],
       "health": {
@@ -312,9 +325,8 @@
           "count": 0
         },
         "github": {
-          "status": "ok",
-          "count": 5,
-          "note": "Первая страница, публичные метаданные; не аудит кода"
+          "status": "cached",
+          "note": "Снимок младше 6 часов; без запроса API"
         },
         "gemini": {
           "status": "not_requested"
@@ -328,7 +340,7 @@
       },
       "ai_selected_ids": [],
       "checked_at": "2026-11-02T02:25:14Z",
-      "last_attempt_at": "2026-11-02T02:25:16Z"
+      "last_attempt_at": "2026-11-02T06:43:09Z"
     },
     {
       "id": "motion-web",
@@ -345,7 +357,7 @@
           "source_name": "Three.js",
           "basis": "rss_excerpt",
           "published_at": "2026-10-30T08:03:18Z",
-          "checked_at": "2026-11-02T02:24:51Z"
+          "checked_at": "2026-11-02T06:42:59Z"
         },
         {
           "id": "10014f52844b97cf2d",
@@ -356,7 +368,7 @@
           "source_name": "Remotion",
           "basis": "rss_excerpt",
           "published_at": "2026-10-26T12:04:13Z",
-          "checked_at": "2026-11-02T02:24:51Z"
+          "checked_at": "2026-11-02T06:42:59Z"
         },
         {
           "id": "fe7b225f29d029cecf",
@@ -367,7 +379,7 @@
           "source_name": "React Three Fiber",
           "basis": "rss_excerpt",
           "published_at": "2026-10-17T01:54:18Z",
-          "checked_at": "2026-11-02T02:24:51Z"
+          "checked_at": "2026-11-02T06:42:59Z"
         },
         {
           "id": "c8566f6a69ddc2807c",
@@ -378,7 +390,7 @@
           "source_name": "Codrops",
           "basis": "rss_excerpt",
           "published_at": "2026-09-14T11:30:10Z",
-          "checked_at": "2026-11-02T02:24:51Z"
+          "checked_at": "2026-11-02T06:42:59Z"
         },
         {
           "id": "6ac95cc8a8f3622243",
@@ -389,7 +401,7 @@
           "source_name": "Codrops",
           "basis": "rss_excerpt",
           "published_at": "2026-09-13T11:34:39Z",
-          "checked_at": "2026-11-02T02:24:51Z"
+          "checked_at": "2026-11-02T06:42:59Z"
         },
         {
           "id": "e5b60107e6763277b1",
@@ -400,7 +412,7 @@
           "source_name": "Codrops",
           "basis": "rss_excerpt",
           "published_at": "2026-09-12T08:40:31Z",
-          "checked_at": "2026-11-02T02:24:51Z"
+          "checked_at": "2026-11-02T06:42:59Z"
         },
         {
           "id": "1c80df51d84652392e",
@@ -411,7 +423,7 @@
           "source_name": "Maxime Heckel",
           "basis": "rss_excerpt",
           "published_at": "2026-08-18T08:00:00Z",
-          "checked_at": "2026-11-02T02:24:51Z"
+          "checked_at": "2026-11-02T06:42:59Z"
         },
         {
           "id": "topic-repo-darby9123-arch--lolite-os",
@@ -423,7 +435,8 @@
           "basis": "metadata_only",
           "license": null,
           "published_at": "2026-11-02T02:19:17Z",
-          "checked_at": "2026-11-02T02:25:17Z"
+          "checked_at": "2026-11-02T02:25:17Z",
+          "stale": false
         },
         {
           "id": "topic-repo-rehan-devs--scoop---ice-cream-website",
@@ -435,7 +448,8 @@
           "basis": "metadata_only",
           "license": null,
           "published_at": "2026-11-02T02:06:59Z",
-          "checked_at": "2026-11-02T02:25:17Z"
+          "checked_at": "2026-11-02T02:25:17Z",
+          "stale": false
         },
         {
           "id": "topic-repo-rawframe-project--maul-tween",
@@ -447,7 +461,8 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-11-02T02:05:54Z",
-          "checked_at": "2026-11-02T02:25:17Z"
+          "checked_at": "2026-11-02T02:25:17Z",
+          "stale": false
         },
         {
           "id": "topic-repo-dagger75hogcher--artoonix",
@@ -459,7 +474,8 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-11-02T01:56:58Z",
-          "checked_at": "2026-11-02T02:25:17Z"
+          "checked_at": "2026-11-02T02:25:17Z",
+          "stale": false
         },
         {
           "id": "topic-repo-kirkhoney77--banner-maker-pro-full-version-unlocked",
@@ -471,7 +487,8 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-11-02T01:56:02Z",
-          "checked_at": "2026-11-02T02:25:17Z"
+          "checked_at": "2026-11-02T02:25:17Z",
+          "stale": false
         }
       ],
       "health": {
@@ -480,9 +497,8 @@
           "count": 7
         },
         "github": {
-          "status": "ok",
-          "count": 5,
-          "note": "Первая страница, публичные метаданные; не аудит кода"
+          "status": "cached",
+          "note": "Снимок младше 6 часов; без запроса API"
         },
         "gemini": {
           "status": "not_requested"
@@ -496,7 +512,7 @@
       },
       "ai_selected_ids": [],
       "checked_at": "2026-11-02T02:25:17Z",
-      "last_attempt_at": "2026-11-02T02:25:19Z"
+      "last_attempt_at": "2026-11-02T06:43:09Z"
     },
     {
       "id": "blender",
@@ -513,7 +529,7 @@
           "source_name": "BlenderNation",
           "basis": "rss_excerpt",
           "published_at": "2026-11-01T07:55:23Z",
-          "checked_at": "2026-11-02T02:24:51Z"
+          "checked_at": "2026-11-02T06:42:59Z"
         },
         {
           "id": "500132667f9ec65906",
@@ -524,7 +540,7 @@
           "source_name": "BlenderNation",
           "basis": "rss_excerpt",
           "published_at": "2026-10-31T10:27:03Z",
-          "checked_at": "2026-11-02T02:24:51Z"
+          "checked_at": "2026-11-02T06:42:59Z"
         },
         {
           "id": "ea9f125d4a2b5bbeca",
@@ -535,7 +551,7 @@
           "source_name": "BlenderNation",
           "basis": "rss_excerpt",
           "published_at": "2026-10-31T08:00:33Z",
-          "checked_at": "2026-11-02T02:24:51Z"
+          "checked_at": "2026-11-02T06:42:59Z"
         },
         {
           "id": "900e199369b6bee06c",
@@ -546,7 +562,7 @@
           "source_name": "Blender Developers",
           "basis": "rss_excerpt",
           "published_at": "2026-10-30T13:18:52Z",
-          "checked_at": "2026-11-02T02:24:51Z"
+          "checked_at": "2026-11-02T06:42:59Z"
         },
         {
           "id": "b60021bdf55fe5abf8",
@@ -557,7 +573,7 @@
           "source_name": "BlenderNation",
           "basis": "rss_excerpt",
           "published_at": "2026-10-30T10:15:00Z",
-          "checked_at": "2026-11-02T02:24:51Z"
+          "checked_at": "2026-11-02T06:42:59Z"
         },
         {
           "id": "de8c72df8d1a2394b1",
@@ -568,7 +584,7 @@
           "source_name": "Three.js",
           "basis": "rss_excerpt",
           "published_at": "2026-10-30T08:03:18Z",
-          "checked_at": "2026-11-02T02:24:51Z"
+          "checked_at": "2026-11-02T06:42:59Z"
         },
         {
           "id": "10014f52844b97cf2d",
@@ -579,7 +595,7 @@
           "source_name": "Remotion",
           "basis": "rss_excerpt",
           "published_at": "2026-10-26T12:04:13Z",
-          "checked_at": "2026-11-02T02:24:51Z"
+          "checked_at": "2026-11-02T06:42:59Z"
         },
         {
           "id": "a1f3db65653cf65854",
@@ -590,7 +606,7 @@
           "source_name": "Blender Developers",
           "basis": "rss_excerpt",
           "published_at": "2026-10-14T12:26:59Z",
-          "checked_at": "2026-11-02T02:24:51Z"
+          "checked_at": "2026-11-02T06:42:59Z"
         },
         {
           "id": "8a085ef017581985d0",
@@ -601,7 +617,7 @@
           "source_name": "Blender Developers",
           "basis": "rss_excerpt",
           "published_at": "2026-10-05T14:29:39Z",
-          "checked_at": "2026-11-02T02:24:51Z"
+          "checked_at": "2026-11-02T06:42:59Z"
         },
         {
           "id": "e5b60107e6763277b1",
@@ -612,7 +628,7 @@
           "source_name": "Codrops",
           "basis": "rss_excerpt",
           "published_at": "2026-09-12T08:40:31Z",
-          "checked_at": "2026-11-02T02:24:51Z"
+          "checked_at": "2026-11-02T06:42:59Z"
         },
         {
           "id": "b36261991ac0195317",
@@ -623,7 +639,7 @@
           "source_name": "Blender Developers",
           "basis": "rss_excerpt",
           "published_at": "2026-09-10T15:56:53Z",
-          "checked_at": "2026-11-02T02:24:51Z"
+          "checked_at": "2026-11-02T06:42:59Z"
         },
         {
           "id": "ba8fbad82a9b229283",
@@ -634,7 +650,7 @@
           "source_name": "Blender Developers",
           "basis": "rss_excerpt",
           "published_at": "2026-07-30T14:52:49Z",
-          "checked_at": "2026-11-02T02:24:51Z"
+          "checked_at": "2026-11-02T06:42:59Z"
         },
         {
           "id": "topic-repo-godistimemrepic--blender",
@@ -646,7 +662,8 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-11-02T01:56:50Z",
-          "checked_at": "2026-11-02T02:25:19Z"
+          "checked_at": "2026-11-02T02:25:19Z",
+          "stale": false
         },
         {
           "id": "topic-repo-crenet-games--orthorig",
@@ -658,7 +675,8 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-11-02T01:51:04Z",
-          "checked_at": "2026-11-02T02:25:19Z"
+          "checked_at": "2026-11-02T02:25:19Z",
+          "stale": false
         },
         {
           "id": "topic-repo-hoovytubeofficial--hoovytools-sfmsessionimport-blender",
@@ -670,7 +688,8 @@
           "basis": "metadata_only",
           "license": "NOASSERTION",
           "published_at": "2026-11-02T01:40:48Z",
-          "checked_at": "2026-11-02T02:25:19Z"
+          "checked_at": "2026-11-02T02:25:19Z",
+          "stale": false
         },
         {
           "id": "topic-repo-dustooned--2dope",
@@ -682,7 +701,8 @@
           "basis": "metadata_only",
           "license": null,
           "published_at": "2026-11-02T01:24:20Z",
-          "checked_at": "2026-11-02T02:25:19Z"
+          "checked_at": "2026-11-02T02:25:19Z",
+          "stale": false
         },
         {
           "id": "topic-repo-bungov--nifskope-wildwastelandedition",
@@ -694,7 +714,8 @@
           "basis": "metadata_only",
           "license": "NOASSERTION",
           "published_at": "2026-11-02T02:20:51Z",
-          "checked_at": "2026-11-02T02:25:19Z"
+          "checked_at": "2026-11-02T02:25:19Z",
+          "stale": false
         }
       ],
       "health": {
@@ -703,9 +724,8 @@
           "count": 12
         },
         "github": {
-          "status": "ok",
-          "count": 5,
-          "note": "Первая страница, публичные метаданные; не аудит кода"
+          "status": "cached",
+          "note": "Снимок младше 6 часов; без запроса API"
         },
         "gemini": {
           "status": "not_requested"
@@ -719,7 +739,7 @@
       },
       "ai_selected_ids": [],
       "checked_at": "2026-11-02T02:25:19Z",
-      "last_attempt_at": "2026-11-02T02:25:21Z"
+      "last_attempt_at": "2026-11-02T06:43:09Z"
     },
     {
       "id": "comfyui",
@@ -736,7 +756,7 @@
           "source_name": "ComfyUI",
           "basis": "rss_excerpt",
           "published_at": "2026-10-30T01:24:06Z",
-          "checked_at": "2026-11-02T02:24:51Z"
+          "checked_at": "2026-11-02T06:42:59Z"
         },
         {
           "id": "topic-repo-sytesims--imagination-is-all-you-need",
@@ -748,7 +768,8 @@
           "basis": "metadata_only",
           "license": "AGPL-3.0",
           "published_at": "2026-11-02T02:22:18Z",
-          "checked_at": "2026-11-02T02:25:22Z"
+          "checked_at": "2026-11-02T02:25:22Z",
+          "stale": false
         },
         {
           "id": "topic-repo-slit-company--viral-hit",
@@ -760,7 +781,8 @@
           "basis": "metadata_only",
           "license": "Apache-2.0",
           "published_at": "2026-11-02T02:11:18Z",
-          "checked_at": "2026-11-02T02:25:22Z"
+          "checked_at": "2026-11-02T02:25:22Z",
+          "stale": false
         },
         {
           "id": "topic-repo-rebeltortuga--comfyui-free-local-wan-video-quality",
@@ -772,7 +794,8 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-11-02T01:41:04Z",
-          "checked_at": "2026-11-02T02:25:22Z"
+          "checked_at": "2026-11-02T02:25:22Z",
+          "stale": false
         },
         {
           "id": "topic-repo-rebeltortuga--comfyui-free-local-wan-video-high-resolution",
@@ -784,7 +807,8 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-11-02T01:41:06Z",
-          "checked_at": "2026-11-02T02:25:22Z"
+          "checked_at": "2026-11-02T02:25:22Z",
+          "stale": false
         },
         {
           "id": "topic-repo-workingprototype--fuobe",
@@ -796,7 +820,8 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-11-02T02:06:35Z",
-          "checked_at": "2026-11-02T02:25:22Z"
+          "checked_at": "2026-11-02T02:25:22Z",
+          "stale": false
         }
       ],
       "health": {
@@ -805,9 +830,8 @@
           "count": 1
         },
         "github": {
-          "status": "ok",
-          "count": 5,
-          "note": "Первая страница, публичные метаданные; не аудит кода"
+          "status": "cached",
+          "note": "Снимок младше 6 часов; без запроса API"
         },
         "gemini": {
           "status": "not_requested"
@@ -821,7 +845,7 @@
       },
       "ai_selected_ids": [],
       "checked_at": "2026-11-02T02:25:22Z",
-      "last_attempt_at": "2026-11-02T02:25:24Z"
+      "last_attempt_at": "2026-11-02T06:43:09Z"
     }
   ]
 }
