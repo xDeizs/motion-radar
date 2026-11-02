@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T17:55:18Z",
+  "generated_at": "2026-11-02T02:25:24Z",
   "scope": "RSS snapshot + first page of public GitHub. Not the entire internet. Social content excluded.",
   "topics": [
     {
@@ -17,7 +17,7 @@
           "source_name": "Three.js",
           "basis": "rss_excerpt",
           "published_at": "2026-10-30T08:03:18Z",
-          "checked_at": "2026-11-01T17:15:11Z"
+          "checked_at": "2026-11-02T02:24:51Z"
         },
         {
           "id": "10014f52844b97cf2d",
@@ -28,7 +28,7 @@
           "source_name": "Remotion",
           "basis": "rss_excerpt",
           "published_at": "2026-10-26T12:04:13Z",
-          "checked_at": "2026-11-01T17:15:11Z"
+          "checked_at": "2026-11-02T02:24:51Z"
         },
         {
           "id": "e5b60107e6763277b1",
@@ -39,7 +39,7 @@
           "source_name": "Codrops",
           "basis": "rss_excerpt",
           "published_at": "2026-09-12T08:40:31Z",
-          "checked_at": "2026-11-01T17:15:11Z"
+          "checked_at": "2026-11-02T02:24:51Z"
         },
         {
           "id": "1c80df51d84652392e",
@@ -50,7 +50,31 @@
           "source_name": "Maxime Heckel",
           "basis": "rss_excerpt",
           "published_at": "2026-08-18T08:00:00Z",
-          "checked_at": "2026-11-01T17:15:11Z"
+          "checked_at": "2026-11-02T02:24:51Z"
+        },
+        {
+          "id": "topic-repo-sadidi13--wedo-claude-motion",
+          "title": "Sadidi13/wedo-claude-motion",
+          "url": "https://github.com/Sadidi13/wedo-claude-motion",
+          "summary": "Layer editor for Claude-made animations: ask Claude for a video, edit every element as a layer, export MP4/WebM/MOV/GIF. Works with your Claude subscription.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "MIT",
+          "published_at": "2026-11-01T21:35:12Z",
+          "checked_at": "2026-11-02T02:25:09Z"
+        },
+        {
+          "id": "topic-repo-tonyprots--motion-film-skill",
+          "title": "tonyprots/motion-film-skill",
+          "url": "https://github.com/tonyprots/motion-film-skill",
+          "summary": "Turn a report, a deck or a product into a voice-led motion film, written in code by your AI agent. Skill for Claude Code, Codex and any agent: AI voiceover, beat-synced animation, captions, critic rounds, 60 fps 16:9 + 9:16.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "NOASSERTION",
+          "published_at": "2026-11-01T21:00:24Z",
+          "checked_at": "2026-11-02T02:25:09Z"
         },
         {
           "id": "topic-repo-framecoreworks--fcwm",
@@ -61,8 +85,8 @@
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": "Apache-2.0",
-          "published_at": "2026-11-01T17:38:29Z",
-          "checked_at": "2026-11-01T17:55:05Z"
+          "published_at": "2026-11-01T20:23:08Z",
+          "checked_at": "2026-11-02T02:25:09Z"
         },
         {
           "id": "topic-repo-elan6666--claude-video-editing-motion",
@@ -74,7 +98,7 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-11-01T13:01:31Z",
-          "checked_at": "2026-11-01T17:55:05Z"
+          "checked_at": "2026-11-02T02:25:09Z"
         },
         {
           "id": "topic-repo-heshamadel1--ctrl-h",
@@ -86,31 +110,7 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-10-31T22:28:43Z",
-          "checked_at": "2026-11-01T17:55:05Z"
-        },
-        {
-          "id": "topic-repo-chernandezmu--ux-ui-and-code-skill",
-          "title": "chernandezmu/UX-UI-and-Code-Skill",
-          "url": "https://github.com/chernandezmu/UX-UI-and-Code-Skill",
-          "summary": "A Claude skill for building dark, typographic, cinematic websites — design tokens, motion system and GSAP/Lenis animation recipes, adapted to your stack (HTML/CSS/JS, Svelte, Astro, NestJS, React) with an audit of what to use and what to drop.",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": null,
-          "published_at": "2026-10-31T03:38:06Z",
-          "checked_at": "2026-11-01T17:55:05Z"
-        },
-        {
-          "id": "topic-repo-gabros20--scroll-animation-skill",
-          "title": "gabros20/scroll-animation-skill",
-          "url": "https://github.com/gabros20/scroll-animation-skill",
-          "summary": "Claude skill: scroll animation system — measured entrance curves, pinned all-intra video scrub, scroll wells, header ink, iOS Safari/video/perf learnings, Motion + GSAP primitives. Companion to fluid-design-skill.",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": "MIT",
-          "published_at": "2026-10-31T16:32:23Z",
-          "checked_at": "2026-11-01T17:55:05Z"
+          "checked_at": "2026-11-02T02:25:09Z"
         }
       ],
       "health": {
@@ -134,8 +134,8 @@
         }
       },
       "ai_selected_ids": [],
-      "checked_at": "2026-11-01T17:55:05Z",
-      "last_attempt_at": "2026-11-01T17:55:07Z"
+      "checked_at": "2026-11-02T02:25:09Z",
+      "last_attempt_at": "2026-11-02T02:25:11Z"
     },
     {
       "id": "remotion",
@@ -152,31 +152,7 @@
           "source_name": "Remotion",
           "basis": "rss_excerpt",
           "published_at": "2026-10-26T12:04:13Z",
-          "checked_at": "2026-11-01T17:15:11Z"
-        },
-        {
-          "id": "topic-repo-tomerhayundev--skills",
-          "title": "tomerhayundev/skills",
-          "url": "https://github.com/tomerhayundev/skills",
-          "summary": "Claude Code skills: a master Remotion video skill with ten specialists broken out of it, production deploys on GitHub Actions and Cloudflare, skill publishing, visual verification.",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": "NOASSERTION",
-          "published_at": "2026-11-01T17:54:21Z",
-          "checked_at": "2026-11-01T17:55:07Z"
-        },
-        {
-          "id": "topic-repo-evanzhang008--open-walnut",
-          "title": "EvanZhang008/open-walnut",
-          "url": "https://github.com/EvanZhang008/open-walnut",
-          "summary": "Claude Code on your laptop and remote dev boxes, in one web page. Sessions keep running when SSH drops (no tmux), each session's changes get their own diff, plus tasks, notes, and memory. Self-hosted.",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": "MIT",
-          "published_at": "2026-11-01T17:54:16Z",
-          "checked_at": "2026-11-01T17:55:07Z"
+          "checked_at": "2026-11-02T02:24:51Z"
         },
         {
           "id": "topic-repo-stablyai--orca",
@@ -187,32 +163,56 @@
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": "MIT",
-          "published_at": "2026-11-01T17:53:52Z",
-          "checked_at": "2026-11-01T17:55:07Z"
+          "published_at": "2026-11-02T02:25:05Z",
+          "checked_at": "2026-11-02T02:25:12Z"
         },
         {
-          "id": "topic-repo-mixpeek--amux",
-          "title": "mixpeek/amux",
-          "url": "https://github.com/mixpeek/amux",
-          "summary": "The agent control plane: run Claude Code, Codex and Gemini CLI agents in parallel with a shared task board, schedules and usage-limit recovery. Native iPhone, iPad and Mac apps plus a web dashboard. Self-host (Rust + SQLite, Tailscale remote access) or use amux Cloud. MIT + Commons Clause.",
+          "id": "topic-repo-evanzhang008--open-walnut",
+          "title": "EvanZhang008/open-walnut",
+          "url": "https://github.com/EvanZhang008/open-walnut",
+          "summary": "Claude Code on your laptop and remote dev boxes, in one web page. Sessions keep running when SSH drops (no tmux), each session's changes get their own diff, plus tasks, notes, and memory. Self-hosted.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "MIT",
+          "published_at": "2026-11-02T02:24:06Z",
+          "checked_at": "2026-11-02T02:25:12Z"
+        },
+        {
+          "id": "topic-repo-remote-arc--remote-arc",
+          "title": "Remote-Arc/remote-arc",
+          "url": "https://github.com/Remote-Arc/remote-arc",
+          "summary": "Controlled remote computer access for AI — connect ChatGPT, Claude, Codex and MCP clients to Windows, macOS and Linux.",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": "NOASSERTION",
-          "published_at": "2026-11-01T17:53:48Z",
-          "checked_at": "2026-11-01T17:55:07Z"
+          "published_at": "2026-11-02T02:22:06Z",
+          "checked_at": "2026-11-02T02:25:12Z"
         },
         {
-          "id": "topic-repo-feritzcan2--termloop",
-          "title": "feritzcan2/termloop",
-          "url": "https://github.com/feritzcan2/termloop",
-          "summary": "AI terminal for coding agents: run Claude Code, Codex, and shells side by side on your computer or remote servers. Agents ask each other for second opinions, hand off context, and work in Tasks with Git worktrees. macOS, Windows, Linux.",
+          "id": "topic-repo-caezium--cc-tools",
+          "title": "caezium/cc-tools",
+          "url": "https://github.com/caezium/cc-tools",
+          "summary": "Dependency-light tools for Claude Code sessions, remote access, schedules, and local conversation handoffs.",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
-          "license": "NOASSERTION",
-          "published_at": "2026-11-01T17:52:00Z",
-          "checked_at": "2026-11-01T17:55:07Z"
+          "license": "MIT",
+          "published_at": "2026-11-02T02:16:54Z",
+          "checked_at": "2026-11-02T02:25:12Z"
+        },
+        {
+          "id": "topic-repo-wi202im--maricode",
+          "title": "wi202im/MARICODE",
+          "url": "https://github.com/wi202im/MARICODE",
+          "summary": "Mac workspace for Claude and Codex sessions with a remote web client",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "AGPL-3.0",
+          "published_at": "2026-11-02T02:12:50Z",
+          "checked_at": "2026-11-02T02:25:12Z"
         }
       ],
       "health": {
@@ -236,8 +236,8 @@
         }
       },
       "ai_selected_ids": [],
-      "checked_at": "2026-11-01T17:55:07Z",
-      "last_attempt_at": "2026-11-01T17:55:09Z"
+      "checked_at": "2026-11-02T02:25:12Z",
+      "last_attempt_at": "2026-11-02T02:25:14Z"
     },
     {
       "id": "grok-video",
@@ -246,16 +246,28 @@
       "web_query": "Grok Imagine animation",
       "items": [
         {
-          "id": "topic-repo-duckmartians--g-labs-studio",
-          "title": "duckmartians/G-Labs-Studio",
-          "url": "https://github.com/duckmartians/G-Labs-Studio",
-          "summary": "Desktop app for batch AI image & video generation with your own accounts - Google Flow (Veo 3.1, Omni Flash, Nano Banana), Google Vids, Google Pics, GPT Image 2, Meta Vibes, Meta Muse and Grok. Queue, parallel runs, workflows, video tools, Webhook API.",
+          "id": "topic-repo-sushilbaidyaindia-cyber--ai-smart-tube-",
+          "title": "sushilbaidyaindia-cyber/AI-Smart-Tube-",
+          "url": "https://github.com/sushilbaidyaindia-cyber/AI-Smart-Tube-",
+          "summary": "AI Smart Tube is an ad-free, privacy-first video player requiring no account. Powered by Gemini & Grok, it offers instant summaries, clickbait detection, and live translations. Designed for accessibility, it features TalkBack support, AI scene descriptions, and one-tap M4A downloads. Your data stays 100% private and local.",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": null,
-          "published_at": "2026-11-01T17:08:22Z",
-          "checked_at": "2026-11-01T17:55:09Z"
+          "published_at": "2026-11-02T01:04:47Z",
+          "checked_at": "2026-11-02T02:25:14Z"
+        },
+        {
+          "id": "topic-repo-cyberdreadx--cyberpunk-grok-api",
+          "title": "cyberdreadx/cyberpunk-grok-api",
+          "url": "https://github.com/cyberdreadx/cyberpunk-grok-api",
+          "summary": "Cyberpunk neural interface for AI image, video and character generation — multi-engine, multi-payment, creator-friendly.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": null,
+          "published_at": "2026-11-01T22:49:42Z",
+          "checked_at": "2026-11-02T02:25:14Z"
         },
         {
           "id": "topic-repo-dapao-777--roamcat",
@@ -266,32 +278,8 @@
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": "MPL-2.0",
-          "published_at": "2026-11-01T16:04:48Z",
-          "checked_at": "2026-11-01T17:55:09Z"
-        },
-        {
-          "id": "topic-repo-ultralightspeed--gork",
-          "title": "ultralightspeed/gork",
-          "url": "https://github.com/ultralightspeed/gork",
-          "summary": "An ultralight-cost, self-hosted @grok-style Discord bot: mention it to fact-check, search, read pages and videos, make images, polls and events. Runs on your PC with Cloudflare AI.",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": "0BSD",
-          "published_at": "2026-11-01T16:05:26Z",
-          "checked_at": "2026-11-01T17:55:09Z"
-        },
-        {
-          "id": "topic-repo-api-evangelist--xai",
-          "title": "api-evangelist/xai",
-          "url": "https://github.com/api-evangelist/xai",
-          "summary": "xAI — independent third-party profile of a public API surface, by API Evangelist. xAI is an AI research lab founded by Elon Musk. The xAI API exposes Grok foundation models for chat, function calling, vision, voice, image generation, and video generation, alongside research outputs from the Colossus training supercluster.",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": null,
-          "published_at": "2026-11-01T15:31:01Z",
-          "checked_at": "2026-11-01T17:55:09Z"
+          "published_at": "2026-11-01T21:16:59Z",
+          "checked_at": "2026-11-02T02:25:14Z"
         },
         {
           "id": "topic-repo-youmind-openlab--awesome-grok-imagine-prompts",
@@ -302,8 +290,20 @@
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": "NOASSERTION",
-          "published_at": "2026-11-01T15:08:00Z",
-          "checked_at": "2026-11-01T17:55:09Z"
+          "published_at": "2026-11-01T20:45:49Z",
+          "checked_at": "2026-11-02T02:25:14Z"
+        },
+        {
+          "id": "topic-repo-imaginevid--awesome-grok-imagine-video-prompts-and-skills",
+          "title": "imagineVid/awesome-grok-imagine-video-prompts-and-skills",
+          "url": "https://github.com/imagineVid/awesome-grok-imagine-video-prompts-and-skills",
+          "summary": "Source-backed Grok Imagine Video prompts with real result clips, camera paths, audio-aware workflows, and multilingual guides.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "NOASSERTION",
+          "published_at": "2026-11-01T20:09:50Z",
+          "checked_at": "2026-11-02T02:25:14Z"
         }
       ],
       "health": {
@@ -327,8 +327,8 @@
         }
       },
       "ai_selected_ids": [],
-      "checked_at": "2026-11-01T17:55:09Z",
-      "last_attempt_at": "2026-11-01T17:55:11Z"
+      "checked_at": "2026-11-02T02:25:14Z",
+      "last_attempt_at": "2026-11-02T02:25:16Z"
     },
     {
       "id": "motion-web",
@@ -345,7 +345,7 @@
           "source_name": "Three.js",
           "basis": "rss_excerpt",
           "published_at": "2026-10-30T08:03:18Z",
-          "checked_at": "2026-11-01T17:15:11Z"
+          "checked_at": "2026-11-02T02:24:51Z"
         },
         {
           "id": "10014f52844b97cf2d",
@@ -356,7 +356,7 @@
           "source_name": "Remotion",
           "basis": "rss_excerpt",
           "published_at": "2026-10-26T12:04:13Z",
-          "checked_at": "2026-11-01T17:15:11Z"
+          "checked_at": "2026-11-02T02:24:51Z"
         },
         {
           "id": "fe7b225f29d029cecf",
@@ -367,7 +367,7 @@
           "source_name": "React Three Fiber",
           "basis": "rss_excerpt",
           "published_at": "2026-10-17T01:54:18Z",
-          "checked_at": "2026-11-01T17:15:11Z"
+          "checked_at": "2026-11-02T02:24:51Z"
         },
         {
           "id": "c8566f6a69ddc2807c",
@@ -378,7 +378,7 @@
           "source_name": "Codrops",
           "basis": "rss_excerpt",
           "published_at": "2026-09-14T11:30:10Z",
-          "checked_at": "2026-11-01T17:15:11Z"
+          "checked_at": "2026-11-02T02:24:51Z"
         },
         {
           "id": "6ac95cc8a8f3622243",
@@ -389,7 +389,7 @@
           "source_name": "Codrops",
           "basis": "rss_excerpt",
           "published_at": "2026-09-13T11:34:39Z",
-          "checked_at": "2026-11-01T17:15:11Z"
+          "checked_at": "2026-11-02T02:24:51Z"
         },
         {
           "id": "e5b60107e6763277b1",
@@ -400,7 +400,7 @@
           "source_name": "Codrops",
           "basis": "rss_excerpt",
           "published_at": "2026-09-12T08:40:31Z",
-          "checked_at": "2026-11-01T17:15:11Z"
+          "checked_at": "2026-11-02T02:24:51Z"
         },
         {
           "id": "1c80df51d84652392e",
@@ -411,67 +411,67 @@
           "source_name": "Maxime Heckel",
           "basis": "rss_excerpt",
           "published_at": "2026-08-18T08:00:00Z",
-          "checked_at": "2026-11-01T17:15:11Z"
+          "checked_at": "2026-11-02T02:24:51Z"
         },
         {
-          "id": "topic-repo-kikiemi--ugonote2",
-          "title": "kikiemi/ugonote2",
-          "url": "https://github.com/kikiemi/ugonote2",
-          "summary": "懐かしのうごメモ（DSiのPPM / 3DSのKWZ）をブラウザ上で実機そのままの描き心地で閲覧・編集・書き出しできるWebアニメーションスタジオ。現代のフルカラー高解像度アニメ制作にも対応。 / A web-based flipbook studio that opens, edits, and exports Nintendo DSi (.ppm) and 3DS (.kwz) Flipnotes with hardware-accurate brushes, plus modern full-color animation tools.",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": "NOASSERTION",
-          "published_at": "2026-11-01T17:47:39Z",
-          "checked_at": "2026-11-01T17:55:12Z"
-        },
-        {
-          "id": "topic-repo-bintzgavin--helios",
-          "title": "BintzGavin/helios",
-          "url": "https://github.com/BintzGavin/helios",
-          "summary": "Programmatic video creation with web technologies you already know. CSS animations just work.",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": "Apache-2.0",
-          "published_at": "2026-11-01T17:44:40Z",
-          "checked_at": "2026-11-01T17:55:12Z"
-        },
-        {
-          "id": "topic-repo-exepuku802--banner-maker-pro",
-          "title": "exepuku802/Banner-Maker-Pro",
-          "url": "https://github.com/exepuku802/Banner-Maker-Pro",
-          "summary": "Create stunning graphics with Banner Maker Pro — a web design software for Windows offering free download. Design logos, buttons, and banners easily, customize sizes, and generate 120 animations. Safe free download.",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": "MIT",
-          "published_at": "2026-11-01T17:37:12Z",
-          "checked_at": "2026-11-01T17:55:12Z"
-        },
-        {
-          "id": "topic-repo-achilles-74--adobe-flash-full-version",
-          "title": "achilles-74/Adobe-Flash-Full-Version",
-          "url": "https://github.com/achilles-74/Adobe-Flash-Full-Version",
-          "summary": "Adobe Flash Professional is a free full-version animation software for Windows, perfect for creating interactive web content. With advanced animation effects, a multilanguage text engine, and seamless integration with Adobe apps, it's an essential tool for designers. Download the latest version free.",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": "MIT",
-          "published_at": "2026-11-01T17:35:22Z",
-          "checked_at": "2026-11-01T17:55:12Z"
-        },
-        {
-          "id": "topic-repo-elmarshub--couch-potato",
-          "title": "elmarshub/couch-potato",
-          "url": "https://github.com/elmarshub/couch-potato",
-          "summary": "A modern, responsive web app that helps you discover, track, and book your favorite movies and TV shows with a full theater booking system (seat selection, Stripe checkout), an admin console, and live notifications. Built with a cinematic design and smooth animations for an immersive experience.",
+          "id": "topic-repo-darby9123-arch--lolite-os",
+          "title": "darby9123-arch/Lolite-OS",
+          "url": "https://github.com/darby9123-arch/Lolite-OS",
+          "summary": "Lolite OS is a next-generation web-based operating system with a Windows-inspired interface, original Lolite branding, built-in apps and games, file management, ZIP tools, AI-powered search, wallpapers, customization, smooth animations, Liquid Glass, and much more.",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": null,
-          "published_at": "2026-11-01T17:40:04Z",
-          "checked_at": "2026-11-01T17:55:12Z"
+          "published_at": "2026-11-02T02:19:17Z",
+          "checked_at": "2026-11-02T02:25:17Z"
+        },
+        {
+          "id": "topic-repo-rehan-devs--scoop---ice-cream-website",
+          "title": "rehan-devs/Scoop---Ice-Cream-Website",
+          "url": "https://github.com/rehan-devs/Scoop---Ice-Cream-Website",
+          "summary": "🍦 SCOÖP — A premium artisan ice cream shop website featuring buttery-smooth animations, interactive 3D ice cream, and a luxurious design. Built with Next.js 14, GSAP, React Three Fiber, and Tailwind CSS.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": null,
+          "published_at": "2026-11-02T02:06:59Z",
+          "checked_at": "2026-11-02T02:25:17Z"
+        },
+        {
+          "id": "topic-repo-rawframe-project--maul-tween",
+          "title": "Rawframe-Project/maul-tween",
+          "url": "https://github.com/Rawframe-Project/maul-tween",
+          "summary": "Easing, springs, tweens and timelines driven by host time: CSS easing, Penner curves, Oklab colors, quaternions, Web Animations timing. C23, no allocation after setup, bit-exact, MIT.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "MIT",
+          "published_at": "2026-11-02T02:05:54Z",
+          "checked_at": "2026-11-02T02:25:17Z"
+        },
+        {
+          "id": "topic-repo-dagger75hogcher--artoonix",
+          "title": "dagger75hogcher/Artoonix",
+          "url": "https://github.com/dagger75hogcher/Artoonix",
+          "summary": "Get Artoonix — an animation software for Windows with free download. Create stunning animations in GIF, SWF, and AVI formats using its built-in image editor and add audio to your projects. Perfect for web animations. Download the latest release.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "MIT",
+          "published_at": "2026-11-02T01:56:58Z",
+          "checked_at": "2026-11-02T02:25:17Z"
+        },
+        {
+          "id": "topic-repo-kirkhoney77--banner-maker-pro-full-version-unlocked",
+          "title": "kirkhoney77/Banner-Maker-Pro-Full-Version-Unlocked",
+          "url": "https://github.com/kirkhoney77/Banner-Maker-Pro-Full-Version-Unlocked",
+          "summary": "Create stunning graphics with Banner Maker Pro, a web design tool for Windows, offering a free download. Customize banners, logos, and buttons with animations, gradients, and text effects. Download now and enhance your website!",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "MIT",
+          "published_at": "2026-11-02T01:56:02Z",
+          "checked_at": "2026-11-02T02:25:17Z"
         }
       ],
       "health": {
@@ -495,8 +495,8 @@
         }
       },
       "ai_selected_ids": [],
-      "checked_at": "2026-11-01T17:55:12Z",
-      "last_attempt_at": "2026-11-01T17:55:14Z"
+      "checked_at": "2026-11-02T02:25:17Z",
+      "last_attempt_at": "2026-11-02T02:25:19Z"
     },
     {
       "id": "blender",
@@ -513,7 +513,7 @@
           "source_name": "BlenderNation",
           "basis": "rss_excerpt",
           "published_at": "2026-11-01T07:55:23Z",
-          "checked_at": "2026-11-01T17:15:11Z"
+          "checked_at": "2026-11-02T02:24:51Z"
         },
         {
           "id": "500132667f9ec65906",
@@ -524,7 +524,7 @@
           "source_name": "BlenderNation",
           "basis": "rss_excerpt",
           "published_at": "2026-10-31T10:27:03Z",
-          "checked_at": "2026-11-01T17:15:11Z"
+          "checked_at": "2026-11-02T02:24:51Z"
         },
         {
           "id": "ea9f125d4a2b5bbeca",
@@ -535,7 +535,7 @@
           "source_name": "BlenderNation",
           "basis": "rss_excerpt",
           "published_at": "2026-10-31T08:00:33Z",
-          "checked_at": "2026-11-01T17:15:11Z"
+          "checked_at": "2026-11-02T02:24:51Z"
         },
         {
           "id": "900e199369b6bee06c",
@@ -546,7 +546,7 @@
           "source_name": "Blender Developers",
           "basis": "rss_excerpt",
           "published_at": "2026-10-30T13:18:52Z",
-          "checked_at": "2026-11-01T17:15:11Z"
+          "checked_at": "2026-11-02T02:24:51Z"
         },
         {
           "id": "b60021bdf55fe5abf8",
@@ -557,7 +557,7 @@
           "source_name": "BlenderNation",
           "basis": "rss_excerpt",
           "published_at": "2026-10-30T10:15:00Z",
-          "checked_at": "2026-11-01T17:15:11Z"
+          "checked_at": "2026-11-02T02:24:51Z"
         },
         {
           "id": "de8c72df8d1a2394b1",
@@ -568,7 +568,7 @@
           "source_name": "Three.js",
           "basis": "rss_excerpt",
           "published_at": "2026-10-30T08:03:18Z",
-          "checked_at": "2026-11-01T17:15:11Z"
+          "checked_at": "2026-11-02T02:24:51Z"
         },
         {
           "id": "10014f52844b97cf2d",
@@ -579,7 +579,7 @@
           "source_name": "Remotion",
           "basis": "rss_excerpt",
           "published_at": "2026-10-26T12:04:13Z",
-          "checked_at": "2026-11-01T17:15:11Z"
+          "checked_at": "2026-11-02T02:24:51Z"
         },
         {
           "id": "a1f3db65653cf65854",
@@ -590,7 +590,7 @@
           "source_name": "Blender Developers",
           "basis": "rss_excerpt",
           "published_at": "2026-10-14T12:26:59Z",
-          "checked_at": "2026-11-01T17:15:11Z"
+          "checked_at": "2026-11-02T02:24:51Z"
         },
         {
           "id": "8a085ef017581985d0",
@@ -601,7 +601,7 @@
           "source_name": "Blender Developers",
           "basis": "rss_excerpt",
           "published_at": "2026-10-05T14:29:39Z",
-          "checked_at": "2026-11-01T17:15:11Z"
+          "checked_at": "2026-11-02T02:24:51Z"
         },
         {
           "id": "e5b60107e6763277b1",
@@ -612,7 +612,7 @@
           "source_name": "Codrops",
           "basis": "rss_excerpt",
           "published_at": "2026-09-12T08:40:31Z",
-          "checked_at": "2026-11-01T17:15:11Z"
+          "checked_at": "2026-11-02T02:24:51Z"
         },
         {
           "id": "b36261991ac0195317",
@@ -623,7 +623,7 @@
           "source_name": "Blender Developers",
           "basis": "rss_excerpt",
           "published_at": "2026-09-10T15:56:53Z",
-          "checked_at": "2026-11-01T17:15:11Z"
+          "checked_at": "2026-11-02T02:24:51Z"
         },
         {
           "id": "ba8fbad82a9b229283",
@@ -634,67 +634,67 @@
           "source_name": "Blender Developers",
           "basis": "rss_excerpt",
           "published_at": "2026-07-30T14:52:49Z",
-          "checked_at": "2026-11-01T17:15:11Z"
+          "checked_at": "2026-11-02T02:24:51Z"
         },
         {
-          "id": "topic-repo-ogneocortext--native-media-ai-studio",
-          "title": "ogneocortext/Native-Media-AI-Studio",
-          "url": "https://github.com/ogneocortext/Native-Media-AI-Studio",
-          "summary": "Full-stack music-video creation suite: React + Vite + Remotion frontend, FastAPI backend with ComfyUI integration, Unity/Blender MCP bridges for 3D scene generation and beat-synced animation, GPU-accelerated audio analysis, and an Obsidian knowledge library.",
+          "id": "topic-repo-godistimemrepic--blender",
+          "title": "godistimemrepic/Blender",
+          "url": "https://github.com/godistimemrepic/Blender",
+          "summary": "Get Blender — a 3D modeling and animation program for Windows with free download. Model with various techniques, create textures, and animate scenes using a quick skeleton creation mode. Download the latest release.",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": "MIT",
-          "published_at": "2026-11-01T17:54:50Z",
-          "checked_at": "2026-11-01T17:55:14Z"
+          "published_at": "2026-11-02T01:56:50Z",
+          "checked_at": "2026-11-02T02:25:19Z"
         },
         {
-          "id": "topic-repo-coolkama--orchid",
-          "title": "Coolkama/Orchid",
-          "url": "https://github.com/Coolkama/Orchid",
-          "summary": "Test bed for blender animation",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": null,
-          "published_at": "2026-11-01T17:47:44Z",
-          "checked_at": "2026-11-01T17:55:14Z"
-        },
-        {
-          "id": "topic-repo-artemzhzhenov--video-slice-contractor",
-          "title": "artemzhzhenov/video-slice-contractor",
-          "url": "https://github.com/artemzhzhenov/video-slice-contractor",
-          "summary": "Contractor workspace for the Phase 0.5 reference slice: Blender rigging/animation task, acceptance checks, report (public mirror of one branch of a private repository)",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": null,
-          "published_at": "2026-11-01T17:03:40Z",
-          "checked_at": "2026-11-01T17:55:14Z"
-        },
-        {
-          "id": "topic-repo-rfingadam--meshwire",
-          "title": "RFingAdam/meshwire",
-          "url": "https://github.com/RFingAdam/meshwire",
-          "summary": "An independent MCP server for Blender: modeling, materials, animation, AI 3D generation, and Microsoft Flight Simulator content",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": "AGPL-3.0",
-          "published_at": "2026-11-01T17:50:13Z",
-          "checked_at": "2026-11-01T17:55:14Z"
-        },
-        {
-          "id": "topic-repo-camenikmine92--blender-full-version",
-          "title": "camenikmine92/Blender-Full-Version",
-          "url": "https://github.com/camenikmine92/Blender-Full-Version",
-          "summary": "Blender is a free full-version 3D modeling and animation program for Windows that allows you to create, animate, and render professional-grade 3D projects. With features like quick skeleton creation and various modeling methods, you can unleash your creativity. Download the latest version free.",
+          "id": "topic-repo-crenet-games--orthorig",
+          "title": "CReNET-Games/OrthoRig",
+          "url": "https://github.com/CReNET-Games/OrthoRig",
+          "summary": "Open-source 2D orthographic skeletal animation compiler (Blender bpy) and Analytic 2-Bone IK runtime for PixiJS v8",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": "MIT",
-          "published_at": "2026-11-01T15:40:46Z",
-          "checked_at": "2026-11-01T17:55:14Z"
+          "published_at": "2026-11-02T01:51:04Z",
+          "checked_at": "2026-11-02T02:25:19Z"
+        },
+        {
+          "id": "topic-repo-hoovytubeofficial--hoovytools-sfmsessionimport-blender",
+          "title": "hoovytubeofficial/HoovyTools-SFMSessionImport-Blender",
+          "url": "https://github.com/hoovytubeofficial/HoovyTools-SFMSessionImport-Blender",
+          "summary": "Import Source Filmmaker sessions into Blender - models, animation, faces, cameras, lights, sounds and the map, on SFM's own timeline. Twin of Source Particle Import.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "NOASSERTION",
+          "published_at": "2026-11-02T01:40:48Z",
+          "checked_at": "2026-11-02T02:25:19Z"
+        },
+        {
+          "id": "topic-repo-dustooned--2dope",
+          "title": "dustooned/2Dope",
+          "url": "https://github.com/dustooned/2Dope",
+          "summary": "Custom 2D-Animation to Blender app.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": null,
+          "published_at": "2026-11-02T01:24:20Z",
+          "checked_at": "2026-11-02T02:25:19Z"
+        },
+        {
+          "id": "topic-repo-bungov--nifskope-wildwastelandedition",
+          "title": "BungoV/NifSkope-WildWastelandEdition",
+          "url": "https://github.com/BungoV/NifSkope-WildWastelandEdition",
+          "summary": "A NIF editor for Fallout 4 - rigging, Havok collision authoring, UV editing, an animation timeline, Blender-style modeling and a headless CLI.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "NOASSERTION",
+          "published_at": "2026-11-02T02:20:51Z",
+          "checked_at": "2026-11-02T02:25:19Z"
         }
       ],
       "health": {
@@ -718,8 +718,8 @@
         }
       },
       "ai_selected_ids": [],
-      "checked_at": "2026-11-01T17:55:14Z",
-      "last_attempt_at": "2026-11-01T17:55:16Z"
+      "checked_at": "2026-11-02T02:25:19Z",
+      "last_attempt_at": "2026-11-02T02:25:21Z"
     },
     {
       "id": "comfyui",
@@ -736,55 +736,55 @@
           "source_name": "ComfyUI",
           "basis": "rss_excerpt",
           "published_at": "2026-10-30T01:24:06Z",
-          "checked_at": "2026-11-01T17:15:11Z"
+          "checked_at": "2026-11-02T02:24:51Z"
         },
         {
-          "id": "topic-repo-ogneocortext--native-media-ai-studio",
-          "title": "ogneocortext/Native-Media-AI-Studio",
-          "url": "https://github.com/ogneocortext/Native-Media-AI-Studio",
-          "summary": "Full-stack music-video creation suite: React + Vite + Remotion frontend, FastAPI backend with ComfyUI integration, Unity/Blender MCP bridges for 3D scene generation and beat-synced animation, GPU-accelerated audio analysis, and an Obsidian knowledge library.",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": "MIT",
-          "published_at": "2026-11-01T17:54:50Z",
-          "checked_at": "2026-11-01T17:55:16Z"
-        },
-        {
-          "id": "topic-repo-rahmeljackson--frameforge-studio",
-          "title": "RahmelJackson/frameforge-studio",
-          "url": "https://github.com/RahmelJackson/frameforge-studio",
-          "summary": "An open-source creative studio inspired by Higgsfield, powered by ComfyUI workflows. Create images, video, audio and short films with local models or external cloud handoffs.",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": "MIT",
-          "published_at": "2026-11-01T17:50:30Z",
-          "checked_at": "2026-11-01T17:55:16Z"
-        },
-        {
-          "id": "topic-repo-aqm857886159--nomi",
-          "title": "aqm857886159/Nomi",
-          "url": "https://github.com/aqm857886159/Nomi",
-          "summary": "Open-source AI video workbench. Bring any model or your local ComfyUI, and let Claude Code / Codex / Cursor direct it over MCP — storyboard, references, generation, editable first cut on a real timeline. Local-first: projects, prompts, and keys stay on your machine. No account, no telemetry.",
+          "id": "topic-repo-sytesims--imagination-is-all-you-need",
+          "title": "sytesims/imagination-is-all-you-need",
+          "url": "https://github.com/sytesims/imagination-is-all-you-need",
+          "summary": "A free, open-source AI creative studio. Images, video, audio, 3D and films, local or cloud, built on ComfyUI.",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": "AGPL-3.0",
-          "published_at": "2026-11-01T17:47:39Z",
-          "checked_at": "2026-11-01T17:55:16Z"
+          "published_at": "2026-11-02T02:22:18Z",
+          "checked_at": "2026-11-02T02:25:22Z"
         },
         {
-          "id": "topic-repo-xeinherjer-dev--comfyui-xenodes",
-          "title": "xeinherjer-dev/ComfyUI-XENodes",
-          "url": "https://github.com/xeinherjer-dev/ComfyUI-XENodes",
-          "summary": "A collection of custom nodes for ComfyUI, featuring the versatile Multi-Switch, Slider, Slider 2D, Save Image, and Save Video nodes.",
+          "id": "topic-repo-slit-company--viral-hit",
+          "title": "slit-company/viral-hit",
+          "url": "https://github.com/slit-company/viral-hit",
+          "summary": "The open-source creative studio: image, video, audio and multitrack editing with any model. Comfy Router (FLUX 3, LTX 2.5, MiniMax H3), Higgsfield, Sume and your own ComfyUI.",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
-          "license": "GPL-3.0",
-          "published_at": "2026-11-01T17:43:29Z",
-          "checked_at": "2026-11-01T17:55:16Z"
+          "license": "Apache-2.0",
+          "published_at": "2026-11-02T02:11:18Z",
+          "checked_at": "2026-11-02T02:25:22Z"
+        },
+        {
+          "id": "topic-repo-rebeltortuga--comfyui-free-local-wan-video-quality",
+          "title": "RebelTortuga/comfyui-free-local-wan-video-quality",
+          "url": "https://github.com/RebelTortuga/comfyui-free-local-wan-video-quality",
+          "summary": "Free local ComfyUI Wan 2.2 image-to-video workflow focused on quality, motion prompts, and AI video generation.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "MIT",
+          "published_at": "2026-11-02T01:41:04Z",
+          "checked_at": "2026-11-02T02:25:22Z"
+        },
+        {
+          "id": "topic-repo-rebeltortuga--comfyui-free-local-wan-video-high-resolution",
+          "title": "RebelTortuga/comfyui-free-local-wan-video-high-resolution",
+          "url": "https://github.com/RebelTortuga/comfyui-free-local-wan-video-high-resolution",
+          "summary": "Free local ComfyUI Wan 2.2 high-resolution image-to-video workflow with adjustable motion and rendering settings.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "MIT",
+          "published_at": "2026-11-02T01:41:06Z",
+          "checked_at": "2026-11-02T02:25:22Z"
         },
         {
           "id": "topic-repo-workingprototype--fuobe",
@@ -795,8 +795,8 @@
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": "MIT",
-          "published_at": "2026-11-01T17:41:02Z",
-          "checked_at": "2026-11-01T17:55:16Z"
+          "published_at": "2026-11-02T02:06:35Z",
+          "checked_at": "2026-11-02T02:25:22Z"
         }
       ],
       "health": {
@@ -820,8 +820,8 @@
         }
       },
       "ai_selected_ids": [],
-      "checked_at": "2026-11-01T17:55:16Z",
-      "last_attempt_at": "2026-11-01T17:55:18Z"
+      "checked_at": "2026-11-02T02:25:22Z",
+      "last_attempt_at": "2026-11-02T02:25:24Z"
     }
   ]
 }

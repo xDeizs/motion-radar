@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-02T00:57:11Z",
+  "generated_at": "2026-11-02T02:25:24Z",
   "mode": "public_metadata_only",
   "schedule_minutes": 30,
   "sources": [
@@ -9,49 +9,50 @@
       "label": "whaleyxbt · изменения кода",
       "platform": "github",
       "enabled": true,
-      "status": "cached",
+      "status": "ok",
       "count": 5,
       "config_signature": "040b1222912c",
-      "last_attempt": "2026-11-02T00:47:43Z",
-      "last_success": "2026-11-02T00:47:43Z",
-      "next_check": "2026-11-02T01:17:43+00:00"
+      "last_attempt": "2026-11-02T02:25:24Z",
+      "last_success": "2026-11-02T02:25:24Z",
+      "next_check": "2026-11-02T02:55:24+00:00"
     },
     {
       "id": "hyperframes",
       "label": "HyperFrames · релизы",
       "platform": "github",
       "enabled": true,
-      "status": "cached",
+      "status": "ok",
       "count": 5,
       "config_signature": "b02bec891cfe",
-      "last_attempt": "2026-11-02T00:47:43Z",
-      "last_success": "2026-11-02T00:47:43Z",
-      "next_check": "2026-11-02T01:17:43+00:00"
+      "last_attempt": "2026-11-02T02:25:24Z",
+      "last_success": "2026-11-02T02:25:24Z",
+      "next_check": "2026-11-02T02:55:24+00:00"
     },
     {
       "id": "pouya",
       "label": "Pouya Eti · новые видео",
       "platform": "youtube",
       "enabled": true,
-      "status": "backoff",
+      "status": "error",
       "count": 0,
       "config_signature": "63b934b73c2d",
-      "last_attempt": "2026-11-02T00:47:43Z",
+      "last_attempt": "2026-11-02T02:25:24Z",
+      "error": "http_404",
       "last_success": null,
-      "next_check": "2026-11-02T01:17:43+00:00",
-      "error": "http_404"
+      "next_check": "2026-11-02T02:55:24+00:00"
     },
     {
       "id": "louise",
       "label": "Louise de Sadeleer · статьи",
       "platform": "rss",
       "enabled": true,
-      "status": "cached",
+      "status": "error",
       "count": 1,
       "config_signature": "f1f189758c10",
-      "last_attempt": "2026-11-02T00:47:43Z",
+      "last_attempt": "2026-11-02T02:25:24Z",
+      "error": "http_403",
       "last_success": "2026-11-02T00:47:43Z",
-      "next_check": "2026-11-02T01:17:43+00:00"
+      "next_check": "2026-11-02T08:25:24+00:00"
     },
     {
       "id": "x-movez",
@@ -128,14 +129,13 @@
       "basis": "metadata_only",
       "published_at": "2026-11-02T00:15:43Z",
       "seen_at": "2026-11-02T00:47:43Z",
-      "checked_at": "2026-11-02T00:47:43Z",
+      "checked_at": "2026-11-02T02:25:24Z",
       "tags": [
         "Новый сигнал",
         "github"
       ],
       "link_status": "ok",
-      "research_state": "needs_review",
-      "source_stale": false
+      "research_state": "needs_review"
     },
     {
       "id": "signal-8e46b53f57cbec161b",
@@ -150,14 +150,13 @@
       "basis": "metadata_only",
       "published_at": "2026-11-01T20:52:35Z",
       "seen_at": "2026-11-02T00:47:43Z",
-      "checked_at": "2026-11-02T00:47:43Z",
+      "checked_at": "2026-11-02T02:25:24Z",
       "tags": [
         "Новый сигнал",
         "github"
       ],
       "link_status": "ok",
-      "research_state": "needs_review",
-      "source_stale": false
+      "research_state": "needs_review"
     },
     {
       "id": "signal-b7e38a8cca7fc51b9e",
@@ -172,14 +171,13 @@
       "basis": "metadata_only",
       "published_at": "2026-11-01T18:40:22Z",
       "seen_at": "2026-11-02T00:47:43Z",
-      "checked_at": "2026-11-02T00:47:43Z",
+      "checked_at": "2026-11-02T02:25:24Z",
       "tags": [
         "Новый сигнал",
         "github"
       ],
       "link_status": "ok",
-      "research_state": "needs_review",
-      "source_stale": false
+      "research_state": "needs_review"
     },
     {
       "id": "signal-493035603331d2ad26",
@@ -194,14 +192,13 @@
       "basis": "metadata_only",
       "published_at": "2026-11-01T16:41:08Z",
       "seen_at": "2026-11-02T00:47:43Z",
-      "checked_at": "2026-11-02T00:47:43Z",
+      "checked_at": "2026-11-02T02:25:24Z",
       "tags": [
         "Новый сигнал",
         "github"
       ],
       "link_status": "ok",
-      "research_state": "needs_review",
-      "source_stale": false
+      "research_state": "needs_review"
     },
     {
       "id": "signal-d03c229556f2825b7d",
@@ -216,14 +213,13 @@
       "basis": "metadata_only",
       "published_at": "2026-11-01T06:30:44Z",
       "seen_at": "2026-11-02T00:47:43Z",
-      "checked_at": "2026-11-02T00:47:43Z",
+      "checked_at": "2026-11-02T02:25:24Z",
       "tags": [
         "Новый сигнал",
         "github"
       ],
       "link_status": "ok",
-      "research_state": "needs_review",
-      "source_stale": false
+      "research_state": "needs_review"
     },
     {
       "id": "signal-c48d2b81ee73f41679",
@@ -238,14 +234,13 @@
       "basis": "metadata_only",
       "published_at": "2026-10-09T19:45:22Z",
       "seen_at": "2026-11-02T00:47:43Z",
-      "checked_at": "2026-11-02T00:47:43Z",
+      "checked_at": "2026-11-02T02:25:24Z",
       "tags": [
         "Новый сигнал",
         "github"
       ],
       "link_status": "ok",
-      "research_state": "needs_review",
-      "source_stale": false
+      "research_state": "needs_review"
     },
     {
       "id": "signal-13372ac41de897992b",
@@ -260,14 +255,13 @@
       "basis": "metadata_only",
       "published_at": "2026-10-09T17:17:06Z",
       "seen_at": "2026-11-02T00:47:43Z",
-      "checked_at": "2026-11-02T00:47:43Z",
+      "checked_at": "2026-11-02T02:25:24Z",
       "tags": [
         "Новый сигнал",
         "github"
       ],
       "link_status": "ok",
-      "research_state": "needs_review",
-      "source_stale": false
+      "research_state": "needs_review"
     },
     {
       "id": "signal-01c3b4a5153bd53070",
@@ -282,14 +276,13 @@
       "basis": "metadata_only",
       "published_at": "2026-10-04T12:48:37Z",
       "seen_at": "2026-11-02T00:47:43Z",
-      "checked_at": "2026-11-02T00:47:43Z",
+      "checked_at": "2026-11-02T02:25:24Z",
       "tags": [
         "Новый сигнал",
         "github"
       ],
       "link_status": "ok",
-      "research_state": "needs_review",
-      "source_stale": false
+      "research_state": "needs_review"
     },
     {
       "id": "signal-b563f0cdf812349cb2",
@@ -304,14 +297,13 @@
       "basis": "metadata_only",
       "published_at": "2026-09-29T18:46:13Z",
       "seen_at": "2026-11-02T00:47:43Z",
-      "checked_at": "2026-11-02T00:47:43Z",
+      "checked_at": "2026-11-02T02:25:24Z",
       "tags": [
         "Новый сигнал",
         "github"
       ],
       "link_status": "ok",
-      "research_state": "needs_review",
-      "source_stale": false
+      "research_state": "needs_review"
     },
     {
       "id": "signal-eaf119b3144f2f660f",
@@ -326,14 +318,13 @@
       "basis": "metadata_only",
       "published_at": "2026-09-29T16:41:25Z",
       "seen_at": "2026-11-02T00:47:43Z",
-      "checked_at": "2026-11-02T00:47:43Z",
+      "checked_at": "2026-11-02T02:25:24Z",
       "tags": [
         "Новый сигнал",
         "github"
       ],
       "link_status": "ok",
-      "research_state": "needs_review",
-      "source_stale": false
+      "research_state": "needs_review"
     },
     {
       "id": "signal-98b9a21cf7a4c882ac",
@@ -355,8 +346,8 @@
       ],
       "link_status": "ok",
       "research_state": "needs_review",
-      "source_stale": false
+      "source_stale": true
     }
   ],
-  "network_calls": 0
+  "network_calls": 4
 }
