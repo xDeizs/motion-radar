@@ -59,34 +59,6 @@
     "generated_at": "2026-11-01T17:13:48+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
-  "71058bf436136143f6": {
-    "fingerprint": "bcc70599d85474e074ead70eb61f73340c339a0d2307227c9b8fcf933519e6af",
-    "engine": "extractive",
-    "model": null,
-    "summary": "fix(audio): exact mp3 lengths, and toBlob decodes a slice per poll without pool threads #15191 feat(runtime): WinHTTP transport for scripts' fetch() on Windows #15168 feat(layouts): Aspect ratio lock #15163…",
-    "takeaways": [],
-    "topics": [
-      "Web / motion"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/rive-app/rive-wasm/releases/tag/2.49.0",
-    "generated_at": "2026-11-01T17:13:48+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
-  "10014f52844b97cf2d": {
-    "fingerprint": "7b2da1c690fe40c632bfe3fcf940500762ef5c6867acc76e24e8946581bdeed1",
-    "engine": "extractive",
-    "model": null,
-    "summary": "What's Changed @remotion/effects: Add curves() and graphical color controls in Studio by @JonnyBurger in #12550 @remotion/effects: Add shatter() for 3D fragment animations by @JonnyBurger in #12578 remotion: Fix…",
-    "takeaways": [],
-    "topics": [
-      "3D / Blender"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.539",
-    "generated_at": "2026-11-01T17:13:48+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
   "fe7b225f29d029cecf": {
     "fingerprint": "6300dcc4a8f74500e3a662a383314f5dbd6659a89ecdac0e0b54080516f54da3",
     "engine": "extractive",
@@ -444,18 +416,46 @@
     "generated_at": "2026-11-01T17:15:19+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
-  "b60021bdf55fe5abf8": {
-    "fingerprint": "9b15a6af92afbf67ea44f3f78dd3f2352dc623636f19ce37f0f0c42d02e03b57",
+  "75d627a04ca64fb53b": {
+    "fingerprint": "212864443d43e26d7b3b8a19c59afad5ed3d05da23ea18686d09959eddc176e3",
     "engine": "extractive",
     "model": null,
-    "summary": "Here’s an overview of the most recent Blender jobs on Blender Artists, ArtStation and 3djobs.xyz: VFX Artist Art Lead Senior 3D Character Artist (Stylized Games | Unity3D) Europe Senior Technical Animator (Unreal Engine…",
+    "summary": "fix(runtime_wasm): skip already published packages and retry a failed npm publish #15335 fix(layout): respect logical left/right on absolute layouts under RTL #15296 fix(editor, runtime): additive strength UI pass…",
+    "takeaways": [],
+    "topics": [
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/rive-app/rive-wasm/releases/tag/2.49.1",
+    "generated_at": "2026-11-02T21:53:41+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "40f2725562b6b00ca2": {
+    "fingerprint": "d4271f5eecabbf73d5f82448464bb279b80bc21f70bfc649a7586258a266bbd4",
+    "engine": "extractive",
+    "model": null,
+    "summary": "What's Changed remotion: Every effect now has a WebGPU version by @JonnyBurger in #12700 @remotion/renderer: Upgrade Chrome to 158.0.8127.2 and publish build scripts by @JonnyBurger in #12814 @remotion/bundler: Upgrade…",
+    "takeaways": [],
+    "topics": [
+      "Практика"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.540",
+    "generated_at": "2026-11-02T21:53:41+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "a1f70714511cbb95bf": {
+    "fingerprint": "d7a14446814195ff7099b78c7df3456a0994615c1db974f4896b579b70357852",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Chris Baily shows how to model the Hylian shield from the Legend of Zelda. It may look like a complex surface with curvature and lots of fine detail, but once we break down the steps you’ll see that it isn’t as hard to…",
     "takeaways": [],
     "topics": [
       "3D / Blender"
     ],
     "input_kind": "rss_excerpt",
-    "source_url": "https://www.blendernation.com/2026/10/30/blender-jobs-for-october-30-2026/",
-    "generated_at": "2026-11-01T17:15:19+00:00",
+    "source_url": "https://www.blendernation.com/2026/11/02/learn-to-model-links-shield-step-by-step/",
+    "generated_at": "2026-11-02T21:53:41+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   }
 }

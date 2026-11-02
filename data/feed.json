@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-02T06:42:59Z",
+    "generated_at": "2026-11-02T21:53:26Z",
     "version": 6,
     "built_in_actions": true,
     "refresh_hours": 6,
@@ -19,7 +19,7 @@
       "category": "motion",
       "tag": "Web / Motion",
       "status": "ok",
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "error": null,
       "count": 5,
       "newest_at": "2026-09-14T11:30:10Z"
@@ -33,7 +33,7 @@
       "category": "code",
       "tag": "Shaders",
       "status": "ok",
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "error": null,
       "count": 2,
       "newest_at": "2026-08-18T08:00:00Z"
@@ -50,7 +50,7 @@
         "code.blender.org"
       ],
       "status": "ok",
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "error": null,
       "count": 5,
       "newest_at": "2026-10-30T13:18:52Z"
@@ -65,7 +65,7 @@
       "tag": "Three.js",
       "max_items": 1,
       "status": "ok",
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "error": null,
       "count": 1,
       "newest_at": "2026-10-30T08:03:18Z"
@@ -80,7 +80,7 @@
       "tag": "Motion",
       "max_items": 1,
       "status": "ok",
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "error": null,
       "count": 1,
       "newest_at": "2026-10-30T10:22:53Z"
@@ -95,7 +95,7 @@
       "tag": "React / 3D",
       "max_items": 2,
       "status": "ok",
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "error": null,
       "count": 2,
       "newest_at": "2026-10-17T01:54:18Z"
@@ -110,7 +110,7 @@
       "tag": "Lottie",
       "max_items": 1,
       "status": "ok",
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "error": null,
       "count": 0,
       "newest_at": null
@@ -124,10 +124,11 @@
       "category": "motion",
       "tag": "Практика",
       "max_items": 6,
-      "status": "error",
-      "checked_at": "2026-11-02T06:42:59Z",
-      "error": "mismatched tag: line 93, column 2",
-      "count": 4
+      "status": "ok",
+      "checked_at": "2026-11-02T21:53:26Z",
+      "error": null,
+      "count": 4,
+      "newest_at": "2026-07-17T21:25:41Z"
     },
     {
       "id": "blendernation",
@@ -139,10 +140,10 @@
       "tag": "Blender",
       "max_items": 5,
       "status": "ok",
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "error": null,
       "count": 5,
-      "newest_at": "2026-11-01T07:55:23Z"
+      "newest_at": "2026-11-02T06:25:38Z"
     },
     {
       "id": "hf-video",
@@ -155,7 +156,7 @@
       "max_items": 4,
       "include": "video|image|diffusion|3d|vision|comfy|animation|generat",
       "status": "ok",
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "error": null,
       "count": 4,
       "newest_at": "2026-10-15T00:00:00Z"
@@ -170,7 +171,7 @@
       "tag": "ComfyUI",
       "max_items": 1,
       "status": "ok",
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "error": null,
       "count": 1,
       "newest_at": "2026-10-30T01:24:06Z"
@@ -185,10 +186,10 @@
       "tag": "Rive",
       "max_items": 1,
       "status": "ok",
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "error": null,
       "count": 1,
-      "newest_at": "2026-10-29T04:21:44Z"
+      "newest_at": "2026-11-02T18:26:04Z"
     },
     {
       "id": "remotion",
@@ -200,13 +201,119 @@
       "tag": "Remotion",
       "max_items": 1,
       "status": "ok",
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "error": null,
       "count": 1,
-      "newest_at": "2026-10-26T12:04:13Z"
+      "newest_at": "2026-11-02T08:54:15Z"
     }
   ],
   "items": [
+    {
+      "id": "75d627a04ca64fb53b",
+      "title": "2.49.1",
+      "url": "https://github.com/rive-app/rive-wasm/releases/tag/2.49.1",
+      "summary": "fix(runtime_wasm): skip already published packages and retry a failed npm publish #15335 fix(layout): respect logical left/right on absolute layouts under RTL #15296 fix(editor, runtime): additive strength UI pass…",
+      "source_id": "rive",
+      "source_name": "Rive runtime",
+      "category": "tools",
+      "kind": "release",
+      "tags": [
+        "Rive"
+      ],
+      "published_at": "2026-11-02T18:26:04Z",
+      "seen_at": "2026-11-02T21:53:26Z",
+      "thumbnail": null,
+      "link_status": "ok",
+      "offer_status": null,
+      "checked_at": "2026-11-02T21:53:26Z",
+      "resolved_url": "https://github.com/rive-app/rive-wasm/releases/tag/2.49.1",
+      "check_note": null,
+      "analysis": {
+        "fingerprint": "212864443d43e26d7b3b8a19c59afad5ed3d05da23ea18686d09959eddc176e3",
+        "engine": "extractive",
+        "model": null,
+        "summary": "fix(runtime_wasm): skip already published packages and retry a failed npm publish #15335 fix(layout): respect logical left/right on absolute layouts under RTL #15296 fix(editor, runtime): additive strength UI pass…",
+        "takeaways": [],
+        "topics": [
+          "Web / motion"
+        ],
+        "input_kind": "rss_excerpt",
+        "source_url": "https://github.com/rive-app/rive-wasm/releases/tag/2.49.1",
+        "generated_at": "2026-11-02T21:53:41+00:00",
+        "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+      }
+    },
+    {
+      "id": "40f2725562b6b00ca2",
+      "title": "v4.0.540",
+      "url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.540",
+      "summary": "What's Changed remotion: Every effect now has a WebGPU version by @JonnyBurger in #12700 @remotion/renderer: Upgrade Chrome to 158.0.8127.2 and publish build scripts by @JonnyBurger in #12814 @remotion/bundler: Upgrade…",
+      "source_id": "remotion",
+      "source_name": "Remotion",
+      "category": "code",
+      "kind": "release",
+      "tags": [
+        "Remotion",
+        "WebGPU"
+      ],
+      "published_at": "2026-11-02T08:54:15Z",
+      "seen_at": "2026-11-02T21:53:26Z",
+      "thumbnail": null,
+      "link_status": "ok",
+      "offer_status": null,
+      "checked_at": "2026-11-02T21:53:26Z",
+      "resolved_url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.540",
+      "check_note": null,
+      "analysis": {
+        "fingerprint": "d4271f5eecabbf73d5f82448464bb279b80bc21f70bfc649a7586258a266bbd4",
+        "engine": "extractive",
+        "model": null,
+        "summary": "What's Changed remotion: Every effect now has a WebGPU version by @JonnyBurger in #12700 @remotion/renderer: Upgrade Chrome to 158.0.8127.2 and publish build scripts by @JonnyBurger in #12814 @remotion/bundler: Upgrade…",
+        "takeaways": [],
+        "topics": [
+          "Практика"
+        ],
+        "input_kind": "rss_excerpt",
+        "source_url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.540",
+        "generated_at": "2026-11-02T21:53:41+00:00",
+        "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+      }
+    },
+    {
+      "id": "a1f70714511cbb95bf",
+      "title": "Learn To Model Link’s Shield Step By Step",
+      "url": "https://www.blendernation.com/2026/11/02/learn-to-model-links-shield-step-by-step/",
+      "summary": "Chris Baily shows how to model the Hylian shield from the Legend of Zelda. It may look like a complex surface with curvature and lots of fine detail, but once we break down the steps you’ll see that it isn’t as hard to…",
+      "source_id": "blendernation",
+      "source_name": "BlenderNation",
+      "category": "motion",
+      "kind": "article",
+      "tags": [
+        "Blender"
+      ],
+      "published_at": "2026-11-02T06:25:38Z",
+      "seen_at": "2026-11-02T21:53:26Z",
+      "thumbnail": null,
+      "link_status": "ok",
+      "offer_status": null,
+      "checked_at": "2026-11-02T21:53:26Z",
+      "resolved_url": "https://www.blendernation.com/2026/11/02/learn-to-model-links-shield-step-by-step/",
+      "check_note": null,
+      "analysis": {
+        "fingerprint": "d7a14446814195ff7099b78c7df3456a0994615c1db974f4896b579b70357852",
+        "engine": "extractive",
+        "model": null,
+        "summary": "Chris Baily shows how to model the Hylian shield from the Legend of Zelda. It may look like a complex surface with curvature and lots of fine detail, but once we break down the steps you’ll see that it isn’t as hard to…",
+        "takeaways": [],
+        "topics": [
+          "3D / Blender"
+        ],
+        "input_kind": "rss_excerpt",
+        "source_url": "https://www.blendernation.com/2026/11/02/learn-to-model-links-shield-step-by-step/",
+        "generated_at": "2026-11-02T21:53:41+00:00",
+        "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+      }
+    },
     {
       "id": "1fd8dbea8fa8176828",
       "title": "Ichno: free one-click technical drawings from Blender scenes",
@@ -224,7 +331,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "resolved_url": "https://www.blendernation.com/2026/11/01/ichno-free-one-click-technical-drawings-from-blender-scenes/",
       "check_note": null,
       "analysis": {
@@ -260,7 +367,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "resolved_url": "https://www.blendernation.com/2026/10/31/best-of-blender-artists-2026-44/",
       "check_note": null,
       "analysis": {
@@ -295,7 +402,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "resolved_url": "https://www.blendernation.com/2026/10/31/5-tips-square-to-round-shapes-inverted-hull-reduce-polycount-find-double-geometry-better-bevels/",
       "check_note": null,
       "analysis": {
@@ -330,7 +437,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "resolved_url": "https://www.blendernation.com/2026/10/30/easy-materials-for-links-sword/",
       "check_note": null,
       "analysis": {
@@ -365,7 +472,7 @@
       "thumbnail": "https://code.blender.org/wp-content/uploads/2026/10/dogwalk_splat_in_blender-1024x642.webp?x95207",
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "resolved_url": "https://code.blender.org/2026/10/splatting-the-gaussians-into-blender/",
       "check_note": null,
       "analysis": {
@@ -404,7 +511,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "resolved_url": "https://github.com/motiondivision/motion/releases/tag/v14.9.0",
       "check_note": null,
       "analysis": {
@@ -419,41 +526,6 @@
         "input_kind": "rss_excerpt",
         "source_url": "https://github.com/motiondivision/motion/releases/tag/v14.9.0",
         "generated_at": "2026-11-01T17:13:48+00:00",
-        "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-      }
-    },
-    {
-      "id": "b60021bdf55fe5abf8",
-      "title": "Blender Jobs for October 30, 2026",
-      "url": "https://www.blendernation.com/2026/10/30/blender-jobs-for-october-30-2026/",
-      "summary": "Here’s an overview of the most recent Blender jobs on Blender Artists, ArtStation and 3djobs.xyz: VFX Artist Art Lead Senior 3D Character Artist (Stylized Games | Unity3D) Europe Senior Technical Animator (Unreal Engine…",
-      "source_id": "blendernation",
-      "source_name": "BlenderNation",
-      "category": "motion",
-      "kind": "article",
-      "tags": [
-        "Blender"
-      ],
-      "published_at": "2026-10-30T10:15:00Z",
-      "seen_at": "2026-11-01T17:15:11Z",
-      "thumbnail": null,
-      "link_status": "ok",
-      "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
-      "resolved_url": "https://www.blendernation.com/2026/10/30/blender-jobs-for-october-30-2026/",
-      "check_note": null,
-      "analysis": {
-        "fingerprint": "9b15a6af92afbf67ea44f3f78dd3f2352dc623636f19ce37f0f0c42d02e03b57",
-        "engine": "extractive",
-        "model": null,
-        "summary": "Here’s an overview of the most recent Blender jobs on Blender Artists, ArtStation and 3djobs.xyz: VFX Artist Art Lead Senior 3D Character Artist (Stylized Games | Unity3D) Europe Senior Technical Animator (Unreal Engine…",
-        "takeaways": [],
-        "topics": [
-          "3D / Blender"
-        ],
-        "input_kind": "rss_excerpt",
-        "source_url": "https://www.blendernation.com/2026/10/30/blender-jobs-for-october-30-2026/",
-        "generated_at": "2026-11-01T17:15:19+00:00",
         "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
       }
     },
@@ -474,7 +546,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "resolved_url": "https://github.com/mrdoob/three.js/releases/tag/r187",
       "check_note": null,
       "analysis": {
@@ -509,7 +581,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "resolved_url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.43.2",
       "check_note": null,
       "analysis": {
@@ -523,76 +595,6 @@
         ],
         "input_kind": "rss_excerpt",
         "source_url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.43.2",
-        "generated_at": "2026-11-01T17:13:48+00:00",
-        "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-      }
-    },
-    {
-      "id": "71058bf436136143f6",
-      "title": "2.49.0",
-      "url": "https://github.com/rive-app/rive-wasm/releases/tag/2.49.0",
-      "summary": "fix(audio): exact mp3 lengths, and toBlob decodes a slice per poll without pool threads #15191 feat(runtime): WinHTTP transport for scripts' fetch() on Windows #15168 feat(layouts): Aspect ratio lock #15163…",
-      "source_id": "rive",
-      "source_name": "Rive runtime",
-      "category": "tools",
-      "kind": "release",
-      "tags": [
-        "Rive"
-      ],
-      "published_at": "2026-10-29T04:21:44Z",
-      "seen_at": "2026-11-01T17:08:39Z",
-      "thumbnail": null,
-      "link_status": "ok",
-      "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
-      "resolved_url": "https://github.com/rive-app/rive-wasm/releases/tag/2.49.0",
-      "check_note": null,
-      "analysis": {
-        "fingerprint": "bcc70599d85474e074ead70eb61f73340c339a0d2307227c9b8fcf933519e6af",
-        "engine": "extractive",
-        "model": null,
-        "summary": "fix(audio): exact mp3 lengths, and toBlob decodes a slice per poll without pool threads #15191 feat(runtime): WinHTTP transport for scripts' fetch() on Windows #15168 feat(layouts): Aspect ratio lock #15163…",
-        "takeaways": [],
-        "topics": [
-          "Web / motion"
-        ],
-        "input_kind": "rss_excerpt",
-        "source_url": "https://github.com/rive-app/rive-wasm/releases/tag/2.49.0",
-        "generated_at": "2026-11-01T17:13:48+00:00",
-        "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-      }
-    },
-    {
-      "id": "10014f52844b97cf2d",
-      "title": "v4.0.539",
-      "url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.539",
-      "summary": "What's Changed @remotion/effects: Add curves() and graphical color controls in Studio by @JonnyBurger in #12550 @remotion/effects: Add shatter() for 3D fragment animations by @JonnyBurger in #12578 remotion: Fix…",
-      "source_id": "remotion",
-      "source_name": "Remotion",
-      "category": "code",
-      "kind": "release",
-      "tags": [
-        "Remotion"
-      ],
-      "published_at": "2026-10-26T12:04:13Z",
-      "seen_at": "2026-11-01T17:08:39Z",
-      "thumbnail": null,
-      "link_status": "ok",
-      "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
-      "resolved_url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.539",
-      "check_note": null,
-      "analysis": {
-        "fingerprint": "7b2da1c690fe40c632bfe3fcf940500762ef5c6867acc76e24e8946581bdeed1",
-        "engine": "extractive",
-        "model": null,
-        "summary": "What's Changed @remotion/effects: Add curves() and graphical color controls in Studio by @JonnyBurger in #12550 @remotion/effects: Add shatter() for 3D fragment animations by @JonnyBurger in #12578 remotion: Fix…",
-        "takeaways": [],
-        "topics": [
-          "3D / Blender"
-        ],
-        "input_kind": "rss_excerpt",
-        "source_url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.539",
         "generated_at": "2026-11-01T17:13:48+00:00",
         "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
       }
@@ -615,7 +617,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "resolved_url": "https://github.com/pmndrs/react-three-fiber/releases/tag/v10.0.0-alpha.6",
       "check_note": null,
       "analysis": {
@@ -650,7 +652,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "resolved_url": "https://github.com/pmndrs/react-three-fiber/releases/tag/v9.8.2",
       "check_note": null,
       "analysis": {
@@ -685,7 +687,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "resolved_url": "https://huggingface.co/blog/flux-3",
       "check_note": null,
       "analysis": {
@@ -720,7 +722,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "resolved_url": "https://code.blender.org/2026/10/bcon26-talks-by-blender-developers/",
       "check_note": null,
       "analysis": {
@@ -756,7 +758,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "resolved_url": "https://code.blender.org/2026/10/geometry-nodes-workshop-september-2026/",
       "check_note": null,
       "analysis": {
@@ -795,7 +797,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "resolved_url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
       "check_note": null,
       "analysis": {
@@ -830,7 +832,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "resolved_url": "https://tympanus.net/codrops/2026/09/14/inside-resns-digital-experiences/",
       "check_note": null,
       "analysis": {
@@ -865,7 +867,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "resolved_url": "https://tympanus.net/codrops/2026/09/13/building-depth-designing-and-developing-a-3d-renderer-inside-figma/",
       "check_note": null,
       "analysis": {
@@ -901,7 +903,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "resolved_url": "https://tympanus.net/codrops/2026/09/12/yestalgia-bringing-decathlons-90s-spirit-to-life-through-a-playful-digital-experience/",
       "check_note": null,
       "analysis": {
@@ -936,7 +938,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "resolved_url": "https://code.blender.org/2026/09/small-teams-ambitious-projects/",
       "check_note": null,
       "analysis": {
@@ -972,7 +974,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "resolved_url": "https://tympanus.net/codrops/2026/09/10/inside-the-first-three-js-conference-in-paris/",
       "check_note": null,
       "analysis": {
@@ -1008,7 +1010,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "resolved_url": "https://tympanus.net/codrops/2026/09/09/turning-names-into-digital-architecture-with-three-js/",
       "check_note": null,
       "analysis": {
@@ -1045,7 +1047,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "resolved_url": "https://blog.maximeheckel.com/posts/shading-motion/",
       "check_note": null,
       "analysis": {
@@ -1081,7 +1083,7 @@
       "thumbnail": "https://code.blender.org/wp-content/uploads/2026/07/cloth_tear_space_fabric-1024x564.webp?x95207",
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "resolved_url": "https://code.blender.org/2026/07/geometry-nodes-physics/",
       "check_note": null,
       "analysis": {
@@ -1116,7 +1118,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "resolved_url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
       "check_note": null,
       "analysis": {
@@ -1151,7 +1153,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "resolved_url": "https://huggingface.co/blog/nunchaku-diffusers",
       "check_note": null,
       "analysis": {
@@ -1186,7 +1188,7 @@
       "thumbnail": "https://lesterbanks.com/lxb_metal/wp-content/uploads/2026/07/feature_Viewport_titled-1024x576.jpg",
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "resolved_url": "https://lesterbanks.com/2026/07/ruxin-liang-shares-tips-keeping-ornatrix-fast/",
       "check_note": null,
       "analysis": {
@@ -1202,8 +1204,7 @@
         "source_url": "https://lesterbanks.com/2026/07/ruxin-liang-shares-tips-keeping-ornatrix-fast/",
         "generated_at": "2026-11-01T17:14:32+00:00",
         "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-      },
-      "source_stale": true
+      }
     },
     {
       "id": "a5a1e0a36884c03268",
@@ -1222,7 +1223,7 @@
       "thumbnail": "https://lesterbanks.com/lxb_metal/wp-content/uploads/2026/04/1773121578341.jpeg",
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "resolved_url": "https://lesterbanks.com/2026/06/creator-spotlight-ilija-brunck/",
       "check_note": null,
       "analysis": {
@@ -1238,8 +1239,7 @@
         "source_url": "https://lesterbanks.com/2026/06/creator-spotlight-ilija-brunck/",
         "generated_at": "2026-11-01T17:14:32+00:00",
         "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-      },
-      "source_stale": true
+      }
     },
     {
       "id": "3689b1531736e95422",
@@ -1258,7 +1258,7 @@
       "thumbnail": "https://lesterbanks.com/lxb_metal/wp-content/uploads/2026/06/GrowFrame-app-1024x614.jpg",
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "resolved_url": "https://lesterbanks.com/2026/06/growframe-offers-an-inspirational-way-to-visualize-passion-projects/",
       "check_note": null,
       "analysis": {
@@ -1274,8 +1274,7 @@
         "source_url": "https://lesterbanks.com/2026/06/growframe-offers-an-inspirational-way-to-visualize-passion-projects/",
         "generated_at": "2026-11-01T17:14:32+00:00",
         "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-      },
-      "source_stale": true
+      }
     },
     {
       "id": "f352fea16d5305ae33",
@@ -1294,7 +1293,7 @@
       "thumbnail": "https://lesterbanks.com/lxb_metal/wp-content/uploads/2026/06/Phoney-Baloney-Character-Rig-for-Maa-1024x576.jpg",
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "resolved_url": "https://lesterbanks.com/2026/06/get-the-character-rig-from-brent-forrests-like-and-follow-short/",
       "check_note": null,
       "analysis": {
@@ -1310,8 +1309,7 @@
         "source_url": "https://lesterbanks.com/2026/06/get-the-character-rig-from-brent-forrests-like-and-follow-short/",
         "generated_at": "2026-11-01T17:14:32+00:00",
         "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-      },
-      "source_stale": true
+      }
     },
     {
       "id": "9a3168b380e4def684",
@@ -1330,7 +1328,7 @@
       "thumbnail": null,
       "link_status": "ok",
       "offer_status": null,
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "resolved_url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
       "check_note": null,
       "analysis": {
@@ -1370,12 +1368,12 @@
       "category": "free",
       "source_id": "library",
       "published_at": null,
-      "seen_at": "2026-11-02T06:42:59Z",
+      "seen_at": "2026-11-02T21:53:26Z",
       "offer_status": null,
       "terms_status": "confirmed",
-      "terms_checked_at": "2026-11-02T06:42:59Z",
+      "terms_checked_at": "2026-11-02T21:53:26Z",
       "terms_evidence": "donate/sell their work to Poly Haven. Our assets are all licensed as CC0, which is effectively Public Domain even in jurisdictions that do not support the Public Domain. He",
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "link_status": "ok",
       "resolved_url": "https://polyhaven.com/",
       "check_note": null
@@ -1400,12 +1398,12 @@
       "category": "free",
       "source_id": "library",
       "published_at": null,
-      "seen_at": "2026-11-02T06:42:59Z",
+      "seen_at": "2026-11-02T21:53:26Z",
       "offer_status": null,
       "terms_status": "confirmed",
-      "terms_checked_at": "2026-11-02T06:42:59Z",
+      "terms_checked_at": "2026-11-02T21:53:26Z",
       "terms_evidence": "rmation¶ All ambientCG assets are provided under the Creative Commons CC0 1.0 Universal License. This applies to the downloadable asset files and the material preview render",
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "link_status": "ok",
       "resolved_url": "https://ambientcg.com/",
       "check_note": null
@@ -1430,12 +1428,12 @@
       "category": "free",
       "source_id": "library",
       "published_at": null,
-      "seen_at": "2026-11-02T06:42:59Z",
+      "seen_at": "2026-11-02T21:53:26Z",
       "offer_status": null,
       "terms_status": "confirmed",
-      "terms_checked_at": "2026-11-02T06:42:59Z",
+      "terms_checked_at": "2026-11-02T21:53:26Z",
       "terms_evidence": "? Yes, all game assets on the asset pages are public domain licensed (CC0). You’re free to use them, even in commercial projects. For full details, see the included license",
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "link_status": "ok",
       "resolved_url": "https://kenney.nl/assets",
       "check_note": null
@@ -1460,12 +1458,12 @@
       "category": "free",
       "source_id": "library",
       "published_at": null,
-      "seen_at": "2026-11-02T06:42:59Z",
+      "seen_at": "2026-11-02T21:53:26Z",
       "offer_status": null,
       "terms_status": "confirmed",
-      "terms_checked_at": "2026-11-02T06:42:59Z",
+      "terms_checked_at": "2026-11-02T21:53:26Z",
       "terms_evidence": "The MIT License Copyright © 2010-2026 three.js authors Permission is hereby granted, free of charge, to any perso",
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "link_status": "ok",
       "resolved_url": "https://threejs.org/",
       "check_note": null
@@ -1490,12 +1488,12 @@
       "category": "free",
       "source_id": "library",
       "published_at": null,
-      "seen_at": "2026-11-02T06:42:59Z",
+      "seen_at": "2026-11-02T21:53:26Z",
       "offer_status": null,
       "terms_status": "confirmed",
-      "terms_checked_at": "2026-11-02T06:42:59Z",
+      "terms_checked_at": "2026-11-02T21:53:26Z",
       "terms_evidence": "The MIT License (MIT) Copyright (c) 2024 [Motion](https://motion.dev) B.V. Permission is hereby granted, free of",
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "link_status": "ok",
       "resolved_url": "https://motion.dev/",
       "check_note": null
@@ -1520,12 +1518,12 @@
       "category": "free",
       "source_id": "library",
       "published_at": null,
-      "seen_at": "2026-11-02T06:42:59Z",
+      "seen_at": "2026-11-02T21:53:26Z",
       "offer_status": null,
       "terms_status": "confirmed",
-      "terms_checked_at": "2026-11-02T06:42:59Z",
+      "terms_checked_at": "2026-11-02T21:53:26Z",
       "terms_evidence": "ur Work. Reynante Martinez The Software Blender is released under the GNU General Public License (GPL, or “free software”). This license grants people a number of freedoms: You are free to use Ble",
-      "checked_at": "2026-11-02T06:42:59Z",
+      "checked_at": "2026-11-02T21:53:26Z",
       "link_status": "ok",
       "resolved_url": "https://www.blender.org/",
       "check_note": null
@@ -1555,8 +1553,8 @@
       ],
       "pushed_at": "2026-09-30T13:31:42Z",
       "published_at": "2026-09-30T13:31:42Z",
-      "seen_at": "2026-11-02T02:24:59Z",
-      "checked_at": "2026-11-02T02:24:59Z",
+      "seen_at": "2026-11-02T21:53:34Z",
+      "checked_at": "2026-11-02T21:53:34Z",
       "default_branch": "main",
       "archived": false,
       "license": "MIT",
@@ -1594,8 +1592,8 @@
       ],
       "pushed_at": "2026-10-11T08:44:11Z",
       "published_at": "2026-10-11T08:44:11Z",
-      "seen_at": "2026-11-02T02:24:59Z",
-      "checked_at": "2026-11-02T02:24:59Z",
+      "seen_at": "2026-11-02T21:53:34Z",
+      "checked_at": "2026-11-02T21:53:34Z",
       "default_branch": "main",
       "archived": false,
       "license": "MIT",
@@ -1635,8 +1633,8 @@
       ],
       "pushed_at": "2026-10-09T19:45:22Z",
       "published_at": "2026-10-09T19:45:22Z",
-      "seen_at": "2026-11-02T02:24:59Z",
-      "checked_at": "2026-11-02T02:24:59Z",
+      "seen_at": "2026-11-02T21:53:34Z",
+      "checked_at": "2026-11-02T21:53:34Z",
       "default_branch": "main",
       "archived": false,
       "license": "MIT",
@@ -1676,8 +1674,8 @@
       ],
       "pushed_at": "2026-08-06T17:56:01Z",
       "published_at": "2026-08-06T17:56:01Z",
-      "seen_at": "2026-11-02T02:24:59Z",
-      "checked_at": "2026-11-02T02:24:59Z",
+      "seen_at": "2026-11-02T21:53:34Z",
+      "checked_at": "2026-11-02T21:53:34Z",
       "default_branch": "main",
       "archived": false,
       "license": null,
@@ -1717,8 +1715,8 @@
       ],
       "pushed_at": "2026-10-05T20:31:48Z",
       "published_at": "2026-10-05T20:31:48Z",
-      "seen_at": "2026-11-02T02:24:59Z",
-      "checked_at": "2026-11-02T02:24:59Z",
+      "seen_at": "2026-11-02T21:53:34Z",
+      "checked_at": "2026-11-02T21:53:34Z",
       "default_branch": "main",
       "archived": false,
       "license": "MIT",
@@ -1756,8 +1754,8 @@
       ],
       "pushed_at": "2026-06-22T13:24:17Z",
       "published_at": "2026-06-22T13:24:17Z",
-      "seen_at": "2026-11-02T02:24:59Z",
-      "checked_at": "2026-11-02T02:24:59Z",
+      "seen_at": "2026-11-02T21:53:34Z",
+      "checked_at": "2026-11-02T21:53:34Z",
       "default_branch": "main",
       "archived": false,
       "license": "MIT",
@@ -1797,8 +1795,8 @@
       ],
       "pushed_at": "2026-10-04T05:56:51Z",
       "published_at": "2026-10-04T05:56:51Z",
-      "seen_at": "2026-11-02T02:24:59Z",
-      "checked_at": "2026-11-02T02:24:59Z",
+      "seen_at": "2026-11-02T21:53:34Z",
+      "checked_at": "2026-11-02T21:53:34Z",
       "default_branch": "main",
       "archived": false,
       "license": "MIT",
@@ -1836,8 +1834,8 @@
       ],
       "pushed_at": "2026-05-18T11:30:13Z",
       "published_at": "2026-05-18T11:30:13Z",
-      "seen_at": "2026-11-02T02:24:59Z",
-      "checked_at": "2026-11-02T02:24:59Z",
+      "seen_at": "2026-11-02T21:53:34Z",
+      "checked_at": "2026-11-02T21:53:34Z",
       "default_branch": "main",
       "archived": false,
       "license": "MIT",
@@ -1875,8 +1873,8 @@
       ],
       "pushed_at": "2026-03-30T22:38:57Z",
       "published_at": "2026-03-30T22:38:57Z",
-      "seen_at": "2026-11-02T02:24:59Z",
-      "checked_at": "2026-11-02T02:24:59Z",
+      "seen_at": "2026-11-02T21:53:34Z",
+      "checked_at": "2026-11-02T21:53:34Z",
       "default_branch": "main",
       "archived": false,
       "license": "MIT",
@@ -1912,10 +1910,10 @@
         "React",
         "Spring"
       ],
-      "pushed_at": "2026-11-01T16:50:33Z",
-      "published_at": "2026-11-01T16:50:33Z",
-      "seen_at": "2026-11-02T02:24:59Z",
-      "checked_at": "2026-11-02T02:24:59Z",
+      "pushed_at": "2026-11-02T13:49:35Z",
+      "published_at": "2026-11-02T13:49:35Z",
+      "seen_at": "2026-11-02T21:53:34Z",
+      "checked_at": "2026-11-02T21:53:34Z",
       "default_branch": "main",
       "archived": false,
       "license": "MIT",
@@ -1951,8 +1949,8 @@
       ],
       "pushed_at": "2025-09-01T09:01:31Z",
       "published_at": "2025-09-01T09:01:31Z",
-      "seen_at": "2026-11-02T02:24:59Z",
-      "checked_at": "2026-11-02T02:24:59Z",
+      "seen_at": "2026-11-02T21:53:34Z",
+      "checked_at": "2026-11-02T21:53:34Z",
       "default_branch": "master",
       "archived": false,
       "license": "MIT",
@@ -1988,8 +1986,8 @@
       ],
       "pushed_at": "2026-10-20T04:21:52Z",
       "published_at": "2026-10-20T04:21:52Z",
-      "seen_at": "2026-11-02T02:24:59Z",
-      "checked_at": "2026-11-02T02:24:59Z",
+      "seen_at": "2026-11-02T21:53:34Z",
+      "checked_at": "2026-11-02T21:53:34Z",
       "default_branch": "main",
       "archived": false,
       "license": "MIT",
@@ -2027,8 +2025,8 @@
       ],
       "pushed_at": "2026-07-31T15:26:22Z",
       "published_at": "2026-07-31T15:26:22Z",
-      "seen_at": "2026-11-02T02:24:59Z",
-      "checked_at": "2026-11-02T02:24:59Z",
+      "seen_at": "2026-11-02T21:53:34Z",
+      "checked_at": "2026-11-02T21:53:34Z",
       "default_branch": "main",
       "archived": false,
       "license": null,
@@ -2066,8 +2064,8 @@
       ],
       "pushed_at": "2026-10-17T18:20:42Z",
       "published_at": "2026-10-17T18:20:42Z",
-      "seen_at": "2026-11-02T02:24:59Z",
-      "checked_at": "2026-11-02T02:24:59Z",
+      "seen_at": "2026-11-02T21:53:34Z",
+      "checked_at": "2026-11-02T21:53:34Z",
       "default_branch": "main",
       "archived": false,
       "license": "MIT",
@@ -2103,10 +2101,10 @@
         "Исследование",
         "Дополнительно"
       ],
-      "pushed_at": "2026-11-02T01:16:35Z",
-      "published_at": "2026-11-02T01:16:35Z",
-      "seen_at": "2026-11-02T02:24:59Z",
-      "checked_at": "2026-11-02T02:24:59Z",
+      "pushed_at": "2026-11-02T19:32:05Z",
+      "published_at": "2026-11-02T19:32:05Z",
+      "seen_at": "2026-11-02T21:53:34Z",
+      "checked_at": "2026-11-02T21:53:34Z",
       "default_branch": "main",
       "archived": false,
       "license": "MIT",
@@ -2146,8 +2144,8 @@
       ],
       "pushed_at": "2026-11-01T07:23:13Z",
       "published_at": "2026-11-01T07:23:13Z",
-      "seen_at": "2026-11-02T02:24:59Z",
-      "checked_at": "2026-11-02T02:24:59Z",
+      "seen_at": "2026-11-02T21:53:34Z",
+      "checked_at": "2026-11-02T21:53:34Z",
       "default_branch": "main",
       "archived": false,
       "license": "MIT",
@@ -2185,8 +2183,8 @@
       ],
       "pushed_at": "2026-07-28T11:39:29Z",
       "published_at": "2026-07-28T11:39:29Z",
-      "seen_at": "2026-11-02T02:24:59Z",
-      "checked_at": "2026-11-02T02:24:59Z",
+      "seen_at": "2026-11-02T21:53:34Z",
+      "checked_at": "2026-11-02T21:53:34Z",
       "default_branch": "main",
       "archived": false,
       "license": "Apache-2.0",
@@ -2221,8 +2219,8 @@
       ],
       "pushed_at": "2026-02-12T11:31:30Z",
       "published_at": "2026-02-12T11:31:30Z",
-      "seen_at": "2026-11-02T02:24:59Z",
-      "checked_at": "2026-11-02T02:24:59Z",
+      "seen_at": "2026-11-02T21:53:34Z",
+      "checked_at": "2026-11-02T21:53:34Z",
       "default_branch": "main",
       "archived": false,
       "license": "MIT",
@@ -2238,26 +2236,298 @@
   ],
   "discoveries": [
     {
-      "id": "repo-chenyutan--kv260-interactive-ai-platform",
-      "repo": "chenyutan/kv260-interactive-ai-platform",
-      "url": "https://github.com/chenyutan/kv260-interactive-ai-platform",
-      "entry_url": "https://github.com/chenyutan/kv260-interactive-ai-platform",
-      "api_url": "https://api.github.com/repos/chenyutan/kv260-interactive-ai-platform",
-      "title": "kv260-interactive-ai-platform",
-      "summary": "KV260 interactive AI platform for motion games, digital ink and guided exercise. FPGA preprocessing, pose inference and a portable agent skill.",
-      "upstream_description": "KV260 interactive AI platform for motion games, digital ink and guided exercise. FPGA preprocessing, pose inference and a portable agent skill.",
+      "id": "repo-yoelruso--tellmotion",
+      "repo": "YoelRuso/TellMotion",
+      "url": "https://github.com/YoelRuso/TellMotion",
+      "entry_url": "https://github.com/YoelRuso/TellMotion",
+      "api_url": "https://api.github.com/repos/YoelRuso/TellMotion",
+      "title": "TellMotion",
+      "summary": "Turn any idea into a polished 2D explainer animation. Open-source skill with 50+ visual themes and Motion Canvas component packs.",
+      "upstream_description": "Turn any idea into a polished 2D explainer animation. Open-source skill with 50+ visual themes and Motion Canvas component packs.",
       "source_id": "github",
-      "source_name": "chenyutan",
+      "source_name": "YoelRuso",
       "kind": "repository",
       "category": "code",
       "repo_type": "candidate",
       "type_label": "Находка",
       "origin": "discovery",
       "tags": [],
-      "pushed_at": "2026-11-02T02:18:34Z",
-      "published_at": "2026-11-02T02:18:34Z",
-      "seen_at": "2026-11-02T02:24:59Z",
-      "checked_at": "2026-11-02T02:24:59Z",
+      "pushed_at": "2026-11-02T21:50:50Z",
+      "published_at": "2026-11-02T21:50:50Z",
+      "seen_at": "2026-11-02T21:53:34Z",
+      "checked_at": "2026-11-02T21:53:34Z",
+      "default_branch": "main",
+      "archived": false,
+      "license": "MIT",
+      "license_name": "MIT License",
+      "license_basis": "GitHub API · license.spdx_id",
+      "caution": "Новый кандидат по метаданным. Проверь лицензию, код и зависимости до установки.",
+      "skill_paths": [],
+      "metadata_status": "ok",
+      "inspection": "metadata_only",
+      "link_status": "ok",
+      "thumbnail": null,
+      "matched_queries": [
+        "motion-skills"
+      ]
+    },
+    {
+      "id": "repo-billyhetech--awesome-gpt6-astra-videos",
+      "repo": "billyhetech/awesome-gpt6-astra-videos",
+      "url": "https://github.com/billyhetech/awesome-gpt6-astra-videos",
+      "entry_url": "https://github.com/billyhetech/awesome-gpt6-astra-videos",
+      "api_url": "https://api.github.com/repos/billyhetech/awesome-gpt6-astra-videos",
+      "title": "awesome-gpt6-astra-videos",
+      "summary": "Awesome list of viral videos made with GPT-6 Astra: code-rendered animations and 3D scenes (Canvas, Three.js, WebGL), each linked to the creator's original post. Watch every one on clawshelf.com · GPT-6 Astra 爆款视频合集",
+      "upstream_description": "Awesome list of viral videos made with GPT-6 Astra: code-rendered animations and 3D scenes (Canvas, Three.js, WebGL), each linked to the creator's original post. Watch every one on clawshelf.com · GPT-6 Astra 爆款视频合集",
+      "source_id": "github",
+      "source_name": "billyhetech",
+      "kind": "repository",
+      "category": "code",
+      "repo_type": "candidate",
+      "type_label": "Находка",
+      "origin": "discovery",
+      "tags": [
+        "ai-animation",
+        "ai-video",
+        "ai-videos"
+      ],
+      "pushed_at": "2026-11-02T21:45:44Z",
+      "published_at": "2026-11-02T21:45:44Z",
+      "seen_at": "2026-11-02T21:53:34Z",
+      "checked_at": "2026-11-02T21:53:34Z",
+      "default_branch": "master",
+      "archived": false,
+      "license": "MIT",
+      "license_name": "MIT License",
+      "license_basis": "GitHub API · license.spdx_id",
+      "caution": "Новый кандидат по метаданным. Проверь лицензию, код и зависимости до установки.",
+      "skill_paths": [],
+      "metadata_status": "ok",
+      "inspection": "metadata_only",
+      "link_status": "ok",
+      "thumbnail": null,
+      "matched_queries": [
+        "creative-code"
+      ]
+    },
+    {
+      "id": "repo-billyhetech--awesome-opus5-5-videos",
+      "repo": "billyhetech/awesome-opus5-5-videos",
+      "url": "https://github.com/billyhetech/awesome-opus5-5-videos",
+      "entry_url": "https://github.com/billyhetech/awesome-opus5-5-videos",
+      "api_url": "https://api.github.com/repos/billyhetech/awesome-opus5-5-videos",
+      "title": "awesome-opus5-5-videos",
+      "summary": "Awesome list of 2,000+ viral videos made with Claude Opus 5.5: code-rendered animations, 3D scenes, games and explainers, with 700+ prompts you can copy and rerun. Watch every one on clawshelf.com · Opus 5.5 爆款视频合集与提示词",
+      "upstream_description": "Awesome list of 2,000+ viral videos made with Claude Opus 5.5: code-rendered animations, 3D scenes, games and explainers, with 700+ prompts you can copy and rerun. Watch every one on clawshelf.com · Opus 5.5 爆款视频合集与提示词",
+      "source_id": "github",
+      "source_name": "billyhetech",
+      "kind": "repository",
+      "category": "code",
+      "repo_type": "candidate",
+      "type_label": "Находка",
+      "origin": "discovery",
+      "tags": [
+        "ai-animation",
+        "ai-video",
+        "ai-videos"
+      ],
+      "pushed_at": "2026-11-02T21:45:41Z",
+      "published_at": "2026-11-02T21:45:41Z",
+      "seen_at": "2026-11-02T21:53:34Z",
+      "checked_at": "2026-11-02T21:53:34Z",
+      "default_branch": "master",
+      "archived": false,
+      "license": "MIT",
+      "license_name": "MIT License",
+      "license_basis": "GitHub API · license.spdx_id",
+      "caution": "Новый кандидат по метаданным. Проверь лицензию, код и зависимости до установки.",
+      "skill_paths": [],
+      "metadata_status": "ok",
+      "inspection": "metadata_only",
+      "link_status": "ok",
+      "thumbnail": null,
+      "matched_queries": [
+        "creative-code"
+      ]
+    },
+    {
+      "id": "repo-billyhetech--awesome-fable5-5-videos",
+      "repo": "billyhetech/awesome-fable5-5-videos",
+      "url": "https://github.com/billyhetech/awesome-fable5-5-videos",
+      "entry_url": "https://github.com/billyhetech/awesome-fable5-5-videos",
+      "api_url": "https://api.github.com/repos/billyhetech/awesome-fable5-5-videos",
+      "title": "awesome-fable5-5-videos",
+      "summary": "Awesome list of viral videos made with Fable 5.5: animations, games and 3D scenes rendered entirely from code (HTML, Canvas, SVG, Three.js), with the prompts behind them. Watch every one on clawshelf.com · Fable 5.5 爆款视频合集与提示词",
+      "upstream_description": "Awesome list of viral videos made with Fable 5.5: animations, games and 3D scenes rendered entirely from code (HTML, Canvas, SVG, Three.js), with the prompts behind them. Watch every one on clawshelf.com · Fable 5.5 爆款视频合集与提示词",
+      "source_id": "github",
+      "source_name": "billyhetech",
+      "kind": "repository",
+      "category": "code",
+      "repo_type": "candidate",
+      "type_label": "Находка",
+      "origin": "discovery",
+      "tags": [
+        "ai-animation",
+        "ai-video",
+        "ai-videos"
+      ],
+      "pushed_at": "2026-11-02T21:45:38Z",
+      "published_at": "2026-11-02T21:45:38Z",
+      "seen_at": "2026-11-02T21:53:34Z",
+      "checked_at": "2026-11-02T21:53:34Z",
+      "default_branch": "master",
+      "archived": false,
+      "license": "MIT",
+      "license_name": "MIT License",
+      "license_basis": "GitHub API · license.spdx_id",
+      "caution": "Новый кандидат по метаданным. Проверь лицензию, код и зависимости до установки.",
+      "skill_paths": [],
+      "metadata_status": "ok",
+      "inspection": "metadata_only",
+      "link_status": "ok",
+      "thumbnail": null,
+      "matched_queries": [
+        "creative-code"
+      ]
+    },
+    {
+      "id": "repo-billyhetech--awesome-viral-ai-videos",
+      "repo": "billyhetech/awesome-viral-ai-videos",
+      "url": "https://github.com/billyhetech/awesome-viral-ai-videos",
+      "entry_url": "https://github.com/billyhetech/awesome-viral-ai-videos",
+      "api_url": "https://api.github.com/repos/billyhetech/awesome-viral-ai-videos",
+      "title": "awesome-viral-ai-videos",
+      "summary": "Awesome list of viral AI videos made with Claude Opus 5.5, Fable 5.5, Gemini 4 Argon and GPT-6 Astra: 2,500+ code-rendered animations, 3D scenes and games, 770+ copy-paste prompts, each linked to the original post. Watch them on clawshelf.com · AI 爆款视频合集与提示词",
+      "upstream_description": "Awesome list of viral AI videos made with Claude Opus 5.5, Fable 5.5, Gemini 4 Argon and GPT-6 Astra: 2,500+ code-rendered animations, 3D scenes and games, 770+ copy-paste prompts, each linked to the original post. Watch them on clawshelf.com · AI 爆款视频合集与提示词",
+      "source_id": "github",
+      "source_name": "billyhetech",
+      "kind": "repository",
+      "category": "code",
+      "repo_type": "candidate",
+      "type_label": "Находка",
+      "origin": "discovery",
+      "tags": [
+        "ai-animation",
+        "ai-video",
+        "ai-videos"
+      ],
+      "pushed_at": "2026-11-02T21:45:36Z",
+      "published_at": "2026-11-02T21:45:36Z",
+      "seen_at": "2026-11-02T21:53:34Z",
+      "checked_at": "2026-11-02T21:53:34Z",
+      "default_branch": "master",
+      "archived": false,
+      "license": "MIT",
+      "license_name": "MIT License",
+      "license_basis": "GitHub API · license.spdx_id",
+      "caution": "Новый кандидат по метаданным. Проверь лицензию, код и зависимости до установки.",
+      "skill_paths": [],
+      "metadata_status": "ok",
+      "inspection": "metadata_only",
+      "link_status": "ok",
+      "thumbnail": null,
+      "matched_queries": [
+        "creative-code"
+      ]
+    },
+    {
+      "id": "repo-kyletmartinez--after-effects-scripts",
+      "repo": "kyletmartinez/after-effects-scripts",
+      "url": "https://github.com/kyletmartinez/after-effects-scripts",
+      "entry_url": "https://github.com/kyletmartinez/after-effects-scripts",
+      "api_url": "https://api.github.com/repos/kyletmartinez/after-effects-scripts",
+      "title": "after-effects-scripts",
+      "summary": "A collection of helpful scripts for After Effects that run natively or with a 3rd party script launcher.",
+      "upstream_description": "A collection of helpful scripts for After Effects that run natively or with a 3rd party script launcher.",
+      "source_id": "github",
+      "source_name": "kyletmartinez",
+      "kind": "repository",
+      "category": "code",
+      "repo_type": "candidate",
+      "type_label": "Находка",
+      "origin": "discovery",
+      "tags": [
+        "adobe",
+        "after-effects",
+        "after-effects-scripts"
+      ],
+      "pushed_at": "2026-11-02T21:36:53Z",
+      "published_at": "2026-11-02T21:36:53Z",
+      "seen_at": "2026-11-02T21:53:34Z",
+      "checked_at": "2026-11-02T21:53:34Z",
+      "default_branch": "master",
+      "archived": false,
+      "license": null,
+      "license_name": "",
+      "license_basis": "GitHub не определил лицензию.",
+      "caution": "Новый кандидат по метаданным. Проверь лицензию, код и зависимости до установки.",
+      "skill_paths": [],
+      "metadata_status": "ok",
+      "inspection": "metadata_only",
+      "link_status": "ok",
+      "thumbnail": null,
+      "matched_queries": [
+        "ae-scripts"
+      ]
+    },
+    {
+      "id": "repo-griff2325--cartoon-motion",
+      "repo": "Griff2325/cartoon-motion",
+      "url": "https://github.com/Griff2325/cartoon-motion",
+      "entry_url": "https://github.com/Griff2325/cartoon-motion",
+      "api_url": "https://api.github.com/repos/Griff2325/cartoon-motion",
+      "title": "cartoon-motion",
+      "summary": "Portable Codex and Claude Code skill for expressive 2D cartoon characters and tested screen animation",
+      "upstream_description": "Portable Codex and Claude Code skill for expressive 2D cartoon characters and tested screen animation",
+      "source_id": "github",
+      "source_name": "Griff2325",
+      "kind": "repository",
+      "category": "code",
+      "repo_type": "candidate",
+      "type_label": "Находка",
+      "origin": "discovery",
+      "tags": [],
+      "pushed_at": "2026-11-02T21:09:16Z",
+      "published_at": "2026-11-02T21:09:16Z",
+      "seen_at": "2026-11-02T21:53:34Z",
+      "checked_at": "2026-11-02T21:53:34Z",
+      "default_branch": "main",
+      "archived": false,
+      "license": "MIT",
+      "license_name": "MIT License",
+      "license_basis": "GitHub API · license.spdx_id",
+      "caution": "Новый кандидат по метаданным. Проверь лицензию, код и зависимости до установки.",
+      "skill_paths": [],
+      "metadata_status": "ok",
+      "inspection": "metadata_only",
+      "link_status": "ok",
+      "thumbnail": null,
+      "matched_queries": [
+        "motion-skills"
+      ]
+    },
+    {
+      "id": "repo-zingadigital--zingamotion",
+      "repo": "ZingaDigital/zingamotion",
+      "url": "https://github.com/ZingaDigital/zingamotion",
+      "entry_url": "https://github.com/ZingaDigital/zingamotion",
+      "api_url": "https://api.github.com/repos/ZingaDigital/zingamotion",
+      "title": "zingamotion",
+      "summary": "Skills de Motion Design Profissionais",
+      "upstream_description": "Skills de Motion Design Profissionais",
+      "source_id": "github",
+      "source_name": "ZingaDigital",
+      "kind": "repository",
+      "category": "code",
+      "repo_type": "candidate",
+      "type_label": "Находка",
+      "origin": "discovery",
+      "tags": [],
+      "pushed_at": "2026-11-02T20:52:48Z",
+      "published_at": "2026-11-02T20:52:48Z",
+      "seen_at": "2026-11-02T21:53:34Z",
+      "checked_at": "2026-11-02T21:53:34Z",
       "default_branch": "main",
       "archived": false,
       "license": null,
@@ -2274,30 +2544,30 @@
       ]
     },
     {
-      "id": "repo-molveau--skills",
-      "repo": "molveau/skills",
-      "url": "https://github.com/molveau/skills",
-      "entry_url": "https://github.com/molveau/skills",
-      "api_url": "https://api.github.com/repos/molveau/skills",
-      "title": "skills",
-      "summary": "Agent skills for Claude Code and other coding agents: anti-slop UI, UI, UX, motion, French typography, Québec Law 25, SaaS and showcase-site playbooks.",
-      "upstream_description": "Agent skills for Claude Code and other coding agents: anti-slop UI, UI, UX, motion, French typography, Québec Law 25, SaaS and showcase-site playbooks.",
+      "id": "repo-daiyixiang666--hat9-motion",
+      "repo": "daiyixiang666/hat9-motion",
+      "url": "https://github.com/daiyixiang666/hat9-motion",
+      "entry_url": "https://github.com/daiyixiang666/hat9-motion",
+      "api_url": "https://api.github.com/repos/daiyixiang666/hat9-motion",
+      "title": "hat9-motion",
+      "summary": "九帽动效 · 一条口播变成 AE 级动效成片（横屏 16:9 + 竖屏 9:16）— agent skill for Claude Code / Codex, rendered with HyperFrames, zero API keys",
+      "upstream_description": "九帽动效 · 一条口播变成 AE 级动效成片（横屏 16:9 + 竖屏 9:16）— agent skill for Claude Code / Codex, rendered with HyperFrames, zero API keys",
       "source_id": "github",
-      "source_name": "molveau",
+      "source_name": "daiyixiang666",
       "kind": "repository",
       "category": "code",
       "repo_type": "candidate",
       "type_label": "Находка",
       "origin": "discovery",
       "tags": [
-        "accessibility",
+        "after-effects",
         "agent-skills",
         "claude-code"
       ],
-      "pushed_at": "2026-11-02T02:17:51Z",
-      "published_at": "2026-11-02T02:17:51Z",
-      "seen_at": "2026-11-02T02:24:59Z",
-      "checked_at": "2026-11-02T02:24:59Z",
+      "pushed_at": "2026-11-02T20:49:19Z",
+      "published_at": "2026-11-02T20:49:19Z",
+      "seen_at": "2026-11-02T21:53:34Z",
+      "checked_at": "2026-11-02T21:53:34Z",
       "default_branch": "main",
       "archived": false,
       "license": "MIT",
@@ -2311,202 +2581,6 @@
       "thumbnail": null,
       "matched_queries": [
         "motion-skills"
-      ]
-    },
-    {
-      "id": "repo-sadjjk--motion-prompt-zh",
-      "repo": "sadjjk/motion-prompt-zh",
-      "url": "https://github.com/sadjjk/motion-prompt-zh",
-      "entry_url": "https://github.com/sadjjk/motion-prompt-zh",
-      "api_url": "https://api.github.com/repos/sadjjk/motion-prompt-zh",
-      "title": "motion-prompt-zh",
-      "summary": "Motion Prompt 非官方简体中文版：144 个可预览动效（界面与网页、动态图形、剪辑与摄影），附运动规格、中文 Prompt 与 Agent Skill。",
-      "upstream_description": "Motion Prompt 非官方简体中文版：144 个可预览动效（界面与网页、动态图形、剪辑与摄影），附运动规格、中文 Prompt 与 Agent Skill。",
-      "source_id": "github",
-      "source_name": "sadjjk",
-      "kind": "repository",
-      "category": "code",
-      "repo_type": "candidate",
-      "type_label": "Находка",
-      "origin": "discovery",
-      "tags": [
-        "agent-skills",
-        "animation",
-        "canvas"
-      ],
-      "pushed_at": "2026-11-02T02:10:47Z",
-      "published_at": "2026-11-02T02:10:47Z",
-      "seen_at": "2026-11-02T02:24:59Z",
-      "checked_at": "2026-11-02T02:24:59Z",
-      "default_branch": "release",
-      "archived": false,
-      "license": "MIT",
-      "license_name": "MIT License",
-      "license_basis": "GitHub API · license.spdx_id",
-      "caution": "Новый кандидат по метаданным. Проверь лицензию, код и зависимости до установки.",
-      "skill_paths": [],
-      "metadata_status": "ok",
-      "inspection": "metadata_only",
-      "link_status": "ok",
-      "thumbnail": null,
-      "matched_queries": [
-        "motion-skills"
-      ]
-    },
-    {
-      "id": "repo-rehan-devs--drip-and-garlic",
-      "repo": "rehan-devs/drip-and-garlic",
-      "url": "https://github.com/rehan-devs/drip-and-garlic",
-      "entry_url": "https://github.com/rehan-devs/drip-and-garlic",
-      "api_url": "https://api.github.com/repos/rehan-devs/drip-and-garlic",
-      "title": "drip-and-garlic",
-      "summary": "🍽️ Modern restaurant landing page with a 3D animated menu book, floating food cards, and smooth GSAP scroll-triggered animations.",
-      "upstream_description": "🍽️ Modern restaurant landing page with a 3D animated menu book, floating food cards, and smooth GSAP scroll-triggered animations.",
-      "source_id": "github",
-      "source_name": "rehan-devs",
-      "kind": "repository",
-      "category": "code",
-      "repo_type": "candidate",
-      "type_label": "Находка",
-      "origin": "discovery",
-      "tags": [
-        "3d-animations",
-        "creative-coding",
-        "framer-motion"
-      ],
-      "pushed_at": "2026-11-02T02:06:58Z",
-      "published_at": "2026-11-02T02:06:58Z",
-      "seen_at": "2026-11-02T02:24:59Z",
-      "checked_at": "2026-11-02T02:24:59Z",
-      "default_branch": "main",
-      "archived": false,
-      "license": "MIT",
-      "license_name": "MIT License",
-      "license_basis": "GitHub API · license.spdx_id",
-      "caution": "Новый кандидат по метаданным. Проверь лицензию, код и зависимости до установки.",
-      "skill_paths": [],
-      "metadata_status": "ok",
-      "inspection": "metadata_only",
-      "link_status": "ok",
-      "thumbnail": null,
-      "matched_queries": [
-        "creative-code"
-      ]
-    },
-    {
-      "id": "repo-asharmeraj--personal_portfolio_website",
-      "repo": "AsharMeraj/Personal_Portfolio_Website",
-      "url": "https://github.com/AsharMeraj/Personal_Portfolio_Website",
-      "entry_url": "https://github.com/AsharMeraj/Personal_Portfolio_Website",
-      "api_url": "https://api.github.com/repos/AsharMeraj/Personal_Portfolio_Website",
-      "title": "Personal_Portfolio_Website",
-      "summary": "I built a portfolio to showcase my development projects and technical skills. My project uses Next.js, TypeScript, Tailwind CSS, Framer Motion, and GSAP to centralize my work. I solved the challenge of organizing my services and experience into a scannable, animated interface.",
-      "upstream_description": "I built a portfolio to showcase my development projects and technical skills. My project uses Next.js, TypeScript, Tailwind CSS, Framer Motion, and GSAP to centralize my work. I solved the challenge of organizing my services and experience into a scannable, animated interface.",
-      "source_id": "github",
-      "source_name": "AsharMeraj",
-      "kind": "repository",
-      "category": "code",
-      "repo_type": "candidate",
-      "type_label": "Находка",
-      "origin": "discovery",
-      "tags": [],
-      "pushed_at": "2026-11-02T01:57:13Z",
-      "published_at": "2026-11-02T01:57:13Z",
-      "seen_at": "2026-11-02T02:24:59Z",
-      "checked_at": "2026-11-02T02:24:59Z",
-      "default_branch": "main",
-      "archived": false,
-      "license": null,
-      "license_name": "",
-      "license_basis": "GitHub не определил лицензию.",
-      "caution": "Новый кандидат по метаданным. Проверь лицензию, код и зависимости до установки.",
-      "skill_paths": [],
-      "metadata_status": "ok",
-      "inspection": "metadata_only",
-      "link_status": "ok",
-      "thumbnail": null,
-      "matched_queries": [
-        "motion-skills"
-      ]
-    },
-    {
-      "id": "repo-graphiteeditor--graphite",
-      "repo": "GraphiteEditor/Graphite",
-      "url": "https://github.com/GraphiteEditor/Graphite",
-      "entry_url": "https://github.com/GraphiteEditor/Graphite",
-      "api_url": "https://api.github.com/repos/GraphiteEditor/Graphite",
-      "title": "Graphite",
-      "summary": "Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine",
-      "upstream_description": "Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine",
-      "source_id": "github",
-      "source_name": "GraphiteEditor",
-      "kind": "repository",
-      "category": "code",
-      "repo_type": "candidate",
-      "type_label": "Находка",
-      "origin": "discovery",
-      "tags": [
-        "2d-graphics",
-        "animation",
-        "art"
-      ],
-      "pushed_at": "2026-11-02T01:39:02Z",
-      "published_at": "2026-11-02T01:39:02Z",
-      "seen_at": "2026-11-01T01:19:31Z",
-      "checked_at": "2026-11-02T02:24:59Z",
-      "default_branch": "master",
-      "archived": false,
-      "license": "Apache-2.0",
-      "license_name": "Apache License 2.0",
-      "license_basis": "GitHub API · license.spdx_id",
-      "caution": "Новый кандидат по метаданным. Проверь лицензию, код и зависимости до установки.",
-      "skill_paths": [],
-      "metadata_status": "ok",
-      "inspection": "metadata_only",
-      "link_status": "ok",
-      "thumbnail": null,
-      "matched_queries": [
-        "creative-code"
-      ]
-    },
-    {
-      "id": "repo-p5-wrapper--next",
-      "repo": "P5-wrapper/next",
-      "url": "https://github.com/P5-wrapper/next",
-      "entry_url": "https://github.com/P5-wrapper/next",
-      "api_url": "https://api.github.com/repos/P5-wrapper/next",
-      "title": "next",
-      "summary": "A NextJS specific library for the @P5-Wrapper/react project.",
-      "upstream_description": "A NextJS specific library for the @P5-Wrapper/react project.",
-      "source_id": "github",
-      "source_name": "P5-wrapper",
-      "kind": "repository",
-      "category": "code",
-      "repo_type": "candidate",
-      "type_label": "Находка",
-      "origin": "discovery",
-      "tags": [
-        "animation",
-        "component",
-        "creative-coding"
-      ],
-      "pushed_at": "2026-11-02T01:14:08Z",
-      "published_at": "2026-11-02T01:14:08Z",
-      "seen_at": "2026-11-02T02:24:59Z",
-      "checked_at": "2026-11-02T02:24:59Z",
-      "default_branch": "main",
-      "archived": false,
-      "license": "MIT",
-      "license_name": "MIT License",
-      "license_basis": "GitHub API · license.spdx_id",
-      "caution": "Новый кандидат по метаданным. Проверь лицензию, код и зависимости до установки.",
-      "skill_paths": [],
-      "metadata_status": "ok",
-      "inspection": "metadata_only",
-      "link_status": "ok",
-      "thumbnail": null,
-      "matched_queries": [
-        "creative-code"
       ]
     },
     {
@@ -2530,10 +2604,10 @@
         "ae",
         "after"
       ],
-      "pushed_at": "2026-11-02T00:34:55Z",
-      "published_at": "2026-11-02T00:34:55Z",
+      "pushed_at": "2026-11-02T17:59:23Z",
+      "published_at": "2026-11-02T17:59:23Z",
       "seen_at": "2026-11-01T01:19:31Z",
-      "checked_at": "2026-11-02T02:24:59Z",
+      "checked_at": "2026-11-02T21:53:34Z",
       "default_branch": "main",
       "archived": false,
       "license": null,
@@ -2550,34 +2624,30 @@
       ]
     },
     {
-      "id": "repo-litecanvas--game-engine",
-      "repo": "litecanvas/game-engine",
-      "url": "https://github.com/litecanvas/game-engine",
-      "entry_url": "https://github.com/litecanvas/game-engine",
-      "api_url": "https://api.github.com/repos/litecanvas/game-engine",
-      "title": "game-engine",
-      "summary": "Lightweight (~4kb) HTML5 canvas engine suitable for small games, animations and creative programming for people who enjoy coding. No dependencies.",
-      "upstream_description": "Lightweight (~4kb) HTML5 canvas engine suitable for small games, animations and creative programming for people who enjoy coding. No dependencies.",
+      "id": "repo-shiuni--flexio",
+      "repo": "shiuni/Flexio",
+      "url": "https://github.com/shiuni/Flexio",
+      "entry_url": "https://github.com/shiuni/Flexio",
+      "api_url": "https://api.github.com/repos/shiuni/Flexio",
+      "title": "Flexio",
+      "summary": "A script launcher panel for After Effects, Premiere Pro, Photoshop and Illustrator",
+      "upstream_description": "A script launcher panel for After Effects, Premiere Pro, Photoshop and Illustrator",
       "source_id": "github",
-      "source_name": "litecanvas",
+      "source_name": "shiuni",
       "kind": "repository",
       "category": "code",
       "repo_type": "candidate",
       "type_label": "Находка",
       "origin": "discovery",
-      "tags": [
-        "creative-coding",
-        "fantasy-console",
-        "game-development"
-      ],
-      "pushed_at": "2026-11-01T23:30:19Z",
-      "published_at": "2026-11-01T23:30:19Z",
-      "seen_at": "2026-11-02T02:24:59Z",
-      "checked_at": "2026-11-02T02:24:59Z",
+      "tags": [],
+      "pushed_at": "2026-11-02T09:14:30Z",
+      "published_at": "2026-11-02T09:14:30Z",
+      "seen_at": "2026-11-02T21:53:34Z",
+      "checked_at": "2026-11-02T21:53:34Z",
       "default_branch": "main",
       "archived": false,
-      "license": "MIT",
-      "license_name": "MIT License",
+      "license": "Apache-2.0",
+      "license_name": "Apache License 2.0",
       "license_basis": "GitHub API · license.spdx_id",
       "caution": "Новый кандидат по метаданным. Проверь лицензию, код и зависимости до установки.",
       "skill_paths": [],
@@ -2586,111 +2656,35 @@
       "link_status": "ok",
       "thumbnail": null,
       "matched_queries": [
-        "creative-code"
+        "ae-scripts"
       ]
     },
     {
-      "id": "repo-o1005954-alt--splitcraft",
-      "repo": "o1005954-alt/SplitCraft",
-      "url": "https://github.com/o1005954-alt/SplitCraft",
-      "entry_url": "https://github.com/o1005954-alt/SplitCraft",
-      "api_url": "https://api.github.com/repos/o1005954-alt/SplitCraft",
-      "title": "SplitCraft",
-      "summary": "SplitCraft is a typography script for EffectCraft [effectcraft after effects, effectcraft app]. It breaks text layers into characters, words, or lines for kinetic motion design. Using sourceRectAtTime, it aligns child layers over the original unbroken text—preserving fonts, sizes, and tracking while enabling instant Ctrl+Z rollbacks.",
-      "upstream_description": "SplitCraft is a typography script for EffectCraft [effectcraft after effects, effectcraft app]. It breaks text layers into characters, words, or lines for kinetic motion design. Using sourceRectAtTime, it aligns child layers over the original unbroken text—preserving fonts, sizes, and tracking while enabling instant Ctrl+Z rollbacks.",
+      "id": "repo-iboyshanto--raselerkaj-ae-scripts",
+      "repo": "iboyshanto/raselerkaj-ae-scripts",
+      "url": "https://github.com/iboyshanto/raselerkaj-ae-scripts",
+      "entry_url": "https://github.com/iboyshanto/raselerkaj-ae-scripts",
+      "api_url": "https://api.github.com/repos/iboyshanto/raselerkaj-ae-scripts",
+      "title": "raselerkaj-ae-scripts",
+      "summary": "Production-focused Adobe After Effects scripts by Rasel, with safe manual update notifications.",
+      "upstream_description": "Production-focused Adobe After Effects scripts by Rasel, with safe manual update notifications.",
       "source_id": "github",
-      "source_name": "o1005954-alt",
+      "source_name": "iboyshanto",
       "kind": "repository",
       "category": "code",
       "repo_type": "candidate",
       "type_label": "Находка",
       "origin": "discovery",
       "tags": [],
-      "pushed_at": "2026-11-01T05:24:53Z",
-      "published_at": "2026-11-01T05:24:53Z",
-      "seen_at": "2026-11-01T17:08:45Z",
-      "checked_at": "2026-11-02T02:24:59Z",
+      "pushed_at": "2026-11-02T08:13:54Z",
+      "published_at": "2026-11-02T08:13:54Z",
+      "seen_at": "2026-11-02T21:53:34Z",
+      "checked_at": "2026-11-02T21:53:34Z",
       "default_branch": "main",
       "archived": false,
       "license": null,
       "license_name": "",
       "license_basis": "GitHub не определил лицензию.",
-      "caution": "Новый кандидат по метаданным. Проверь лицензию, код и зависимости до установки.",
-      "skill_paths": [],
-      "metadata_status": "ok",
-      "inspection": "metadata_only",
-      "link_status": "ok",
-      "thumbnail": null,
-      "matched_queries": [
-        "ae-scripts"
-      ]
-    },
-    {
-      "id": "repo-uschweerlambers-art--useful-after-effects-scripts",
-      "repo": "uschweerlambers-art/Useful-After-Effects-Scripts",
-      "url": "https://github.com/uschweerlambers-art/Useful-After-Effects-Scripts",
-      "entry_url": "https://github.com/uschweerlambers-art/Useful-After-Effects-Scripts",
-      "api_url": "https://api.github.com/repos/uschweerlambers-art/Useful-After-Effects-Scripts",
-      "title": "Useful-After-Effects-Scripts",
-      "summary": "Useful After Effects Scripts, with some AI support.",
-      "upstream_description": "Useful After Effects Scripts, with some AI support.",
-      "source_id": "github",
-      "source_name": "uschweerlambers-art",
-      "kind": "repository",
-      "category": "code",
-      "repo_type": "candidate",
-      "type_label": "Находка",
-      "origin": "discovery",
-      "tags": [],
-      "pushed_at": "2026-10-31T20:18:49Z",
-      "published_at": "2026-10-31T20:18:49Z",
-      "seen_at": "2026-11-01T01:19:31Z",
-      "checked_at": "2026-11-02T02:24:59Z",
-      "default_branch": "main",
-      "archived": false,
-      "license": null,
-      "license_name": "",
-      "license_basis": "GitHub не определил лицензию.",
-      "caution": "Новый кандидат по метаданным. Проверь лицензию, код и зависимости до установки.",
-      "skill_paths": [],
-      "metadata_status": "ok",
-      "inspection": "metadata_only",
-      "link_status": "ok",
-      "thumbnail": null,
-      "matched_queries": [
-        "ae-scripts"
-      ]
-    },
-    {
-      "id": "repo-sjlh2004--ae-mg-animation-kit",
-      "repo": "SJLH2004/ae-mg-animation-kit",
-      "url": "https://github.com/SJLH2004/ae-mg-animation-kit",
-      "entry_url": "https://github.com/SJLH2004/ae-mg-animation-kit",
-      "api_url": "https://api.github.com/repos/SJLH2004/ae-mg-animation-kit",
-      "title": "ae-mg-animation-kit",
-      "summary": "Script-drive After Effects to build a flat-graphics motion-graphics explainer: 20 silent-failure pitfalls, blank-window scanning, PSD-to-PNG frames, CBR spec-compliant H.264 delivery.",
-      "upstream_description": "Script-drive After Effects to build a flat-graphics motion-graphics explainer: 20 silent-failure pitfalls, blank-window scanning, PSD-to-PNG frames, CBR spec-compliant H.264 delivery.",
-      "source_id": "github",
-      "source_name": "SJLH2004",
-      "kind": "repository",
-      "category": "code",
-      "repo_type": "candidate",
-      "type_label": "Находка",
-      "origin": "discovery",
-      "tags": [
-        "aerender",
-        "after-effects",
-        "agent-skill"
-      ],
-      "pushed_at": "2026-10-31T03:02:48Z",
-      "published_at": "2026-10-31T03:02:48Z",
-      "seen_at": "2026-11-01T01:19:31Z",
-      "checked_at": "2026-11-02T02:24:59Z",
-      "default_branch": "main",
-      "archived": false,
-      "license": "MIT",
-      "license_name": "MIT License",
-      "license_basis": "GitHub API · license.spdx_id",
       "caution": "Новый кандидат по метаданным. Проверь лицензию, код и зависимости до установки.",
       "skill_paths": [],
       "metadata_status": "ok",
@@ -2719,7 +2713,7 @@
       "category": "motion",
       "source_id": "reference",
       "source_name": "Референсы",
-      "checked_at": "2026-11-02T06:43:07Z",
+      "checked_at": "2026-11-02T21:53:34Z",
       "published_at": null,
       "thumbnail": null,
       "link_status": "ok",
@@ -2778,7 +2772,7 @@
       "link_status": "unknown",
       "render_status": "not_checked",
       "page_status": "stale",
-      "last_attempt_at": "2026-11-02T06:43:07Z",
+      "last_attempt_at": "2026-11-02T21:53:34Z",
       "page_error": "Response exceeds safety limit"
     },
     {
@@ -2798,14 +2792,18 @@
       "category": "motion",
       "source_id": "reference",
       "source_name": "Референсы",
-      "checked_at": null,
+      "checked_at": "2026-11-02T21:53:34Z",
       "published_at": null,
       "thumbnail": null,
-      "link_status": "unknown",
+      "link_status": "ok",
       "render_status": "not_checked",
-      "page_status": "stale",
-      "last_attempt_at": "2026-11-02T06:43:07Z",
-      "page_error": "Response exceeds safety limit"
+      "page_status": "ok",
+      "resolved_url": "https://chen.media/guides",
+      "page_title": "All guides | Chen Media",
+      "content_hash": "90a66bbc1fac7237e299009bc814561b7fab002b95ca95a61303e7db14d3f5a6",
+      "changed": false,
+      "changed_at": null,
+      "observation": "HTML страницы получен. Рендер и игровая сцена автоматически не тестировались."
     },
     {
       "id": "threejs-journey",
@@ -2824,7 +2822,7 @@
       "category": "motion",
       "source_id": "reference",
       "source_name": "Референсы",
-      "checked_at": "2026-11-02T06:43:07Z",
+      "checked_at": "2026-11-02T21:53:34Z",
       "published_at": null,
       "thumbnail": null,
       "link_status": "ok",
@@ -2832,9 +2830,9 @@
       "page_status": "ok",
       "resolved_url": "https://threejs-journey.com/highlights/1",
       "page_title": "Highlights — Three.js Journey",
-      "content_hash": "b5e4a4ede9498a9fbcb36aabcf37f1d17092732fd645cbb5202e15af60281542",
-      "changed": false,
-      "changed_at": "2026-11-02T02:24:59Z",
+      "content_hash": "d9781e4122bb25edfbdf8b5476e09011a3789274660f2b2e77369b95468ba8ba",
+      "changed": true,
+      "changed_at": "2026-11-02T21:53:34Z",
       "observation": "HTML страницы получен. Рендер и игровая сцена автоматически не тестировались."
     },
     {
@@ -2916,7 +2914,7 @@
         "id": "motion-skills",
         "name": "Motion и agent skills",
         "query": "motion skill in:name,description archived:false fork:false pushed:>=2026-05-06",
-        "checked_at": "2026-11-02T02:24:59Z",
+        "checked_at": "2026-11-02T21:53:34Z",
         "url": "https://github.com/search?q=motion+skill+in%3Aname%2Cdescription+archived%3Afalse+fork%3Afalse+pushed%3A%3E%3D2026-05-06&type=repositories",
         "status": "ok",
         "count": 4
@@ -2925,7 +2923,7 @@
         "id": "ae-scripts",
         "name": "Скрипты After Effects",
         "query": "\"after effects\" script in:description archived:false fork:false pushed:>=2026-05-06",
-        "checked_at": "2026-11-02T02:24:59Z",
+        "checked_at": "2026-11-02T21:53:34Z",
         "url": "https://github.com/search?q=%22after+effects%22+script+in%3Adescription+archived%3Afalse+fork%3Afalse+pushed%3A%3E%3D2026-05-06&type=repositories",
         "status": "ok",
         "count": 4
@@ -2934,7 +2932,7 @@
         "id": "creative-code",
         "name": "Creative coding",
         "query": "topic:creative-coding animation archived:false fork:false pushed:>=2026-05-06",
-        "checked_at": "2026-11-02T02:24:59Z",
+        "checked_at": "2026-11-02T21:53:34Z",
         "url": "https://github.com/search?q=topic%3Acreative-coding+animation+archived%3Afalse+fork%3Afalse+pushed%3A%3E%3D2026-05-06&type=repositories",
         "status": "ok",
         "count": 4
@@ -4265,7 +4263,7 @@
     }
   ],
   "topic_research": {
-    "generated_at": "2026-11-02T06:43:09Z",
+    "generated_at": "2026-11-02T21:53:56Z",
     "scope": "RSS snapshot + first page of public GitHub. Not the entire internet. Social content excluded.",
     "topics": [
       {
@@ -4275,6 +4273,17 @@
         "web_query": "Claude Motion animation",
         "items": [
           {
+            "id": "40f2725562b6b00ca2",
+            "title": "v4.0.540",
+            "url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.540",
+            "summary": "What's Changed remotion: Every effect now has a WebGPU version by @JonnyBurger in #12700 @remotion/renderer: Upgrade Chrome to 158.0.8127.2 and publish build scripts by @JonnyBurger in #12814 @remotion/bundler: Upgrade…",
+            "kind": "topic_rss",
+            "source_name": "Remotion",
+            "basis": "rss_excerpt",
+            "published_at": "2026-11-02T08:54:15Z",
+            "checked_at": "2026-11-02T21:53:26Z"
+          },
+          {
             "id": "de8c72df8d1a2394b1",
             "title": "r187",
             "url": "https://github.com/mrdoob/three.js/releases/tag/r187",
@@ -4283,18 +4292,7 @@
             "source_name": "Three.js",
             "basis": "rss_excerpt",
             "published_at": "2026-10-30T08:03:18Z",
-            "checked_at": "2026-11-02T06:42:59Z"
-          },
-          {
-            "id": "10014f52844b97cf2d",
-            "title": "v4.0.539",
-            "url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.539",
-            "summary": "What's Changed @remotion/effects: Add curves() and graphical color controls in Studio by @JonnyBurger in #12550 @remotion/effects: Add shatter() for 3D fragment animations by @JonnyBurger in #12578 remotion: Fix…",
-            "kind": "topic_rss",
-            "source_name": "Remotion",
-            "basis": "rss_excerpt",
-            "published_at": "2026-10-26T12:04:13Z",
-            "checked_at": "2026-11-02T06:42:59Z"
+            "checked_at": "2026-11-02T21:53:26Z"
           },
           {
             "id": "e5b60107e6763277b1",
@@ -4305,7 +4303,7 @@
             "source_name": "Codrops",
             "basis": "rss_excerpt",
             "published_at": "2026-09-12T08:40:31Z",
-            "checked_at": "2026-11-02T06:42:59Z"
+            "checked_at": "2026-11-02T21:53:26Z"
           },
           {
             "id": "1c80df51d84652392e",
@@ -4316,7 +4314,19 @@
             "source_name": "Maxime Heckel",
             "basis": "rss_excerpt",
             "published_at": "2026-08-18T08:00:00Z",
-            "checked_at": "2026-11-02T06:42:59Z"
+            "checked_at": "2026-11-02T21:53:26Z"
+          },
+          {
+            "id": "topic-repo-griff2325--cartoon-motion",
+            "title": "Griff2325/cartoon-motion",
+            "url": "https://github.com/Griff2325/cartoon-motion",
+            "summary": "Portable Codex and Claude Code skill for expressive 2D cartoon characters and tested screen animation",
+            "kind": "topic_repository",
+            "source_name": "GitHub · публичные метаданные",
+            "basis": "metadata_only",
+            "license": "MIT",
+            "published_at": "2026-11-02T21:09:16Z",
+            "checked_at": "2026-11-02T21:53:42Z"
           },
           {
             "id": "topic-repo-sadidi13--wedo-claude-motion",
@@ -4327,9 +4337,20 @@
             "source_name": "GitHub · публичные метаданные",
             "basis": "metadata_only",
             "license": "MIT",
-            "published_at": "2026-11-01T21:35:12Z",
-            "checked_at": "2026-11-02T02:25:09Z",
-            "stale": false
+            "published_at": "2026-11-02T19:21:26Z",
+            "checked_at": "2026-11-02T21:53:42Z"
+          },
+          {
+            "id": "topic-repo-frankxai--awesome-motion-design-agent-skills",
+            "title": "frankxai/awesome-motion-design-agent-skills",
+            "url": "https://github.com/frankxai/awesome-motion-design-agent-skills",
+            "summary": "Curated motion design agent skills: GSAP, Motion, Remotion, Lottie and Rive for web animation, programmatic video and motion QA. Installable in Claude Code, Codex, Copilot.",
+            "kind": "topic_repository",
+            "source_name": "GitHub · публичные метаданные",
+            "basis": "metadata_only",
+            "license": "CC0-1.0",
+            "published_at": "2026-11-02T17:51:22Z",
+            "checked_at": "2026-11-02T21:53:42Z"
           },
           {
             "id": "topic-repo-tonyprots--motion-film-skill",
@@ -4341,8 +4362,7 @@
             "basis": "metadata_only",
             "license": "NOASSERTION",
             "published_at": "2026-11-01T21:00:24Z",
-            "checked_at": "2026-11-02T02:25:09Z",
-            "stale": false
+            "checked_at": "2026-11-02T21:53:42Z"
           },
           {
             "id": "topic-repo-framecoreworks--fcwm",
@@ -4354,34 +4374,7 @@
             "basis": "metadata_only",
             "license": "Apache-2.0",
             "published_at": "2026-11-01T20:23:08Z",
-            "checked_at": "2026-11-02T02:25:09Z",
-            "stale": false
-          },
-          {
-            "id": "topic-repo-elan6666--claude-video-editing-motion",
-            "title": "elan6666/claude-video-editing-motion",
-            "url": "https://github.com/elan6666/claude-video-editing-motion",
-            "summary": "Remotion/SVG recreation of a 30-second hand-drawn video editing animation",
-            "kind": "topic_repository",
-            "source_name": "GitHub · публичные метаданные",
-            "basis": "metadata_only",
-            "license": "MIT",
-            "published_at": "2026-11-01T13:01:31Z",
-            "checked_at": "2026-11-02T02:25:09Z",
-            "stale": false
-          },
-          {
-            "id": "topic-repo-heshamadel1--ctrl-h",
-            "title": "heshamadel1/ctrl-h",
-            "url": "https://github.com/heshamadel1/ctrl-h",
-            "summary": "Claude Skills for the Ctrl + H Channel — a free-plan-friendly video production toolkit powered by a custom Python animation engine, creating synchronized 16:9 and 9:16 programming videos with reusable motion graphics, audio synchronization, and sound effects.",
-            "kind": "topic_repository",
-            "source_name": "GitHub · публичные метаданные",
-            "basis": "metadata_only",
-            "license": "MIT",
-            "published_at": "2026-10-31T22:28:43Z",
-            "checked_at": "2026-11-02T02:25:09Z",
-            "stale": false
+            "checked_at": "2026-11-02T21:53:42Z"
           }
         ],
         "health": {
@@ -4390,8 +4383,9 @@
             "count": 4
           },
           "github": {
-            "status": "cached",
-            "note": "Снимок младше 6 часов; без запроса API"
+            "status": "ok",
+            "count": 5,
+            "note": "Первая страница, публичные метаданные; не аудит кода"
           },
           "gemini": {
             "status": "not_requested"
@@ -4404,8 +4398,8 @@
           }
         },
         "ai_selected_ids": [],
-        "checked_at": "2026-11-02T02:25:09Z",
-        "last_attempt_at": "2026-11-02T06:43:09Z"
+        "checked_at": "2026-11-02T21:53:42Z",
+        "last_attempt_at": "2026-11-02T21:53:44Z"
       },
       {
         "id": "remotion",
@@ -4414,15 +4408,39 @@
         "web_query": "Remotion Claude animation",
         "items": [
           {
-            "id": "10014f52844b97cf2d",
-            "title": "v4.0.539",
-            "url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.539",
-            "summary": "What's Changed @remotion/effects: Add curves() and graphical color controls in Studio by @JonnyBurger in #12550 @remotion/effects: Add shatter() for 3D fragment animations by @JonnyBurger in #12578 remotion: Fix…",
+            "id": "40f2725562b6b00ca2",
+            "title": "v4.0.540",
+            "url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.540",
+            "summary": "What's Changed remotion: Every effect now has a WebGPU version by @JonnyBurger in #12700 @remotion/renderer: Upgrade Chrome to 158.0.8127.2 and publish build scripts by @JonnyBurger in #12814 @remotion/bundler: Upgrade…",
             "kind": "topic_rss",
             "source_name": "Remotion",
             "basis": "rss_excerpt",
-            "published_at": "2026-10-26T12:04:13Z",
-            "checked_at": "2026-11-02T06:42:59Z"
+            "published_at": "2026-11-02T08:54:15Z",
+            "checked_at": "2026-11-02T21:53:26Z"
+          },
+          {
+            "id": "topic-repo-tupe12334--rc-keeper",
+            "title": "tupe12334/rc-keeper",
+            "url": "https://github.com/tupe12334/rc-keeper",
+            "summary": "Keep claude remote-control running 24/7 for many folders, with a desktop UI (unofficial)",
+            "kind": "topic_repository",
+            "source_name": "GitHub · публичные метаданные",
+            "basis": "metadata_only",
+            "license": "MIT",
+            "published_at": "2026-11-02T21:53:38Z",
+            "checked_at": "2026-11-02T21:53:45Z"
+          },
+          {
+            "id": "topic-repo-ardasnturk--promo-studio",
+            "title": "ardasnturk/promo-studio",
+            "url": "https://github.com/ardasnturk/promo-studio",
+            "summary": "Promo videos for the apps you build, written and directed by Claude Code. macOS app with Remotion rendering and Instagram publishing.",
+            "kind": "topic_repository",
+            "source_name": "GitHub · публичные метаданные",
+            "basis": "metadata_only",
+            "license": "NOASSERTION",
+            "published_at": "2026-11-02T21:53:09Z",
+            "checked_at": "2026-11-02T21:53:45Z"
           },
           {
             "id": "topic-repo-stablyai--orca",
@@ -4433,61 +4451,32 @@
             "source_name": "GitHub · публичные метаданные",
             "basis": "metadata_only",
             "license": "MIT",
-            "published_at": "2026-11-02T02:25:05Z",
-            "checked_at": "2026-11-02T02:25:12Z",
-            "stale": false
+            "published_at": "2026-11-02T21:52:58Z",
+            "checked_at": "2026-11-02T21:53:45Z"
           },
           {
-            "id": "topic-repo-evanzhang008--open-walnut",
-            "title": "EvanZhang008/open-walnut",
-            "url": "https://github.com/EvanZhang008/open-walnut",
-            "summary": "Claude Code on your laptop and remote dev boxes, in one web page. Sessions keep running when SSH drops (no tmux), each session's changes get their own diff, plus tasks, notes, and memory. Self-hosted.",
+            "id": "topic-repo-agentbuffs--skills",
+            "title": "agentbuffs/skills",
+            "url": "https://github.com/agentbuffs/skills",
+            "summary": "Find MCP servers and agent skills for a job: a skill, a remote MCP server and a Claude Code plugin",
             "kind": "topic_repository",
             "source_name": "GitHub · публичные метаданные",
             "basis": "metadata_only",
             "license": "MIT",
-            "published_at": "2026-11-02T02:24:06Z",
-            "checked_at": "2026-11-02T02:25:12Z",
-            "stale": false
+            "published_at": "2026-11-02T21:51:41Z",
+            "checked_at": "2026-11-02T21:53:45Z"
           },
           {
-            "id": "topic-repo-remote-arc--remote-arc",
-            "title": "Remote-Arc/remote-arc",
-            "url": "https://github.com/Remote-Arc/remote-arc",
-            "summary": "Controlled remote computer access for AI — connect ChatGPT, Claude, Codex and MCP clients to Windows, macOS and Linux.",
-            "kind": "topic_repository",
-            "source_name": "GitHub · публичные метаданные",
-            "basis": "metadata_only",
-            "license": "NOASSERTION",
-            "published_at": "2026-11-02T02:22:06Z",
-            "checked_at": "2026-11-02T02:25:12Z",
-            "stale": false
-          },
-          {
-            "id": "topic-repo-caezium--cc-tools",
-            "title": "caezium/cc-tools",
-            "url": "https://github.com/caezium/cc-tools",
-            "summary": "Dependency-light tools for Claude Code sessions, remote access, schedules, and local conversation handoffs.",
+            "id": "topic-repo-arey325--marketing-kit-plugin",
+            "title": "arey325/marketing-kit-plugin",
+            "url": "https://github.com/arey325/marketing-kit-plugin",
+            "summary": "Marketing Kit plugin for Claude — skill + remote MCP connector (marketing-kit.app): Meta Ads, Google Ads, GA4, Search Console, AppsFlyer, RevenueCat, App Store, TikTok, Instagram, Facebook Pages",
             "kind": "topic_repository",
             "source_name": "GitHub · публичные метаданные",
             "basis": "metadata_only",
             "license": "MIT",
-            "published_at": "2026-11-02T02:16:54Z",
-            "checked_at": "2026-11-02T02:25:12Z",
-            "stale": false
-          },
-          {
-            "id": "topic-repo-wi202im--maricode",
-            "title": "wi202im/MARICODE",
-            "url": "https://github.com/wi202im/MARICODE",
-            "summary": "Mac workspace for Claude and Codex sessions with a remote web client",
-            "kind": "topic_repository",
-            "source_name": "GitHub · публичные метаданные",
-            "basis": "metadata_only",
-            "license": "AGPL-3.0",
-            "published_at": "2026-11-02T02:12:50Z",
-            "checked_at": "2026-11-02T02:25:12Z",
-            "stale": false
+            "published_at": "2026-11-02T21:51:39Z",
+            "checked_at": "2026-11-02T21:53:45Z"
           }
         ],
         "health": {
@@ -4496,8 +4485,9 @@
             "count": 1
           },
           "github": {
-            "status": "cached",
-            "note": "Снимок младше 6 часов; без запроса API"
+            "status": "ok",
+            "count": 5,
+            "note": "Первая страница, публичные метаданные; не аудит кода"
           },
           "gemini": {
             "status": "not_requested"
@@ -4510,8 +4500,8 @@
           }
         },
         "ai_selected_ids": [],
-        "checked_at": "2026-11-02T02:25:12Z",
-        "last_attempt_at": "2026-11-02T06:43:09Z"
+        "checked_at": "2026-11-02T21:53:45Z",
+        "last_attempt_at": "2026-11-02T21:53:47Z"
       },
       {
         "id": "grok-video",
@@ -4520,43 +4510,40 @@
         "web_query": "Grok Imagine animation",
         "items": [
           {
-            "id": "topic-repo-sushilbaidyaindia-cyber--ai-smart-tube-",
-            "title": "sushilbaidyaindia-cyber/AI-Smart-Tube-",
-            "url": "https://github.com/sushilbaidyaindia-cyber/AI-Smart-Tube-",
-            "summary": "AI Smart Tube is an ad-free, privacy-first video player requiring no account. Powered by Gemini & Grok, it offers instant summaries, clickbait detection, and live translations. Designed for accessibility, it features TalkBack support, AI scene descriptions, and one-tap M4A downloads. Your data stays 100% private and local.",
+            "id": "topic-repo-billyhetech--awesome-grok-imagine-videos",
+            "title": "billyhetech/awesome-grok-imagine-videos",
+            "url": "https://github.com/billyhetech/awesome-grok-imagine-videos",
+            "summary": "Awesome list of viral videos made with Grok Imagine: cinematic shorts, ads, anime and music videos, each linked to the creator's original post with the prompt where shared. Watch every one on clawshelf.com · Grok Imagine 爆款视频合集",
+            "kind": "topic_repository",
+            "source_name": "GitHub · публичные метаданные",
+            "basis": "metadata_only",
+            "license": "MIT",
+            "published_at": "2026-11-02T21:45:47Z",
+            "checked_at": "2026-11-02T21:53:47Z"
+          },
+          {
+            "id": "topic-repo-fengseekling-coder--gravityport",
+            "title": "fengseekling-coder/gravityport",
+            "url": "https://github.com/fengseekling-coder/gravityport",
+            "summary": "GravityPort is a free AI asset manager for macOS and Windows. Images and videos from ChatGPT, Gemini, Flow, Google AI Studio, Codex, Grok and Jimeng land in a library on your computer, with their prompts, reference images and sources. Every AI creation leaves a trail.",
+            "kind": "topic_repository",
+            "source_name": "GitHub · публичные метаданные",
+            "basis": "metadata_only",
+            "license": "NOASSERTION",
+            "published_at": "2026-11-02T20:55:23Z",
+            "checked_at": "2026-11-02T21:53:47Z"
+          },
+          {
+            "id": "topic-repo-yishengjiang99--finalcut",
+            "title": "yishengjiang99/finalcut",
+            "url": "https://github.com/yishengjiang99/finalcut",
+            "summary": "Ffmpeg and Grok powered video editor. Hosted at https://grepawk.com",
             "kind": "topic_repository",
             "source_name": "GitHub · публичные метаданные",
             "basis": "metadata_only",
             "license": null,
-            "published_at": "2026-11-02T01:04:47Z",
-            "checked_at": "2026-11-02T02:25:14Z",
-            "stale": false
-          },
-          {
-            "id": "topic-repo-cyberdreadx--cyberpunk-grok-api",
-            "title": "cyberdreadx/cyberpunk-grok-api",
-            "url": "https://github.com/cyberdreadx/cyberpunk-grok-api",
-            "summary": "Cyberpunk neural interface for AI image, video and character generation — multi-engine, multi-payment, creator-friendly.",
-            "kind": "topic_repository",
-            "source_name": "GitHub · публичные метаданные",
-            "basis": "metadata_only",
-            "license": null,
-            "published_at": "2026-11-01T22:49:42Z",
-            "checked_at": "2026-11-02T02:25:14Z",
-            "stale": false
-          },
-          {
-            "id": "topic-repo-dapao-777--roamcat",
-            "title": "dapao-777/roamcat",
-            "url": "https://github.com/dapao-777/roamcat",
-            "summary": "RoamCat · 随心阅 — open-source dual-mode English reading extension for Chrome/Edge (MV3): in-place bilingual translation, sparse-hint reading assistance and bilingual video subtitles. Local-first, no telemetry — 33 BYOK providers or reuse your ChatGPT / Grok / Google subscription.",
-            "kind": "topic_repository",
-            "source_name": "GitHub · публичные метаданные",
-            "basis": "metadata_only",
-            "license": "MPL-2.0",
-            "published_at": "2026-11-01T21:16:59Z",
-            "checked_at": "2026-11-02T02:25:14Z",
-            "stale": false
+            "published_at": "2026-11-02T20:19:35Z",
+            "checked_at": "2026-11-02T21:53:47Z"
           },
           {
             "id": "topic-repo-youmind-openlab--awesome-grok-imagine-prompts",
@@ -4567,9 +4554,8 @@
             "source_name": "GitHub · публичные метаданные",
             "basis": "metadata_only",
             "license": "NOASSERTION",
-            "published_at": "2026-11-01T20:45:49Z",
-            "checked_at": "2026-11-02T02:25:14Z",
-            "stale": false
+            "published_at": "2026-11-02T18:27:28Z",
+            "checked_at": "2026-11-02T21:53:47Z"
           },
           {
             "id": "topic-repo-imaginevid--awesome-grok-imagine-video-prompts-and-skills",
@@ -4580,9 +4566,8 @@
             "source_name": "GitHub · публичные метаданные",
             "basis": "metadata_only",
             "license": "NOASSERTION",
-            "published_at": "2026-11-01T20:09:50Z",
-            "checked_at": "2026-11-02T02:25:14Z",
-            "stale": false
+            "published_at": "2026-11-02T17:47:46Z",
+            "checked_at": "2026-11-02T21:53:47Z"
           }
         ],
         "health": {
@@ -4591,8 +4576,9 @@
             "count": 0
           },
           "github": {
-            "status": "cached",
-            "note": "Снимок младше 6 часов; без запроса API"
+            "status": "ok",
+            "count": 5,
+            "note": "Первая страница, публичные метаданные; не аудит кода"
           },
           "gemini": {
             "status": "not_requested"
@@ -4605,8 +4591,8 @@
           }
         },
         "ai_selected_ids": [],
-        "checked_at": "2026-11-02T02:25:14Z",
-        "last_attempt_at": "2026-11-02T06:43:09Z"
+        "checked_at": "2026-11-02T21:53:47Z",
+        "last_attempt_at": "2026-11-02T21:53:49Z"
       },
       {
         "id": "motion-web",
@@ -4614,6 +4600,17 @@
         "query": "web animation",
         "web_query": "GSAP web animation",
         "items": [
+          {
+            "id": "40f2725562b6b00ca2",
+            "title": "v4.0.540",
+            "url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.540",
+            "summary": "What's Changed remotion: Every effect now has a WebGPU version by @JonnyBurger in #12700 @remotion/renderer: Upgrade Chrome to 158.0.8127.2 and publish build scripts by @JonnyBurger in #12814 @remotion/bundler: Upgrade…",
+            "kind": "topic_rss",
+            "source_name": "Remotion",
+            "basis": "rss_excerpt",
+            "published_at": "2026-11-02T08:54:15Z",
+            "checked_at": "2026-11-02T21:53:26Z"
+          },
           {
             "id": "de8c72df8d1a2394b1",
             "title": "r187",
@@ -4623,18 +4620,7 @@
             "source_name": "Three.js",
             "basis": "rss_excerpt",
             "published_at": "2026-10-30T08:03:18Z",
-            "checked_at": "2026-11-02T06:42:59Z"
-          },
-          {
-            "id": "10014f52844b97cf2d",
-            "title": "v4.0.539",
-            "url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.539",
-            "summary": "What's Changed @remotion/effects: Add curves() and graphical color controls in Studio by @JonnyBurger in #12550 @remotion/effects: Add shatter() for 3D fragment animations by @JonnyBurger in #12578 remotion: Fix…",
-            "kind": "topic_rss",
-            "source_name": "Remotion",
-            "basis": "rss_excerpt",
-            "published_at": "2026-10-26T12:04:13Z",
-            "checked_at": "2026-11-02T06:42:59Z"
+            "checked_at": "2026-11-02T21:53:26Z"
           },
           {
             "id": "fe7b225f29d029cecf",
@@ -4645,7 +4631,7 @@
             "source_name": "React Three Fiber",
             "basis": "rss_excerpt",
             "published_at": "2026-10-17T01:54:18Z",
-            "checked_at": "2026-11-02T06:42:59Z"
+            "checked_at": "2026-11-02T21:53:26Z"
           },
           {
             "id": "c8566f6a69ddc2807c",
@@ -4656,7 +4642,7 @@
             "source_name": "Codrops",
             "basis": "rss_excerpt",
             "published_at": "2026-09-14T11:30:10Z",
-            "checked_at": "2026-11-02T06:42:59Z"
+            "checked_at": "2026-11-02T21:53:26Z"
           },
           {
             "id": "6ac95cc8a8f3622243",
@@ -4667,7 +4653,7 @@
             "source_name": "Codrops",
             "basis": "rss_excerpt",
             "published_at": "2026-09-13T11:34:39Z",
-            "checked_at": "2026-11-02T06:42:59Z"
+            "checked_at": "2026-11-02T21:53:26Z"
           },
           {
             "id": "e5b60107e6763277b1",
@@ -4678,7 +4664,7 @@
             "source_name": "Codrops",
             "basis": "rss_excerpt",
             "published_at": "2026-09-12T08:40:31Z",
-            "checked_at": "2026-11-02T06:42:59Z"
+            "checked_at": "2026-11-02T21:53:26Z"
           },
           {
             "id": "1c80df51d84652392e",
@@ -4689,33 +4675,7 @@
             "source_name": "Maxime Heckel",
             "basis": "rss_excerpt",
             "published_at": "2026-08-18T08:00:00Z",
-            "checked_at": "2026-11-02T06:42:59Z"
-          },
-          {
-            "id": "topic-repo-darby9123-arch--lolite-os",
-            "title": "darby9123-arch/Lolite-OS",
-            "url": "https://github.com/darby9123-arch/Lolite-OS",
-            "summary": "Lolite OS is a next-generation web-based operating system with a Windows-inspired interface, original Lolite branding, built-in apps and games, file management, ZIP tools, AI-powered search, wallpapers, customization, smooth animations, Liquid Glass, and much more.",
-            "kind": "topic_repository",
-            "source_name": "GitHub · публичные метаданные",
-            "basis": "metadata_only",
-            "license": null,
-            "published_at": "2026-11-02T02:19:17Z",
-            "checked_at": "2026-11-02T02:25:17Z",
-            "stale": false
-          },
-          {
-            "id": "topic-repo-rehan-devs--scoop---ice-cream-website",
-            "title": "rehan-devs/Scoop---Ice-Cream-Website",
-            "url": "https://github.com/rehan-devs/Scoop---Ice-Cream-Website",
-            "summary": "🍦 SCOÖP — A premium artisan ice cream shop website featuring buttery-smooth animations, interactive 3D ice cream, and a luxurious design. Built with Next.js 14, GSAP, React Three Fiber, and Tailwind CSS.",
-            "kind": "topic_repository",
-            "source_name": "GitHub · публичные метаданные",
-            "basis": "metadata_only",
-            "license": null,
-            "published_at": "2026-11-02T02:06:59Z",
-            "checked_at": "2026-11-02T02:25:17Z",
-            "stale": false
+            "checked_at": "2026-11-02T21:53:26Z"
           },
           {
             "id": "topic-repo-rawframe-project--maul-tween",
@@ -4726,35 +4686,56 @@
             "source_name": "GitHub · публичные метаданные",
             "basis": "metadata_only",
             "license": "MIT",
-            "published_at": "2026-11-02T02:05:54Z",
-            "checked_at": "2026-11-02T02:25:17Z",
-            "stale": false
+            "published_at": "2026-11-02T21:50:28Z",
+            "checked_at": "2026-11-02T21:53:49Z"
           },
           {
-            "id": "topic-repo-dagger75hogcher--artoonix",
-            "title": "dagger75hogcher/Artoonix",
-            "url": "https://github.com/dagger75hogcher/Artoonix",
-            "summary": "Get Artoonix — an animation software for Windows with free download. Create stunning animations in GIF, SWF, and AVI formats using its built-in image editor and add audio to your projects. Perfect for web animations. Download the latest release.",
+            "id": "topic-repo-darby9123-arch--lolite-os",
+            "title": "darby9123-arch/Lolite-OS",
+            "url": "https://github.com/darby9123-arch/Lolite-OS",
+            "summary": "Lolite OS is a next-generation web-based operating system with a Windows-inspired interface, original Lolite branding, built-in apps and games, file management, ZIP tools, AI-powered search, wallpapers, customization, smooth animations, Liquid Glass, and much more.",
+            "kind": "topic_repository",
+            "source_name": "GitHub · публичные метаданные",
+            "basis": "metadata_only",
+            "license": null,
+            "published_at": "2026-11-02T21:53:19Z",
+            "checked_at": "2026-11-02T21:53:49Z"
+          },
+          {
+            "id": "topic-repo-masterplayspots--motionspec",
+            "title": "MasterPlayspots/motionspec",
+            "url": "https://github.com/MasterPlayspots/motionspec",
+            "summary": "MCP server and CLI for web animation accessibility: deterministic GSAP + CSS, reduced-motion defaults and static WCAG 2.2.2/2.3.3 checks. MIT core.",
             "kind": "topic_repository",
             "source_name": "GitHub · публичные метаданные",
             "basis": "metadata_only",
             "license": "MIT",
-            "published_at": "2026-11-02T01:56:58Z",
-            "checked_at": "2026-11-02T02:25:17Z",
-            "stale": false
+            "published_at": "2026-11-02T21:46:39Z",
+            "checked_at": "2026-11-02T21:53:49Z"
           },
           {
-            "id": "topic-repo-kirkhoney77--banner-maker-pro-full-version-unlocked",
-            "title": "kirkhoney77/Banner-Maker-Pro-Full-Version-Unlocked",
-            "url": "https://github.com/kirkhoney77/Banner-Maker-Pro-Full-Version-Unlocked",
-            "summary": "Create stunning graphics with Banner Maker Pro, a web design tool for Windows, offering a free download. Customize banners, logos, and buttons with animations, gradients, and text effects. Download now and enhance your website!",
+            "id": "topic-repo-4163--pixijs-live2d-spine-viewer",
+            "title": "4163/pixijs-live2d-spine-viewer",
+            "url": "https://github.com/4163/pixijs-live2d-spine-viewer",
+            "summary": "Standalone web-based renderer utilizing PixiJS to display Live2D (Cubism 2/3) and Spine (2.x) animations via WebGL. Includes Girls' Frontline reference models*",
             "kind": "topic_repository",
             "source_name": "GitHub · публичные метаданные",
             "basis": "metadata_only",
             "license": "MIT",
-            "published_at": "2026-11-02T01:56:02Z",
-            "checked_at": "2026-11-02T02:25:17Z",
-            "stale": false
+            "published_at": "2026-11-02T21:35:52Z",
+            "checked_at": "2026-11-02T21:53:49Z"
+          },
+          {
+            "id": "topic-repo-unarmed1000--mb-framepacing-explained",
+            "title": "Unarmed1000/mb-framepacing-explained",
+            "url": "https://github.com/Unarmed1000/mb-framepacing-explained",
+            "summary": "Frame pacing and animation error, explained: generated comparison videos, timing diagrams and charts, for a slide-style web page with a blind test.",
+            "kind": "topic_repository",
+            "source_name": "GitHub · публичные метаданные",
+            "basis": "metadata_only",
+            "license": "NOASSERTION",
+            "published_at": "2026-11-02T21:30:43Z",
+            "checked_at": "2026-11-02T21:53:49Z"
           }
         ],
         "health": {
@@ -4763,8 +4744,9 @@
             "count": 7
           },
           "github": {
-            "status": "cached",
-            "note": "Снимок младше 6 часов; без запроса API"
+            "status": "ok",
+            "count": 5,
+            "note": "Первая страница, публичные метаданные; не аудит кода"
           },
           "gemini": {
             "status": "not_requested"
@@ -4777,8 +4759,8 @@
           }
         },
         "ai_selected_ids": [],
-        "checked_at": "2026-11-02T02:25:17Z",
-        "last_attempt_at": "2026-11-02T06:43:09Z"
+        "checked_at": "2026-11-02T21:53:49Z",
+        "last_attempt_at": "2026-11-02T21:53:51Z"
       },
       {
         "id": "blender",
@@ -4795,7 +4777,7 @@
             "source_name": "BlenderNation",
             "basis": "rss_excerpt",
             "published_at": "2026-11-01T07:55:23Z",
-            "checked_at": "2026-11-02T06:42:59Z"
+            "checked_at": "2026-11-02T21:53:26Z"
           },
           {
             "id": "500132667f9ec65906",
@@ -4806,7 +4788,7 @@
             "source_name": "BlenderNation",
             "basis": "rss_excerpt",
             "published_at": "2026-10-31T10:27:03Z",
-            "checked_at": "2026-11-02T06:42:59Z"
+            "checked_at": "2026-11-02T21:53:26Z"
           },
           {
             "id": "ea9f125d4a2b5bbeca",
@@ -4817,7 +4799,7 @@
             "source_name": "BlenderNation",
             "basis": "rss_excerpt",
             "published_at": "2026-10-31T08:00:33Z",
-            "checked_at": "2026-11-02T06:42:59Z"
+            "checked_at": "2026-11-02T21:53:26Z"
           },
           {
             "id": "900e199369b6bee06c",
@@ -4828,18 +4810,7 @@
             "source_name": "Blender Developers",
             "basis": "rss_excerpt",
             "published_at": "2026-10-30T13:18:52Z",
-            "checked_at": "2026-11-02T06:42:59Z"
-          },
-          {
-            "id": "b60021bdf55fe5abf8",
-            "title": "Blender Jobs for October 30, 2026",
-            "url": "https://www.blendernation.com/2026/10/30/blender-jobs-for-october-30-2026/",
-            "summary": "Here’s an overview of the most recent Blender jobs on Blender Artists, ArtStation and 3djobs.xyz: VFX Artist Art Lead Senior 3D Character Artist (Stylized Games | Unity3D) Europe Senior Technical Animator (Unreal Engine…",
-            "kind": "topic_rss",
-            "source_name": "BlenderNation",
-            "basis": "rss_excerpt",
-            "published_at": "2026-10-30T10:15:00Z",
-            "checked_at": "2026-11-02T06:42:59Z"
+            "checked_at": "2026-11-02T21:53:26Z"
           },
           {
             "id": "de8c72df8d1a2394b1",
@@ -4850,18 +4821,7 @@
             "source_name": "Three.js",
             "basis": "rss_excerpt",
             "published_at": "2026-10-30T08:03:18Z",
-            "checked_at": "2026-11-02T06:42:59Z"
-          },
-          {
-            "id": "10014f52844b97cf2d",
-            "title": "v4.0.539",
-            "url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.539",
-            "summary": "What's Changed @remotion/effects: Add curves() and graphical color controls in Studio by @JonnyBurger in #12550 @remotion/effects: Add shatter() for 3D fragment animations by @JonnyBurger in #12578 remotion: Fix…",
-            "kind": "topic_rss",
-            "source_name": "Remotion",
-            "basis": "rss_excerpt",
-            "published_at": "2026-10-26T12:04:13Z",
-            "checked_at": "2026-11-02T06:42:59Z"
+            "checked_at": "2026-11-02T21:53:26Z"
           },
           {
             "id": "a1f3db65653cf65854",
@@ -4872,7 +4832,7 @@
             "source_name": "Blender Developers",
             "basis": "rss_excerpt",
             "published_at": "2026-10-14T12:26:59Z",
-            "checked_at": "2026-11-02T06:42:59Z"
+            "checked_at": "2026-11-02T21:53:26Z"
           },
           {
             "id": "8a085ef017581985d0",
@@ -4883,7 +4843,7 @@
             "source_name": "Blender Developers",
             "basis": "rss_excerpt",
             "published_at": "2026-10-05T14:29:39Z",
-            "checked_at": "2026-11-02T06:42:59Z"
+            "checked_at": "2026-11-02T21:53:26Z"
           },
           {
             "id": "e5b60107e6763277b1",
@@ -4894,7 +4854,7 @@
             "source_name": "Codrops",
             "basis": "rss_excerpt",
             "published_at": "2026-09-12T08:40:31Z",
-            "checked_at": "2026-11-02T06:42:59Z"
+            "checked_at": "2026-11-02T21:53:26Z"
           },
           {
             "id": "b36261991ac0195317",
@@ -4905,7 +4865,7 @@
             "source_name": "Blender Developers",
             "basis": "rss_excerpt",
             "published_at": "2026-09-10T15:56:53Z",
-            "checked_at": "2026-11-02T06:42:59Z"
+            "checked_at": "2026-11-02T21:53:26Z"
           },
           {
             "id": "ba8fbad82a9b229283",
@@ -4916,82 +4876,78 @@
             "source_name": "Blender Developers",
             "basis": "rss_excerpt",
             "published_at": "2026-07-30T14:52:49Z",
-            "checked_at": "2026-11-02T06:42:59Z"
+            "checked_at": "2026-11-02T21:53:26Z"
           },
           {
-            "id": "topic-repo-godistimemrepic--blender",
-            "title": "godistimemrepic/Blender",
-            "url": "https://github.com/godistimemrepic/Blender",
-            "summary": "Get Blender — a 3D modeling and animation program for Windows with free download. Model with various techniques, create textures, and animate scenes using a quick skeleton creation mode. Download the latest release.",
+            "id": "topic-repo-raydestar--reference-asset-compiler",
+            "title": "raydeStar/reference-asset-compiler",
+            "url": "https://github.com/raydeStar/reference-asset-compiler",
+            "summary": "Open-source, evidence-gated pipeline from one concept image to a rigged, textured, animation-ready UE5 character: Hunyuan3D geometry and PBR, Blender retopo/UV/rig, UE 5.8 import verification and a playable gallery. Rigs with or without Auto-Rig Pro.",
             "kind": "topic_repository",
             "source_name": "GitHub · публичные метаданные",
             "basis": "metadata_only",
             "license": "MIT",
-            "published_at": "2026-11-02T01:56:50Z",
-            "checked_at": "2026-11-02T02:25:19Z",
-            "stale": false
+            "published_at": "2026-11-02T21:47:26Z",
+            "checked_at": "2026-11-02T21:53:52Z"
           },
           {
-            "id": "topic-repo-crenet-games--orthorig",
-            "title": "CReNET-Games/OrthoRig",
-            "url": "https://github.com/CReNET-Games/OrthoRig",
-            "summary": "Open-source 2D orthographic skeletal animation compiler (Blender bpy) and Analytic 2-Bone IK runtime for PixiJS v8",
+            "id": "topic-repo-3dissofun--blenderaddons",
+            "title": "3dissofun/BlenderAddons",
+            "url": "https://github.com/3dissofun/BlenderAddons",
+            "summary": "Custom binary file format for all animation data for 3D applications",
+            "kind": "topic_repository",
+            "source_name": "GitHub · публичные метаданные",
+            "basis": "metadata_only",
+            "license": "GPL-3.0",
+            "published_at": "2026-11-02T21:46:03Z",
+            "checked_at": "2026-11-02T21:53:52Z"
+          },
+          {
+            "id": "topic-repo-snake393--open-3d-forge",
+            "title": "snake393/open-3d-forge",
+            "url": "https://github.com/snake393/open-3d-forge",
+            "summary": "Open 3D Forge is a free and open source 3D creation suite covering the full pipeline — modeling, sculpting, animation, simulation, rendering, compositing and video editing — with an AI-ready Python and MCP API that lets assistants build and render scenes for you. · blender · blender alternative · blender ai · blender addon · blender mcp",
             "kind": "topic_repository",
             "source_name": "GitHub · публичные метаданные",
             "basis": "metadata_only",
             "license": "MIT",
-            "published_at": "2026-11-02T01:51:04Z",
-            "checked_at": "2026-11-02T02:25:19Z",
-            "stale": false
+            "published_at": "2026-11-02T21:10:49Z",
+            "checked_at": "2026-11-02T21:53:52Z"
           },
           {
-            "id": "topic-repo-hoovytubeofficial--hoovytools-sfmsessionimport-blender",
-            "title": "hoovytubeofficial/HoovyTools-SFMSessionImport-Blender",
-            "url": "https://github.com/hoovytubeofficial/HoovyTools-SFMSessionImport-Blender",
-            "summary": "Import Source Filmmaker sessions into Blender - models, animation, faces, cameras, lights, sounds and the map, on SFM's own timeline. Twin of Source Particle Import.",
+            "id": "topic-repo-emansiu--blender-tools",
+            "title": "emansiu/Blender-Tools",
+            "url": "https://github.com/emansiu/Blender-Tools",
+            "summary": "wide array of Blender scripts and tools primarily focused on rigging and animation.",
             "kind": "topic_repository",
             "source_name": "GitHub · публичные метаданные",
             "basis": "metadata_only",
-            "license": "NOASSERTION",
-            "published_at": "2026-11-02T01:40:48Z",
-            "checked_at": "2026-11-02T02:25:19Z",
-            "stale": false
+            "license": "MIT",
+            "published_at": "2026-11-02T20:26:18Z",
+            "checked_at": "2026-11-02T21:53:52Z"
           },
           {
-            "id": "topic-repo-dustooned--2dope",
-            "title": "dustooned/2Dope",
-            "url": "https://github.com/dustooned/2Dope",
-            "summary": "Custom 2D-Animation to Blender app.",
+            "id": "topic-repo-taciturnslake-57--blender-addons-pack-2026",
+            "title": "taciturnslake-57/Blender-Addons-Pack-2026",
+            "url": "https://github.com/taciturnslake-57/Blender-Addons-Pack-2026",
+            "summary": "Blender – A comprehensive collection of addons and plugins for enhanced 3D modeling, rendering, and animation in Blender 2026.",
             "kind": "topic_repository",
             "source_name": "GitHub · публичные метаданные",
             "basis": "metadata_only",
             "license": null,
-            "published_at": "2026-11-02T01:24:20Z",
-            "checked_at": "2026-11-02T02:25:19Z",
-            "stale": false
-          },
-          {
-            "id": "topic-repo-bungov--nifskope-wildwastelandedition",
-            "title": "BungoV/NifSkope-WildWastelandEdition",
-            "url": "https://github.com/BungoV/NifSkope-WildWastelandEdition",
-            "summary": "A NIF editor for Fallout 4 - rigging, Havok collision authoring, UV editing, an animation timeline, Blender-style modeling and a headless CLI.",
-            "kind": "topic_repository",
-            "source_name": "GitHub · публичные метаданные",
-            "basis": "metadata_only",
-            "license": "NOASSERTION",
-            "published_at": "2026-11-02T02:20:51Z",
-            "checked_at": "2026-11-02T02:25:19Z",
-            "stale": false
+            "published_at": "2026-11-02T20:10:52Z",
+            "checked_at": "2026-11-02T21:53:52Z"
           }
         ],
         "health": {
           "rss": {
             "status": "ok",
-            "count": 12
+            "count": 10
           },
           "github": {
-            "status": "cached",
-            "note": "Снимок младше 6 часов; без запроса API"
+            "status": "ok",
+            "count": 5,
+            "note": "Первая страница, публичные метаданные; не аудит кода"
           },
           "gemini": {
             "status": "not_requested"
@@ -5004,8 +4960,8 @@
           }
         },
         "ai_selected_ids": [],
-        "checked_at": "2026-11-02T02:25:19Z",
-        "last_attempt_at": "2026-11-02T06:43:09Z"
+        "checked_at": "2026-11-02T21:53:52Z",
+        "last_attempt_at": "2026-11-02T21:53:54Z"
       },
       {
         "id": "comfyui",
@@ -5022,72 +4978,67 @@
             "source_name": "ComfyUI",
             "basis": "rss_excerpt",
             "published_at": "2026-10-30T01:24:06Z",
-            "checked_at": "2026-11-02T06:42:59Z"
+            "checked_at": "2026-11-02T21:53:26Z"
           },
           {
-            "id": "topic-repo-sytesims--imagination-is-all-you-need",
-            "title": "sytesims/imagination-is-all-you-need",
-            "url": "https://github.com/sytesims/imagination-is-all-you-need",
-            "summary": "A free, open-source AI creative studio. Images, video, audio, 3D and films, local or cloud, built on ComfyUI.",
+            "id": "topic-repo-k3nk3--comfyui-k3nk-comfyui-nodes",
+            "title": "K3NK3/ComfyUI-K3NK-ComfyUI-Nodes",
+            "url": "https://github.com/K3NK3/ComfyUI-K3NK-ComfyUI-Nodes",
+            "summary": "Nodes I vibecode as I need them or ideas come to me, plus adaptations of abandoned/unsupported nodes. Covers video workflows, image I/O, and utilities; built for WanVideo, AnimateDiff, RIFE, and Flux.",
             "kind": "topic_repository",
             "source_name": "GitHub · публичные метаданные",
             "basis": "metadata_only",
-            "license": "AGPL-3.0",
-            "published_at": "2026-11-02T02:22:18Z",
-            "checked_at": "2026-11-02T02:25:22Z",
-            "stale": false
+            "license": "MIT",
+            "published_at": "2026-11-02T21:52:55Z",
+            "checked_at": "2026-11-02T21:53:54Z"
           },
           {
-            "id": "topic-repo-slit-company--viral-hit",
-            "title": "slit-company/viral-hit",
-            "url": "https://github.com/slit-company/viral-hit",
-            "summary": "The open-source creative studio: image, video, audio and multitrack editing with any model. Comfy Router (FLUX 3, LTX 2.5, MiniMax H3), Higgsfield, Sume and your own ComfyUI.",
+            "id": "topic-repo-eloque--posecapture",
+            "title": "Eloque/PoseCapture",
+            "url": "https://github.com/Eloque/PoseCapture",
+            "summary": "Extract, track and retarget character motion from video, entirely inside ComfyUI.",
+            "kind": "topic_repository",
+            "source_name": "GitHub · публичные метаданные",
+            "basis": "metadata_only",
+            "license": "GPL-3.0",
+            "published_at": "2026-11-02T21:49:46Z",
+            "checked_at": "2026-11-02T21:53:54Z"
+          },
+          {
+            "id": "topic-repo-itzakai--ember",
+            "title": "ITzAkai/ember",
+            "url": "https://github.com/ITzAkai/ember",
+            "summary": "Ember: make AI pictures and short videos on your own Windows PC. A friendly app for ComfyUI with styles, saved characters, edits that follow your words, any ComfyUI workflow from a link, live preview and one-switch quality boosters. Private: nothing goes to the cloud.",
+            "kind": "topic_repository",
+            "source_name": "GitHub · публичные метаданные",
+            "basis": "metadata_only",
+            "license": null,
+            "published_at": "2026-11-02T21:49:20Z",
+            "checked_at": "2026-11-02T21:53:54Z"
+          },
+          {
+            "id": "topic-repo-slavasexton--comfyui-agent-kit",
+            "title": "SlavaSexton/ComfyUI-Agent-Kit",
+            "url": "https://github.com/SlavaSexton/ComfyUI-Agent-Kit",
+            "summary": "One ComfyUI skill for every AI coding agent (Claude Code, Codex, Gemini CLI, Qwen Code): drives a local ComfyUI end to end. 75 model prompt recipes, 581 templates, plus standalone Seedance, Krea and MiniMax H3 skills. Hardware-aware selection, workflow building, multi-shot video, ControlNet, HDR. By Chronicle of Brothers.",
             "kind": "topic_repository",
             "source_name": "GitHub · публичные метаданные",
             "basis": "metadata_only",
             "license": "Apache-2.0",
-            "published_at": "2026-11-02T02:11:18Z",
-            "checked_at": "2026-11-02T02:25:22Z",
-            "stale": false
+            "published_at": "2026-11-02T21:48:27Z",
+            "checked_at": "2026-11-02T21:53:54Z"
           },
           {
-            "id": "topic-repo-rebeltortuga--comfyui-free-local-wan-video-quality",
-            "title": "RebelTortuga/comfyui-free-local-wan-video-quality",
-            "url": "https://github.com/RebelTortuga/comfyui-free-local-wan-video-quality",
-            "summary": "Free local ComfyUI Wan 2.2 image-to-video workflow focused on quality, motion prompts, and AI video generation.",
+            "id": "topic-repo-slavasexton--comfyui-ocio",
+            "title": "SlavaSexton/ComfyUI-OCIO",
+            "url": "https://github.com/SlavaSexton/ComfyUI-OCIO",
+            "summary": "Nuke-style OpenColorIO color management for ComfyUI: read and write EXR, ProRes, image sequences and video, grade in ACES, and inspect the result in an on-node float viewer with live exposure. Runs on ComfyUI's native VIDEO pipeline. By Chronicle of Brothers.",
             "kind": "topic_repository",
             "source_name": "GitHub · публичные метаданные",
             "basis": "metadata_only",
-            "license": "MIT",
-            "published_at": "2026-11-02T01:41:04Z",
-            "checked_at": "2026-11-02T02:25:22Z",
-            "stale": false
-          },
-          {
-            "id": "topic-repo-rebeltortuga--comfyui-free-local-wan-video-high-resolution",
-            "title": "RebelTortuga/comfyui-free-local-wan-video-high-resolution",
-            "url": "https://github.com/RebelTortuga/comfyui-free-local-wan-video-high-resolution",
-            "summary": "Free local ComfyUI Wan 2.2 high-resolution image-to-video workflow with adjustable motion and rendering settings.",
-            "kind": "topic_repository",
-            "source_name": "GitHub · публичные метаданные",
-            "basis": "metadata_only",
-            "license": "MIT",
-            "published_at": "2026-11-02T01:41:06Z",
-            "checked_at": "2026-11-02T02:25:22Z",
-            "stale": false
-          },
-          {
-            "id": "topic-repo-workingprototype--fuobe",
-            "title": "workingprototype/Fuobe",
-            "url": "https://github.com/workingprototype/Fuobe",
-            "summary": "The open creative studio on ComfyUI: images, video, 3D and audio on open weights, on your own GPU or the cloud. Camera motions, effects, apps, Cinema, Layers, Image to 3D and an AI agent.",
-            "kind": "topic_repository",
-            "source_name": "GitHub · публичные метаданные",
-            "basis": "metadata_only",
-            "license": "MIT",
-            "published_at": "2026-11-02T02:06:35Z",
-            "checked_at": "2026-11-02T02:25:22Z",
-            "stale": false
+            "license": "Apache-2.0",
+            "published_at": "2026-11-02T21:48:25Z",
+            "checked_at": "2026-11-02T21:53:54Z"
           }
         ],
         "health": {
@@ -5096,8 +5047,9 @@
             "count": 1
           },
           "github": {
-            "status": "cached",
-            "note": "Снимок младше 6 часов; без запроса API"
+            "status": "ok",
+            "count": 5,
+            "note": "Первая страница, публичные метаданные; не аудит кода"
           },
           "gemini": {
             "status": "not_requested"
@@ -5110,14 +5062,14 @@
           }
         },
         "ai_selected_ids": [],
-        "checked_at": "2026-11-02T02:25:22Z",
-        "last_attempt_at": "2026-11-02T06:43:09Z"
+        "checked_at": "2026-11-02T21:53:54Z",
+        "last_attempt_at": "2026-11-02T21:53:56Z"
       }
     ]
   },
   "signals": {
     "schema_version": 1,
-    "generated_at": "2026-11-02T19:57:44Z",
+    "generated_at": "2026-11-02T21:53:56Z",
     "mode": "public_metadata_only",
     "schedule_minutes": 30,
     "sources": [
@@ -5129,9 +5081,9 @@
         "status": "ok",
         "count": 5,
         "config_signature": "040b1222912c",
-        "last_attempt": "2026-11-02T19:57:44Z",
-        "last_success": "2026-11-02T19:57:44Z",
-        "next_check": "2026-11-02T20:27:44+00:00"
+        "last_attempt": "2026-11-02T21:53:56Z",
+        "last_success": "2026-11-02T21:53:56Z",
+        "next_check": "2026-11-02T22:23:56+00:00"
       },
       {
         "id": "hyperframes",
@@ -5141,9 +5093,9 @@
         "status": "ok",
         "count": 5,
         "config_signature": "b02bec891cfe",
-        "last_attempt": "2026-11-02T19:57:44Z",
-        "last_success": "2026-11-02T19:57:44Z",
-        "next_check": "2026-11-02T20:27:44+00:00"
+        "last_attempt": "2026-11-02T21:53:56Z",
+        "last_success": "2026-11-02T21:53:56Z",
+        "next_check": "2026-11-02T22:23:56+00:00"
       },
       {
         "id": "pouya",
@@ -5153,22 +5105,22 @@
         "status": "ok",
         "count": 2,
         "config_signature": "63b934b73c2d",
-        "last_attempt": "2026-11-02T19:57:44Z",
-        "last_success": "2026-11-02T19:57:44Z",
-        "next_check": "2026-11-02T20:27:44+00:00"
+        "last_attempt": "2026-11-02T21:53:56Z",
+        "last_success": "2026-11-02T21:53:56Z",
+        "next_check": "2026-11-02T22:23:56+00:00"
       },
       {
         "id": "louise",
         "label": "Louise de Sadeleer · статьи",
         "platform": "rss",
         "enabled": true,
-        "status": "error",
+        "status": "backoff",
         "count": 1,
         "config_signature": "f1f189758c10",
         "last_attempt": "2026-11-02T19:57:44Z",
-        "error": "http_403",
         "last_success": "2026-11-02T00:47:43Z",
-        "next_check": "2026-11-03T01:57:44+00:00"
+        "next_check": "2026-11-03T01:57:44+00:00",
+        "error": "http_403"
       },
       {
         "id": "x-movez",
@@ -5233,6 +5185,27 @@
     ],
     "items": [
       {
+        "id": "signal-f8c2c7a3d99249dc30",
+        "title": "v0.9.6",
+        "url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.9.6",
+        "summary": "Новый релиз открытого проекта. Release notes ещё не разобраны.",
+        "source_name": "HyperFrames · релизы",
+        "source_id": "watch-hyperframes",
+        "watch_id": "hyperframes",
+        "platform": "github",
+        "kind": "watch_signal",
+        "basis": "metadata_only",
+        "published_at": "2026-11-02T20:48:27Z",
+        "seen_at": "2026-11-02T21:53:56Z",
+        "checked_at": "2026-11-02T21:53:56Z",
+        "tags": [
+          "Новый сигнал",
+          "github"
+        ],
+        "link_status": "ok",
+        "research_state": "needs_review"
+      },
+      {
         "id": "signal-7a830bdbfa99c51ff9",
         "title": "v0.9.5",
         "url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.9.5",
@@ -5245,7 +5218,7 @@
         "basis": "metadata_only",
         "published_at": "2026-11-02T16:48:59Z",
         "seen_at": "2026-11-02T19:57:44Z",
-        "checked_at": "2026-11-02T19:57:44Z",
+        "checked_at": "2026-11-02T21:53:56Z",
         "tags": [
           "Новый сигнал",
           "github"
@@ -5266,7 +5239,7 @@
         "basis": "metadata_only",
         "published_at": "2026-11-02T15:03:15Z",
         "seen_at": "2026-11-02T19:57:44Z",
-        "checked_at": "2026-11-02T19:57:44Z",
+        "checked_at": "2026-11-02T21:53:56Z",
         "tags": [
           "Новый сигнал",
           "github"
@@ -5287,7 +5260,7 @@
         "basis": "metadata_only",
         "published_at": "2026-11-02T12:31:19Z",
         "seen_at": "2026-11-02T19:57:44Z",
-        "checked_at": "2026-11-02T19:57:44Z",
+        "checked_at": "2026-11-02T21:53:56Z",
         "tags": [
           "Новый сигнал",
           "github"
@@ -5308,28 +5281,7 @@
         "basis": "metadata_only",
         "published_at": "2026-11-02T09:10:24Z",
         "seen_at": "2026-11-02T09:47:05Z",
-        "checked_at": "2026-11-02T19:57:44Z",
-        "tags": [
-          "Новый сигнал",
-          "github"
-        ],
-        "link_status": "ok",
-        "research_state": "needs_review"
-      },
-      {
-        "id": "signal-ba8687412d50cd9fb8",
-        "title": "v0.9.1",
-        "url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.9.1",
-        "summary": "Новый релиз открытого проекта. Release notes ещё не разобраны.",
-        "source_name": "HyperFrames · релизы",
-        "source_id": "watch-hyperframes",
-        "watch_id": "hyperframes",
-        "platform": "github",
-        "kind": "watch_signal",
-        "basis": "metadata_only",
-        "published_at": "2026-11-02T07:41:18Z",
-        "seen_at": "2026-11-02T09:47:05Z",
-        "checked_at": "2026-11-02T19:57:44Z",
+        "checked_at": "2026-11-02T21:53:56Z",
         "tags": [
           "Новый сигнал",
           "github"
@@ -5350,7 +5302,7 @@
         "basis": "metadata_only",
         "published_at": "2026-10-31T12:40:34Z",
         "seen_at": "2026-11-02T09:47:05Z",
-        "checked_at": "2026-11-02T19:57:44Z",
+        "checked_at": "2026-11-02T21:53:56Z",
         "tags": [
           "Новый сигнал",
           "youtube"
@@ -5371,7 +5323,7 @@
         "basis": "metadata_only",
         "published_at": "2026-10-26T15:00:29Z",
         "seen_at": "2026-11-02T09:47:05Z",
-        "checked_at": "2026-11-02T19:57:44Z",
+        "checked_at": "2026-11-02T21:53:56Z",
         "tags": [
           "Новый сигнал",
           "youtube"
@@ -5392,7 +5344,7 @@
         "basis": "metadata_only",
         "published_at": "2026-10-09T19:45:22Z",
         "seen_at": "2026-11-02T00:47:43Z",
-        "checked_at": "2026-11-02T19:57:44Z",
+        "checked_at": "2026-11-02T21:53:56Z",
         "tags": [
           "Новый сигнал",
           "github"
@@ -5413,7 +5365,7 @@
         "basis": "metadata_only",
         "published_at": "2026-10-09T17:17:06Z",
         "seen_at": "2026-11-02T00:47:43Z",
-        "checked_at": "2026-11-02T19:57:44Z",
+        "checked_at": "2026-11-02T21:53:56Z",
         "tags": [
           "Новый сигнал",
           "github"
@@ -5434,7 +5386,7 @@
         "basis": "metadata_only",
         "published_at": "2026-10-04T12:48:37Z",
         "seen_at": "2026-11-02T00:47:43Z",
-        "checked_at": "2026-11-02T19:57:44Z",
+        "checked_at": "2026-11-02T21:53:56Z",
         "tags": [
           "Новый сигнал",
           "github"
@@ -5455,7 +5407,7 @@
         "basis": "metadata_only",
         "published_at": "2026-09-29T18:46:13Z",
         "seen_at": "2026-11-02T00:47:43Z",
-        "checked_at": "2026-11-02T19:57:44Z",
+        "checked_at": "2026-11-02T21:53:56Z",
         "tags": [
           "Новый сигнал",
           "github"
@@ -5476,7 +5428,7 @@
         "basis": "metadata_only",
         "published_at": "2026-09-29T16:41:25Z",
         "seen_at": "2026-11-02T00:47:43Z",
-        "checked_at": "2026-11-02T19:57:44Z",
+        "checked_at": "2026-11-02T21:53:56Z",
         "tags": [
           "Новый сигнал",
           "github"
@@ -5507,10 +5459,10 @@
         "source_stale": true
       }
     ],
-    "network_calls": 4
+    "network_calls": 3
   },
   "library": {
-    "generated_at": "2026-11-02T06:43:10Z",
+    "generated_at": "2026-11-02T21:53:57Z",
     "last_attempt": "2026-11-02T01:14:59Z",
     "source_url": "https://chen.media/guides",
     "mode": "public_catalog_metadata",
