@@ -131,7 +131,8 @@ python3 scripts/enrich.py --backend ollama --fetch-articles --limit 4
 ## Источники и инструменты
 
 - `config/sources.json` — RSS/Atom, категория, лимит, необязательный фильтр `include`.
-- `config/watchlist.json` — известные GitHub-инструменты, skills и плагины.
+- `config/catalog-watchlist.json` — известные GitHub-инструменты, skills и плагины.
+- `config/watchlist.json` — отдельная конфигурация периодического watcher; её схема не используется для каталога.
 - `config/discovery.json` — ограниченные поиски GitHub; не бесконечный скрейпинг.
 - `data/feed.json` — публичный снимок, включая краткие разборы.
 - `data/analysis.json` — кэш кратких разборов, без полного текста статей.

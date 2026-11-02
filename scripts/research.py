@@ -183,7 +183,14 @@ def run(previous=None, web_fetch=None, force=False):
     api = GitHub()
     old_catalog = {r["repo"]: r for r in previous.get("catalog", [])}
     catalog, errors = [], []
-    for cfg in load(ROOT / "config/watchlist.json", []):
+    # Catalog entries and the periodic source watcher have different schemas.
+    # Keep them separate so a watcher object cannot be iterated as catalog rows.
+    watchlist = load(ROOT / "config/catalog-watchlist.json", [])
+    if not isinstance(watchlist, list) or any(
+            not isinstance(cfg, dict) or not REPO.fullmatch(str(cfg.get("repo", "")))
+            for cfg in watchlist):
+        raise ValueError("config/catalog-watchlist.json must be a list of repository records")
+    for cfg in watchlist:
         old = old_catalog.get(cfg["repo"])
         if not force and old and fresh(old):
             catalog.append(dict(old, title=cfg["title"], summary=cfg["summary"],

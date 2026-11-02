@@ -23,6 +23,39 @@ class FakeResponse:
 
 
 class Tests(unittest.TestCase):
+    def test_committed_catalog_config_runs_separately_from_source_watcher(self):
+        root = Path(__file__).parents[1]
+        catalog = json.loads((root / "config/catalog-watchlist.json").read_text())
+        watcher = json.loads((root / "config/watchlist.json").read_text())
+        self.assertIsInstance(catalog, list)
+        self.assertIsInstance(watcher, dict)
+        self.assertIn("sources", watcher)
+        self.assertEqual(len(catalog), 18)
+        with tempfile.TemporaryDirectory() as td:
+            temp = Path(td)
+            (temp / "config").mkdir()
+            (temp / "data").mkdir()
+            for name in ("catalog-watchlist.json", "watchlist.json", "references.json"):
+                (temp / "config" / name).write_bytes((root / "config" / name).read_bytes())
+            (temp / "config/discovery.json").write_text('{"enabled": false}')
+            with mock.patch.object(r, "ROOT", temp), mock.patch.object(
+                    r.GitHub, "get", side_effect=lambda path: {"full_name": path.removeprefix("/repos/")}) as get:
+                result = r.run({}, web_fetch=None, force=True)
+            self.assertEqual(get.call_count, len(catalog))
+            self.assertEqual({row["repo"] for row in result["catalog"]}, {row["repo"] for row in catalog})
+            self.assertEqual(len(result["references"]), 8)
+            self.assertTrue((temp / "data/research.json").exists())
+
+    def test_catalog_rejects_the_watcher_object_schema(self):
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            (root / "config").mkdir()
+            (root / "config/catalog-watchlist.json").write_text('{"sources": []}')
+            with mock.patch.object(r, "ROOT", root), mock.patch.object(r.GitHub, "get") as get:
+                with self.assertRaisesRegex(ValueError, "list of repository records"):
+                    r.run({})
+            get.assert_not_called()
+
     def test_metadata_is_not_a_security_audit(self):
         row = r.record({"full_name": "example/motion", "license": {"spdx_id": "MIT", "name": "MIT"}})
         self.assertEqual(row["inspection"], "metadata_only")
