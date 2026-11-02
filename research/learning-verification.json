@@ -1,0 +1,15 @@
+{
+  "input_url": "https://chen.media/guides",
+  "captured_public_html_sha256": "74b0cc046e3e38c2978c8fdd2caa8eb3500602f5fb497d78372e3de68b1f0744",
+  "bytes": 1379420,
+  "parsed_cards": 732,
+  "same_metadata_as_live_snapshot": true,
+  "scope": "public_titles_categories_links_only",
+  "gated_sections_read": false,
+  "x_anonymous_check": {
+    "endpoint": "GET /2/tweets/search/recent",
+    "credentials_supplied": false,
+    "status": 401,
+    "retries": 0
+  }
+}

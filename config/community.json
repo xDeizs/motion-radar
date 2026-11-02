@@ -1,0 +1,35 @@
+[
+  {
+    "id": "community-x-remotion",
+    "title": "Claude Code + Remotion: пример Riley Brown",
+    "url": "https://x.com/rileybrown/status/2013868186807242855",
+    "summary": "Автор показывает прототип агента для создания и редактирования анимации. Найдено через публичный веб-поиск; код и результат здесь не воспроизводились.",
+    "platform": "X",
+    "topic_id": "remotion",
+    "basis": "search_excerpt",
+    "checked_at": "2026-11-01",
+    "kind": "community"
+  },
+  {
+    "id": "community-reddit-remotion",
+    "title": "Опыт первого проекта с Claude и Remotion",
+    "url": "https://www.reddit.com/r/ClaudeCode/comments/1wu377v/i_tried_remotion_for_the_first_time_on_my_project/",
+    "summary": "Личный опыт планирования сцен и итераций кода. Прочитан поисковый фрагмент, не вся ветка и не комментарии.",
+    "platform": "Reddit",
+    "topic_id": "remotion",
+    "basis": "search_excerpt",
+    "checked_at": "2026-11-01",
+    "kind": "community"
+  },
+  {
+    "id": "community-reddit-six-prompts",
+    "title": "Анимация через 6 промптов: разбор автора",
+    "url": "https://www.reddit.com/r/claudeskills/comments/1u20cep/i_generated_a_full_animation_video_using_only_6/",
+    "summary": "Автор описывает React/SVG-сцены и рендер Remotion. Это заявление автора, не подтверждённая скорость или гарантия качества.",
+    "platform": "Reddit",
+    "topic_id": "remotion",
+    "basis": "search_excerpt",
+    "checked_at": "2026-11-01",
+    "kind": "community"
+  }
+]

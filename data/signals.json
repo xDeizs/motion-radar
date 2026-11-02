@@ -1,0 +1,362 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-02T00:57:11Z",
+  "mode": "public_metadata_only",
+  "schedule_minutes": 30,
+  "sources": [
+    {
+      "id": "whaley",
+      "label": "whaleyxbt · изменения кода",
+      "platform": "github",
+      "enabled": true,
+      "status": "cached",
+      "count": 5,
+      "config_signature": "040b1222912c",
+      "last_attempt": "2026-11-02T00:47:43Z",
+      "last_success": "2026-11-02T00:47:43Z",
+      "next_check": "2026-11-02T01:17:43+00:00"
+    },
+    {
+      "id": "hyperframes",
+      "label": "HyperFrames · релизы",
+      "platform": "github",
+      "enabled": true,
+      "status": "cached",
+      "count": 5,
+      "config_signature": "b02bec891cfe",
+      "last_attempt": "2026-11-02T00:47:43Z",
+      "last_success": "2026-11-02T00:47:43Z",
+      "next_check": "2026-11-02T01:17:43+00:00"
+    },
+    {
+      "id": "pouya",
+      "label": "Pouya Eti · новые видео",
+      "platform": "youtube",
+      "enabled": true,
+      "status": "backoff",
+      "count": 0,
+      "config_signature": "63b934b73c2d",
+      "last_attempt": "2026-11-02T00:47:43Z",
+      "last_success": null,
+      "next_check": "2026-11-02T01:17:43+00:00",
+      "error": "http_404"
+    },
+    {
+      "id": "louise",
+      "label": "Louise de Sadeleer · статьи",
+      "platform": "rss",
+      "enabled": true,
+      "status": "cached",
+      "count": 1,
+      "config_signature": "f1f189758c10",
+      "last_attempt": "2026-11-02T00:47:43Z",
+      "last_success": "2026-11-02T00:47:43Z",
+      "next_check": "2026-11-02T01:17:43+00:00"
+    },
+    {
+      "id": "x-movez",
+      "label": "Movez",
+      "platform": "x",
+      "enabled": false,
+      "status": "disabled",
+      "count": 0,
+      "config_signature": "0eb56ffd1ee9",
+      "reason": "Нужны собственный X API-доступ, проверка биллинга и публикационных прав; author-stream не реализован."
+    },
+    {
+      "id": "x-riley",
+      "label": "Riley Brown",
+      "platform": "x",
+      "enabled": false,
+      "status": "disabled",
+      "count": 0,
+      "config_signature": "ac0ccf575f0c",
+      "reason": "Нужны собственный X API-доступ, проверка биллинга и публикационных прав; author-stream не реализован."
+    },
+    {
+      "id": "x-jj",
+      "label": "JJ Englert",
+      "platform": "x",
+      "enabled": false,
+      "status": "disabled",
+      "count": 0,
+      "config_signature": "f6f88528c4e6",
+      "reason": "Нужны собственный X API-доступ, проверка биллинга и публикационных прав; author-stream не реализован."
+    },
+    {
+      "id": "reddit-claudecode",
+      "label": "r/ClaudeCode",
+      "platform": "reddit",
+      "enabled": false,
+      "status": "disabled",
+      "count": 0,
+      "config_signature": "26326a03b22a",
+      "reason": "Нужны одобренный Reddit use case, OAuth и политика удаления/обновления; непрерывный сбор не подключён."
+    },
+    {
+      "id": "reddit-reactjs",
+      "label": "r/reactjs",
+      "platform": "reddit",
+      "enabled": false,
+      "status": "disabled",
+      "count": 0,
+      "config_signature": "1e1b23383d1c",
+      "reason": "Нужны одобренный Reddit use case, OAuth и политика удаления/обновления; непрерывный сбор не подключён."
+    },
+    {
+      "id": "ig-higgsfield",
+      "label": "higgsfield.ai",
+      "platform": "instagram",
+      "enabled": false,
+      "status": "disabled",
+      "count": 0,
+      "config_signature": "658f1058eb40",
+      "reason": "Instagram API не является универсальным доступом ко всем чужим публикациям; нужен разрешённый сценарий professional API."
+    }
+  ],
+  "items": [
+    {
+      "id": "signal-fecdb6c99c46b5548e",
+      "title": "v0.8.230",
+      "url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.8.230",
+      "summary": "Новый релиз открытого проекта. Release notes ещё не разобраны.",
+      "source_name": "HyperFrames · релизы",
+      "source_id": "watch-hyperframes",
+      "watch_id": "hyperframes",
+      "platform": "github",
+      "kind": "watch_signal",
+      "basis": "metadata_only",
+      "published_at": "2026-11-02T00:15:43Z",
+      "seen_at": "2026-11-02T00:47:43Z",
+      "checked_at": "2026-11-02T00:47:43Z",
+      "tags": [
+        "Новый сигнал",
+        "github"
+      ],
+      "link_status": "ok",
+      "research_state": "needs_review",
+      "source_stale": false
+    },
+    {
+      "id": "signal-8e46b53f57cbec161b",
+      "title": "v0.8.229",
+      "url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.8.229",
+      "summary": "Новый релиз открытого проекта. Release notes ещё не разобраны.",
+      "source_name": "HyperFrames · релизы",
+      "source_id": "watch-hyperframes",
+      "watch_id": "hyperframes",
+      "platform": "github",
+      "kind": "watch_signal",
+      "basis": "metadata_only",
+      "published_at": "2026-11-01T20:52:35Z",
+      "seen_at": "2026-11-02T00:47:43Z",
+      "checked_at": "2026-11-02T00:47:43Z",
+      "tags": [
+        "Новый сигнал",
+        "github"
+      ],
+      "link_status": "ok",
+      "research_state": "needs_review",
+      "source_stale": false
+    },
+    {
+      "id": "signal-b7e38a8cca7fc51b9e",
+      "title": "v0.8.228",
+      "url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.8.228",
+      "summary": "Новый релиз открытого проекта. Release notes ещё не разобраны.",
+      "source_name": "HyperFrames · релизы",
+      "source_id": "watch-hyperframes",
+      "watch_id": "hyperframes",
+      "platform": "github",
+      "kind": "watch_signal",
+      "basis": "metadata_only",
+      "published_at": "2026-11-01T18:40:22Z",
+      "seen_at": "2026-11-02T00:47:43Z",
+      "checked_at": "2026-11-02T00:47:43Z",
+      "tags": [
+        "Новый сигнал",
+        "github"
+      ],
+      "link_status": "ok",
+      "research_state": "needs_review",
+      "source_stale": false
+    },
+    {
+      "id": "signal-493035603331d2ad26",
+      "title": "v0.8.227",
+      "url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.8.227",
+      "summary": "Новый релиз открытого проекта. Release notes ещё не разобраны.",
+      "source_name": "HyperFrames · релизы",
+      "source_id": "watch-hyperframes",
+      "watch_id": "hyperframes",
+      "platform": "github",
+      "kind": "watch_signal",
+      "basis": "metadata_only",
+      "published_at": "2026-11-01T16:41:08Z",
+      "seen_at": "2026-11-02T00:47:43Z",
+      "checked_at": "2026-11-02T00:47:43Z",
+      "tags": [
+        "Новый сигнал",
+        "github"
+      ],
+      "link_status": "ok",
+      "research_state": "needs_review",
+      "source_stale": false
+    },
+    {
+      "id": "signal-d03c229556f2825b7d",
+      "title": "v0.8.226",
+      "url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.8.226",
+      "summary": "Новый релиз открытого проекта. Release notes ещё не разобраны.",
+      "source_name": "HyperFrames · релизы",
+      "source_id": "watch-hyperframes",
+      "watch_id": "hyperframes",
+      "platform": "github",
+      "kind": "watch_signal",
+      "basis": "metadata_only",
+      "published_at": "2026-11-01T06:30:44Z",
+      "seen_at": "2026-11-02T00:47:43Z",
+      "checked_at": "2026-11-02T00:47:43Z",
+      "tags": [
+        "Новый сигнал",
+        "github"
+      ],
+      "link_status": "ok",
+      "research_state": "needs_review",
+      "source_stale": false
+    },
+    {
+      "id": "signal-c48d2b81ee73f41679",
+      "title": "Merge pull request #1 from 7qvz-z/fix/windows-script-paths",
+      "url": "https://github.com/whaleyxbt/claude-motion/commit/e627941543d9988b155dc610bb9cc0115a5e365e",
+      "summary": "Изменение открытого репозитория. Diff и код ещё не разобраны.",
+      "source_name": "whaleyxbt · изменения кода",
+      "source_id": "watch-whaley",
+      "watch_id": "whaley",
+      "platform": "github",
+      "kind": "watch_signal",
+      "basis": "metadata_only",
+      "published_at": "2026-10-09T19:45:22Z",
+      "seen_at": "2026-11-02T00:47:43Z",
+      "checked_at": "2026-11-02T00:47:43Z",
+      "tags": [
+        "Новый сигнал",
+        "github"
+      ],
+      "link_status": "ok",
+      "research_state": "needs_review",
+      "source_stale": false
+    },
+    {
+      "id": "signal-13372ac41de897992b",
+      "title": "Resolve script paths with fileURLToPath so sims and review tools run on Windows.",
+      "url": "https://github.com/whaleyxbt/claude-motion/commit/733298994ff80b09fb8744d046a853490a9770ee",
+      "summary": "Изменение открытого репозитория. Diff и код ещё не разобраны.",
+      "source_name": "whaleyxbt · изменения кода",
+      "source_id": "watch-whaley",
+      "watch_id": "whaley",
+      "platform": "github",
+      "kind": "watch_signal",
+      "basis": "metadata_only",
+      "published_at": "2026-10-09T17:17:06Z",
+      "seen_at": "2026-11-02T00:47:43Z",
+      "checked_at": "2026-11-02T00:47:43Z",
+      "tags": [
+        "Новый сигнал",
+        "github"
+      ],
+      "link_status": "ok",
+      "research_state": "needs_review",
+      "source_stale": false
+    },
+    {
+      "id": "signal-01c3b4a5153bd53070",
+      "title": "Add web sims: one HTML page per piece, captured frame by frame to 60 fps",
+      "url": "https://github.com/whaleyxbt/claude-motion/commit/b2a30afc54830a3b85405232473e0dad447f40e5",
+      "summary": "Изменение открытого репозитория. Diff и код ещё не разобраны.",
+      "source_name": "whaleyxbt · изменения кода",
+      "source_id": "watch-whaley",
+      "watch_id": "whaley",
+      "platform": "github",
+      "kind": "watch_signal",
+      "basis": "metadata_only",
+      "published_at": "2026-10-04T12:48:37Z",
+      "seen_at": "2026-11-02T00:47:43Z",
+      "checked_at": "2026-11-02T00:47:43Z",
+      "tags": [
+        "Новый сигнал",
+        "github"
+      ],
+      "link_status": "ok",
+      "research_state": "needs_review",
+      "source_stale": false
+    },
+    {
+      "id": "signal-b563f0cdf812349cb2",
+      "title": "Point the clone instructions at whaleyxbt/claude-motion.",
+      "url": "https://github.com/whaleyxbt/claude-motion/commit/d82532e74cd86bb041acfa0ef3b51ce186a20277",
+      "summary": "Изменение открытого репозитория. Diff и код ещё не разобраны.",
+      "source_name": "whaleyxbt · изменения кода",
+      "source_id": "watch-whaley",
+      "watch_id": "whaley",
+      "platform": "github",
+      "kind": "watch_signal",
+      "basis": "metadata_only",
+      "published_at": "2026-09-29T18:46:13Z",
+      "seen_at": "2026-11-02T00:47:43Z",
+      "checked_at": "2026-11-02T00:47:43Z",
+      "tags": [
+        "Новый сигнал",
+        "github"
+      ],
+      "link_status": "ok",
+      "research_state": "needs_review",
+      "source_stale": false
+    },
+    {
+      "id": "signal-eaf119b3144f2f660f",
+      "title": "Update waveform image to the current mix",
+      "url": "https://github.com/whaleyxbt/claude-motion/commit/f0a6250b0e8c5360cd443f16f5f8c617f37bb292",
+      "summary": "Изменение открытого репозитория. Diff и код ещё не разобраны.",
+      "source_name": "whaleyxbt · изменения кода",
+      "source_id": "watch-whaley",
+      "watch_id": "whaley",
+      "platform": "github",
+      "kind": "watch_signal",
+      "basis": "metadata_only",
+      "published_at": "2026-09-29T16:41:25Z",
+      "seen_at": "2026-11-02T00:47:43Z",
+      "checked_at": "2026-11-02T00:47:43Z",
+      "tags": [
+        "Новый сигнал",
+        "github"
+      ],
+      "link_status": "ok",
+      "research_state": "needs_review",
+      "source_stale": false
+    },
+    {
+      "id": "signal-98b9a21cf7a4c882ac",
+      "title": "How I make custom motion graphics using Claude Code + Remotion",
+      "url": "https://louisedesadeleer.substack.com/p/how-i-make-custom-motion-graphics",
+      "summary": "Новая статья автора. Полный текст ещё не разобран.",
+      "source_name": "Louise de Sadeleer · статьи",
+      "source_id": "watch-louise",
+      "watch_id": "louise",
+      "platform": "rss",
+      "kind": "watch_signal",
+      "basis": "metadata_only",
+      "published_at": "2026-04-21T10:17:57Z",
+      "seen_at": "2026-11-02T00:47:43Z",
+      "checked_at": "2026-11-02T00:47:43Z",
+      "tags": [
+        "Новый сигнал",
+        "rss"
+      ],
+      "link_status": "ok",
+      "research_state": "needs_review",
+      "source_stale": false
+    }
+  ],
+  "network_calls": 0
+}

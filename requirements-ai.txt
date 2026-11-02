@@ -1,0 +1,4 @@
+# Optional: no dependency needed for RSS, search, or the published static website.
+# Install CPU-only torch separately, then this file. Model weights: Apache-2.0.
+transformers==4.57.1
+sentencepiece==0.2.1

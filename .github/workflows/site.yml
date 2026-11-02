@@ -2,8 +2,18 @@ name: Update and publish Motion Radar
 
 on:
   workflow_dispatch:
+    inputs:
+      ai:
+        description: 'Run the free local CPU model (4 new articles maximum)'
+        type: boolean
+        default: false
+      topic:
+        description: 'Topic preset ID or ordinary keywords (blank = all configured topics)'
+        type: string
+        default: ''
   schedule:
     - cron: '37 */6 * * *'
+    - cron: '*/30 * * * *'
   push:
     branches: [main]
     paths-ignore: ['README.md', 'LICENSE', 'tests/**']
@@ -20,38 +30,77 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 35
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Decode and verify public motion media
+      - name: Decode and verify public media (fonts, images, LED video)
         run: python scripts/decode_motion_assets.py
       - name: Run safety and parser tests
         run: python -m unittest discover -s tests -v
       - name: Refresh RSS, GitHub discovery, references and license evidence
+        if: github.event.schedule != '*/30 * * * *'
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: python scripts/update.py
+      - name: Collect bounded public topic snapshots (no paid APIs)
+        if: github.event.schedule != '*/30 * * * *'
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          TOPIC: ${{ inputs.topic }}
+        run: python scripts/collect_topics.py --topic "${TOPIC:-all}" --providers github
+      - name: Cache open model weights
+        if: (github.event_name == 'schedule' && github.event.schedule != '*/30 * * * *' && vars.ENABLE_LOCAL_CPU_AI == 'true') || (github.event_name == 'workflow_dispatch' && inputs.ai)
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface/hub
+          key: qwen25-05b-7ae5576-v1
+      - name: Install optional CPU-only AI dependencies
+        if: (github.event_name == 'schedule' && github.event.schedule != '*/30 * * * *' && vars.ENABLE_LOCAL_CPU_AI == 'true') || (github.event_name == 'workflow_dispatch' && inputs.ai)
+        continue-on-error: true
+        run: |
+          python -m pip install torch==2.9.0 --index-url https://download.pytorch.org/whl/cpu
+          python -m pip install -r requirements-ai.txt
+      - name: Analyze up to four new public articles with the local open model
+        timeout-minutes: 18
+        if: (github.event_name == 'schedule' && github.event.schedule != '*/30 * * * *' && vars.ENABLE_LOCAL_CPU_AI == 'true') || (github.event_name == 'workflow_dispatch' && inputs.ai)
+        continue-on-error: true
+        env:
+          HF_HUB_DISABLE_TELEMETRY: '1'
+          DO_NOT_TRACK: '1'
+          TOKENIZERS_PARALLELISM: 'false'
+        run: python scripts/enrich.py --backend transformers --fetch-articles --limit 4
+      - name: Watch reviewed public sources (no paid APIs or social scraping)
+        run: python scripts/watch_sources.py
+      - name: Index public learning catalog titles (24-hour cache, no gated text)
+        if: github.event.schedule != '*/30 * * * *'
+        run: python scripts/collect_library.py
       - name: Keep the latest snapshot
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/feed.json data/research.json index.html
+          git add data/feed.json data/research.json data/analysis.json data/topics.json data/signals.json data/library.json index.html
           if ! git diff --cached --quiet; then
             git commit -m "Refresh public feeds and verification snapshot [skip ci]"
             git push
           fi
       - name: Prepare public site only
         run: |
-          mkdir -p _site/data _site/web/vendor _site/assets
+          mkdir -p _site/data
           cp index.html _site/
           cp data/feed.json _site/data/
-          cp -R assets/motion _site/assets/
-          cp web/vendor/scrollcraft.js _site/web/vendor/
-          cp web/vendor/SCROLLCRAFT-LICENSE.txt _site/web/vendor/
+          # Motion Radar 5: decoded fonts, images, LED video and the prebuilt 3D/scroll bundle.
+          cp -R assets _site/assets
           cp FLOW_PROMPTS.md _site/
+          cp llms.txt _site/
+          mkdir -p _site/integrations _site/docs
+          cp integrations/Motion-Radar.postman_collection.json _site/integrations/
+          cp docs/API_SETUP.md docs/WATCH_SETUP.md docs/LEARNING_SETUP.md docs/FREE_MODE.md _site/docs/
+          cp .nojekyll _site/ 2>/dev/null || true
+          mkdir -p _site/research
+          cp research/LEARNING_PRIVATE.md _site/research/
           touch _site/.nojekyll
       - uses: actions/upload-pages-artifact@v3
         with:

@@ -1,0 +1,8 @@
+# Motion Radar
+A free, static, Russian-language research desk for motion design and creative coding.
+- Source links and short RSS excerpts remain attributed to their authors.
+- analysis.engine=extractive is not an AI summary.
+- analysis.engine=transformers or ollama identifies local model output; it may contain mistakes.
+- input_kind=rss_excerpt means the full article was not read.
+- Repository license metadata does not certify code safety, free models, or free commercial products.
+- The public browser never receives API credentials or calls a model service.

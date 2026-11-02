@@ -1,0 +1,14 @@
+{
+  "python_tests": 119,
+  "ui_checks": {
+    "learning": 64,
+    "topics_guides": 60,
+    "research": 42,
+    "legacy": 36
+  },
+  "visual_states_inspected": 11,
+  "pc_review_files_created": 5,
+  "production_studio_modified": false,
+  "paid_api_calls": 0,
+  "deployed": false
+}

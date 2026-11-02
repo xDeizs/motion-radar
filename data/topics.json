@@ -1,0 +1,827 @@
+{
+  "generated_at": "2026-11-01T17:55:18Z",
+  "scope": "RSS snapshot + first page of public GitHub. Not the entire internet. Social content excluded.",
+  "topics": [
+    {
+      "id": "claude-motion",
+      "title": "Claude Motion",
+      "query": "Claude motion animation",
+      "web_query": "Claude Motion animation",
+      "items": [
+        {
+          "id": "de8c72df8d1a2394b1",
+          "title": "r187",
+          "url": "https://github.com/mrdoob/three.js/releases/tag/r187",
+          "summary": "https://github.com/mrdoob/three.js/wiki/Migration-Guide#186--187 https://github.com/mrdoob/three.js/milestone/100?closed=1 Global Remove code deprecated in r177. #34517 (@linbingquan, @Mugen87) AnimationUtils Fix cubic…",
+          "kind": "topic_rss",
+          "source_name": "Three.js",
+          "basis": "rss_excerpt",
+          "published_at": "2026-10-30T08:03:18Z",
+          "checked_at": "2026-11-01T17:15:11Z"
+        },
+        {
+          "id": "10014f52844b97cf2d",
+          "title": "v4.0.539",
+          "url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.539",
+          "summary": "What's Changed @remotion/effects: Add curves() and graphical color controls in Studio by @JonnyBurger in #12550 @remotion/effects: Add shatter() for 3D fragment animations by @JonnyBurger in #12578 remotion: Fix…",
+          "kind": "topic_rss",
+          "source_name": "Remotion",
+          "basis": "rss_excerpt",
+          "published_at": "2026-10-26T12:04:13Z",
+          "checked_at": "2026-11-01T17:15:11Z"
+        },
+        {
+          "id": "e5b60107e6763277b1",
+          "title": "Yestalgia: Bringing Decathlon’s ’90s Spirit to Life Through a Playful Digital Experience",
+          "url": "https://tympanus.net/codrops/2026/09/12/yestalgia-bringing-decathlons-90s-spirit-to-life-through-a-playful-digital-experience/",
+          "summary": "A closer look at how Yestalgia brings Decathlon’s ’90s-inspired vision to the web through art direction, interaction, animation, and creative development.",
+          "kind": "topic_rss",
+          "source_name": "Codrops",
+          "basis": "rss_excerpt",
+          "published_at": "2026-09-12T08:40:31Z",
+          "checked_at": "2026-11-01T17:15:11Z"
+        },
+        {
+          "id": "1c80df51d84652392e",
+          "title": "Shading Motion",
+          "url": "https://blog.maximeheckel.com/posts/shading-motion",
+          "summary": "A deep dive into detecting, extracting, and stylizing motion with WebGPU and TSL, covering motion masking, blob tracking, optical flow, and velocity-based motion blur.",
+          "kind": "topic_rss",
+          "source_name": "Maxime Heckel",
+          "basis": "rss_excerpt",
+          "published_at": "2026-08-18T08:00:00Z",
+          "checked_at": "2026-11-01T17:15:11Z"
+        },
+        {
+          "id": "topic-repo-framecoreworks--fcwm",
+          "title": "FrameCoreWorks/FCWM",
+          "url": "https://github.com/FrameCoreWorks/FCWM",
+          "summary": "Open motion graphics plugin for AI agents. Claude, Codex, ChatGPT, Cursor and Gemini write 2D, 3D and audio animation as code; it renders frame-exact to video on your computer or in GitHub Actions. Any style, any format.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "Apache-2.0",
+          "published_at": "2026-11-01T17:38:29Z",
+          "checked_at": "2026-11-01T17:55:05Z"
+        },
+        {
+          "id": "topic-repo-elan6666--claude-video-editing-motion",
+          "title": "elan6666/claude-video-editing-motion",
+          "url": "https://github.com/elan6666/claude-video-editing-motion",
+          "summary": "Remotion/SVG recreation of a 30-second hand-drawn video editing animation",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "MIT",
+          "published_at": "2026-11-01T13:01:31Z",
+          "checked_at": "2026-11-01T17:55:05Z"
+        },
+        {
+          "id": "topic-repo-heshamadel1--ctrl-h",
+          "title": "heshamadel1/ctrl-h",
+          "url": "https://github.com/heshamadel1/ctrl-h",
+          "summary": "Claude Skills for the Ctrl + H Channel — a free-plan-friendly video production toolkit powered by a custom Python animation engine, creating synchronized 16:9 and 9:16 programming videos with reusable motion graphics, audio synchronization, and sound effects.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "MIT",
+          "published_at": "2026-10-31T22:28:43Z",
+          "checked_at": "2026-11-01T17:55:05Z"
+        },
+        {
+          "id": "topic-repo-chernandezmu--ux-ui-and-code-skill",
+          "title": "chernandezmu/UX-UI-and-Code-Skill",
+          "url": "https://github.com/chernandezmu/UX-UI-and-Code-Skill",
+          "summary": "A Claude skill for building dark, typographic, cinematic websites — design tokens, motion system and GSAP/Lenis animation recipes, adapted to your stack (HTML/CSS/JS, Svelte, Astro, NestJS, React) with an audit of what to use and what to drop.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": null,
+          "published_at": "2026-10-31T03:38:06Z",
+          "checked_at": "2026-11-01T17:55:05Z"
+        },
+        {
+          "id": "topic-repo-gabros20--scroll-animation-skill",
+          "title": "gabros20/scroll-animation-skill",
+          "url": "https://github.com/gabros20/scroll-animation-skill",
+          "summary": "Claude skill: scroll animation system — measured entrance curves, pinned all-intra video scrub, scroll wells, header ink, iOS Safari/video/perf learnings, Motion + GSAP primitives. Companion to fluid-design-skill.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "MIT",
+          "published_at": "2026-10-31T16:32:23Z",
+          "checked_at": "2026-11-01T17:55:05Z"
+        }
+      ],
+      "health": {
+        "rss": {
+          "status": "ok",
+          "count": 4
+        },
+        "github": {
+          "status": "ok",
+          "count": 5,
+          "note": "Первая страница, публичные метаданные; не аудит кода"
+        },
+        "gemini": {
+          "status": "not_requested"
+        },
+        "x": {
+          "status": "not_requested"
+        },
+        "reddit": {
+          "status": "not_requested"
+        }
+      },
+      "ai_selected_ids": [],
+      "checked_at": "2026-11-01T17:55:05Z",
+      "last_attempt_at": "2026-11-01T17:55:07Z"
+    },
+    {
+      "id": "remotion",
+      "title": "Claude + Remotion",
+      "query": "remotion claude",
+      "web_query": "Remotion Claude animation",
+      "items": [
+        {
+          "id": "10014f52844b97cf2d",
+          "title": "v4.0.539",
+          "url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.539",
+          "summary": "What's Changed @remotion/effects: Add curves() and graphical color controls in Studio by @JonnyBurger in #12550 @remotion/effects: Add shatter() for 3D fragment animations by @JonnyBurger in #12578 remotion: Fix…",
+          "kind": "topic_rss",
+          "source_name": "Remotion",
+          "basis": "rss_excerpt",
+          "published_at": "2026-10-26T12:04:13Z",
+          "checked_at": "2026-11-01T17:15:11Z"
+        },
+        {
+          "id": "topic-repo-tomerhayundev--skills",
+          "title": "tomerhayundev/skills",
+          "url": "https://github.com/tomerhayundev/skills",
+          "summary": "Claude Code skills: a master Remotion video skill with ten specialists broken out of it, production deploys on GitHub Actions and Cloudflare, skill publishing, visual verification.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "NOASSERTION",
+          "published_at": "2026-11-01T17:54:21Z",
+          "checked_at": "2026-11-01T17:55:07Z"
+        },
+        {
+          "id": "topic-repo-evanzhang008--open-walnut",
+          "title": "EvanZhang008/open-walnut",
+          "url": "https://github.com/EvanZhang008/open-walnut",
+          "summary": "Claude Code on your laptop and remote dev boxes, in one web page. Sessions keep running when SSH drops (no tmux), each session's changes get their own diff, plus tasks, notes, and memory. Self-hosted.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "MIT",
+          "published_at": "2026-11-01T17:54:16Z",
+          "checked_at": "2026-11-01T17:55:07Z"
+        },
+        {
+          "id": "topic-repo-stablyai--orca",
+          "title": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "summary": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "MIT",
+          "published_at": "2026-11-01T17:53:52Z",
+          "checked_at": "2026-11-01T17:55:07Z"
+        },
+        {
+          "id": "topic-repo-mixpeek--amux",
+          "title": "mixpeek/amux",
+          "url": "https://github.com/mixpeek/amux",
+          "summary": "The agent control plane: run Claude Code, Codex and Gemini CLI agents in parallel with a shared task board, schedules and usage-limit recovery. Native iPhone, iPad and Mac apps plus a web dashboard. Self-host (Rust + SQLite, Tailscale remote access) or use amux Cloud. MIT + Commons Clause.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "NOASSERTION",
+          "published_at": "2026-11-01T17:53:48Z",
+          "checked_at": "2026-11-01T17:55:07Z"
+        },
+        {
+          "id": "topic-repo-feritzcan2--termloop",
+          "title": "feritzcan2/termloop",
+          "url": "https://github.com/feritzcan2/termloop",
+          "summary": "AI terminal for coding agents: run Claude Code, Codex, and shells side by side on your computer or remote servers. Agents ask each other for second opinions, hand off context, and work in Tasks with Git worktrees. macOS, Windows, Linux.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "NOASSERTION",
+          "published_at": "2026-11-01T17:52:00Z",
+          "checked_at": "2026-11-01T17:55:07Z"
+        }
+      ],
+      "health": {
+        "rss": {
+          "status": "ok",
+          "count": 1
+        },
+        "github": {
+          "status": "ok",
+          "count": 5,
+          "note": "Первая страница, публичные метаданные; не аудит кода"
+        },
+        "gemini": {
+          "status": "not_requested"
+        },
+        "x": {
+          "status": "not_requested"
+        },
+        "reddit": {
+          "status": "not_requested"
+        }
+      },
+      "ai_selected_ids": [],
+      "checked_at": "2026-11-01T17:55:07Z",
+      "last_attempt_at": "2026-11-01T17:55:09Z"
+    },
+    {
+      "id": "grok-video",
+      "title": "Grok Imagine",
+      "query": "grok video",
+      "web_query": "Grok Imagine animation",
+      "items": [
+        {
+          "id": "topic-repo-duckmartians--g-labs-studio",
+          "title": "duckmartians/G-Labs-Studio",
+          "url": "https://github.com/duckmartians/G-Labs-Studio",
+          "summary": "Desktop app for batch AI image & video generation with your own accounts - Google Flow (Veo 3.1, Omni Flash, Nano Banana), Google Vids, Google Pics, GPT Image 2, Meta Vibes, Meta Muse and Grok. Queue, parallel runs, workflows, video tools, Webhook API.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": null,
+          "published_at": "2026-11-01T17:08:22Z",
+          "checked_at": "2026-11-01T17:55:09Z"
+        },
+        {
+          "id": "topic-repo-dapao-777--roamcat",
+          "title": "dapao-777/roamcat",
+          "url": "https://github.com/dapao-777/roamcat",
+          "summary": "RoamCat · 随心阅 — open-source dual-mode English reading extension for Chrome/Edge (MV3): in-place bilingual translation, sparse-hint reading assistance and bilingual video subtitles. Local-first, no telemetry — 33 BYOK providers or reuse your ChatGPT / Grok / Google subscription.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "MPL-2.0",
+          "published_at": "2026-11-01T16:04:48Z",
+          "checked_at": "2026-11-01T17:55:09Z"
+        },
+        {
+          "id": "topic-repo-ultralightspeed--gork",
+          "title": "ultralightspeed/gork",
+          "url": "https://github.com/ultralightspeed/gork",
+          "summary": "An ultralight-cost, self-hosted @grok-style Discord bot: mention it to fact-check, search, read pages and videos, make images, polls and events. Runs on your PC with Cloudflare AI.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "0BSD",
+          "published_at": "2026-11-01T16:05:26Z",
+          "checked_at": "2026-11-01T17:55:09Z"
+        },
+        {
+          "id": "topic-repo-api-evangelist--xai",
+          "title": "api-evangelist/xai",
+          "url": "https://github.com/api-evangelist/xai",
+          "summary": "xAI — independent third-party profile of a public API surface, by API Evangelist. xAI is an AI research lab founded by Elon Musk. The xAI API exposes Grok foundation models for chat, function calling, vision, voice, image generation, and video generation, alongside research outputs from the Colossus training supercluster.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": null,
+          "published_at": "2026-11-01T15:31:01Z",
+          "checked_at": "2026-11-01T17:55:09Z"
+        },
+        {
+          "id": "topic-repo-youmind-openlab--awesome-grok-imagine-prompts",
+          "title": "YouMind-OpenLab/awesome-grok-imagine-prompts",
+          "url": "https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts",
+          "summary": "🎬 Curated Grok Imagine (xAI) video generation prompts — cinematic, action, anime, product, meme styles. Includes prompt engineering tips, style guides, and creative video workflows.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "NOASSERTION",
+          "published_at": "2026-11-01T15:08:00Z",
+          "checked_at": "2026-11-01T17:55:09Z"
+        }
+      ],
+      "health": {
+        "rss": {
+          "status": "ok",
+          "count": 0
+        },
+        "github": {
+          "status": "ok",
+          "count": 5,
+          "note": "Первая страница, публичные метаданные; не аудит кода"
+        },
+        "gemini": {
+          "status": "not_requested"
+        },
+        "x": {
+          "status": "not_requested"
+        },
+        "reddit": {
+          "status": "not_requested"
+        }
+      },
+      "ai_selected_ids": [],
+      "checked_at": "2026-11-01T17:55:09Z",
+      "last_attempt_at": "2026-11-01T17:55:11Z"
+    },
+    {
+      "id": "motion-web",
+      "title": "Web motion",
+      "query": "web animation",
+      "web_query": "GSAP web animation",
+      "items": [
+        {
+          "id": "de8c72df8d1a2394b1",
+          "title": "r187",
+          "url": "https://github.com/mrdoob/three.js/releases/tag/r187",
+          "summary": "https://github.com/mrdoob/three.js/wiki/Migration-Guide#186--187 https://github.com/mrdoob/three.js/milestone/100?closed=1 Global Remove code deprecated in r177. #34517 (@linbingquan, @Mugen87) AnimationUtils Fix cubic…",
+          "kind": "topic_rss",
+          "source_name": "Three.js",
+          "basis": "rss_excerpt",
+          "published_at": "2026-10-30T08:03:18Z",
+          "checked_at": "2026-11-01T17:15:11Z"
+        },
+        {
+          "id": "10014f52844b97cf2d",
+          "title": "v4.0.539",
+          "url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.539",
+          "summary": "What's Changed @remotion/effects: Add curves() and graphical color controls in Studio by @JonnyBurger in #12550 @remotion/effects: Add shatter() for 3D fragment animations by @JonnyBurger in #12578 remotion: Fix…",
+          "kind": "topic_rss",
+          "source_name": "Remotion",
+          "basis": "rss_excerpt",
+          "published_at": "2026-10-26T12:04:13Z",
+          "checked_at": "2026-11-01T17:15:11Z"
+        },
+        {
+          "id": "fe7b225f29d029cecf",
+          "title": "v10.0.0-alpha.6: Going WebGPU First",
+          "url": "https://github.com/pmndrs/react-three-fiber/releases/tag/v10.0.0-alpha.6",
+          "summary": "R3F v10 Alpha 6 After feedback from the Paris conference, it was decided to make v10 a clean break for some major portions of r3f to better align with the web and ThreeJS ecosystem. Alpha 6 is also the biggest alpha so…",
+          "kind": "topic_rss",
+          "source_name": "React Three Fiber",
+          "basis": "rss_excerpt",
+          "published_at": "2026-10-17T01:54:18Z",
+          "checked_at": "2026-11-01T17:15:11Z"
+        },
+        {
+          "id": "c8566f6a69ddc2807c",
+          "title": "Making the Internet a Bit Less Sh*t: Inside Resn’s Digital Experiences",
+          "url": "https://tympanus.net/codrops/2026/09/14/inside-resns-digital-experiences/",
+          "summary": "A look at how Resn combines brand, content, technology and a healthy disregard for boring websites to create digital experiences people actually want to explore.",
+          "kind": "topic_rss",
+          "source_name": "Codrops",
+          "basis": "rss_excerpt",
+          "published_at": "2026-09-14T11:30:10Z",
+          "checked_at": "2026-11-01T17:15:11Z"
+        },
+        {
+          "id": "6ac95cc8a8f3622243",
+          "title": "Building Depth: Designing and Developing a 3D Renderer Inside Figma",
+          "url": "https://tympanus.net/codrops/2026/09/13/building-depth-designing-and-developing-a-3d-renderer-inside-figma/",
+          "summary": "A look at how Depth came together, from building a 3D renderer inside Figma to designing a website that explores what it can do.",
+          "kind": "topic_rss",
+          "source_name": "Codrops",
+          "basis": "rss_excerpt",
+          "published_at": "2026-09-13T11:34:39Z",
+          "checked_at": "2026-11-01T17:15:11Z"
+        },
+        {
+          "id": "e5b60107e6763277b1",
+          "title": "Yestalgia: Bringing Decathlon’s ’90s Spirit to Life Through a Playful Digital Experience",
+          "url": "https://tympanus.net/codrops/2026/09/12/yestalgia-bringing-decathlons-90s-spirit-to-life-through-a-playful-digital-experience/",
+          "summary": "A closer look at how Yestalgia brings Decathlon’s ’90s-inspired vision to the web through art direction, interaction, animation, and creative development.",
+          "kind": "topic_rss",
+          "source_name": "Codrops",
+          "basis": "rss_excerpt",
+          "published_at": "2026-09-12T08:40:31Z",
+          "checked_at": "2026-11-01T17:15:11Z"
+        },
+        {
+          "id": "1c80df51d84652392e",
+          "title": "Shading Motion",
+          "url": "https://blog.maximeheckel.com/posts/shading-motion",
+          "summary": "A deep dive into detecting, extracting, and stylizing motion with WebGPU and TSL, covering motion masking, blob tracking, optical flow, and velocity-based motion blur.",
+          "kind": "topic_rss",
+          "source_name": "Maxime Heckel",
+          "basis": "rss_excerpt",
+          "published_at": "2026-08-18T08:00:00Z",
+          "checked_at": "2026-11-01T17:15:11Z"
+        },
+        {
+          "id": "topic-repo-kikiemi--ugonote2",
+          "title": "kikiemi/ugonote2",
+          "url": "https://github.com/kikiemi/ugonote2",
+          "summary": "懐かしのうごメモ（DSiのPPM / 3DSのKWZ）をブラウザ上で実機そのままの描き心地で閲覧・編集・書き出しできるWebアニメーションスタジオ。現代のフルカラー高解像度アニメ制作にも対応。 / A web-based flipbook studio that opens, edits, and exports Nintendo DSi (.ppm) and 3DS (.kwz) Flipnotes with hardware-accurate brushes, plus modern full-color animation tools.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "NOASSERTION",
+          "published_at": "2026-11-01T17:47:39Z",
+          "checked_at": "2026-11-01T17:55:12Z"
+        },
+        {
+          "id": "topic-repo-bintzgavin--helios",
+          "title": "BintzGavin/helios",
+          "url": "https://github.com/BintzGavin/helios",
+          "summary": "Programmatic video creation with web technologies you already know. CSS animations just work.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "Apache-2.0",
+          "published_at": "2026-11-01T17:44:40Z",
+          "checked_at": "2026-11-01T17:55:12Z"
+        },
+        {
+          "id": "topic-repo-exepuku802--banner-maker-pro",
+          "title": "exepuku802/Banner-Maker-Pro",
+          "url": "https://github.com/exepuku802/Banner-Maker-Pro",
+          "summary": "Create stunning graphics with Banner Maker Pro — a web design software for Windows offering free download. Design logos, buttons, and banners easily, customize sizes, and generate 120 animations. Safe free download.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "MIT",
+          "published_at": "2026-11-01T17:37:12Z",
+          "checked_at": "2026-11-01T17:55:12Z"
+        },
+        {
+          "id": "topic-repo-achilles-74--adobe-flash-full-version",
+          "title": "achilles-74/Adobe-Flash-Full-Version",
+          "url": "https://github.com/achilles-74/Adobe-Flash-Full-Version",
+          "summary": "Adobe Flash Professional is a free full-version animation software for Windows, perfect for creating interactive web content. With advanced animation effects, a multilanguage text engine, and seamless integration with Adobe apps, it's an essential tool for designers. Download the latest version free.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "MIT",
+          "published_at": "2026-11-01T17:35:22Z",
+          "checked_at": "2026-11-01T17:55:12Z"
+        },
+        {
+          "id": "topic-repo-elmarshub--couch-potato",
+          "title": "elmarshub/couch-potato",
+          "url": "https://github.com/elmarshub/couch-potato",
+          "summary": "A modern, responsive web app that helps you discover, track, and book your favorite movies and TV shows with a full theater booking system (seat selection, Stripe checkout), an admin console, and live notifications. Built with a cinematic design and smooth animations for an immersive experience.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": null,
+          "published_at": "2026-11-01T17:40:04Z",
+          "checked_at": "2026-11-01T17:55:12Z"
+        }
+      ],
+      "health": {
+        "rss": {
+          "status": "ok",
+          "count": 7
+        },
+        "github": {
+          "status": "ok",
+          "count": 5,
+          "note": "Первая страница, публичные метаданные; не аудит кода"
+        },
+        "gemini": {
+          "status": "not_requested"
+        },
+        "x": {
+          "status": "not_requested"
+        },
+        "reddit": {
+          "status": "not_requested"
+        }
+      },
+      "ai_selected_ids": [],
+      "checked_at": "2026-11-01T17:55:12Z",
+      "last_attempt_at": "2026-11-01T17:55:14Z"
+    },
+    {
+      "id": "blender",
+      "title": "Blender / 3D",
+      "query": "blender animation",
+      "web_query": "Blender motion design",
+      "items": [
+        {
+          "id": "1fd8dbea8fa8176828",
+          "title": "Ichno: free one-click technical drawings from Blender scenes",
+          "url": "https://www.blendernation.com/2026/11/01/ichno-free-one-click-technical-drawings-from-blender-scenes/",
+          "summary": "Ichno is a new free add-on, available on extensions.blender.org, that generates technical drawings from a Blender scene in one click. Ely writes: It produces orthographic and isometric views with overall and chain…",
+          "kind": "topic_rss",
+          "source_name": "BlenderNation",
+          "basis": "rss_excerpt",
+          "published_at": "2026-11-01T07:55:23Z",
+          "checked_at": "2026-11-01T17:15:11Z"
+        },
+        {
+          "id": "500132667f9ec65906",
+          "title": "Best of Blender Artists: 2026-44",
+          "url": "https://www.blendernation.com/2026/10/31/best-of-blender-artists-2026-44/",
+          "summary": "Every week, hundreds of artists share their work on the Blender Artists forum. I’m putting some of the best work in the spotlight in a weekly post here on BlenderNation. Source",
+          "kind": "topic_rss",
+          "source_name": "BlenderNation",
+          "basis": "rss_excerpt",
+          "published_at": "2026-10-31T10:27:03Z",
+          "checked_at": "2026-11-01T17:15:11Z"
+        },
+        {
+          "id": "ea9f125d4a2b5bbeca",
+          "title": "5 Tips: Square to Round shapes, Inverted Hull, Reduce polycount, find double geometry, better bevels",
+          "url": "https://www.blendernation.com/2026/10/31/5-tips-square-to-round-shapes-inverted-hull-reduce-polycount-find-double-geometry-better-bevels/",
+          "summary": "5 Tips from Blender Secrets: Square to Round shapes, Inverted Hull, Reduce polycount, find double geometry, better bevel. Source",
+          "kind": "topic_rss",
+          "source_name": "BlenderNation",
+          "basis": "rss_excerpt",
+          "published_at": "2026-10-31T08:00:33Z",
+          "checked_at": "2026-11-01T17:15:11Z"
+        },
+        {
+          "id": "900e199369b6bee06c",
+          "title": "Splatting the Gaussians into Blender",
+          "url": "https://code.blender.org/2026/10/splatting-the-gaussians-into-blender/",
+          "summary": "In Blender 5.3, we are introducing initial support for 3D Gaussian splats! This enables importing, editing, and rendering of fast, high-quality scene captures. A lot of groundwork has been done to integrate 3D Gaussian…",
+          "kind": "topic_rss",
+          "source_name": "Blender Developers",
+          "basis": "rss_excerpt",
+          "published_at": "2026-10-30T13:18:52Z",
+          "checked_at": "2026-11-01T17:15:11Z"
+        },
+        {
+          "id": "b60021bdf55fe5abf8",
+          "title": "Blender Jobs for October 30, 2026",
+          "url": "https://www.blendernation.com/2026/10/30/blender-jobs-for-october-30-2026/",
+          "summary": "Here’s an overview of the most recent Blender jobs on Blender Artists, ArtStation and 3djobs.xyz: VFX Artist Art Lead Senior 3D Character Artist (Stylized Games | Unity3D) Europe Senior Technical Animator (Unreal Engine…",
+          "kind": "topic_rss",
+          "source_name": "BlenderNation",
+          "basis": "rss_excerpt",
+          "published_at": "2026-10-30T10:15:00Z",
+          "checked_at": "2026-11-01T17:15:11Z"
+        },
+        {
+          "id": "de8c72df8d1a2394b1",
+          "title": "r187",
+          "url": "https://github.com/mrdoob/three.js/releases/tag/r187",
+          "summary": "https://github.com/mrdoob/three.js/wiki/Migration-Guide#186--187 https://github.com/mrdoob/three.js/milestone/100?closed=1 Global Remove code deprecated in r177. #34517 (@linbingquan, @Mugen87) AnimationUtils Fix cubic…",
+          "kind": "topic_rss",
+          "source_name": "Three.js",
+          "basis": "rss_excerpt",
+          "published_at": "2026-10-30T08:03:18Z",
+          "checked_at": "2026-11-01T17:15:11Z"
+        },
+        {
+          "id": "10014f52844b97cf2d",
+          "title": "v4.0.539",
+          "url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.539",
+          "summary": "What's Changed @remotion/effects: Add curves() and graphical color controls in Studio by @JonnyBurger in #12550 @remotion/effects: Add shatter() for 3D fragment animations by @JonnyBurger in #12578 remotion: Fix…",
+          "kind": "topic_rss",
+          "source_name": "Remotion",
+          "basis": "rss_excerpt",
+          "published_at": "2026-10-26T12:04:13Z",
+          "checked_at": "2026-11-01T17:15:11Z"
+        },
+        {
+          "id": "a1f3db65653cf65854",
+          "title": "BCON26 Talks by Blender Developers",
+          "url": "https://code.blender.org/2026/10/bcon26-talks-by-blender-developers/",
+          "summary": "What an eventful edition of the Blender Conference we had earlier this September! Over three days, 700+ attendees from more than 50 countries gathered at the Felix Meritis venue to share their passion for creating with…",
+          "kind": "topic_rss",
+          "source_name": "Blender Developers",
+          "basis": "rss_excerpt",
+          "published_at": "2026-10-14T12:26:59Z",
+          "checked_at": "2026-11-01T17:15:11Z"
+        },
+        {
+          "id": "8a085ef017581985d0",
+          "title": "Geometry Nodes Workshop: September 2026",
+          "url": "https://code.blender.org/2026/10/geometry-nodes-workshop-september-2026/",
+          "summary": "As in previous years, we had a Geometry Nodes workshop during the week after the Blender Conference. This post gives a general overview of the topics we discussed. You can also read all the notes we took during the…",
+          "kind": "topic_rss",
+          "source_name": "Blender Developers",
+          "basis": "rss_excerpt",
+          "published_at": "2026-10-05T14:29:39Z",
+          "checked_at": "2026-11-01T17:15:11Z"
+        },
+        {
+          "id": "e5b60107e6763277b1",
+          "title": "Yestalgia: Bringing Decathlon’s ’90s Spirit to Life Through a Playful Digital Experience",
+          "url": "https://tympanus.net/codrops/2026/09/12/yestalgia-bringing-decathlons-90s-spirit-to-life-through-a-playful-digital-experience/",
+          "summary": "A closer look at how Yestalgia brings Decathlon’s ’90s-inspired vision to the web through art direction, interaction, animation, and creative development.",
+          "kind": "topic_rss",
+          "source_name": "Codrops",
+          "basis": "rss_excerpt",
+          "published_at": "2026-09-12T08:40:31Z",
+          "checked_at": "2026-11-01T17:15:11Z"
+        },
+        {
+          "id": "b36261991ac0195317",
+          "title": "Small Teams, Ambitious Projects",
+          "url": "https://code.blender.org/2026/09/small-teams-ambitious-projects/",
+          "summary": "Enabling individuals and small teams to create with free and open source technology has always been at the core of Blender’s mission. As the software has evolved, generalist users have been able to single-handedly…",
+          "kind": "topic_rss",
+          "source_name": "Blender Developers",
+          "basis": "rss_excerpt",
+          "published_at": "2026-09-10T15:56:53Z",
+          "checked_at": "2026-11-01T17:15:11Z"
+        },
+        {
+          "id": "ba8fbad82a9b229283",
+          "title": "Geometry Nodes Physics",
+          "url": "https://code.blender.org/2026/07/geometry-nodes-physics/",
+          "summary": "In Blender 5.2 LTS we released the first version of a new hair and cloth dynamics system powered by Geometry Nodes. This post describes what we have so far and what our plans for the future are. State in Blender 5.2 LTS…",
+          "kind": "topic_rss",
+          "source_name": "Blender Developers",
+          "basis": "rss_excerpt",
+          "published_at": "2026-07-30T14:52:49Z",
+          "checked_at": "2026-11-01T17:15:11Z"
+        },
+        {
+          "id": "topic-repo-ogneocortext--native-media-ai-studio",
+          "title": "ogneocortext/Native-Media-AI-Studio",
+          "url": "https://github.com/ogneocortext/Native-Media-AI-Studio",
+          "summary": "Full-stack music-video creation suite: React + Vite + Remotion frontend, FastAPI backend with ComfyUI integration, Unity/Blender MCP bridges for 3D scene generation and beat-synced animation, GPU-accelerated audio analysis, and an Obsidian knowledge library.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "MIT",
+          "published_at": "2026-11-01T17:54:50Z",
+          "checked_at": "2026-11-01T17:55:14Z"
+        },
+        {
+          "id": "topic-repo-coolkama--orchid",
+          "title": "Coolkama/Orchid",
+          "url": "https://github.com/Coolkama/Orchid",
+          "summary": "Test bed for blender animation",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": null,
+          "published_at": "2026-11-01T17:47:44Z",
+          "checked_at": "2026-11-01T17:55:14Z"
+        },
+        {
+          "id": "topic-repo-artemzhzhenov--video-slice-contractor",
+          "title": "artemzhzhenov/video-slice-contractor",
+          "url": "https://github.com/artemzhzhenov/video-slice-contractor",
+          "summary": "Contractor workspace for the Phase 0.5 reference slice: Blender rigging/animation task, acceptance checks, report (public mirror of one branch of a private repository)",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": null,
+          "published_at": "2026-11-01T17:03:40Z",
+          "checked_at": "2026-11-01T17:55:14Z"
+        },
+        {
+          "id": "topic-repo-rfingadam--meshwire",
+          "title": "RFingAdam/meshwire",
+          "url": "https://github.com/RFingAdam/meshwire",
+          "summary": "An independent MCP server for Blender: modeling, materials, animation, AI 3D generation, and Microsoft Flight Simulator content",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "AGPL-3.0",
+          "published_at": "2026-11-01T17:50:13Z",
+          "checked_at": "2026-11-01T17:55:14Z"
+        },
+        {
+          "id": "topic-repo-camenikmine92--blender-full-version",
+          "title": "camenikmine92/Blender-Full-Version",
+          "url": "https://github.com/camenikmine92/Blender-Full-Version",
+          "summary": "Blender is a free full-version 3D modeling and animation program for Windows that allows you to create, animate, and render professional-grade 3D projects. With features like quick skeleton creation and various modeling methods, you can unleash your creativity. Download the latest version free.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "MIT",
+          "published_at": "2026-11-01T15:40:46Z",
+          "checked_at": "2026-11-01T17:55:14Z"
+        }
+      ],
+      "health": {
+        "rss": {
+          "status": "ok",
+          "count": 12
+        },
+        "github": {
+          "status": "ok",
+          "count": 5,
+          "note": "Первая страница, публичные метаданные; не аудит кода"
+        },
+        "gemini": {
+          "status": "not_requested"
+        },
+        "x": {
+          "status": "not_requested"
+        },
+        "reddit": {
+          "status": "not_requested"
+        }
+      },
+      "ai_selected_ids": [],
+      "checked_at": "2026-11-01T17:55:14Z",
+      "last_attempt_at": "2026-11-01T17:55:16Z"
+    },
+    {
+      "id": "comfyui",
+      "title": "ComfyUI / video",
+      "query": "comfyui video",
+      "web_query": "ComfyUI video workflow",
+      "items": [
+        {
+          "id": "55743b4ddea9bce185",
+          "title": "v0.43.2",
+          "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.43.2",
+          "summary": "ComfyUI v0.43.2",
+          "kind": "topic_rss",
+          "source_name": "ComfyUI",
+          "basis": "rss_excerpt",
+          "published_at": "2026-10-30T01:24:06Z",
+          "checked_at": "2026-11-01T17:15:11Z"
+        },
+        {
+          "id": "topic-repo-ogneocortext--native-media-ai-studio",
+          "title": "ogneocortext/Native-Media-AI-Studio",
+          "url": "https://github.com/ogneocortext/Native-Media-AI-Studio",
+          "summary": "Full-stack music-video creation suite: React + Vite + Remotion frontend, FastAPI backend with ComfyUI integration, Unity/Blender MCP bridges for 3D scene generation and beat-synced animation, GPU-accelerated audio analysis, and an Obsidian knowledge library.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "MIT",
+          "published_at": "2026-11-01T17:54:50Z",
+          "checked_at": "2026-11-01T17:55:16Z"
+        },
+        {
+          "id": "topic-repo-rahmeljackson--frameforge-studio",
+          "title": "RahmelJackson/frameforge-studio",
+          "url": "https://github.com/RahmelJackson/frameforge-studio",
+          "summary": "An open-source creative studio inspired by Higgsfield, powered by ComfyUI workflows. Create images, video, audio and short films with local models or external cloud handoffs.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "MIT",
+          "published_at": "2026-11-01T17:50:30Z",
+          "checked_at": "2026-11-01T17:55:16Z"
+        },
+        {
+          "id": "topic-repo-aqm857886159--nomi",
+          "title": "aqm857886159/Nomi",
+          "url": "https://github.com/aqm857886159/Nomi",
+          "summary": "Open-source AI video workbench. Bring any model or your local ComfyUI, and let Claude Code / Codex / Cursor direct it over MCP — storyboard, references, generation, editable first cut on a real timeline. Local-first: projects, prompts, and keys stay on your machine. No account, no telemetry.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "AGPL-3.0",
+          "published_at": "2026-11-01T17:47:39Z",
+          "checked_at": "2026-11-01T17:55:16Z"
+        },
+        {
+          "id": "topic-repo-xeinherjer-dev--comfyui-xenodes",
+          "title": "xeinherjer-dev/ComfyUI-XENodes",
+          "url": "https://github.com/xeinherjer-dev/ComfyUI-XENodes",
+          "summary": "A collection of custom nodes for ComfyUI, featuring the versatile Multi-Switch, Slider, Slider 2D, Save Image, and Save Video nodes.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "GPL-3.0",
+          "published_at": "2026-11-01T17:43:29Z",
+          "checked_at": "2026-11-01T17:55:16Z"
+        },
+        {
+          "id": "topic-repo-workingprototype--fuobe",
+          "title": "workingprototype/Fuobe",
+          "url": "https://github.com/workingprototype/Fuobe",
+          "summary": "The open creative studio on ComfyUI: images, video, 3D and audio on open weights, on your own GPU or the cloud. Camera motions, effects, apps, Cinema, Layers, Image to 3D and an AI agent.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "MIT",
+          "published_at": "2026-11-01T17:41:02Z",
+          "checked_at": "2026-11-01T17:55:16Z"
+        }
+      ],
+      "health": {
+        "rss": {
+          "status": "ok",
+          "count": 1
+        },
+        "github": {
+          "status": "ok",
+          "count": 5,
+          "note": "Первая страница, публичные метаданные; не аудит кода"
+        },
+        "gemini": {
+          "status": "not_requested"
+        },
+        "x": {
+          "status": "not_requested"
+        },
+        "reddit": {
+          "status": "not_requested"
+        }
+      },
+      "ai_selected_ids": [],
+      "checked_at": "2026-11-01T17:55:16Z",
+      "last_attempt_at": "2026-11-01T17:55:18Z"
+    }
+  ]
+}

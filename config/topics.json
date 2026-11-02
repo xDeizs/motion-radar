@@ -1,0 +1,43 @@
+{
+  "max_topics": 6,
+  "per_query": 5,
+  "gemini_model": "gemini-3.5-flash-lite",
+  "topics": [
+    {
+      "id": "claude-motion",
+      "title": "Claude Motion",
+      "query": "Claude motion animation",
+      "web_query": "Claude Motion animation"
+    },
+    {
+      "id": "remotion",
+      "title": "Claude + Remotion",
+      "query": "remotion claude",
+      "web_query": "Remotion Claude animation"
+    },
+    {
+      "id": "grok-video",
+      "title": "Grok Imagine",
+      "query": "grok video",
+      "web_query": "Grok Imagine animation"
+    },
+    {
+      "id": "motion-web",
+      "title": "Web motion",
+      "query": "web animation",
+      "web_query": "GSAP web animation"
+    },
+    {
+      "id": "blender",
+      "title": "Blender / 3D",
+      "query": "blender animation",
+      "web_query": "Blender motion design"
+    },
+    {
+      "id": "comfyui",
+      "title": "ComfyUI / video",
+      "query": "comfyui video",
+      "web_query": "ComfyUI video workflow"
+    }
+  ]
+}

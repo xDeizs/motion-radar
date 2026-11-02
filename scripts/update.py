@@ -153,6 +153,8 @@ def parse_feed(body, source):
         # Keep short excerpts, not full article bodies.
         summary = summary[:220].rsplit(" ", 1)[0] + "…" if len(summary) > 220 else summary
         title = html.unescape(title.strip())
+        if source.get("include") and not re.search(source["include"], title + " " + summary, re.I):
+            continue
         text = (title + " " + summary).lower()
         tags = [source["tag"]]
         for word, label in [("webgl", "WebGL"), ("webgpu", "WebGPU"), ("shader", "Shaders"),
@@ -272,29 +274,44 @@ def submissions_run():
 
 
 def write_site(payload):
+    payload = dict(payload)
+    for name in ("topics", "guides", "community", "access", "expert_research", "learning", "learning_workflows"):
+        payload[name] = load(ROOT / ("config/" + name + ".json"), {} if name == "topics" else [])
+    payload["topic_research"] = load(ROOT / "data/topics.json", {"topics": [], "generated_at": None})
+    payload["signals"] = load(ROOT / "data/signals.json", {"sources": [], "items": []})
+    payload["library"] = load(ROOT / "data/library.json", {"items": []})
+    payload["x_learning_health"] = load(ROOT / "data/x-learning-health.json", {"status": "needs_key"})
     serial = json.dumps(payload, ensure_ascii=False, indent=2)
     (ROOT / "data/feed.json").write_text(serial + "\n", "utf-8")
     # Escaping prevents feed text from terminating the inline data script.
     inline = json.dumps(payload, ensure_ascii=False).replace("<", "\\u003c").replace(">", "\\u003e").replace("&", "\\u0026")
     template = (ROOT / "web/index.template.html").read_text("utf-8")
-    for marker, path in [("__PROLOGUE_HTML__", "web/prologue.html"),
-                         ("__SC_ENGINE_CSS__", "web/vendor/scrollcraft.css"),
-                         ("__SCROLL_CSS__", "web/scroll.css"), ("__SCROLL_JS__", "web/scroll.js"),
-                         ("__HUB_CSS__", "web/hub.css"), ("__HUB_JS__", "web/hub.js"),
-                         ("__PURPLE_CSS__", "web/purple.css"), ("__PURPLE_JS__", "web/purple.js")]:
+    # Motion Radar 5: hub components + the neon design layer (web/neon.*). Heavy 3D/scroll code
+    # lives in assets/js/experience.js (built by `npm run build`), so the inline page stays light.
+    for marker, path in [("__HUB_CSS__", "web/hub.css"), ("__HUB_JS__", "web/hub.js"),
+                         ("__NEON_CSS__", "web/neon.css"), ("__NEON_JS__", "web/neon.js"),
+                         ("__RADAR_CSS__", "web/radar.css"), ("__RADAR_JS__", "web/radar.js"),
+                         ("__TOPICS_CSS__", "web/topics.css"), ("__TOPICS_JS__", "web/topics.js"),
+                         ("__EXPERTS_CSS__", "web/experts.css"), ("__EXPERTS_JS__", "web/experts.js"),
+                         ("__LEARNING_CSS__", "web/learning.css"), ("__LEARNING_JS__", "web/learning.js")]:
         if marker in template:
             template = template.replace(marker, (ROOT / path).read_text("utf-8"))
-    for marker, value in [
-        ("__VISUALS__", load(ROOT / "config/visuals.json", {"images": []})),
-        ("__DESIGN_NOTES__", (ROOT / "DESIGN_RESEARCH.md").read_text("utf-8")),
-        ("__FLOW_PROMPTS__", (ROOT / "FLOW_PROMPTS.md").read_text("utf-8"))
-    ]:
+    for marker, value in [("__DESIGN_NOTES__", (ROOT / "DESIGN_RESEARCH.md").read_text("utf-8"))]:
         encoded = json.dumps(value, ensure_ascii=False).replace("<", "\\u003c").replace(">", "\\u003e").replace("&", "\\u0026")
         template = template.replace(marker, encoded)
     (ROOT / "index.html").write_text(template.replace("__INITIAL_DATA__", inline), "utf-8")
 
 
 def main():
+    if "--render-only" in sys.argv:
+        # Rebuild index.html from the committed snapshot without touching the network.
+        snapshot = load(ROOT / "data/feed.json", None)
+        if not snapshot:
+            print("data/feed.json is missing; run without --render-only first.", file=sys.stderr)
+            return 1
+        write_site(snapshot)
+        print("Rendered index.html from data/feed.json")
+        return 0
     sources = load(ROOT / "config/sources.json", [])
     previous = load(ROOT / "data/feed.json", {}).get("items", [])
     old_by_id = {x["id"]: x for x in previous}
@@ -321,13 +338,18 @@ def main():
     import research
     findings = research.run(load(ROOT / "data/research.json", {}), fetch)
     payload = {
-        "meta": {"generated_at": STAMP, "version": 2, "built_in_actions": os.getenv("GITHUB_ACTIONS") == "true",
+        "meta": {"generated_at": STAMP, "version": 6, "built_in_actions": os.getenv("GITHUB_ACTIONS") == "true",
                  "refresh_hours": 6, "max_age_days": MAX_AGE_DAYS,
                  "ai_enabled": False,
                  "disclaimer": "Проверка HTTP не подтверждает бесплатность или безопасность кода. Соцсети добавляются вручную."},
         "sources": statuses, "items": records, "resources": resources,
         **{k: findings[k] for k in ("catalog", "discoveries", "references", "research_health")}
     }
+    import enrich
+    analysis = enrich.annotate(records, load(ROOT / "data/analysis.json", {}))
+    (ROOT / "data/analysis.json").write_text(json.dumps(analysis, ensure_ascii=False, indent=2) + "\n", "utf-8")
+    count = sum(r.get("analysis", {}).get("engine", "extractive") != "extractive" for r in records)
+    payload["meta"].update(ai_enabled=count > 0, ai_count=count)
     write_site(payload)
     good = sum(s["status"] == "ok" for s in statuses)
     confirmed = sum(r["terms_status"] == "confirmed" for r in resources)
