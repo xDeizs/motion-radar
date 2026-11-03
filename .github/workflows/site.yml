@@ -83,6 +83,9 @@ jobs:
           BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
           BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
         run: python scripts/parse_new_sources.py
+      - name: Render site after skill catalog
+        if: github.event.schedule != '*/30 * * * *'
+        run: python scripts/update.py --render-only
       - name: Keep the latest snapshot
         run: |
           git config user.name "github-actions[bot]"

@@ -329,14 +329,26 @@ def enrich_with_gemini(items, limit=3):
     return items
 
 def main():
+    previous = []
+    old_path = DATA / "new_skills.json"
+    if old_path.exists():
+        try:
+            previous = json.loads(old_path.read_text(encoding="utf-8")).get("items") or []
+        except (OSError, ValueError, AttributeError):
+            previous = []
+
+    def kept(source, rows):
+        # A failed or blocked source must not erase cards already collected.
+        return rows or [row for row in previous if row.get("source") == source]
+
     all_items = []
-    all_items.extend(parse_skillry())
-    all_items.extend(parse_oneshotted())
-    all_items.extend(parse_github_search())
-    all_items.extend(parse_reddit())
-    all_items.extend(parse_x())
-    all_items.extend(parse_bluesky())
-    all_items.extend(parse_youtube())
+    all_items.extend(kept("skillry", parse_skillry()))
+    all_items.extend(kept("oneshotted", parse_oneshotted()))
+    all_items.extend(kept("github", parse_github_search()))
+    all_items.extend(kept("reddit", parse_reddit()))
+    all_items.extend(kept("x", parse_x()))
+    all_items.extend(kept("bluesky", parse_bluesky()))
+    all_items.extend(kept("youtube", parse_youtube()))
 
     # дедуп по url
     seen = set()

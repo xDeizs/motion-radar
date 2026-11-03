@@ -273,6 +273,68 @@ def submissions_run():
         return list(pool.map(link_check, result))
 
 
+
+def skill_catalog_records():
+    """Public skill/catalog links already collected in data/new_skills.json."""
+    pack = load(ROOT / "data/new_skills.json", {})
+    rows = pack.get("items") if isinstance(pack, dict) else pack
+    if not isinstance(rows, list):
+        return []
+    names = {
+        "skillry": "Skillry", "oneshotted": "Oneshotted", "github": "GitHub",
+        "reddit": "Reddit", "x": "X", "bluesky": "Bluesky", "youtube": "YouTube",
+    }
+    seen_at = pack.get("generated") if isinstance(pack, dict) else None
+    output = []
+    for row in rows:
+        if not isinstance(row, dict):
+            continue
+        title = str(row.get("title") or "").strip()
+        url = str(row.get("url") or "")
+        if not title or not url.startswith("https://"):
+            continue
+        try:
+            url = canonical(validate_url(url, resolve=False))
+        except ValueError:
+            continue
+        source = str(row.get("source") or "catalog")
+        output.append({
+            "id": "skill-" + key(url),
+            "title": title[:300],
+            "url": url,
+            "summary": str(row.get("summary") or "")[:600],
+            "source_id": "skills-" + source,
+            "source_name": names.get(source, source),
+            "category": "ai",
+            "kind": "skill",
+            "tags": [str(row.get("tag") or "Skill")[:40], "Motion / AI"],
+            "published_at": iso(row.get("published")),
+            "seen_at": seen_at,
+            "thumbnail": None,
+            "link_status": "unknown",
+            "offer_status": None,
+            "basis": "catalog_metadata",
+        })
+    return output
+
+
+def merge_skill_catalog(payload):
+    skills = skill_catalog_records()
+    payload["new_skills"] = {
+        "generated": load(ROOT / "data/new_skills.json", {}).get("generated"),
+        "count": len(skills),
+        "note": "Ссылки каталога. Полные статьи, промпты и файлы не скачивались.",
+    }
+    by_url = {}
+    for row in payload.get("items") or []:
+        if isinstance(row, dict) and row.get("url"):
+            by_url[row["url"]] = row
+    for row in skills:
+        by_url.setdefault(row["url"], row)
+    payload["items"] = sorted(by_url.values(), key=lambda x: x.get("published_at") or x.get("seen_at") or "", reverse=True)
+    return payload
+
+
 def write_site(payload):
     payload = dict(payload)
     for name in ("topics", "guides", "community", "access", "expert_research", "learning", "learning_workflows"):
@@ -281,6 +343,7 @@ def write_site(payload):
     payload["signals"] = load(ROOT / "data/signals.json", {"sources": [], "items": []})
     payload["library"] = load(ROOT / "data/library.json", {"items": []})
     payload["x_learning_health"] = load(ROOT / "data/x-learning-health.json", {"status": "needs_key"})
+    merge_skill_catalog(payload)
     serial = json.dumps(payload, ensure_ascii=False, indent=2)
     (ROOT / "data/feed.json").write_text(serial + "\n", "utf-8")
     # Escaping prevents feed text from terminating the inline data script.
