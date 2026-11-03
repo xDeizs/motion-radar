@@ -73,6 +73,15 @@ jobs:
           TOKENIZERS_PARALLELISM: 'false'
         run: python scripts/enrich.py --backend transformers --fetch-articles --limit 4
       - name: Watch reviewed public sources (no paid APIs or social scraping)
+      - name: Parse new skills & social (Skillry, X, Bluesky, Reddit, GitHub)
+        if: github.event.schedule != '*/30 * * * *'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GITHUB_TOKEN: ${{ github.token }}
+          X_API_BEARER: ${{ secrets.X_API_BEARER }}
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+        run: python scripts/parse_new_sources.py
         run: python scripts/watch_sources.py
       - name: Index public learning catalog titles (24-hour cache, no gated text)
         if: github.event.schedule != '*/30 * * * *'
@@ -81,7 +90,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/feed.json data/research.json data/analysis.json data/topics.json data/signals.json data/library.json index.html
+          git add data/feed.json data/research.json data/analysis.json data/topics.json data/signals.json data/new_skills.json index.html
           if ! git diff --cached --quiet; then
             git commit -m "Refresh public feeds and verification snapshot [skip ci]"
             git push
