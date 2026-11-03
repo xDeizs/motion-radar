@@ -5076,7 +5076,7 @@
   },
   "signals": {
     "schema_version": 1,
-    "generated_at": "2026-11-03T07:11:33Z",
+    "generated_at": "2026-11-03T09:51:09Z",
     "mode": "public_metadata_only",
     "schedule_minutes": 30,
     "sources": [
@@ -5088,9 +5088,9 @@
         "status": "ok",
         "count": 5,
         "config_signature": "040b1222912c",
-        "last_attempt": "2026-11-03T07:11:33Z",
-        "last_success": "2026-11-03T07:11:33Z",
-        "next_check": "2026-11-03T07:41:33+00:00"
+        "last_attempt": "2026-11-03T09:51:09Z",
+        "last_success": "2026-11-03T09:51:09Z",
+        "next_check": "2026-11-03T10:21:09+00:00"
       },
       {
         "id": "hyperframes",
@@ -5100,35 +5100,34 @@
         "status": "ok",
         "count": 5,
         "config_signature": "b02bec891cfe",
-        "last_attempt": "2026-11-03T07:11:33Z",
-        "last_success": "2026-11-03T07:11:33Z",
-        "next_check": "2026-11-03T07:41:33+00:00"
+        "last_attempt": "2026-11-03T09:51:09Z",
+        "last_success": "2026-11-03T09:51:09Z",
+        "next_check": "2026-11-03T10:21:09+00:00"
       },
       {
         "id": "pouya",
         "label": "Pouya Eti · новые видео",
         "platform": "youtube",
         "enabled": true,
-        "status": "error",
+        "status": "ok",
         "count": 2,
         "config_signature": "63b934b73c2d",
-        "last_attempt": "2026-11-03T07:11:33Z",
-        "error": "http_404",
-        "last_success": "2026-11-02T21:53:56Z",
-        "next_check": "2026-11-03T07:41:33+00:00"
+        "last_attempt": "2026-11-03T09:51:09Z",
+        "last_success": "2026-11-03T09:51:09Z",
+        "next_check": "2026-11-03T10:21:09+00:00"
       },
       {
         "id": "louise",
         "label": "Louise de Sadeleer · статьи",
         "platform": "rss",
         "enabled": true,
-        "status": "backoff",
+        "status": "error",
         "count": 1,
         "config_signature": "f1f189758c10",
-        "last_attempt": "2026-11-03T02:05:04Z",
+        "last_attempt": "2026-11-03T09:51:09Z",
+        "error": "http_403",
         "last_success": "2026-11-02T00:47:43Z",
-        "next_check": "2026-11-03T08:05:04+00:00",
-        "error": "http_403"
+        "next_check": "2026-11-03T15:51:09+00:00"
       },
       {
         "id": "x-movez",
@@ -5193,6 +5192,27 @@
     ],
     "items": [
       {
+        "id": "signal-9a3b4f48c5f02c4adf",
+        "title": "v0.9.8",
+        "url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.9.8",
+        "summary": "Новый релиз открытого проекта. Release notes ещё не разобраны.",
+        "source_name": "HyperFrames · релизы",
+        "source_id": "watch-hyperframes",
+        "watch_id": "hyperframes",
+        "platform": "github",
+        "kind": "watch_signal",
+        "basis": "metadata_only",
+        "published_at": "2026-11-03T09:44:21Z",
+        "seen_at": "2026-11-03T09:51:09Z",
+        "checked_at": "2026-11-03T09:51:09Z",
+        "tags": [
+          "Новый сигнал",
+          "github"
+        ],
+        "link_status": "ok",
+        "research_state": "needs_review"
+      },
+      {
         "id": "signal-a87a94cf2e086178b8",
         "title": "v0.9.7",
         "url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.9.7",
@@ -5205,7 +5225,7 @@
         "basis": "metadata_only",
         "published_at": "2026-11-03T05:46:42Z",
         "seen_at": "2026-11-03T07:11:33Z",
-        "checked_at": "2026-11-03T07:11:33Z",
+        "checked_at": "2026-11-03T09:51:09Z",
         "tags": [
           "Новый сигнал",
           "github"
@@ -5226,7 +5246,7 @@
         "basis": "metadata_only",
         "published_at": "2026-11-02T20:48:27Z",
         "seen_at": "2026-11-02T21:53:56Z",
-        "checked_at": "2026-11-03T07:11:33Z",
+        "checked_at": "2026-11-03T09:51:09Z",
         "tags": [
           "Новый сигнал",
           "github"
@@ -5247,7 +5267,7 @@
         "basis": "metadata_only",
         "published_at": "2026-11-02T16:48:59Z",
         "seen_at": "2026-11-02T19:57:44Z",
-        "checked_at": "2026-11-03T07:11:33Z",
+        "checked_at": "2026-11-03T09:51:09Z",
         "tags": [
           "Новый сигнал",
           "github"
@@ -5268,28 +5288,7 @@
         "basis": "metadata_only",
         "published_at": "2026-11-02T15:03:15Z",
         "seen_at": "2026-11-02T19:57:44Z",
-        "checked_at": "2026-11-03T07:11:33Z",
-        "tags": [
-          "Новый сигнал",
-          "github"
-        ],
-        "link_status": "ok",
-        "research_state": "needs_review"
-      },
-      {
-        "id": "signal-39f763a86bb2314330",
-        "title": "v0.9.3",
-        "url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.9.3",
-        "summary": "Новый релиз открытого проекта. Release notes ещё не разобраны.",
-        "source_name": "HyperFrames · релизы",
-        "source_id": "watch-hyperframes",
-        "watch_id": "hyperframes",
-        "platform": "github",
-        "kind": "watch_signal",
-        "basis": "metadata_only",
-        "published_at": "2026-11-02T12:31:19Z",
-        "seen_at": "2026-11-02T19:57:44Z",
-        "checked_at": "2026-11-03T07:11:33Z",
+        "checked_at": "2026-11-03T09:51:09Z",
         "tags": [
           "Новый сигнал",
           "github"
@@ -5310,14 +5309,13 @@
         "basis": "metadata_only",
         "published_at": "2026-10-31T12:40:34Z",
         "seen_at": "2026-11-02T09:47:05Z",
-        "checked_at": "2026-11-02T21:53:56Z",
+        "checked_at": "2026-11-03T09:51:09Z",
         "tags": [
           "Новый сигнал",
           "youtube"
         ],
         "link_status": "ok",
-        "research_state": "needs_review",
-        "source_stale": true
+        "research_state": "needs_review"
       },
       {
         "id": "signal-399c1627ebb691ab78",
@@ -5332,14 +5330,13 @@
         "basis": "metadata_only",
         "published_at": "2026-10-26T15:00:29Z",
         "seen_at": "2026-11-02T09:47:05Z",
-        "checked_at": "2026-11-02T21:53:56Z",
+        "checked_at": "2026-11-03T09:51:09Z",
         "tags": [
           "Новый сигнал",
           "youtube"
         ],
         "link_status": "ok",
-        "research_state": "needs_review",
-        "source_stale": true
+        "research_state": "needs_review"
       },
       {
         "id": "signal-c48d2b81ee73f41679",
@@ -5354,7 +5351,7 @@
         "basis": "metadata_only",
         "published_at": "2026-10-09T19:45:22Z",
         "seen_at": "2026-11-02T00:47:43Z",
-        "checked_at": "2026-11-03T07:11:33Z",
+        "checked_at": "2026-11-03T09:51:09Z",
         "tags": [
           "Новый сигнал",
           "github"
@@ -5375,7 +5372,7 @@
         "basis": "metadata_only",
         "published_at": "2026-10-09T17:17:06Z",
         "seen_at": "2026-11-02T00:47:43Z",
-        "checked_at": "2026-11-03T07:11:33Z",
+        "checked_at": "2026-11-03T09:51:09Z",
         "tags": [
           "Новый сигнал",
           "github"
@@ -5396,7 +5393,7 @@
         "basis": "metadata_only",
         "published_at": "2026-10-04T12:48:37Z",
         "seen_at": "2026-11-02T00:47:43Z",
-        "checked_at": "2026-11-03T07:11:33Z",
+        "checked_at": "2026-11-03T09:51:09Z",
         "tags": [
           "Новый сигнал",
           "github"
@@ -5417,7 +5414,7 @@
         "basis": "metadata_only",
         "published_at": "2026-09-29T18:46:13Z",
         "seen_at": "2026-11-02T00:47:43Z",
-        "checked_at": "2026-11-03T07:11:33Z",
+        "checked_at": "2026-11-03T09:51:09Z",
         "tags": [
           "Новый сигнал",
           "github"
@@ -5438,7 +5435,7 @@
         "basis": "metadata_only",
         "published_at": "2026-09-29T16:41:25Z",
         "seen_at": "2026-11-02T00:47:43Z",
-        "checked_at": "2026-11-03T07:11:33Z",
+        "checked_at": "2026-11-03T09:51:09Z",
         "tags": [
           "Новый сигнал",
           "github"
@@ -5469,7 +5466,7 @@
         "source_stale": true
       }
     ],
-    "network_calls": 3
+    "network_calls": 4
   },
   "library": {
     "generated_at": "2026-11-03T07:11:34Z",
