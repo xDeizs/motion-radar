@@ -388,34 +388,6 @@
     "generated_at": "2026-11-01T17:15:19+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
-  "ea9f125d4a2b5bbeca": {
-    "fingerprint": "c7525a0e864d3f0729d79761d159be26f4fb89b28fd9aa24ec46dbcc9a889117",
-    "engine": "extractive",
-    "model": null,
-    "summary": "5 Tips from Blender Secrets: Square to Round shapes, Inverted Hull, Reduce polycount, find double geometry, better bevel. Source",
-    "takeaways": [],
-    "topics": [
-      "3D / Blender"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://www.blendernation.com/2026/10/31/5-tips-square-to-round-shapes-inverted-hull-reduce-polycount-find-double-geometry-better-bevels/",
-    "generated_at": "2026-11-01T17:15:19+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
-  "ba4fcfce640b35c6b7": {
-    "fingerprint": "8f80d6fc83928e504824a822fe0cc2d74bbf77b663f0dc28cda5f0499d5cc519",
-    "engine": "extractive",
-    "model": null,
-    "summary": "Chris Bailey creates materials for the Master Sword from the Legend of Zelda. In the bonus content section, we’ll take our finished sword and create a cool environment for a finished render. We’ll do everything without…",
-    "takeaways": [],
-    "topics": [
-      "3D / Blender"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://www.blendernation.com/2026/10/30/easy-materials-for-links-sword/",
-    "generated_at": "2026-11-01T17:15:19+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
   "75d627a04ca64fb53b": {
     "fingerprint": "212864443d43e26d7b3b8a19c59afad5ed3d05da23ea18686d09959eddc176e3",
     "engine": "extractive",
@@ -456,6 +428,34 @@
     "input_kind": "rss_excerpt",
     "source_url": "https://www.blendernation.com/2026/11/02/learn-to-model-links-shield-step-by-step/",
     "generated_at": "2026-11-02T21:53:41+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "6e85e7fb40648b93a8": {
+    "fingerprint": "542951e3dbee862503f883a9235d8ed169d1e23b959a6208e1c61a732d50338f",
+    "engine": "extractive",
+    "model": null,
+    "summary": "The Blender Secrets sale is live until November 3rd. Get up to 55% off (by getting a bundle) or 30% off the courses or E-book. Check it out on www.3dsecrets.com Source",
+    "takeaways": [],
+    "topics": [
+      "3D / Blender"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://www.blendernation.com/2026/11/03/blender-secrets-on-sale/",
+    "generated_at": "2026-11-03T07:11:17+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "560d56b948eea01d05": {
+    "fingerprint": "784bd1d790f60a25cc7102eb2b128978f34b9b64ab1d2bb43e1fea20ccfac4ad",
+    "engine": "extractive",
+    "model": null,
+    "summary": "FabRapid 3D is a free browser-based 3D model converter, compressor and viewer. It runs locally with WebAssembly so files never leave the device, and supports 70+ formats including STEP, STL, GLB, OBJ and FBX. No signup…",
+    "takeaways": [],
+    "topics": [
+      "3D / Blender"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://www.blendernation.com/2026/11/03/free-browser-step-stl-converter-fabrapid-3d/",
+    "generated_at": "2026-11-03T07:11:17+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   }
 }
