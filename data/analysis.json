@@ -45,20 +45,6 @@
     "generated_at": "2026-11-01T17:13:48+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
-  "55743b4ddea9bce185": {
-    "fingerprint": "74bab9806129812a5cd0a5a8b9a50b8af1caa2979d450d04562f72b98238dd59",
-    "engine": "extractive",
-    "model": null,
-    "summary": "ComfyUI v0.43.2",
-    "takeaways": [],
-    "topics": [
-      "AI / видео"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.43.2",
-    "generated_at": "2026-11-01T17:13:48+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
   "fe7b225f29d029cecf": {
     "fingerprint": "6300dcc4a8f74500e3a662a383314f5dbd6659a89ecdac0e0b54080516f54da3",
     "engine": "extractive",
@@ -247,20 +233,6 @@
     "generated_at": "2026-11-01T17:14:32+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
-  "ba8fbad82a9b229283": {
-    "fingerprint": "4a6f1856a80e5d401747f7829cc7a92d6f596da86519f21be489ca5f8a735484",
-    "engine": "extractive",
-    "model": null,
-    "summary": "In Blender 5.2 LTS we released the first version of a new hair and cloth dynamics system powered by Geometry Nodes. This post describes what we have so far and what our plans for the future are. State in Blender 5.2 LTS…",
-    "takeaways": [],
-    "topics": [
-      "3D / Blender"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://code.blender.org/2026/07/geometry-nodes-physics/",
-    "generated_at": "2026-11-01T17:14:32+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
   "96537f9acc12bc3d68": {
     "fingerprint": "3ea79a52d73ccc2e8464cb0fde04190b0d93db50da20a0e34de60a06b930d578",
     "engine": "extractive",
@@ -389,17 +361,17 @@
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "75d627a04ca64fb53b": {
-    "fingerprint": "212864443d43e26d7b3b8a19c59afad5ed3d05da23ea18686d09959eddc176e3",
+    "fingerprint": "27fa84b9e538edb54e8905cfc5d88a624e8eb3bc1baa47adfd8baee3a956ffa0",
     "engine": "extractive",
     "model": null,
-    "summary": "fix(runtime_wasm): skip already published packages and retry a failed npm publish #15335 fix(layout): respect logical left/right on absolute layouts under RTL #15296 fix(editor, runtime): additive strength UI pass…",
+    "summary": "Features Images as pointer targets Pointer listeners can now target images, including the visible parts of a mesh or N-slice image. Images inside a targeted group also count toward the group's hit area. This requires a…",
     "takeaways": [],
     "topics": [
       "Web / motion"
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://github.com/rive-app/rive-wasm/releases/tag/2.49.1",
-    "generated_at": "2026-11-02T21:53:41+00:00",
+    "generated_at": "2026-11-03T19:45:26+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "40f2725562b6b00ca2": {
@@ -456,6 +428,35 @@
     "input_kind": "rss_excerpt",
     "source_url": "https://www.blendernation.com/2026/11/03/free-browser-step-stl-converter-fabrapid-3d/",
     "generated_at": "2026-11-03T07:11:17+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "80280d018e3ec10ec8": {
+    "fingerprint": "92404be63279f7bb5b59896b5cd3455369f6ba484253442138ac6c722305b3b5",
+    "engine": "extractive",
+    "model": null,
+    "summary": "ComfyUI v0.44.0",
+    "takeaways": [],
+    "topics": [
+      "AI / видео"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.44.0",
+    "generated_at": "2026-11-03T19:45:26+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "095d50b65d0f12d25d": {
+    "fingerprint": "55ae776c259888a053a13ef0b949794ac4157a59927da968d62f17a042cc6c8c",
+    "engine": "extractive",
+    "model": null,
+    "summary": "As is tradition by now, on the day before Blender Conference 2026, the Animation & Rigging module held a day-long workshop to discuss how layered actions should work in Blender. In this post, we’ll share the outcomes of…",
+    "takeaways": [],
+    "topics": [
+      "3D / Blender",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://code.blender.org/2026/11/layered-actions-workshop-september-2026/",
+    "generated_at": "2026-11-03T19:45:26+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   }
 }
