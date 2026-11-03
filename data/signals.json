@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-03T22:51:24Z",
+  "generated_at": "2026-11-03T23:20:02Z",
   "mode": "public_metadata_only",
   "schedule_minutes": 30,
   "sources": [
@@ -9,7 +9,7 @@
       "label": "whaleyxbt · изменения кода",
       "platform": "github",
       "enabled": true,
-      "status": "ok",
+      "status": "cached",
       "count": 5,
       "config_signature": "040b1222912c",
       "last_attempt": "2026-11-03T22:51:24Z",
@@ -21,7 +21,7 @@
       "label": "HyperFrames · релизы",
       "platform": "github",
       "enabled": true,
-      "status": "ok",
+      "status": "cached",
       "count": 5,
       "config_signature": "b02bec891cfe",
       "last_attempt": "2026-11-03T22:51:24Z",
@@ -33,7 +33,7 @@
       "label": "Pouya Eti · новые видео",
       "platform": "youtube",
       "enabled": true,
-      "status": "ok",
+      "status": "cached",
       "count": 2,
       "config_signature": "63b934b73c2d",
       "last_attempt": "2026-11-03T22:51:24Z",
@@ -134,7 +134,8 @@
         "github"
       ],
       "link_status": "ok",
-      "research_state": "needs_review"
+      "research_state": "needs_review",
+      "source_stale": false
     },
     {
       "id": "signal-9a3b4f48c5f02c4adf",
@@ -155,7 +156,8 @@
         "github"
       ],
       "link_status": "ok",
-      "research_state": "needs_review"
+      "research_state": "needs_review",
+      "source_stale": false
     },
     {
       "id": "signal-a87a94cf2e086178b8",
@@ -176,7 +178,8 @@
         "github"
       ],
       "link_status": "ok",
-      "research_state": "needs_review"
+      "research_state": "needs_review",
+      "source_stale": false
     },
     {
       "id": "signal-f8c2c7a3d99249dc30",
@@ -197,7 +200,8 @@
         "github"
       ],
       "link_status": "ok",
-      "research_state": "needs_review"
+      "research_state": "needs_review",
+      "source_stale": false
     },
     {
       "id": "signal-7a830bdbfa99c51ff9",
@@ -218,7 +222,8 @@
         "github"
       ],
       "link_status": "ok",
-      "research_state": "needs_review"
+      "research_state": "needs_review",
+      "source_stale": false
     },
     {
       "id": "signal-1b1cc5dcefc014efdd",
@@ -239,7 +244,8 @@
         "youtube"
       ],
       "link_status": "ok",
-      "research_state": "needs_review"
+      "research_state": "needs_review",
+      "source_stale": false
     },
     {
       "id": "signal-399c1627ebb691ab78",
@@ -260,7 +266,8 @@
         "youtube"
       ],
       "link_status": "ok",
-      "research_state": "needs_review"
+      "research_state": "needs_review",
+      "source_stale": false
     },
     {
       "id": "signal-c48d2b81ee73f41679",
@@ -281,7 +288,8 @@
         "github"
       ],
       "link_status": "ok",
-      "research_state": "needs_review"
+      "research_state": "needs_review",
+      "source_stale": false
     },
     {
       "id": "signal-13372ac41de897992b",
@@ -302,7 +310,8 @@
         "github"
       ],
       "link_status": "ok",
-      "research_state": "needs_review"
+      "research_state": "needs_review",
+      "source_stale": false
     },
     {
       "id": "signal-01c3b4a5153bd53070",
@@ -323,7 +332,8 @@
         "github"
       ],
       "link_status": "ok",
-      "research_state": "needs_review"
+      "research_state": "needs_review",
+      "source_stale": false
     },
     {
       "id": "signal-b563f0cdf812349cb2",
@@ -344,7 +354,8 @@
         "github"
       ],
       "link_status": "ok",
-      "research_state": "needs_review"
+      "research_state": "needs_review",
+      "source_stale": false
     },
     {
       "id": "signal-eaf119b3144f2f660f",
@@ -365,7 +376,8 @@
         "github"
       ],
       "link_status": "ok",
-      "research_state": "needs_review"
+      "research_state": "needs_review",
+      "source_stale": false
     },
     {
       "id": "signal-98b9a21cf7a4c882ac",
@@ -390,5 +402,5 @@
       "source_stale": true
     }
   ],
-  "network_calls": 3
+  "network_calls": 0
 }

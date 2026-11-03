@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-03T22:51:22Z",
+    "generated_at": "2026-11-03T23:20:00Z",
     "version": 2,
     "mode": "public_read_only",
     "ai_enabled": false,
@@ -1191,7 +1191,7 @@
       "category": "motion",
       "source_id": "reference",
       "source_name": "Референсы",
-      "checked_at": "2026-11-03T22:51:22Z",
+      "checked_at": "2026-11-03T23:20:00Z",
       "published_at": null,
       "thumbnail": null,
       "link_status": "ok",
@@ -1250,7 +1250,7 @@
       "link_status": "unknown",
       "render_status": "not_checked",
       "page_status": "stale",
-      "last_attempt_at": "2026-11-03T22:51:22Z",
+      "last_attempt_at": "2026-11-03T23:20:00Z",
       "page_error": "Response exceeds safety limit"
     },
     {
@@ -1270,7 +1270,7 @@
       "category": "motion",
       "source_id": "reference",
       "source_name": "Референсы",
-      "checked_at": "2026-11-03T22:51:22Z",
+      "checked_at": "2026-11-03T23:20:00Z",
       "published_at": null,
       "thumbnail": null,
       "link_status": "ok",
@@ -1279,7 +1279,7 @@
       "resolved_url": "https://chen.media/guides",
       "page_title": "All guides | Chen Media",
       "content_hash": "e9b2196633f5bf369c242851b6ee080ea3c696ada5822e066da475d3bf61b9b7",
-      "changed": true,
+      "changed": false,
       "changed_at": "2026-11-03T22:51:22Z",
       "observation": "HTML страницы получен. Рендер и игровая сцена автоматически не тестировались."
     },
@@ -1300,7 +1300,7 @@
       "category": "motion",
       "source_id": "reference",
       "source_name": "Референсы",
-      "checked_at": "2026-11-03T22:51:22Z",
+      "checked_at": "2026-11-03T23:20:00Z",
       "published_at": null,
       "thumbnail": null,
       "link_status": "ok",
@@ -1309,7 +1309,7 @@
       "resolved_url": "https://threejs-journey.com/highlights/1",
       "page_title": "Highlights — Three.js Journey",
       "content_hash": "e53fc982581047647e131c0baf945e7fdbd7705ca25feb1b109d85b7c158f7ae",
-      "changed": true,
+      "changed": false,
       "changed_at": "2026-11-03T22:51:22Z",
       "observation": "HTML страницы получен. Рендер и игровая сцена автоматически не тестировались."
     },
