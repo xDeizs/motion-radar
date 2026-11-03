@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T19:45:41Z",
+  "generated_at": "2026-11-03T22:51:24Z",
   "scope": "RSS snapshot + first page of public GitHub. Not the entire internet. Social content excluded.",
   "topics": [
     {
@@ -17,7 +17,7 @@
           "source_name": "Blender Developers",
           "basis": "rss_excerpt",
           "published_at": "2026-11-03T10:37:30Z",
-          "checked_at": "2026-11-03T19:45:04Z"
+          "checked_at": "2026-11-03T22:51:14Z"
         },
         {
           "id": "40f2725562b6b00ca2",
@@ -28,7 +28,7 @@
           "source_name": "Remotion",
           "basis": "rss_excerpt",
           "published_at": "2026-11-02T08:54:15Z",
-          "checked_at": "2026-11-03T19:45:04Z"
+          "checked_at": "2026-11-03T22:51:14Z"
         },
         {
           "id": "de8c72df8d1a2394b1",
@@ -39,7 +39,7 @@
           "source_name": "Three.js",
           "basis": "rss_excerpt",
           "published_at": "2026-10-30T08:03:18Z",
-          "checked_at": "2026-11-03T19:45:04Z"
+          "checked_at": "2026-11-03T22:51:14Z"
         },
         {
           "id": "e5b60107e6763277b1",
@@ -50,7 +50,7 @@
           "source_name": "Codrops",
           "basis": "rss_excerpt",
           "published_at": "2026-09-12T08:40:31Z",
-          "checked_at": "2026-11-03T19:45:04Z"
+          "checked_at": "2026-11-03T22:51:14Z"
         },
         {
           "id": "1c80df51d84652392e",
@@ -61,7 +61,7 @@
           "source_name": "Maxime Heckel",
           "basis": "rss_excerpt",
           "published_at": "2026-08-18T08:00:00Z",
-          "checked_at": "2026-11-03T19:45:04Z"
+          "checked_at": "2026-11-03T22:51:14Z"
         },
         {
           "id": "topic-repo-pagepop--awesome-fable5.5-prompts",
@@ -73,7 +73,8 @@
           "basis": "metadata_only",
           "license": "NOASSERTION",
           "published_at": "2026-11-03T15:10:23Z",
-          "checked_at": "2026-11-03T19:45:27Z"
+          "checked_at": "2026-11-03T19:45:27Z",
+          "stale": false
         },
         {
           "id": "topic-repo-8bsite--motion-design-studio-website-template",
@@ -85,7 +86,8 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-11-03T07:59:34Z",
-          "checked_at": "2026-11-03T19:45:27Z"
+          "checked_at": "2026-11-03T19:45:27Z",
+          "stale": false
         },
         {
           "id": "topic-repo-griff2325--cartoon-motion",
@@ -97,7 +99,8 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-11-02T21:09:16Z",
-          "checked_at": "2026-11-03T19:45:27Z"
+          "checked_at": "2026-11-03T19:45:27Z",
+          "stale": false
         },
         {
           "id": "topic-repo-sadidi13--wedo-claude-motion",
@@ -109,7 +112,8 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-11-02T19:21:26Z",
-          "checked_at": "2026-11-03T19:45:27Z"
+          "checked_at": "2026-11-03T19:45:27Z",
+          "stale": false
         },
         {
           "id": "topic-repo-frankxai--awesome-motion-design-agent-skills",
@@ -121,7 +125,8 @@
           "basis": "metadata_only",
           "license": "CC0-1.0",
           "published_at": "2026-11-02T17:51:22Z",
-          "checked_at": "2026-11-03T19:45:27Z"
+          "checked_at": "2026-11-03T19:45:27Z",
+          "stale": false
         }
       ],
       "health": {
@@ -130,9 +135,8 @@
           "count": 5
         },
         "github": {
-          "status": "ok",
-          "count": 5,
-          "note": "Первая страница, публичные метаданные; не аудит кода"
+          "status": "cached",
+          "note": "Снимок младше 6 часов; без запроса API"
         },
         "gemini": {
           "status": "not_requested"
@@ -146,7 +150,7 @@
       },
       "ai_selected_ids": [],
       "checked_at": "2026-11-03T19:45:27Z",
-      "last_attempt_at": "2026-11-03T19:45:29Z"
+      "last_attempt_at": "2026-11-03T22:51:24Z"
     },
     {
       "id": "remotion",
@@ -163,7 +167,7 @@
           "source_name": "Remotion",
           "basis": "rss_excerpt",
           "published_at": "2026-11-02T08:54:15Z",
-          "checked_at": "2026-11-03T19:45:04Z"
+          "checked_at": "2026-11-03T22:51:14Z"
         },
         {
           "id": "topic-repo-stablyai--orca",
@@ -175,7 +179,8 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-11-03T19:44:22Z",
-          "checked_at": "2026-11-03T19:45:29Z"
+          "checked_at": "2026-11-03T19:45:29Z",
+          "stale": false
         },
         {
           "id": "topic-repo-pulthq--pult",
@@ -187,7 +192,8 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-11-03T19:42:59Z",
-          "checked_at": "2026-11-03T19:45:29Z"
+          "checked_at": "2026-11-03T19:45:29Z",
+          "stale": false
         },
         {
           "id": "topic-repo-tupe12334--rc-keeper",
@@ -199,7 +205,8 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-11-03T19:42:25Z",
-          "checked_at": "2026-11-03T19:45:29Z"
+          "checked_at": "2026-11-03T19:45:29Z",
+          "stale": false
         },
         {
           "id": "topic-repo-mertvkt--claude-motion-agent",
@@ -211,7 +218,8 @@
           "basis": "metadata_only",
           "license": "NOASSERTION",
           "published_at": "2026-11-03T19:40:18Z",
-          "checked_at": "2026-11-03T19:45:29Z"
+          "checked_at": "2026-11-03T19:45:29Z",
+          "stale": false
         },
         {
           "id": "topic-repo-schubydoo--claustrum",
@@ -223,7 +231,8 @@
           "basis": "metadata_only",
           "license": "Apache-2.0",
           "published_at": "2026-11-03T19:40:10Z",
-          "checked_at": "2026-11-03T19:45:29Z"
+          "checked_at": "2026-11-03T19:45:29Z",
+          "stale": false
         }
       ],
       "health": {
@@ -232,9 +241,8 @@
           "count": 1
         },
         "github": {
-          "status": "ok",
-          "count": 5,
-          "note": "Первая страница, публичные метаданные; не аудит кода"
+          "status": "cached",
+          "note": "Снимок младше 6 часов; без запроса API"
         },
         "gemini": {
           "status": "not_requested"
@@ -248,7 +256,7 @@
       },
       "ai_selected_ids": [],
       "checked_at": "2026-11-03T19:45:29Z",
-      "last_attempt_at": "2026-11-03T19:45:31Z"
+      "last_attempt_at": "2026-11-03T22:51:24Z"
     },
     {
       "id": "grok-video",
@@ -266,7 +274,8 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-11-03T19:41:01Z",
-          "checked_at": "2026-11-03T19:45:32Z"
+          "checked_at": "2026-11-03T19:45:32Z",
+          "stale": false
         },
         {
           "id": "topic-repo-youmind-openlab--awesome-grok-imagine-prompts",
@@ -278,7 +287,8 @@
           "basis": "metadata_only",
           "license": "NOASSERTION",
           "published_at": "2026-11-03T19:40:38Z",
-          "checked_at": "2026-11-03T19:45:32Z"
+          "checked_at": "2026-11-03T19:45:32Z",
+          "stale": false
         },
         {
           "id": "topic-repo-imaginevid--awesome-grok-imagine-video-prompts-and-skills",
@@ -290,7 +300,8 @@
           "basis": "metadata_only",
           "license": "NOASSERTION",
           "published_at": "2026-11-03T19:02:08Z",
-          "checked_at": "2026-11-03T19:45:32Z"
+          "checked_at": "2026-11-03T19:45:32Z",
+          "stale": false
         },
         {
           "id": "topic-repo-htetahyan--grok-video-studio",
@@ -302,7 +313,8 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-11-03T16:40:26Z",
-          "checked_at": "2026-11-03T19:45:32Z"
+          "checked_at": "2026-11-03T19:45:32Z",
+          "stale": false
         },
         {
           "id": "topic-repo-hoangpham2263--product-video",
@@ -314,7 +326,8 @@
           "basis": "metadata_only",
           "license": null,
           "published_at": "2026-11-03T16:19:58Z",
-          "checked_at": "2026-11-03T19:45:32Z"
+          "checked_at": "2026-11-03T19:45:32Z",
+          "stale": false
         }
       ],
       "health": {
@@ -323,9 +336,8 @@
           "count": 0
         },
         "github": {
-          "status": "ok",
-          "count": 5,
-          "note": "Первая страница, публичные метаданные; не аудит кода"
+          "status": "cached",
+          "note": "Снимок младше 6 часов; без запроса API"
         },
         "gemini": {
           "status": "not_requested"
@@ -339,7 +351,7 @@
       },
       "ai_selected_ids": [],
       "checked_at": "2026-11-03T19:45:32Z",
-      "last_attempt_at": "2026-11-03T19:45:34Z"
+      "last_attempt_at": "2026-11-03T22:51:24Z"
     },
     {
       "id": "motion-web",
@@ -356,7 +368,7 @@
           "source_name": "Blender Developers",
           "basis": "rss_excerpt",
           "published_at": "2026-11-03T10:37:30Z",
-          "checked_at": "2026-11-03T19:45:04Z"
+          "checked_at": "2026-11-03T22:51:14Z"
         },
         {
           "id": "560d56b948eea01d05",
@@ -367,7 +379,7 @@
           "source_name": "BlenderNation",
           "basis": "rss_excerpt",
           "published_at": "2026-11-03T06:09:05Z",
-          "checked_at": "2026-11-03T19:45:04Z"
+          "checked_at": "2026-11-03T22:51:14Z"
         },
         {
           "id": "40f2725562b6b00ca2",
@@ -378,7 +390,7 @@
           "source_name": "Remotion",
           "basis": "rss_excerpt",
           "published_at": "2026-11-02T08:54:15Z",
-          "checked_at": "2026-11-03T19:45:04Z"
+          "checked_at": "2026-11-03T22:51:14Z"
         },
         {
           "id": "de8c72df8d1a2394b1",
@@ -389,7 +401,7 @@
           "source_name": "Three.js",
           "basis": "rss_excerpt",
           "published_at": "2026-10-30T08:03:18Z",
-          "checked_at": "2026-11-03T19:45:04Z"
+          "checked_at": "2026-11-03T22:51:14Z"
         },
         {
           "id": "fe7b225f29d029cecf",
@@ -400,7 +412,7 @@
           "source_name": "React Three Fiber",
           "basis": "rss_excerpt",
           "published_at": "2026-10-17T01:54:18Z",
-          "checked_at": "2026-11-03T19:45:04Z"
+          "checked_at": "2026-11-03T22:51:14Z"
         },
         {
           "id": "c8566f6a69ddc2807c",
@@ -411,7 +423,7 @@
           "source_name": "Codrops",
           "basis": "rss_excerpt",
           "published_at": "2026-09-14T11:30:10Z",
-          "checked_at": "2026-11-03T19:45:04Z"
+          "checked_at": "2026-11-03T22:51:14Z"
         },
         {
           "id": "6ac95cc8a8f3622243",
@@ -422,7 +434,7 @@
           "source_name": "Codrops",
           "basis": "rss_excerpt",
           "published_at": "2026-09-13T11:34:39Z",
-          "checked_at": "2026-11-03T19:45:04Z"
+          "checked_at": "2026-11-03T22:51:14Z"
         },
         {
           "id": "e5b60107e6763277b1",
@@ -433,7 +445,7 @@
           "source_name": "Codrops",
           "basis": "rss_excerpt",
           "published_at": "2026-09-12T08:40:31Z",
-          "checked_at": "2026-11-03T19:45:04Z"
+          "checked_at": "2026-11-03T22:51:14Z"
         },
         {
           "id": "1c80df51d84652392e",
@@ -444,7 +456,7 @@
           "source_name": "Maxime Heckel",
           "basis": "rss_excerpt",
           "published_at": "2026-08-18T08:00:00Z",
-          "checked_at": "2026-11-03T19:45:04Z"
+          "checked_at": "2026-11-03T22:51:14Z"
         },
         {
           "id": "topic-repo-efficiencyx--junos",
@@ -456,7 +468,8 @@
           "basis": "metadata_only",
           "license": "Apache-2.0",
           "published_at": "2026-11-03T19:37:24Z",
-          "checked_at": "2026-11-03T19:45:34Z"
+          "checked_at": "2026-11-03T19:45:34Z",
+          "stale": false
         },
         {
           "id": "topic-repo-saurav-biswal--echo_website",
@@ -468,7 +481,8 @@
           "basis": "metadata_only",
           "license": null,
           "published_at": "2026-11-03T19:35:46Z",
-          "checked_at": "2026-11-03T19:45:34Z"
+          "checked_at": "2026-11-03T19:45:34Z",
+          "stale": false
         },
         {
           "id": "topic-repo-thandomoeti21--animation-web-design",
@@ -480,7 +494,8 @@
           "basis": "metadata_only",
           "license": null,
           "published_at": "2026-11-03T19:30:29Z",
-          "checked_at": "2026-11-03T19:45:34Z"
+          "checked_at": "2026-11-03T19:45:34Z",
+          "stale": false
         },
         {
           "id": "topic-repo-marcomorosi06--motion-symbols",
@@ -492,7 +507,8 @@
           "basis": "metadata_only",
           "license": "Apache-2.0",
           "published_at": "2026-11-03T19:27:05Z",
-          "checked_at": "2026-11-03T19:45:34Z"
+          "checked_at": "2026-11-03T19:45:34Z",
+          "stale": false
         },
         {
           "id": "topic-repo-aarsteinmedia--lottie-web",
@@ -504,7 +520,8 @@
           "basis": "metadata_only",
           "license": "GPL-2.0",
           "published_at": "2026-11-03T19:25:17Z",
-          "checked_at": "2026-11-03T19:45:34Z"
+          "checked_at": "2026-11-03T19:45:34Z",
+          "stale": false
         }
       ],
       "health": {
@@ -513,9 +530,8 @@
           "count": 9
         },
         "github": {
-          "status": "ok",
-          "count": 5,
-          "note": "Первая страница, публичные метаданные; не аудит кода"
+          "status": "cached",
+          "note": "Снимок младше 6 часов; без запроса API"
         },
         "gemini": {
           "status": "not_requested"
@@ -529,7 +545,7 @@
       },
       "ai_selected_ids": [],
       "checked_at": "2026-11-03T19:45:34Z",
-      "last_attempt_at": "2026-11-03T19:45:36Z"
+      "last_attempt_at": "2026-11-03T22:51:24Z"
     },
     {
       "id": "blender",
@@ -546,7 +562,7 @@
           "source_name": "Blender Developers",
           "basis": "rss_excerpt",
           "published_at": "2026-11-03T10:37:30Z",
-          "checked_at": "2026-11-03T19:45:04Z"
+          "checked_at": "2026-11-03T22:51:14Z"
         },
         {
           "id": "6e85e7fb40648b93a8",
@@ -557,7 +573,7 @@
           "source_name": "BlenderNation",
           "basis": "rss_excerpt",
           "published_at": "2026-11-03T06:11:50Z",
-          "checked_at": "2026-11-03T19:45:04Z"
+          "checked_at": "2026-11-03T22:51:14Z"
         },
         {
           "id": "1fd8dbea8fa8176828",
@@ -568,7 +584,7 @@
           "source_name": "BlenderNation",
           "basis": "rss_excerpt",
           "published_at": "2026-11-01T07:55:23Z",
-          "checked_at": "2026-11-03T19:45:04Z"
+          "checked_at": "2026-11-03T22:51:14Z"
         },
         {
           "id": "500132667f9ec65906",
@@ -579,7 +595,7 @@
           "source_name": "BlenderNation",
           "basis": "rss_excerpt",
           "published_at": "2026-10-31T10:27:03Z",
-          "checked_at": "2026-11-03T19:45:04Z"
+          "checked_at": "2026-11-03T22:51:14Z"
         },
         {
           "id": "900e199369b6bee06c",
@@ -590,7 +606,7 @@
           "source_name": "Blender Developers",
           "basis": "rss_excerpt",
           "published_at": "2026-10-30T13:18:52Z",
-          "checked_at": "2026-11-03T19:45:04Z"
+          "checked_at": "2026-11-03T22:51:14Z"
         },
         {
           "id": "de8c72df8d1a2394b1",
@@ -601,7 +617,7 @@
           "source_name": "Three.js",
           "basis": "rss_excerpt",
           "published_at": "2026-10-30T08:03:18Z",
-          "checked_at": "2026-11-03T19:45:04Z"
+          "checked_at": "2026-11-03T22:51:14Z"
         },
         {
           "id": "a1f3db65653cf65854",
@@ -612,7 +628,7 @@
           "source_name": "Blender Developers",
           "basis": "rss_excerpt",
           "published_at": "2026-10-14T12:26:59Z",
-          "checked_at": "2026-11-03T19:45:04Z"
+          "checked_at": "2026-11-03T22:51:14Z"
         },
         {
           "id": "8a085ef017581985d0",
@@ -623,7 +639,7 @@
           "source_name": "Blender Developers",
           "basis": "rss_excerpt",
           "published_at": "2026-10-05T14:29:39Z",
-          "checked_at": "2026-11-03T19:45:04Z"
+          "checked_at": "2026-11-03T22:51:14Z"
         },
         {
           "id": "e5b60107e6763277b1",
@@ -634,7 +650,7 @@
           "source_name": "Codrops",
           "basis": "rss_excerpt",
           "published_at": "2026-09-12T08:40:31Z",
-          "checked_at": "2026-11-03T19:45:04Z"
+          "checked_at": "2026-11-03T22:51:14Z"
         },
         {
           "id": "b36261991ac0195317",
@@ -645,7 +661,7 @@
           "source_name": "Blender Developers",
           "basis": "rss_excerpt",
           "published_at": "2026-09-10T15:56:53Z",
-          "checked_at": "2026-11-03T19:45:04Z"
+          "checked_at": "2026-11-03T22:51:14Z"
         },
         {
           "id": "topic-repo-ogneocortext--native-media-ai-studio",
@@ -657,7 +673,8 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-11-03T19:41:51Z",
-          "checked_at": "2026-11-03T19:45:37Z"
+          "checked_at": "2026-11-03T19:45:37Z",
+          "stale": false
         },
         {
           "id": "topic-repo-raydestar--reference-asset-compiler",
@@ -669,7 +686,8 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-11-03T19:09:34Z",
-          "checked_at": "2026-11-03T19:45:37Z"
+          "checked_at": "2026-11-03T19:45:37Z",
+          "stale": false
         },
         {
           "id": "topic-repo-artemzhzhenov--video-slice-contractor",
@@ -681,7 +699,8 @@
           "basis": "metadata_only",
           "license": null,
           "published_at": "2026-11-03T18:41:38Z",
-          "checked_at": "2026-11-03T19:45:37Z"
+          "checked_at": "2026-11-03T19:45:37Z",
+          "stale": false
         },
         {
           "id": "topic-repo-bansystemcount26--blender-desktop-2026",
@@ -693,7 +712,8 @@
           "basis": "metadata_only",
           "license": null,
           "published_at": "2026-11-03T18:07:02Z",
-          "checked_at": "2026-11-03T19:45:37Z"
+          "checked_at": "2026-11-03T19:45:37Z",
+          "stale": false
         },
         {
           "id": "topic-repo-snake393--poly-lab-3d",
@@ -705,7 +725,8 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-11-03T18:05:44Z",
-          "checked_at": "2026-11-03T19:45:37Z"
+          "checked_at": "2026-11-03T19:45:37Z",
+          "stale": false
         }
       ],
       "health": {
@@ -714,9 +735,8 @@
           "count": 10
         },
         "github": {
-          "status": "ok",
-          "count": 5,
-          "note": "Первая страница, публичные метаданные; не аудит кода"
+          "status": "cached",
+          "note": "Снимок младше 6 часов; без запроса API"
         },
         "gemini": {
           "status": "not_requested"
@@ -730,7 +750,7 @@
       },
       "ai_selected_ids": [],
       "checked_at": "2026-11-03T19:45:37Z",
-      "last_attempt_at": "2026-11-03T19:45:39Z"
+      "last_attempt_at": "2026-11-03T22:51:24Z"
     },
     {
       "id": "comfyui",
@@ -747,7 +767,7 @@
           "source_name": "ComfyUI",
           "basis": "rss_excerpt",
           "published_at": "2026-11-03T19:21:48Z",
-          "checked_at": "2026-11-03T19:45:04Z"
+          "checked_at": "2026-11-03T22:51:14Z"
         },
         {
           "id": "topic-repo-ogneocortext--native-media-ai-studio",
@@ -759,7 +779,8 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-11-03T19:41:51Z",
-          "checked_at": "2026-11-03T19:45:39Z"
+          "checked_at": "2026-11-03T19:45:39Z",
+          "stale": false
         },
         {
           "id": "topic-repo-humanjavaenterprises--comfyui-lsdub",
@@ -771,7 +792,8 @@
           "basis": "metadata_only",
           "license": "Apache-2.0",
           "published_at": "2026-11-03T19:38:42Z",
-          "checked_at": "2026-11-03T19:45:39Z"
+          "checked_at": "2026-11-03T19:45:39Z",
+          "stale": false
         },
         {
           "id": "topic-repo-cursedprograms--ai-visual-workshop",
@@ -783,7 +805,8 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-11-03T19:32:18Z",
-          "checked_at": "2026-11-03T19:45:39Z"
+          "checked_at": "2026-11-03T19:45:39Z",
+          "stale": false
         },
         {
           "id": "topic-repo-sneakyshadylurker--atelier-studio",
@@ -795,7 +818,8 @@
           "basis": "metadata_only",
           "license": "AGPL-3.0",
           "published_at": "2026-11-03T19:28:03Z",
-          "checked_at": "2026-11-03T19:45:39Z"
+          "checked_at": "2026-11-03T19:45:39Z",
+          "stale": false
         },
         {
           "id": "topic-repo-zuravfx--comfyui_zura_nodes",
@@ -807,7 +831,8 @@
           "basis": "metadata_only",
           "license": "AGPL-3.0",
           "published_at": "2026-11-03T19:27:16Z",
-          "checked_at": "2026-11-03T19:45:39Z"
+          "checked_at": "2026-11-03T19:45:39Z",
+          "stale": false
         }
       ],
       "health": {
@@ -816,9 +841,8 @@
           "count": 1
         },
         "github": {
-          "status": "ok",
-          "count": 5,
-          "note": "Первая страница, публичные метаданные; не аудит кода"
+          "status": "cached",
+          "note": "Снимок младше 6 часов; без запроса API"
         },
         "gemini": {
           "status": "not_requested"
@@ -832,7 +856,7 @@
       },
       "ai_selected_ids": [],
       "checked_at": "2026-11-03T19:45:39Z",
-      "last_attempt_at": "2026-11-03T19:45:41Z"
+      "last_attempt_at": "2026-11-03T22:51:24Z"
     }
   ]
 }

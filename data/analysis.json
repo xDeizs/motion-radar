@@ -360,20 +360,6 @@
     "generated_at": "2026-11-01T17:15:19+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
-  "75d627a04ca64fb53b": {
-    "fingerprint": "27fa84b9e538edb54e8905cfc5d88a624e8eb3bc1baa47adfd8baee3a956ffa0",
-    "engine": "extractive",
-    "model": null,
-    "summary": "Features Images as pointer targets Pointer listeners can now target images, including the visible parts of a mesh or N-slice image. Images inside a targeted group also count toward the group's hit area. This requires a…",
-    "takeaways": [],
-    "topics": [
-      "Web / motion"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/rive-app/rive-wasm/releases/tag/2.49.1",
-    "generated_at": "2026-11-03T19:45:26+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
   "40f2725562b6b00ca2": {
     "fingerprint": "d4271f5eecabbf73d5f82448464bb279b80bc21f70bfc649a7586258a266bbd4",
     "engine": "extractive",
@@ -457,6 +443,20 @@
     "input_kind": "rss_excerpt",
     "source_url": "https://code.blender.org/2026/11/layered-actions-workshop-september-2026/",
     "generated_at": "2026-11-03T19:45:26+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "e7d230417ea24e5bba": {
+    "fingerprint": "832d7e1be5b49772dfacef433ca87ac6d73558e7d48456adefc6f16332752791",
+    "engine": "extractive",
+    "model": null,
+    "summary": "docs(cli): fix gaps agents hit authoring animated files #15237 fix(Vulkan): Skip warmup pipelines without matching subpasses #15295 fix(runtime_wasm, rive_native): load the build without threads where threads lose heap…",
+    "takeaways": [],
+    "topics": [
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/rive-app/rive-wasm/releases/tag/2.49.2",
+    "generated_at": "2026-11-03T22:51:24+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   }
 }
