@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T06:56:05Z",
+  "generated_at": "2026-11-04T19:59:28Z",
   "scope": "RSS snapshot + first page of public GitHub. Not the entire internet. Social content excluded.",
   "topics": [
     {
@@ -9,224 +9,248 @@
       "web_query": "Claude Motion animation",
       "items": [
         {
-          "id": "skill-d0a3a58c3cfc6bea12",
-          "title": "Angled Gallery Hero",
-          "url": "https://skillry.dev/skills/bs-hero-angled-gallery",
-          "summary": "Angled Gallery Hero is a ready-to-paste hero section, delivered as editable source with its usage example. It ships with a scroll or step interaction the visitor drives and entrance motion that settles rather than bounces. Colour, type and radius live as tokens you edit once for the whole block.",
+          "id": "skill-ed150af83160cb1679",
+          "title": "CreatorMotion · Slide Focus Presenter",
+          "url": "https://skillry.dev/skills/bs-creatormotion-pip-slides-focus",
+          "summary": "A presentation fills the shot while a tightly cropped speaker stays beside the slide. Short page changes retain the deck geometry before a deliberate pullback reveals the surrounding workspace.",
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
-          "id": "skill-432ab5681a0dfaa345",
-          "title": "Cadence Marketing Landing",
-          "url": "https://skillry.dev/skills/bs-cadence-marketing-landing",
-          "summary": "Create a dark, motion-rich SaaS marketing site that tells one continuous product story: a charcoal ground, one cyan accent, grey-to-white gradient headlines and a believable product screen that tilts upright as you scroll. Animated feature cards, a scroll-driven workflow, a customer spotlight with portraits, integrations and security, tiered pricing and an FAQ lead to a laptop mockup whose lid ope",
+          "id": "skill-94af7b119dcdbc4910",
+          "title": "CreatorMotion · Source Quote Evidence",
+          "url": "https://skillry.dev/skills/bs-creatormotion-spotlight-quote-evidence",
+          "summary": "The source heading remains visible while an enlarged excerpt becomes the reading plane. Sequential marker sweeps connect specific passages to the spoken claim and leave the complete evidence available.",
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
-          "id": "skill-a193567f28f00ff0bf",
-          "title": "Claude Style Illustration",
-          "url": "https://skillry.dev/skills/bs-claude-style-illustration",
-          "summary": "Create an Anthropic Style editorial illustration that turns one idea into an immediately readable visual metaphor. This independent workflow helps writers and product teams add a warm, human focal image and is not affiliated with or endorsed by Anthropic.",
+          "id": "skill-23cd9fa7691f55f75d",
+          "title": "CreatorMotion · Specification Status Reveal",
+          "url": "https://skillry.dev/skills/bs-creatormotion-type-spec-reveal",
+          "summary": "A small fact panel builds over supplied footage. A highlighted measurement appears first, followed by concise status labels that clarify what the number means.",
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
-          "id": "skill-a08e476f44e5b20c07",
-          "title": "Contact Bar Hero",
-          "url": "https://skillry.dev/skills/bs-hero-contact-bar",
-          "summary": "Contact Bar Hero is a ready-to-paste hero section, delivered as editable source with its usage example. It ships with entrance motion that settles rather than bounces and portraits and photography already placed, not grey boxes. Colour, type and radius live as tokens you edit once for the whole block.",
+          "id": "skill-9d57f20e0d8877e289",
+          "title": "CreatorMotion · Stage Loss Lanes",
+          "url": "https://skillry.dev/skills/bs-creatormotion-comparison-stage-loss",
+          "summary": "Two paths develop stage by stage on the same percentage scale. Precise side pointers then identify the selected losses while every stage remains available for comparison.",
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
-          "id": "skill-feaa5cbc4f2536ccdd",
-          "title": "CreatorMotion · Accumulating Cards and Counter",
-          "url": "https://skillry.dev/skills/bs-creatormotion-cards-card-counter",
-          "summary": "Add repeated cards while updating a total in lockstep. Resolve the accumulation with a summary badge.",
+          "id": "skill-ab1ee3f43f5b427887",
+          "title": "CreatorMotion · Status Focus Sidebar",
+          "url": "https://skillry.dev/skills/bs-creatormotion-split-status-focus",
+          "summary": "A close presenter crop shares the frame with three widely spaced statements. A compact highlight moves between statements and each status resolves as a separate editorial beat.",
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
-          "id": "skill-67dddbeaea874d6d81",
-          "title": "CreatorMotion · Accumulation Blocks",
-          "url": "https://skillry.dev/skills/bs-creatormotion-comparison-accumulation-blocks",
-          "summary": "Colored units accumulate on a shared weekly grid. A delayed second history enters at the matching week, and the missing interval is isolated without changing the scale.",
+          "id": "skill-53f61ff962e0d5f640",
+          "title": "CreatorMotion · Step Cards to Chapter",
+          "url": "https://skillry.dev/skills/bs-creatormotion-cards-steps-title",
+          "summary": "Advance emphasis across linked step cards, then hand the frame to a chapter title. Use the final focus as the transition cue.",
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
-          "id": "skill-f4f18d1efee3fd0c7e",
-          "title": "CreatorMotion · Anchored Callout Reveal",
-          "url": "https://skillry.dev/skills/bs-creatormotion-diagram-anchored-callouts",
-          "summary": "Attach curved leaders to parts of a central step card. Reveal their explanations in sequence while the card stays fixed.",
+          "id": "skill-4e4a462fc93630cfca",
+          "title": "CreatorMotion · Surrounding Term Pressure",
+          "url": "https://skillry.dev/skills/bs-creatormotion-type-term-pressure",
+          "summary": "Short terms appear around a central subject until the frame feels crowded. The subject then changes to a supplied photograph of an overwhelmed person while the terms remain in place.",
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
-          "id": "skill-cc4d763ab5a0ca1170",
-          "title": "CreatorMotion · Branch by Branch",
-          "url": "https://skillry.dev/skills/bs-creatormotion-diagram-branch-reveal",
-          "summary": "Reveal a hierarchy along connected routes, with each branch arriving in a clear order. Support single or paired roots and optional intermediate nodes.",
+          "id": "skill-bbba42b4abb5a224eb",
+          "title": "CreatorMotion · Synchronized Action Checklist",
+          "url": "https://skillry.dev/skills/bs-creatormotion-cards-action-checklist",
+          "summary": "Track a screen demonstration with a checklist that completes at matching moments. Keep the checklist and media aligned in one composition.",
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
-          "id": "skill-17ba6d84b565834578",
-          "title": "CreatorMotion · Browser Chapter Reveal",
-          "url": "https://skillry.dev/skills/bs-creatormotion-chapter-browser-reveal",
-          "summary": "A minimal browser window becomes a chapter stage. Its large title sharpens line by line before the window breaks into small exit tiles.",
+          "id": "skill-6b581f1a8fcff56adb",
+          "title": "CreatorMotion · Target Overrun",
+          "url": "https://skillry.dev/skills/bs-creatormotion-comparison-target-overrun",
+          "summary": "A measured fill reaches a visible goal line and continues into a separately treated excess segment. The counter follows the same two phases and the final result holds beside the track.",
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
-          "id": "skill-b646d2c3d75164ccd0",
-          "title": "CreatorMotion · Calculation to Return",
-          "url": "https://skillry.dev/skills/bs-creatormotion-comparison-calculation-roi",
-          "summary": "A clear multiplication resolves to an exact monetary value. The calculation shifts aside as a second measured view compares that value with the investment and states the return multiple.",
+          "id": "skill-7a616a65b9bb01f8f1",
+          "title": "CreatorMotion · Tiered Pyramid Notes",
+          "url": "https://skillry.dev/skills/bs-creatormotion-diagram-tier-pyramid",
+          "summary": "Build a tiered pyramid and pair each layer with its matching explanation. Keep the vertical hierarchy readable as annotations arrive.",
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
-          "id": "skill-4d495132261f18c198",
-          "title": "CreatorMotion · Calendar Reschedule",
-          "url": "https://skillry.dev/skills/bs-creatormotion-pip-calendar-reschedule",
-          "summary": "A calendar holds its spatial structure while a recognisable event travels to a new slot. A phone enters alongside the calendar, then confirms the completed move while the speaker stays clear of both endpoints.",
+          "id": "skill-dac1e8bfa7aca32474",
+          "title": "CreatorMotion · Tile Scene Dissolve",
+          "url": "https://skillry.dev/skills/bs-creatormotion-transition-tile-dissolve",
+          "summary": "A grid of small masks replaces one full-frame scene with a concise mark or statement. The cells reverse to return to the presentation.",
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
-          "id": "skill-d060643be5024941bd",
-          "title": "CreatorMotion · Capacity Reset",
-          "url": "https://skillry.dev/skills/bs-creatormotion-comparison-capacity-reset",
-          "summary": "Two capacity tracks establish a shared scale before the saturated track compacts into discrete segments. A measured pullback reveals the second track's unused runway and holds the comparison.",
+          "id": "skill-98d28ce3f95582d379",
+          "title": "CreatorMotion · Tilted Document Stack Cycle",
+          "url": "https://skillry.dev/skills/bs-creatormotion-collage-document-stack",
+          "summary": "Full-height documents replace one another at the front of an angled paper stack. Earlier sheets remain visible at the edges, creating a tactile sequence rather than a carousel of rounded panels.",
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
-          "id": "skill-a00825cf53c1420392",
-          "title": "CreatorMotion · Capacity with Anchored Callouts",
-          "url": "https://skillry.dev/skills/bs-creatormotion-diagram-capacity-callouts",
-          "summary": "Compare two containers as one fills with more information. Attach callouts to the relevant rows after the difference becomes visible.",
+          "id": "skill-d02a22593e9f2fe474",
+          "title": "CreatorMotion · Timeline Node Reveal",
+          "url": "https://skillry.dev/skills/bs-creatormotion-diagram-timeline-nodes",
+          "summary": "Reveal milestones in order along a shared horizontal track. Leave a clear settled interval after the final label.",
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
-          "id": "skill-0a4b044482d359ee2e",
-          "title": "CreatorMotion · Card Row Status Badges",
-          "url": "https://skillry.dev/skills/bs-creatormotion-cards-status-row",
-          "summary": "Add status badges and supporting conclusions to an existing row of cards. Keep the cards stable so the new status is the focus.",
+          "id": "skill-a2fd6e9ff3e4b4e31c",
+          "title": "CreatorMotion · Title Behind Subject",
+          "url": "https://skillry.dev/skills/bs-creatormotion-type-behind-subject",
+          "summary": "A large title expands behind the presenter while the face remains clear. The layered result gives a short phrase more scale without covering the speaker.",
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
-          "id": "skill-7854afd05af8f5b9f7",
-          "title": "CreatorMotion · Center and Corner Tags",
-          "url": "https://skillry.dev/skills/bs-creatormotion-cards-corner-tags",
-          "summary": "Keep a central statement fixed while four surrounding tags complete the picture. Preserve the open space around the center.",
+          "id": "skill-596d8b2b44d1631384",
+          "title": "CreatorMotion · Title Scene Takeover",
+          "url": "https://skillry.dev/skills/bs-creatormotion-type-title-takeover",
+          "summary": "An oversized condensed headline punches in behind a presenter. A clean edit removes the presenter while the same lettering holds its scale and position.",
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
-          "id": "skill-e24fcaa51e95c95b63",
-          "title": "CreatorMotion · Chapter Border Orbit",
-          "url": "https://skillry.dev/skills/bs-creatormotion-chapter-border-orbit",
-          "summary": "A chapter card settles over a muted background while a narrow highlight travels its perimeter. The border movement adds energy without disturbing readable text.",
+          "id": "skill-21b4001bbbe35247d0",
+          "title": "CreatorMotion · Topic Cloud Behind Presenter",
+          "url": "https://skillry.dev/skills/bs-creatormotion-type-topic-cloud",
+          "summary": "A large topic title appears behind the presenter as related terms gather around it. Varied text sizes communicate a growing field of ideas while the face stays clear.",
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
-          "id": "skill-caca30777a407c3d9e",
-          "title": "CreatorMotion · Chapter Character Reveal",
-          "url": "https://skillry.dev/skills/bs-creatormotion-chapter-character-reveal",
-          "summary": "A chapter label introduces a headline that becomes readable one character at a time. The completed phrase holds on a quiet full-screen stage.",
+          "id": "skill-6c3433f3a7a1a6dc71",
+          "title": "CreatorMotion · Trend Card Tour",
+          "url": "https://skillry.dev/skills/bs-creatormotion-comparison-trend-card-tour",
+          "summary": "A close camera holds on one measured trend before travelling to the second. Both cards return to the frame for the concluding comparison, preserving all labels and values.",
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
-          "id": "skill-6ea5e0881fd9684a9f",
-          "title": "CreatorMotion · Chapter Grid Flip",
-          "url": "https://skillry.dev/skills/bs-creatormotion-chapter-grid-flip",
-          "summary": "A field of small icon tiles turns as the camera finds the next chapter. A highlighted tile and short label make the current section easy to locate.",
+          "id": "skill-4b25b41af5c3e701bd",
+          "title": "CreatorMotion · Voice Transcript Handoff",
+          "url": "https://skillry.dev/skills/bs-creatormotion-spotlight-voice-transcript",
+          "summary": "A compact recording control sits over a dimmed workspace while the live transcript accumulates below. The accepted sentence moves into the destination field and the workspace regains priority.",
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
-          "id": "skill-e26a6bd41dc3c2c951",
-          "title": "CreatorMotion · Chapter Grid Pan",
-          "url": "https://skillry.dev/skills/bs-creatormotion-chapter-grid-pan",
-          "summary": "A camera travels across an oversized icon grid to a new chapter. The selected cell receives a short multiline title that sharpens into focus.",
+          "id": "skill-bc2abf943072f3ae76",
+          "title": "CreatorMotion · Wall Checklist Reveal",
+          "url": "https://skillry.dev/skills/bs-creatormotion-type-wall-checklist",
+          "summary": "A camera reframing makes room for a checklist on a plain wall. The presenter quiets at the edge (slightly desaturated and dimmed) while the lines appear in the newly available space.",
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
-          "id": "skill-f2d9c49623eeb0c882",
-          "title": "CreatorMotion · Chapter Label Stack",
-          "url": "https://skillry.dev/skills/bs-creatormotion-chapter-label-stack",
-          "summary": "A small chapter badge, large headline and brief subtitle build a clear three-level title. Each complete line receives its own entrance and reading interval.",
+          "id": "skill-575c493490925e37b4",
+          "title": "CreatorMotion · Wording Choice",
+          "url": "https://skillry.dev/skills/bs-creatormotion-comparison-wording-choice",
+          "summary": "Two sentences type into full-width comparison strips with a separate versus beat. The selected sentence keeps the accent treatment while the other recedes into a quieter reading state.",
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
+        },
+        {
+          "id": "topic-repo-pagepop--awesome-fable5.5-prompts",
+          "title": "pagepop/awesome-fable5.5-prompts",
+          "url": "https://github.com/pagepop/awesome-fable5.5-prompts",
+          "summary": "Daily-curated Claude Fable 5.5 examples and creative prompts: 3D scenes, animation, SVG and motion design. Watch and recreate in PagePop. Continuously growing.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "NOASSERTION",
+          "published_at": "2026-11-04T08:48:04Z",
+          "checked_at": "2026-11-04T19:59:13Z"
+        },
+        {
+          "id": "topic-repo-egsecda--vocaloid-style-mv-pipeline",
+          "title": "EGSECDA/vocaloid-style-mv-pipeline",
+          "url": "https://github.com/EGSECDA/vocaloid-style-mv-pipeline",
+          "summary": "Production pipeline and Claude Code skill for Vocaloid-style hand-drawn (手書き) lyric music videos: deterministic Canvas2D/WebGL2 animation engine, JIZURA lyric motion, AI illustration, Blender toon 3D, headless rendering to 16:9 and 9:16.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "MIT",
+          "published_at": "2026-11-04T08:41:28Z",
+          "checked_at": "2026-11-04T19:59:13Z"
         },
         {
           "id": "topic-repo-jon-jc--kimodo-mcp",
@@ -238,19 +262,7 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-11-04T05:26:17Z",
-          "checked_at": "2026-11-04T06:55:50Z"
-        },
-        {
-          "id": "topic-repo-pagepop--awesome-fable5.5-prompts",
-          "title": "pagepop/awesome-fable5.5-prompts",
-          "url": "https://github.com/pagepop/awesome-fable5.5-prompts",
-          "summary": "Claude Fable 5.5 prompts and video examples: hand-drawn animation, SVG, motion graphics and explainers. Full prompts, previews and source credits, curated by PagePop.",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": "NOASSERTION",
-          "published_at": "2026-11-04T04:05:12Z",
-          "checked_at": "2026-11-04T06:55:50Z"
+          "checked_at": "2026-11-04T19:59:13Z"
         },
         {
           "id": "topic-repo-8bsite--motion-design-studio-website-template",
@@ -262,7 +274,7 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-11-03T07:59:34Z",
-          "checked_at": "2026-11-04T06:55:50Z"
+          "checked_at": "2026-11-04T19:59:13Z"
         },
         {
           "id": "topic-repo-griff2325--cartoon-motion",
@@ -274,19 +286,7 @@
           "basis": "metadata_only",
           "license": "MIT",
           "published_at": "2026-11-02T21:09:16Z",
-          "checked_at": "2026-11-04T06:55:50Z"
-        },
-        {
-          "id": "topic-repo-sadidi13--wedo-claude-motion",
-          "title": "Sadidi13/wedo-claude-motion",
-          "url": "https://github.com/Sadidi13/wedo-claude-motion",
-          "summary": "Layer editor for Claude-made animations: ask Claude for a video, edit every element as a layer, export MP4/WebM/MOV/GIF. Works with your Claude subscription.",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": "MIT",
-          "published_at": "2026-11-02T19:21:26Z",
-          "checked_at": "2026-11-04T06:55:50Z"
+          "checked_at": "2026-11-04T19:59:13Z"
         }
       ],
       "health": {
@@ -310,8 +310,8 @@
         }
       },
       "ai_selected_ids": [],
-      "checked_at": "2026-11-04T06:55:50Z",
-      "last_attempt_at": "2026-11-04T06:55:52Z"
+      "checked_at": "2026-11-04T19:59:13Z",
+      "last_attempt_at": "2026-11-04T19:59:15Z"
     },
     {
       "id": "remotion",
@@ -320,17 +320,6 @@
       "web_query": "Remotion Claude animation",
       "items": [
         {
-          "id": "skill-a193567f28f00ff0bf",
-          "title": "Claude Style Illustration",
-          "url": "https://skillry.dev/skills/bs-claude-style-illustration",
-          "summary": "Create an Anthropic Style editorial illustration that turns one idea into an immediately readable visual metaphor. This independent workflow helps writers and product teams add a warm, human focal image and is not affiliated with or endorsed by Anthropic.",
-          "kind": "topic_rss",
-          "source_name": "Skillry",
-          "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
-          "checked_at": null
-        },
-        {
           "id": "skill-89e0bbbc3bc1b15da1",
           "title": "LaunchMotion · Code Token Logo",
           "url": "https://skillry.dev/skills/bs-launchmotion-cta-code-tiles-converge",
@@ -338,7 +327,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -349,7 +338,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -360,7 +349,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -371,7 +360,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -382,7 +371,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -393,7 +382,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -404,7 +393,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -415,7 +404,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -426,18 +415,40 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
-          "id": "skill-bb7f250369c396dc73",
-          "title": "TakanobuSano/mcp-github-ranking",
-          "url": "https://github.com/TakanobuSano/mcp-github-ranking",
-          "summary": "Auto-updated ranking of MCP-related GitHub repositories for Claude Code.",
+          "id": "skill-a193567f28f00ff0bf",
+          "title": "Claude Style Illustration",
+          "url": "https://skillry.dev/skills/bs-claude-style-illustration",
+          "summary": "Create an Anthropic Style editorial illustration that turns one idea into an immediately readable visual metaphor. This independent workflow helps writers and product teams add a warm, human focal image and is not affiliated with or endorsed by Anthropic.",
+          "kind": "topic_rss",
+          "source_name": "Skillry",
+          "basis": "rss_excerpt",
+          "published_at": "2026-11-04T06:57:04Z",
+          "checked_at": null
+        },
+        {
+          "id": "skill-dfb4d7f296139cc9bc",
+          "title": "Anonyfox/lfm",
+          "url": "https://github.com/Anonyfox/lfm",
+          "summary": "Agent-first landing page compiler: one Go binary plus skills that make Claude Code, Codex or Cursor research real buyers and ship one checked, fast static page with a payment link.",
           "kind": "topic_rss",
           "source_name": "GitHub",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:19:52Z",
+          "published_at": "2026-11-04T06:56:53Z",
+          "checked_at": null
+        },
+        {
+          "id": "skill-97e298a0c9a7b87081",
+          "title": "alfredang/ai-exams",
+          "url": "https://github.com/alfredang/ai-exams",
+          "summary": "Certification store and exam platform for Singapore: US$20 Practice Exams (Exam and Practice modes, domain-weighted pools) and official Exam Vouchers for Microsoft, AWS, Claude, CKA/CKAD and more. SEO vendor landing pages, USD/SGD prices, GST invoices, HitPay/Stripe/PayPal/PayNow, AI question genera",
+          "kind": "topic_rss",
+          "source_name": "GitHub",
+          "basis": "rss_excerpt",
+          "published_at": "2026-11-04T06:56:53Z",
           "checked_at": null
         },
         {
@@ -449,73 +460,73 @@
           "source_name": "Remotion",
           "basis": "rss_excerpt",
           "published_at": "2026-11-02T08:54:15Z",
-          "checked_at": "2026-11-04T06:55:34Z"
+          "checked_at": "2026-11-04T19:58:57Z"
         },
         {
-          "id": "topic-repo-wi202im--maricode",
-          "title": "wi202im/MARICODE",
-          "url": "https://github.com/wi202im/MARICODE",
-          "summary": "Mac workspace for Claude and Codex sessions with a remote web client",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": "AGPL-3.0",
-          "published_at": "2026-11-04T06:54:47Z",
-          "checked_at": "2026-11-04T06:55:53Z"
-        },
-        {
-          "id": "topic-repo-aitourl--aitourl-mcp",
-          "title": "aitourl/aitourl-mcp",
-          "url": "https://github.com/aitourl/aitourl-mcp",
-          "summary": "Remote MCP server: your AI makes the file, you get a public link. Works with Claude, ChatGPT, Cursor.",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": null,
-          "published_at": "2026-11-04T06:53:21Z",
-          "checked_at": "2026-11-04T06:55:53Z"
-        },
-        {
-          "id": "topic-repo-schubydoo--claustrum",
-          "title": "schubydoo/claustrum",
-          "url": "https://github.com/schubydoo/claustrum",
-          "summary": "A tiny, dependency-light Go daemon that hosts a remote Claude Code session over SSH: CLI-version manager + process supervisor + JSON-RPC multiplexer (with a replay buffer) over an AF_UNIX socket. Clean-room, cross-platform, no telemetry.",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": "Apache-2.0",
-          "published_at": "2026-11-04T06:51:55Z",
-          "checked_at": "2026-11-04T06:55:53Z"
-        },
-        {
-          "id": "topic-repo-wiva-hq--coderail",
-          "title": "wiva-hq/CodeRail",
-          "url": "https://github.com/wiva-hq/CodeRail",
-          "summary": "Self-hosted remote control for your coding agents: Claude Code and Codex chats, approvals, terminals, files, git and dev-server previews for every computer you own, from the browser or your phone. One Docker container on your own server.",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": "Apache-2.0",
-          "published_at": "2026-11-04T06:51:35Z",
-          "checked_at": "2026-11-04T06:55:53Z"
-        },
-        {
-          "id": "topic-repo-addsumtech--topic-to-video",
-          "title": "addsumtech/topic-to-video",
-          "url": "https://github.com/addsumtech/topic-to-video",
-          "summary": "A Claude Code skill for making short narrated videos. Give it a topic or a slide deck: it researches the subject, writes and voices the script, designs and renders each scene (Remotion or HTML), and adds captions. Works in English and Chinese; free by default with edge-tts and ffmpeg.",
+          "id": "topic-repo-stablyai--orca",
+          "title": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "summary": "Orca is the place for working with a fleet of coding agents (e.g. Claude Code, Codex). Run any agent with your own subscription. Available on desktop, mobile and remote runtime.",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": "MIT",
-          "published_at": "2026-11-04T06:51:09Z",
-          "checked_at": "2026-11-04T06:55:53Z"
+          "published_at": "2026-11-04T19:58:30Z",
+          "checked_at": "2026-11-04T19:59:16Z"
+        },
+        {
+          "id": "topic-repo-evanzhang008--open-walnut",
+          "title": "EvanZhang008/open-walnut",
+          "url": "https://github.com/EvanZhang008/open-walnut",
+          "summary": "Claude Code on your laptop and remote dev boxes, in one web page. Sessions keep running when SSH drops (no tmux), each session's changes get their own diff, plus tasks, notes, and memory. Self-hosted.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "MIT",
+          "published_at": "2026-11-04T19:52:01Z",
+          "checked_at": "2026-11-04T19:59:16Z"
+        },
+        {
+          "id": "topic-repo-emanuel21002-bit--claude-video-studio",
+          "title": "emanuel21002-bit/claude-video-studio",
+          "url": "https://github.com/emanuel21002-bit/claude-video-studio",
+          "summary": "Editor de vídeo automático comandado pelo Claude (Remotion + HyperFrames)",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": null,
+          "published_at": "2026-11-04T19:51:47Z",
+          "checked_at": "2026-11-04T19:59:16Z"
+        },
+        {
+          "id": "topic-repo-m190--usefulapi-mcp",
+          "title": "m190/usefulapi-mcp",
+          "url": "https://github.com/m190/usefulapi-mcp",
+          "summary": "231 hosted remote MCP servers for SaaS tools (CRM, scheduling, payments, messaging and more). Connect from Claude, Cursor or VS Code. Free tier.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "MIT",
+          "published_at": "2026-11-04T19:48:05Z",
+          "checked_at": "2026-11-04T19:59:16Z"
+        },
+        {
+          "id": "topic-repo-ragularavindhan--reel-pattern-editor",
+          "title": "Ragularavindhan/reel-pattern-editor",
+          "url": "https://github.com/Ragularavindhan/reel-pattern-editor",
+          "summary": "Claude skill that edits raw talking-head clips into motion-graphics reels in a new style every time - 20 rotating reference patterns, Thanglish/English captions, Remotion build.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "MIT",
+          "published_at": "2026-11-04T19:44:54Z",
+          "checked_at": "2026-11-04T19:59:16Z"
         }
       ],
       "health": {
         "rss": {
           "status": "ok",
-          "count": 12
+          "count": 13
         },
         "github": {
           "status": "ok",
@@ -533,8 +544,8 @@
         }
       },
       "ai_selected_ids": [],
-      "checked_at": "2026-11-04T06:55:53Z",
-      "last_attempt_at": "2026-11-04T06:55:55Z"
+      "checked_at": "2026-11-04T19:59:16Z",
+      "last_attempt_at": "2026-11-04T19:59:18Z"
     },
     {
       "id": "grok-video",
@@ -543,28 +554,6 @@
       "web_query": "Grok Imagine animation",
       "items": [
         {
-          "id": "skill-70a0268e79d18e3cc3",
-          "title": "ASCII Glitch Launch Video",
-          "url": "https://skillry.dev/skills/bs-ascii-glitch-launch-video",
-          "summary": "Make an 18-second ASCII glitch hype film for a launch, product or idea: a year rolls and bends under tracking marks, a sentence types into the real prompt boxes of AI builders, product screenshots sweep past in 3D, a dot-matrix BUT, a glitching eye, X profile cards and launch posts cut fast between glyph-cell light shapes, then an end card with your logo. You give the lines, products and posts; th",
-          "kind": "topic_rss",
-          "source_name": "Skillry",
-          "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
-          "checked_at": null
-        },
-        {
-          "id": "skill-7978f53ce18956ef08",
-          "title": "CreatorMotion · Complete Motion Effects Library",
-          "url": "https://skillry.dev/skills/bs-creatormotion",
-          "summary": "Every CreatorMotion effect in one Skill, from charts, diagrams and kinetic type to presenter layouts, chapter cards and transitions, each generated as an editable video segment in 16:9, 9:16, 4:3 or 3:4, in 4K by default. Your agent picks the right effect for each beat of your script, or builds any CreatorMotion effect you name, in one consistent palette.",
-          "kind": "topic_rss",
-          "source_name": "Skillry",
-          "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
-          "checked_at": null
-        },
-        {
           "id": "skill-7a251e6af1213c6d58",
           "title": "Cue Style Launch Video",
           "url": "https://skillry.dev/skills/bs-cue-style-launch-video",
@@ -572,7 +561,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -583,7 +572,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -594,7 +583,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -605,7 +594,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -616,7 +605,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -627,7 +616,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -638,7 +627,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -649,7 +638,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -660,7 +649,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -671,7 +660,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -682,7 +671,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -693,7 +682,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -704,7 +693,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -715,7 +704,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -726,7 +715,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -737,7 +726,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -748,7 +737,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -759,68 +748,90 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
-          "id": "topic-repo-threerocks--sweety-statechart-video",
-          "title": "threerocks/sweety-statechart-video",
-          "url": "https://github.com/threerocks/sweety-statechart-video",
-          "summary": "格物 · 蜡笔状态图：一句话做一部会动的蜡笔状态图短片。3:4、2-3 分钟、四款合成旁白（可加自己的声音）、每章一张海报；支持 Codex、Claude Code、Grok 等，可批量出片。",
+          "id": "skill-0a09b687d088cc7fc7",
+          "title": "Skill: skills",
+          "url": "https://github.com/remotion-dev/skills",
+          "summary": "Agent skill для motion / video (из oneshotted.io)",
+          "kind": "topic_rss",
+          "source_name": "Oneshotted",
+          "basis": "rss_excerpt",
+          "published_at": "2026-11-04T06:57:05Z",
+          "checked_at": null
+        },
+        {
+          "id": "skill-1a6fc40b5313375efd",
+          "title": "Skill: motion-design-skill",
+          "url": "https://github.com/LottieFiles/motion-design-skill",
+          "summary": "Agent skill для motion / video (из oneshotted.io)",
+          "kind": "topic_rss",
+          "source_name": "Oneshotted",
+          "basis": "rss_excerpt",
+          "published_at": "2026-11-04T06:57:05Z",
+          "checked_at": null
+        },
+        {
+          "id": "topic-repo-billyhetech--awesome-grok-imagine-videos",
+          "title": "billyhetech/awesome-grok-imagine-videos",
+          "url": "https://github.com/billyhetech/awesome-grok-imagine-videos",
+          "summary": "Awesome list of viral videos made with Grok Imagine: cinematic shorts, ads, anime and music videos, each linked to the creator's original post with the prompt where shared. Watch every one on clawshelf.com · Grok Imagine 爆款视频合集",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": "MIT",
-          "published_at": "2026-11-04T05:52:50Z",
-          "checked_at": "2026-11-04T06:55:55Z"
+          "published_at": "2026-11-04T19:57:15Z",
+          "checked_at": "2026-11-04T19:59:18Z"
         },
         {
-          "id": "topic-repo-rhoninseiei--astrbot_plugin_grok_oauth",
-          "title": "RhoninSeiei/astrbot_plugin_grok_oauth",
-          "url": "https://github.com/RhoninSeiei/astrbot_plugin_grok_oauth",
-          "summary": "Grok OAuth provider for AstrBot: chat, usage, images and caller-owned video tools. MIT.",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": "MIT",
-          "published_at": "2026-11-04T05:30:20Z",
-          "checked_at": "2026-11-04T06:55:55Z"
-        },
-        {
-          "id": "topic-repo-viralswipefile--viralswipefile-plugin",
-          "title": "viralswipefile/viralswipefile-plugin",
-          "url": "https://github.com/viralswipefile/viralswipefile-plugin",
-          "summary": "Know what to post on TikTok and Instagram Reels: viral videos and their hooks by niche and format, for Claude, ChatGPT, Codex, Cursor and Grok over MCP.",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": "MIT",
-          "published_at": "2026-11-04T05:22:56Z",
-          "checked_at": "2026-11-04T06:55:55Z"
-        },
-        {
-          "id": "topic-repo-pooriaarab--x-article-to-video",
-          "title": "pooriaarab/x-article-to-video",
-          "url": "https://github.com/pooriaarab/x-article-to-video",
-          "summary": "Turn your X articles into videos powered by Grok",
+          "id": "topic-repo-trelandon1--prompt-vault",
+          "title": "trelandon1/prompt-vault",
+          "url": "https://github.com/trelandon1/prompt-vault",
+          "summary": "Ultimate Artist/Director Prompt Vault — store, organize, and pull prompts for Kling, Grok, Magica, Hedra, and Seedance. Includes modular structure, Facebook import, video swap, and 191 Higgsfield seed prompts.",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": null,
-          "published_at": "2026-11-04T03:15:11Z",
-          "checked_at": "2026-11-04T06:55:55Z"
+          "published_at": "2026-11-04T19:54:27Z",
+          "checked_at": "2026-11-04T19:59:18Z"
         },
         {
-          "id": "topic-repo-yzw7489757--ai-coding-videos",
-          "title": "yzw7489757/ai-coding-videos",
-          "url": "https://github.com/yzw7489757/ai-coding-videos",
-          "summary": "AI 编程代理实战知识库：Claude Code、Codex、Cursor、Grok 实战资料的中文深度拆解、主题指南、模式库与配置模板",
+          "id": "topic-repo-brianclowe--xaikit",
+          "title": "BrianCLowe/xAIkit",
+          "url": "https://github.com/BrianCLowe/xAIkit",
+          "summary": "Unofficial Python kit for the xAI (Grok) API — typed client, model catalog, usage metering, image/video, and realtime voice",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "MIT",
+          "published_at": "2026-11-04T19:37:08Z",
+          "checked_at": "2026-11-04T19:59:18Z"
+        },
+        {
+          "id": "topic-repo-imaginevid--awesome-grok-imagine-video-prompts-and-skills",
+          "title": "imagineVid/awesome-grok-imagine-video-prompts-and-skills",
+          "url": "https://github.com/imagineVid/awesome-grok-imagine-video-prompts-and-skills",
+          "summary": "Source-backed Grok Imagine Video prompts with real result clips, camera paths, audio-aware workflows, and multilingual guides.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "NOASSERTION",
+          "published_at": "2026-11-04T19:21:20Z",
+          "checked_at": "2026-11-04T19:59:18Z"
+        },
+        {
+          "id": "topic-repo-patrickboxfordpartners--truevoice",
+          "title": "patrickboxfordpartners/truevoice",
+          "url": "https://github.com/patrickboxfordpartners/truevoice",
+          "summary": "AI-powered video interview analysis platform with LiveKit, Deepgram, and XAI Grok integration",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": null,
-          "published_at": "2026-11-04T02:43:08Z",
-          "checked_at": "2026-11-04T06:55:55Z"
+          "published_at": "2026-11-04T16:54:03Z",
+          "checked_at": "2026-11-04T19:59:18Z"
         }
       ],
       "health": {
@@ -844,8 +855,8 @@
         }
       },
       "ai_selected_ids": [],
-      "checked_at": "2026-11-04T06:55:55Z",
-      "last_attempt_at": "2026-11-04T06:55:57Z"
+      "checked_at": "2026-11-04T19:59:18Z",
+      "last_attempt_at": "2026-11-04T19:59:20Z"
     },
     {
       "id": "motion-web",
@@ -854,17 +865,6 @@
       "web_query": "GSAP web animation",
       "items": [
         {
-          "id": "skill-57055855d44aa46a78",
-          "title": "CreatorMotion · Overlapping Testimonial Hold",
-          "url": "https://skillry.dev/skills/bs-creatormotion-collage-testimonial-wall",
-          "summary": "A settled wall of supplied quotations gives the viewer room to read. Slight page overlaps and varied dimensions establish depth without turning the collection into a staggered user-interface animation.",
-          "kind": "topic_rss",
-          "source_name": "Skillry",
-          "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
-          "checked_at": null
-        },
-        {
           "id": "skill-7a251e6af1213c6d58",
           "title": "Cue Style Launch Video",
           "url": "https://skillry.dev/skills/bs-cue-style-launch-video",
@@ -872,7 +872,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -883,7 +883,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -894,7 +894,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -905,7 +905,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -916,7 +916,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -927,7 +927,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -938,7 +938,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -949,7 +949,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -960,7 +960,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -971,7 +971,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -982,7 +982,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -993,7 +993,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -1004,7 +1004,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -1015,7 +1015,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -1026,7 +1026,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -1037,7 +1037,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -1048,7 +1048,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -1059,7 +1059,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -1070,68 +1070,79 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
-          "id": "topic-repo-alexajaime09--hardware-upgrade-compatibility-diagnostic-engine",
-          "title": "Alexajaime09/Hardware-Upgrade-Compatibility-Diagnostic-Engine",
-          "url": "https://github.com/Alexajaime09/Hardware-Upgrade-Compatibility-Diagnostic-Engine",
-          "summary": "An interactive web application that diagnoses the root cause of performance issues based on real-world symptoms experienced by users across different professional profiles as 3d Animation, Video Editing, Motion Gaphics and Streaming.",
+          "id": "skill-098f4ea66dc9fde7ac",
+          "title": "Typed Testimonial Row",
+          "url": "https://skillry.dev/skills/bs-testimonial-typed-row",
+          "summary": "Typed Testimonial Row is a ready-to-paste testimonial section, delivered as editable source with its usage example. It ships with a canvas-rendered backdrop that runs without a WebGL library and entrance motion that settles rather than bounces. Colour, type and radius live as tokens you edit once for the whole block.",
+          "kind": "topic_rss",
+          "source_name": "Skillry",
+          "basis": "rss_excerpt",
+          "published_at": "2026-11-04T06:57:05Z",
+          "checked_at": null
+        },
+        {
+          "id": "topic-repo-germansparrow097-tech--bridev-portfolio",
+          "title": "germansparrow097-tech/bridev-portfolio",
+          "url": "https://github.com/germansparrow097-tech/bridev-portfolio",
+          "summary": "Abdelilah Bri portfolio: web and mobile development, project screenshots and animations. Private review; deployment pending approval.",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": null,
-          "published_at": "2026-11-04T06:52:45Z",
-          "checked_at": "2026-11-04T06:55:58Z"
+          "published_at": "2026-11-04T19:58:46Z",
+          "checked_at": "2026-11-04T19:59:21Z"
         },
         {
-          "id": "topic-repo-sangavi2307--foodchef-website",
-          "title": "Sangavi2307/foodchef-website",
-          "url": "https://github.com/Sangavi2307/foodchef-website",
-          "summary": "A modern, responsive FOOD CHEF website featuring 3D food animations, delicious food collections, interactive menus, online food ordering, shopping cart, Tamil Nadu district selection, and order tracking. Built with HTML, CSS, and JavaScript.",
+          "id": "topic-repo-etundso--animate",
+          "title": "EtUndSo/animate",
+          "url": "https://github.com/EtUndSo/animate",
+          "summary": "Python tool to render images and animations local or in web browser",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": null,
-          "published_at": "2026-11-04T06:51:58Z",
-          "checked_at": "2026-11-04T06:55:58Z"
+          "published_at": "2026-11-04T19:56:38Z",
+          "checked_at": "2026-11-04T19:59:21Z"
         },
         {
-          "id": "topic-repo-abcrimson--modern-cmdk",
-          "title": "ABCrimson/modern-cmdk",
-          "url": "https://github.com/ABCrimson/modern-cmdk",
-          "summary": "The definitive command palette engine for the modern web. Framework-agnostic core, React 19 adapter, WASM search, frecency ranking, GPU-composited animations, full WAI-ARIA. TypeScript 6 / ES2026. 14/15 benchmarks faster than cmdk.",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": "MIT",
-          "published_at": "2026-11-04T06:54:06Z",
-          "checked_at": "2026-11-04T06:55:58Z"
-        },
-        {
-          "id": "topic-repo-mohtisham-khan--mohtisham-khan-portfolio",
-          "title": "Mohtisham-Khan/mohtisham-khan-portfolio",
-          "url": "https://github.com/Mohtisham-Khan/mohtisham-khan-portfolio",
-          "summary": "Professional portfolio built with Next.js, showcasing web design and UI development projects with interactive UI and smooth animations.",
+          "id": "topic-repo-shivaharinib--portfolio-website",
+          "title": "ShivaHariniB/portfolio-website",
+          "url": "https://github.com/ShivaHariniB/portfolio-website",
+          "summary": "Personal portfolio built with React, TypeScript and Vite. Single-page site with light and dark themes, scroll animations and a contact form. Hosted on AWS.",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": null,
-          "published_at": "2026-11-04T06:48:05Z",
-          "checked_at": "2026-11-04T06:55:58Z"
+          "published_at": "2026-11-04T19:40:56Z",
+          "checked_at": "2026-11-04T19:59:21Z"
         },
         {
-          "id": "topic-repo-shahed-shaikh--architecture-studio-website",
-          "title": "shahed-shaikh/Architecture-Studio-Website",
-          "url": "https://github.com/shahed-shaikh/Architecture-Studio-Website",
-          "summary": "ATELIER is an architecture website showcasing design and creative projects. It features minimalist layout, refined typography, architectural images, and sections for studio details, projects, design philosophy, and contact. Built with HTML5, CSS3, and Bootstrap, it uses responsive layouts, transitions, and subtle animations for polished experience.",
+          "id": "topic-repo-zer0will--salt-and-tide",
+          "title": "Zer0will/salt-and-tide",
+          "url": "https://github.com/Zer0will/salt-and-tide",
+          "summary": "Production-ready agency portfolio site for Salt & Tide Creative — a boutique web design + digital marketing agency in Edmonds, WA. Multi-page React app: Home, Work + case studies, Services, About, Contact. Features GSAP animations, custom cursor, fluid type, EmailJS contact form, and a dark-premium design system. · Built with Manus",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": null,
-          "published_at": "2026-11-04T06:43:24Z",
-          "checked_at": "2026-11-04T06:55:58Z"
+          "published_at": "2026-11-04T19:35:01Z",
+          "checked_at": "2026-11-04T19:59:21Z"
+        },
+        {
+          "id": "topic-repo-v-berberian--coldcallx-website",
+          "title": "v-berberian/coldcallx-website",
+          "url": "https://github.com/v-berberian/coldcallx-website",
+          "summary": "Cold Call X - Modern landing page with organic gradient animations",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": null,
+          "published_at": "2026-11-04T19:33:22Z",
+          "checked_at": "2026-11-04T19:59:21Z"
         }
       ],
       "health": {
@@ -1155,8 +1166,8 @@
         }
       },
       "ai_selected_ids": [],
-      "checked_at": "2026-11-04T06:55:58Z",
-      "last_attempt_at": "2026-11-04T06:56:00Z"
+      "checked_at": "2026-11-04T19:59:21Z",
+      "last_attempt_at": "2026-11-04T19:59:23Z"
     },
     {
       "id": "blender",
@@ -1165,17 +1176,6 @@
       "web_query": "Blender motion design",
       "items": [
         {
-          "id": "skill-57055855d44aa46a78",
-          "title": "CreatorMotion · Overlapping Testimonial Hold",
-          "url": "https://skillry.dev/skills/bs-creatormotion-collage-testimonial-wall",
-          "summary": "A settled wall of supplied quotations gives the viewer room to read. Slight page overlaps and varied dimensions establish depth without turning the collection into a staggered user-interface animation.",
-          "kind": "topic_rss",
-          "source_name": "Skillry",
-          "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
-          "checked_at": null
-        },
-        {
           "id": "skill-c0811458cd025ab206",
           "title": "iPhone Duo Mockup",
           "url": "https://skillry.dev/skills/bs-iphone-duo-mockup",
@@ -1183,7 +1183,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -1194,7 +1194,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -1205,7 +1205,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -1216,8 +1216,30 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
+        },
+        {
+          "id": "skill-57055855d44aa46a78",
+          "title": "CreatorMotion · Overlapping Testimonial Hold",
+          "url": "https://skillry.dev/skills/bs-creatormotion-collage-testimonial-wall",
+          "summary": "A settled wall of supplied quotations gives the viewer room to read. Slight page overlaps and varied dimensions establish depth without turning the collection into a staggered user-interface animation.",
+          "kind": "topic_rss",
+          "source_name": "Skillry",
+          "basis": "rss_excerpt",
+          "published_at": "2026-11-04T06:57:04Z",
+          "checked_at": null
+        },
+        {
+          "id": "32521731f4453f424e",
+          "title": "Create a Procedural Cartoon Flame in Blender with Geometry Nodes",
+          "url": "https://www.blendernation.com/2026/11/04/create-a-procedural-cartoon-flame-in-blender-with-geometry-nodes/",
+          "summary": "Paulette Shnier creates a flexible animatable flame system starting with a simple curve and using geometry nodes. Source",
+          "kind": "topic_rss",
+          "source_name": "BlenderNation",
+          "basis": "rss_excerpt",
+          "published_at": "2026-11-04T05:52:05Z",
+          "checked_at": "2026-11-04T19:58:57Z"
         },
         {
           "id": "095d50b65d0f12d25d",
@@ -1228,7 +1250,7 @@
           "source_name": "Blender Developers",
           "basis": "rss_excerpt",
           "published_at": "2026-11-03T10:37:30Z",
-          "checked_at": "2026-11-04T06:55:34Z"
+          "checked_at": "2026-11-04T19:58:57Z"
         },
         {
           "id": "6e85e7fb40648b93a8",
@@ -1239,29 +1261,7 @@
           "source_name": "BlenderNation",
           "basis": "rss_excerpt",
           "published_at": "2026-11-03T06:11:50Z",
-          "checked_at": "2026-11-04T06:55:34Z"
-        },
-        {
-          "id": "1fd8dbea8fa8176828",
-          "title": "Ichno: free one-click technical drawings from Blender scenes",
-          "url": "https://www.blendernation.com/2026/11/01/ichno-free-one-click-technical-drawings-from-blender-scenes/",
-          "summary": "Ichno is a new free add-on, available on extensions.blender.org, that generates technical drawings from a Blender scene in one click. Ely writes: It produces orthographic and isometric views with overall and chain…",
-          "kind": "topic_rss",
-          "source_name": "BlenderNation",
-          "basis": "rss_excerpt",
-          "published_at": "2026-11-01T07:55:23Z",
-          "checked_at": "2026-11-04T06:55:34Z"
-        },
-        {
-          "id": "500132667f9ec65906",
-          "title": "Best of Blender Artists: 2026-44",
-          "url": "https://www.blendernation.com/2026/10/31/best-of-blender-artists-2026-44/",
-          "summary": "Every week, hundreds of artists share their work on the Blender Artists forum. I’m putting some of the best work in the spotlight in a weekly post here on BlenderNation. Source",
-          "kind": "topic_rss",
-          "source_name": "BlenderNation",
-          "basis": "rss_excerpt",
-          "published_at": "2026-10-31T10:27:03Z",
-          "checked_at": "2026-11-04T06:55:34Z"
+          "checked_at": "2026-11-04T19:58:57Z"
         },
         {
           "id": "900e199369b6bee06c",
@@ -1272,7 +1272,7 @@
           "source_name": "Blender Developers",
           "basis": "rss_excerpt",
           "published_at": "2026-10-30T13:18:52Z",
-          "checked_at": "2026-11-04T06:55:34Z"
+          "checked_at": "2026-11-04T19:58:57Z"
         },
         {
           "id": "de8c72df8d1a2394b1",
@@ -1283,7 +1283,7 @@
           "source_name": "Three.js",
           "basis": "rss_excerpt",
           "published_at": "2026-10-30T08:03:18Z",
-          "checked_at": "2026-11-04T06:55:34Z"
+          "checked_at": "2026-11-04T19:58:57Z"
         },
         {
           "id": "a1f3db65653cf65854",
@@ -1294,7 +1294,7 @@
           "source_name": "Blender Developers",
           "basis": "rss_excerpt",
           "published_at": "2026-10-14T12:26:59Z",
-          "checked_at": "2026-11-04T06:55:34Z"
+          "checked_at": "2026-11-04T19:58:57Z"
         },
         {
           "id": "8a085ef017581985d0",
@@ -1305,7 +1305,7 @@
           "source_name": "Blender Developers",
           "basis": "rss_excerpt",
           "published_at": "2026-10-05T14:29:39Z",
-          "checked_at": "2026-11-04T06:55:34Z"
+          "checked_at": "2026-11-04T19:58:57Z"
         },
         {
           "id": "e5b60107e6763277b1",
@@ -1316,7 +1316,7 @@
           "source_name": "Codrops",
           "basis": "rss_excerpt",
           "published_at": "2026-09-12T08:40:31Z",
-          "checked_at": "2026-11-04T06:55:34Z"
+          "checked_at": "2026-11-04T19:58:57Z"
         },
         {
           "id": "b36261991ac0195317",
@@ -1327,7 +1327,43 @@
           "source_name": "Blender Developers",
           "basis": "rss_excerpt",
           "published_at": "2026-09-10T15:56:53Z",
-          "checked_at": "2026-11-04T06:55:34Z"
+          "checked_at": "2026-11-04T19:58:57Z"
+        },
+        {
+          "id": "topic-repo-tefmeister--ashes-2063-weapons",
+          "title": "TefMeister/ashes-2063-weapons",
+          "url": "https://github.com/TefMeister/ashes-2063-weapons",
+          "summary": "Pixel-style 3D weapon models and stop-motion animations for Ashes 2063 (Blender, for GZDoom VR). Fan project, no game assets.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": null,
+          "published_at": "2026-11-04T19:44:17Z",
+          "checked_at": "2026-11-04T19:59:23Z"
+        },
+        {
+          "id": "topic-repo-mondrubberduck--bulletproof-retarget",
+          "title": "MondRubberduck/Bulletproof-Retarget",
+          "url": "https://github.com/MondRubberduck/Bulletproof-Retarget",
+          "summary": "One-click animation retargeting for Blender 5.0+: P2M, Mixamo, Rigify, UE5, OptiTrack, Auto-Rig Pro, Daz, VRM & more",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": null,
+          "published_at": "2026-11-04T19:36:46Z",
+          "checked_at": "2026-11-04T19:59:23Z"
+        },
+        {
+          "id": "topic-repo-godistimemrepic--blender",
+          "title": "godistimemrepic/Blender",
+          "url": "https://github.com/godistimemrepic/Blender",
+          "summary": "Get Blender — a 3D modeling and animation program for Windows with free download. Model with various techniques, create textures, and animate scenes using a quick skeleton creation mode. Download the latest release.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "MIT",
+          "published_at": "2026-11-04T18:18:12Z",
+          "checked_at": "2026-11-04T19:59:23Z"
         },
         {
           "id": "topic-repo-bansystemcount26--blender-desktop-2026",
@@ -1338,62 +1374,26 @@
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": null,
-          "published_at": "2026-11-04T06:19:25Z",
-          "checked_at": "2026-11-04T06:56:00Z"
+          "published_at": "2026-11-04T18:12:05Z",
+          "checked_at": "2026-11-04T19:59:23Z"
         },
         {
-          "id": "topic-repo-jasmylab-janction--janction-render",
-          "title": "JasmyLab-JANCTION/janction-render",
-          "url": "https://github.com/JasmyLab-JANCTION/janction-render",
-          "summary": "Cloud GPU rendering for Blender scenes and 3D models (GLB/FBX/USD/STL) for AI agents: MCP server, HTTP API, CLI. Product shots, turntables, animations from Claude, ChatGPT, Codex, Cursor. Free to start (100 JPY with no card, 400 JPY more after saving a card), then 0.1 JPY per GPU-second.",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": "MIT",
-          "published_at": "2026-11-04T06:09:14Z",
-          "checked_at": "2026-11-04T06:56:00Z"
-        },
-        {
-          "id": "topic-repo-4fingerstudios--frostyblender",
-          "title": "4FingerStudios/FrostyBlender",
-          "url": "https://github.com/4FingerStudios/FrostyBlender",
-          "summary": "Blender add-on: import maps, characters, customizations, NPCs, props and animations from PvZ Garden Warfare 1 & 2 and Battle for Neighborville",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": "GPL-3.0",
-          "published_at": "2026-11-04T06:07:12Z",
-          "checked_at": "2026-11-04T06:56:00Z"
-        },
-        {
-          "id": "topic-repo-jibranpcccc--blender-3d-modeling-animation-hub",
-          "title": "jibranpcccc/blender-3d-modeling-animation-hub",
-          "url": "https://github.com/jibranpcccc/blender-3d-modeling-animation-hub",
-          "summary": "Blender 3D Modeling & Animation Hub - Curated & Verified Public Community Directory [GitHub Pages]",
+          "id": "topic-repo-taciturnslake-57--blender-addons-pack-2026",
+          "title": "taciturnslake-57/Blender-Addons-Pack-2026",
+          "url": "https://github.com/taciturnslake-57/Blender-Addons-Pack-2026",
+          "summary": "Blender – A comprehensive collection of addons and plugins for enhanced 3D modeling, rendering, and animation in Blender 2026.",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": null,
-          "published_at": "2026-11-04T06:05:11Z",
-          "checked_at": "2026-11-04T06:56:00Z"
-        },
-        {
-          "id": "topic-repo-weixc0856-cell--courseworkspace",
-          "title": "weixc0856-cell/CourseWorkspace",
-          "url": "https://github.com/weixc0856-cell/CourseWorkspace",
-          "summary": "Local-first course production workspace: Markdown lessons to Reveal slides, Motion Canvas/Manim/Blender animation, and Remotion video, with a local AI runtime, ContentQA, and verifiable build reports.",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": null,
-          "published_at": "2026-11-04T06:04:13Z",
-          "checked_at": "2026-11-04T06:56:00Z"
+          "published_at": "2026-11-04T17:54:55Z",
+          "checked_at": "2026-11-04T19:59:23Z"
         }
       ],
       "health": {
         "rss": {
           "status": "ok",
-          "count": 15
+          "count": 14
         },
         "github": {
           "status": "ok",
@@ -1411,8 +1411,8 @@
         }
       },
       "ai_selected_ids": [],
-      "checked_at": "2026-11-04T06:56:00Z",
-      "last_attempt_at": "2026-11-04T06:56:02Z"
+      "checked_at": "2026-11-04T19:59:23Z",
+      "last_attempt_at": "2026-11-04T19:59:25Z"
     },
     {
       "id": "comfyui",
@@ -1421,28 +1421,6 @@
       "web_query": "ComfyUI video workflow",
       "items": [
         {
-          "id": "skill-70a0268e79d18e3cc3",
-          "title": "ASCII Glitch Launch Video",
-          "url": "https://skillry.dev/skills/bs-ascii-glitch-launch-video",
-          "summary": "Make an 18-second ASCII glitch hype film for a launch, product or idea: a year rolls and bends under tracking marks, a sentence types into the real prompt boxes of AI builders, product screenshots sweep past in 3D, a dot-matrix BUT, a glitching eye, X profile cards and launch posts cut fast between glyph-cell light shapes, then an end card with your logo. You give the lines, products and posts; th",
-          "kind": "topic_rss",
-          "source_name": "Skillry",
-          "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
-          "checked_at": null
-        },
-        {
-          "id": "skill-7978f53ce18956ef08",
-          "title": "CreatorMotion · Complete Motion Effects Library",
-          "url": "https://skillry.dev/skills/bs-creatormotion",
-          "summary": "Every CreatorMotion effect in one Skill, from charts, diagrams and kinetic type to presenter layouts, chapter cards and transitions, each generated as an editable video segment in 16:9, 9:16, 4:3 or 3:4, in 4K by default. Your agent picks the right effect for each beat of your script, or builds any CreatorMotion effect you name, in one consistent palette.",
-          "kind": "topic_rss",
-          "source_name": "Skillry",
-          "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
-          "checked_at": null
-        },
-        {
           "id": "skill-7a251e6af1213c6d58",
           "title": "Cue Style Launch Video",
           "url": "https://skillry.dev/skills/bs-cue-style-launch-video",
@@ -1450,7 +1428,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -1461,7 +1439,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -1472,7 +1450,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -1483,7 +1461,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -1494,7 +1472,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -1505,7 +1483,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -1516,7 +1494,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -1527,7 +1505,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -1538,7 +1516,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -1549,7 +1527,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -1560,7 +1538,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -1571,7 +1549,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -1582,7 +1560,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -1593,7 +1571,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -1604,7 +1582,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -1615,7 +1593,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -1626,7 +1604,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
@@ -1637,68 +1615,90 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-03T23:20:07Z",
+          "published_at": "2026-11-04T06:57:05Z",
           "checked_at": null
         },
         {
-          "id": "topic-repo-mjwach--comfyui-videomaskediting",
-          "title": "mjwach/ComfyUI-VideoMaskEditing",
-          "url": "https://github.com/mjwach/ComfyUI-VideoMaskEditing",
-          "summary": "ComfyUI nodes for video mask editing, taken from a much larger repository and modified",
+          "id": "skill-0a09b687d088cc7fc7",
+          "title": "Skill: skills",
+          "url": "https://github.com/remotion-dev/skills",
+          "summary": "Agent skill для motion / video (из oneshotted.io)",
+          "kind": "topic_rss",
+          "source_name": "Oneshotted",
+          "basis": "rss_excerpt",
+          "published_at": "2026-11-04T06:57:05Z",
+          "checked_at": null
+        },
+        {
+          "id": "skill-1a6fc40b5313375efd",
+          "title": "Skill: motion-design-skill",
+          "url": "https://github.com/LottieFiles/motion-design-skill",
+          "summary": "Agent skill для motion / video (из oneshotted.io)",
+          "kind": "topic_rss",
+          "source_name": "Oneshotted",
+          "basis": "rss_excerpt",
+          "published_at": "2026-11-04T06:57:05Z",
+          "checked_at": null
+        },
+        {
+          "id": "topic-repo-ericfillion--happylatent",
+          "title": "EricFillion/happylatent",
+          "url": "https://github.com/EricFillion/happylatent",
+          "summary": "A timeline editor for generating videos with LTX 2.5 in ComfyUI.",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
-          "license": "Apache-2.0",
-          "published_at": "2026-11-04T06:54:09Z",
-          "checked_at": "2026-11-04T06:56:03Z"
+          "license": "GPL-3.0",
+          "published_at": "2026-11-04T19:52:07Z",
+          "checked_at": "2026-11-04T19:59:26Z"
         },
         {
-          "id": "topic-repo-underworldhistory1-ctrl--minimax-h3-interface",
-          "title": "underworldhistory1-ctrl/minimax-h3-interface",
-          "url": "https://github.com/underworldhistory1-ctrl/minimax-h3-interface",
-          "summary": "Self-hosted MiniMax H3 video with native audio and Qwen Image. Adaptive ComfyUI workflows, character references, storyboards and saved scenes.",
+          "id": "topic-repo-huihezuo-source--h3-video",
+          "title": "huihezuo-source/H3-Video",
+          "url": "https://github.com/huihezuo-source/H3-Video",
+          "summary": "Claude Code skill: AI short dramas with dialogue on local ComfyUI (MiniMax H3, Qwen-Image, VoxCPM2)",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": "MIT",
-          "published_at": "2026-11-04T06:49:59Z",
-          "checked_at": "2026-11-04T06:56:03Z"
+          "published_at": "2026-11-04T19:50:36Z",
+          "checked_at": "2026-11-04T19:59:26Z"
         },
         {
-          "id": "topic-repo-kadobot--comfyui-h3-continuity-studio",
-          "title": "KadoBOT/ComfyUI-H3-Continuity-Studio",
-          "url": "https://github.com/KadoBOT/ComfyUI-H3-Continuity-Studio",
-          "summary": "ComfyUI Timeline Studio for MiniMax H3: multi-shot video, visual memory across scenes and angles, and local or cloud Story writing.",
+          "id": "topic-repo-somarawad--somarawad.github.io",
+          "title": "Somarawad/Somarawad.github.io",
+          "url": "https://github.com/Somarawad/Somarawad.github.io",
+          "summary": "Portfolio of Somar Awad, creative technologist: generative AI video, spec ads and ComfyUI tools",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": null,
+          "published_at": "2026-11-04T19:50:23Z",
+          "checked_at": "2026-11-04T19:59:26Z"
+        },
+        {
+          "id": "topic-repo-jwlei--comfyui-auto-gen",
+          "title": "jwlei/ComfyUI-auto-gen",
+          "url": "https://github.com/jwlei/ComfyUI-auto-gen",
+          "summary": "Makes videos with ComfyUI from one panel: YouTube Shorts, and generic video with or without audio.",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": "MIT",
-          "published_at": "2026-11-04T06:44:20Z",
-          "checked_at": "2026-11-04T06:56:03Z"
+          "published_at": "2026-11-04T19:50:04Z",
+          "checked_at": "2026-11-04T19:59:26Z"
         },
         {
-          "id": "topic-repo-code2collapse--comfyui-ltx-enhanced",
-          "title": "Code2Collapse/ComfyUI-LTX-Enhanced",
-          "url": "https://github.com/Code2Collapse/ComfyUI-LTX-Enhanced",
-          "summary": "Resolution, memory and tile planning for LTX video in ComfyUI (DCP 2K/4K). Clean-room Apache-2.0, every method measured.",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": "Apache-2.0",
-          "published_at": "2026-11-04T06:41:38Z",
-          "checked_at": "2026-11-04T06:56:03Z"
-        },
-        {
-          "id": "topic-repo-benfenorg--benpay-video",
-          "title": "benfenorg/benpay-video",
-          "url": "https://github.com/benfenorg/benpay-video",
-          "summary": "ComfyUI custom nodes for video generation through BenpayAI protocols.",
+          "id": "topic-repo-zhang-liz--comfyui-dailies",
+          "title": "zhang-liz/comfyui-dailies",
+          "url": "https://github.com/zhang-liz/comfyui-dailies",
+          "summary": "Never lose which seed, model, LoRA and prompt made a clip. Writes a take.json beside every video ComfyUI renders, so any take can be found, reproduced or rerun, and a night of renders ranked without reopening ComfyUI.",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": "MIT",
-          "published_at": "2026-11-04T06:39:43Z",
-          "checked_at": "2026-11-04T06:56:03Z"
+          "published_at": "2026-11-04T19:50:37Z",
+          "checked_at": "2026-11-04T19:59:26Z"
         }
       ],
       "health": {
@@ -1722,8 +1722,8 @@
         }
       },
       "ai_selected_ids": [],
-      "checked_at": "2026-11-04T06:56:03Z",
-      "last_attempt_at": "2026-11-04T06:56:05Z"
+      "checked_at": "2026-11-04T19:59:26Z",
+      "last_attempt_at": "2026-11-04T19:59:28Z"
     }
   ]
 }
