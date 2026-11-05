@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-05T07:13:20Z",
+  "generated_at": "2026-11-05T07:20:09Z",
   "mode": "public_metadata_only",
   "schedule_minutes": 30,
   "sources": [
@@ -9,7 +9,7 @@
       "label": "whaleyxbt · изменения кода",
       "platform": "github",
       "enabled": true,
-      "status": "ok",
+      "status": "cached",
       "count": 5,
       "config_signature": "040b1222912c",
       "last_attempt": "2026-11-05T07:13:20Z",
@@ -21,7 +21,7 @@
       "label": "HyperFrames · релизы",
       "platform": "github",
       "enabled": true,
-      "status": "ok",
+      "status": "cached",
       "count": 5,
       "config_signature": "b02bec891cfe",
       "last_attempt": "2026-11-05T07:13:20Z",
@@ -33,26 +33,26 @@
       "label": "Pouya Eti · новые видео",
       "platform": "youtube",
       "enabled": true,
-      "status": "error",
+      "status": "backoff",
       "count": 2,
       "config_signature": "63b934b73c2d",
       "last_attempt": "2026-11-05T07:13:20Z",
-      "error": "http_404",
       "last_success": "2026-11-04T20:01:01Z",
-      "next_check": "2026-11-05T07:43:20+00:00"
+      "next_check": "2026-11-05T07:43:20+00:00",
+      "error": "http_404"
     },
     {
       "id": "louise",
       "label": "Louise de Sadeleer · статьи",
       "platform": "rss",
       "enabled": true,
-      "status": "error",
+      "status": "backoff",
       "count": 1,
       "config_signature": "f1f189758c10",
       "last_attempt": "2026-11-05T07:13:20Z",
-      "error": "http_403",
       "last_success": "2026-11-04T18:32:14Z",
-      "next_check": "2026-11-05T13:13:20+00:00"
+      "next_check": "2026-11-05T13:13:20+00:00",
+      "error": "http_403"
     },
     {
       "id": "x-movez",
@@ -135,7 +135,8 @@
         "github"
       ],
       "link_status": "ok",
-      "research_state": "needs_review"
+      "research_state": "needs_review",
+      "source_stale": false
     },
     {
       "id": "signal-47f5d5619e1f2e5fcd",
@@ -156,7 +157,8 @@
         "github"
       ],
       "link_status": "ok",
-      "research_state": "needs_review"
+      "research_state": "needs_review",
+      "source_stale": false
     },
     {
       "id": "signal-d6d0a7cf7bfa2d4ccf",
@@ -177,7 +179,8 @@
         "github"
       ],
       "link_status": "ok",
-      "research_state": "needs_review"
+      "research_state": "needs_review",
+      "source_stale": false
     },
     {
       "id": "signal-49ddfad05da631f5a6",
@@ -198,7 +201,8 @@
         "github"
       ],
       "link_status": "ok",
-      "research_state": "needs_review"
+      "research_state": "needs_review",
+      "source_stale": false
     },
     {
       "id": "signal-ae78fe1577c3cb6595",
@@ -219,7 +223,8 @@
         "github"
       ],
       "link_status": "ok",
-      "research_state": "needs_review"
+      "research_state": "needs_review",
+      "source_stale": false
     },
     {
       "id": "signal-1b1cc5dcefc014efdd",
@@ -284,7 +289,8 @@
         "github"
       ],
       "link_status": "ok",
-      "research_state": "needs_review"
+      "research_state": "needs_review",
+      "source_stale": false
     },
     {
       "id": "signal-13372ac41de897992b",
@@ -305,7 +311,8 @@
         "github"
       ],
       "link_status": "ok",
-      "research_state": "needs_review"
+      "research_state": "needs_review",
+      "source_stale": false
     },
     {
       "id": "signal-01c3b4a5153bd53070",
@@ -326,7 +333,8 @@
         "github"
       ],
       "link_status": "ok",
-      "research_state": "needs_review"
+      "research_state": "needs_review",
+      "source_stale": false
     },
     {
       "id": "signal-b563f0cdf812349cb2",
@@ -347,7 +355,8 @@
         "github"
       ],
       "link_status": "ok",
-      "research_state": "needs_review"
+      "research_state": "needs_review",
+      "source_stale": false
     },
     {
       "id": "signal-eaf119b3144f2f660f",
@@ -368,7 +377,8 @@
         "github"
       ],
       "link_status": "ok",
-      "research_state": "needs_review"
+      "research_state": "needs_review",
+      "source_stale": false
     },
     {
       "id": "signal-98b9a21cf7a4c882ac",
@@ -393,5 +403,5 @@
       "source_stale": true
     }
   ],
-  "network_calls": 4
+  "network_calls": 0
 }
