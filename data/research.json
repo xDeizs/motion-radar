@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-14T18:26:34Z",
+    "generated_at": "2026-11-14T22:42:06Z",
     "version": 2,
     "mode": "public_read_only",
     "ai_enabled": false,
@@ -1199,7 +1199,7 @@
       "category": "motion",
       "source_id": "reference",
       "source_name": "Референсы",
-      "checked_at": "2026-11-14T18:26:34Z",
+      "checked_at": "2026-11-14T22:42:06Z",
       "published_at": null,
       "thumbnail": null,
       "link_status": "ok",
@@ -1258,7 +1258,7 @@
       "link_status": "unknown",
       "render_status": "not_checked",
       "page_status": "stale",
-      "last_attempt_at": "2026-11-14T18:26:34Z",
+      "last_attempt_at": "2026-11-14T22:42:06Z",
       "page_error": "Response exceeds safety limit"
     },
     {
@@ -1278,7 +1278,7 @@
       "category": "motion",
       "source_id": "reference",
       "source_name": "Референсы",
-      "checked_at": "2026-11-14T18:26:34Z",
+      "checked_at": "2026-11-14T22:42:06Z",
       "published_at": null,
       "thumbnail": null,
       "link_status": "ok",
@@ -1286,9 +1286,9 @@
       "page_status": "ok",
       "resolved_url": "https://chen.media/guides",
       "page_title": "All guides | Chen Media",
-      "content_hash": "09802b36e9e3a4bd4aa41581ecff8455164bc75b57950499fce6e31ecb75d09b",
-      "changed": false,
-      "changed_at": "2026-11-13T19:58:32Z",
+      "content_hash": "1c3b8ee66110381f5d7d109cbd7b1da4f3c3a3b0da574bef8f2be52e21085f12",
+      "changed": true,
+      "changed_at": "2026-11-14T22:42:06Z",
       "observation": "HTML страницы получен. Рендер и игровая сцена автоматически не тестировались."
     },
     {
@@ -1308,7 +1308,7 @@
       "category": "motion",
       "source_id": "reference",
       "source_name": "Референсы",
-      "checked_at": "2026-11-14T18:26:34Z",
+      "checked_at": "2026-11-14T22:42:06Z",
       "published_at": null,
       "thumbnail": null,
       "link_status": "ok",
@@ -1316,9 +1316,9 @@
       "page_status": "ok",
       "resolved_url": "https://threejs-journey.com/highlights/1",
       "page_title": "Highlights — Three.js Journey",
-      "content_hash": "1fa59d752dd5ab89c03f53ecd0ca57131d4d458c80f864c4f63df63dc5c277f1",
-      "changed": false,
-      "changed_at": "2026-11-13T19:58:32Z",
+      "content_hash": "e23ed8f57c932838efc7de5ddddf381a05d9ebe5d4808dcbb67e9c9f2b3ae5c9",
+      "changed": true,
+      "changed_at": "2026-11-14T22:42:06Z",
       "observation": "HTML страницы получен. Рендер и игровая сцена автоматически не тестировались."
     },
     {
