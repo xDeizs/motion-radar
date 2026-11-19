@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T18:33:15Z",
+  "generated_at": "2026-11-19T20:57:43Z",
   "mode": "public_metadata_only",
   "schedule_minutes": 30,
   "sources": [
@@ -9,26 +9,26 @@
       "label": "whaleyxbt · изменения кода",
       "platform": "github",
       "enabled": true,
-      "status": "error",
+      "status": "backoff",
       "count": 5,
       "config_signature": "040b1222912c",
       "last_attempt": "2026-11-19T18:33:15Z",
-      "error": "http_403",
       "last_success": "2026-11-19T09:18:14Z",
-      "next_check": "2026-11-20T00:33:15+00:00"
+      "next_check": "2026-11-20T00:33:15+00:00",
+      "error": "http_403"
     },
     {
       "id": "hyperframes",
       "label": "HyperFrames · релизы",
       "platform": "github",
       "enabled": true,
-      "status": "error",
+      "status": "backoff",
       "count": 5,
       "config_signature": "b02bec891cfe",
       "last_attempt": "2026-11-19T18:33:15Z",
-      "error": "origin_paused",
       "last_success": "2026-11-19T09:18:14Z",
-      "next_check": "2026-11-20T00:33:15+00:00"
+      "next_check": "2026-11-20T00:33:15+00:00",
+      "error": "origin_paused"
     },
     {
       "id": "pouya",
@@ -38,21 +38,22 @@
       "status": "ok",
       "count": 4,
       "config_signature": "63b934b73c2d",
-      "last_attempt": "2026-11-19T18:33:15Z",
-      "last_success": "2026-11-19T18:33:15Z",
-      "next_check": "2026-11-19T19:03:15+00:00"
+      "last_attempt": "2026-11-19T20:57:43Z",
+      "last_success": "2026-11-19T20:57:43Z",
+      "next_check": "2026-11-19T21:27:43+00:00"
     },
     {
       "id": "louise",
       "label": "Louise de Sadeleer · статьи",
       "platform": "rss",
       "enabled": true,
-      "status": "ok",
+      "status": "error",
       "count": 1,
       "config_signature": "f1f189758c10",
-      "last_attempt": "2026-11-19T18:33:15Z",
+      "last_attempt": "2026-11-19T20:57:43Z",
+      "error": "http_403",
       "last_success": "2026-11-19T18:33:15Z",
-      "next_check": "2026-11-19T19:03:15+00:00"
+      "next_check": "2026-11-20T02:57:43+00:00"
     },
     {
       "id": "x-movez",
@@ -239,7 +240,7 @@
       "basis": "metadata_only",
       "published_at": "2026-11-12T13:09:49Z",
       "seen_at": "2026-11-12T18:31:10Z",
-      "checked_at": "2026-11-19T18:33:15Z",
+      "checked_at": "2026-11-19T20:57:43Z",
       "tags": [
         "Новый сигнал",
         "youtube"
@@ -260,7 +261,7 @@
       "basis": "metadata_only",
       "published_at": "2026-11-11T10:09:08Z",
       "seen_at": "2026-11-11T13:59:56Z",
-      "checked_at": "2026-11-19T18:33:15Z",
+      "checked_at": "2026-11-19T20:57:43Z",
       "tags": [
         "Новый сигнал",
         "youtube"
@@ -369,7 +370,7 @@
       "basis": "metadata_only",
       "published_at": "2026-10-31T12:40:34Z",
       "seen_at": "2026-11-02T09:47:05Z",
-      "checked_at": "2026-11-19T18:33:15Z",
+      "checked_at": "2026-11-19T20:57:43Z",
       "tags": [
         "Новый сигнал",
         "youtube"
@@ -390,7 +391,7 @@
       "basis": "metadata_only",
       "published_at": "2026-10-26T15:00:29Z",
       "seen_at": "2026-11-02T09:47:05Z",
-      "checked_at": "2026-11-19T18:33:15Z",
+      "checked_at": "2026-11-19T20:57:43Z",
       "tags": [
         "Новый сигнал",
         "youtube"
@@ -439,8 +440,9 @@
         "rss"
       ],
       "link_status": "ok",
-      "research_state": "needs_review"
+      "research_state": "needs_review",
+      "source_stale": true
     }
   ],
-  "network_calls": 3
+  "network_calls": 2
 }
