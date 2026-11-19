@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T20:51:52Z",
+  "generated_at": "2026-11-19T07:51:14Z",
   "scope": "RSS snapshot + first page of public GitHub. Not the entire internet. Social content excluded.",
   "topics": [
     {
@@ -9,17 +9,6 @@
       "web_query": "Claude Motion animation",
       "items": [
         {
-          "id": "20cd4afd5b3711a44d",
-          "title": "v4.0.545",
-          "url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.545",
-          "summary": "What's Changed Remotion now supports proper motion blur @remotion/transitions: Add motionBlur to TransitionSeries.Transition by @JonnyBurger in #13005 remotion: Reject non-finite volume values by @DeryFerd in #13473…",
-          "kind": "topic_rss",
-          "source_name": "Remotion",
-          "basis": "rss_excerpt",
-          "published_at": "2026-11-18T10:29:30Z",
-          "checked_at": "2026-11-18T20:51:16Z"
-        },
-        {
           "id": "skill-6e18aa23e1f0d14413",
           "title": "Skill: hyperframes",
           "url": "https://github.com/heygen-com/hyperframes",
@@ -27,7 +16,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -38,7 +27,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -49,7 +38,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -60,7 +49,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -71,7 +60,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -82,7 +71,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -93,7 +82,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -104,7 +93,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -115,7 +104,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -126,7 +115,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -137,7 +126,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -148,7 +137,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -159,7 +148,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -170,7 +159,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -181,7 +170,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -192,7 +181,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -203,7 +192,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -214,7 +203,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -225,20 +214,56 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
-          "id": "topic-repo-asifnawaz--skia-motion-agentic-cli",
-          "title": "asifnawaz/skia-motion-agentic-cli",
-          "url": "https://github.com/asifnawaz/skia-motion-agentic-cli",
-          "summary": "Motion for AI agents: a JSON-only CLI that scaffolds, checks and renders character and UI animation drawn with React Native Skia and rendered by Remotion. Works with Claude Code, Codex and other coding agents.",
+          "id": "topic-repo-frankxai--awesome-motion-design-agent-skills",
+          "title": "frankxai/awesome-motion-design-agent-skills",
+          "url": "https://github.com/frankxai/awesome-motion-design-agent-skills",
+          "summary": "Curated motion design agent skills: GSAP, Motion, Remotion, Lottie and Rive for web animation, programmatic video and motion QA. Installable in Claude Code, Codex, Copilot.",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
-          "license": "MIT",
-          "published_at": "2026-11-18T20:22:09Z",
-          "checked_at": "2026-11-18T20:51:37Z"
+          "license": "CC0-1.0",
+          "published_at": "2026-11-19T03:13:45Z",
+          "checked_at": "2026-11-19T07:51:00Z"
+        },
+        {
+          "id": "topic-repo-gillgurwinder--claude-animation-skills",
+          "title": "gillgurwinder/claude-animation-skills",
+          "url": "https://github.com/gillgurwinder/claude-animation-skills",
+          "summary": "Ready-to-install Claude Code skills for animation videos (science, education, motion graphics). Includes animate + Manim skills with full install guide.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": null,
+          "published_at": "2026-11-19T06:21:07Z",
+          "checked_at": "2026-11-19T07:51:00Z"
+        },
+        {
+          "id": "topic-repo-shk2005--motion-graphics",
+          "title": "Shk2005/motion-graphics",
+          "url": "https://github.com/Shk2005/motion-graphics",
+          "summary": "Shareable AI agent skills for code-based motion graphics (HyperFrames) and 4K SaaS/product animations — prompt libraries, 15 niche styles, scripts, and Claude.ai .zip bundles.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": null,
+          "published_at": "2026-11-19T05:10:07Z",
+          "checked_at": "2026-11-19T07:51:00Z"
+        },
+        {
+          "id": "topic-repo-sandbase-lab--awesome-fable-5-2",
+          "title": "sandbase-lab/awesome-fable-5-2",
+          "url": "https://github.com/sandbase-lab/awesome-fable-5-2",
+          "summary": "Awesome Claude Fable 5.2: curated videos, prompts and examples made with Claude Fable 5.2 (Three.js scenes, canvas animations and motion graphics), plus a prompt guide, tutorial and model comparison. Synced daily from SandBase Lab.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "NOASSERTION",
+          "published_at": "2026-11-18T22:27:10Z",
+          "checked_at": "2026-11-19T07:51:00Z"
         },
         {
           "id": "topic-repo-struqapp--struq-design",
@@ -249,44 +274,8 @@
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": "MIT",
-          "published_at": "2026-11-18T20:14:40Z",
-          "checked_at": "2026-11-18T20:51:37Z"
-        },
-        {
-          "id": "topic-repo-pihu26112005--claude-editing-skills",
-          "title": "pihu26112005/claude-editing-skills",
-          "url": "https://github.com/pihu26112005/claude-editing-skills",
-          "summary": "Free, open-source Claude plugin with 76 motion-graphics skills: animated captions, titles, frames, zooms and explainer animations for Reels, TikTok and Shorts. Your footage stays untouched.",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": "MIT",
-          "published_at": "2026-11-18T16:11:01Z",
-          "checked_at": "2026-11-18T20:51:37Z"
-        },
-        {
-          "id": "topic-repo-wlsprjroom--motion-graphic-lab",
-          "title": "wlsprjroom/motion-graphic-lab",
-          "url": "https://github.com/wlsprjroom/motion-graphic-lab",
-          "summary": "make animation with claude",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": null,
-          "published_at": "2026-11-18T09:26:16Z",
-          "checked_at": "2026-11-18T20:51:37Z"
-        },
-        {
-          "id": "topic-repo-risingjerry--motion-skill",
-          "title": "risingjerry/motion-skill",
-          "url": "https://github.com/risingjerry/motion-skill",
-          "summary": "motion-skill (Claude 动效 Skill): a Claude Code skill that makes 4K motion graphics videos with code — product launch videos, app promos, logo animations, Blender 3D product shots. Storyboard first, frame checks, beat-synced music. 用 Claude 做动效视频，不用 AI 生视频。",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": "MIT",
-          "published_at": "2026-11-18T07:48:41Z",
-          "checked_at": "2026-11-18T20:51:37Z"
+          "published_at": "2026-11-18T21:02:59Z",
+          "checked_at": "2026-11-19T07:51:00Z"
         }
       ],
       "health": {
@@ -310,8 +299,8 @@
         }
       },
       "ai_selected_ids": [],
-      "checked_at": "2026-11-18T20:51:37Z",
-      "last_attempt_at": "2026-11-18T20:51:39Z"
+      "checked_at": "2026-11-19T07:51:00Z",
+      "last_attempt_at": "2026-11-19T07:51:02Z"
     },
     {
       "id": "remotion",
@@ -320,17 +309,6 @@
       "web_query": "Remotion Claude animation",
       "items": [
         {
-          "id": "20cd4afd5b3711a44d",
-          "title": "v4.0.545",
-          "url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.545",
-          "summary": "What's Changed Remotion now supports proper motion blur @remotion/transitions: Add motionBlur to TransitionSeries.Transition by @JonnyBurger in #13005 remotion: Reject non-finite volume values by @DeryFerd in #13473…",
-          "kind": "topic_rss",
-          "source_name": "Remotion",
-          "basis": "rss_excerpt",
-          "published_at": "2026-11-18T10:29:30Z",
-          "checked_at": "2026-11-18T20:51:16Z"
-        },
-        {
           "id": "skill-c7818f3761053cc84d",
           "title": "Skill: claude-remotion-skill",
           "url": "https://github.com/haidrrrry/claude-remotion-skill",
@@ -338,7 +316,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -349,7 +327,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -360,7 +338,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -371,7 +349,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
         },
         {
@@ -382,7 +360,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
         },
         {
@@ -393,7 +371,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
         },
         {
@@ -404,7 +382,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
         },
         {
@@ -415,7 +393,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
         },
         {
@@ -426,7 +404,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
         },
         {
@@ -437,7 +415,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
         },
         {
@@ -448,20 +426,30 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
         },
         {
-          "id": "topic-repo-spfr--tuidev",
-          "title": "spfr/tuidev",
-          "url": "https://github.com/spfr/tuidev",
-          "summary": "Terminal setup for Claude Code and Codex: sandboxed agents, a view of which one needs you, remote previews, cleanup.",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": "MIT",
-          "published_at": "2026-11-18T20:50:26Z",
-          "checked_at": "2026-11-18T20:51:40Z"
+          "id": "skill-d1a611db596d85c447",
+          "title": "cktang88/claude-vista-theme",
+          "url": "https://github.com/cktang88/claude-vista-theme",
+          "summary": "A far-view nature theme for the Claude desktop app: misty ridges, snowy peaks, a lake, tall pines, drifting clouds, birds and a bright sun.",
+          "kind": "topic_rss",
+          "source_name": "GitHub",
+          "basis": "rss_excerpt",
+          "published_at": "2026-11-18T19:44:35Z",
+          "checked_at": null
+        },
+        {
+          "id": "20cd4afd5b3711a44d",
+          "title": "v4.0.545",
+          "url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.545",
+          "summary": "What's Changed Remotion now supports proper motion blur @remotion/transitions: Add motionBlur to TransitionSeries.Transition by @JonnyBurger in #13005 remotion: Reject non-finite volume values by @DeryFerd in #13473…",
+          "kind": "topic_rss",
+          "source_name": "Remotion",
+          "basis": "rss_excerpt",
+          "published_at": "2026-11-18T10:29:30Z",
+          "checked_at": "2026-11-19T07:50:44Z"
         },
         {
           "id": "topic-repo-stablyai--orca",
@@ -472,32 +460,32 @@
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": "MIT",
-          "published_at": "2026-11-18T20:50:39Z",
-          "checked_at": "2026-11-18T20:51:40Z"
+          "published_at": "2026-11-19T07:50:48Z",
+          "checked_at": "2026-11-19T07:51:02Z"
         },
         {
-          "id": "topic-repo-evanzhang008--open-walnut",
-          "title": "EvanZhang008/open-walnut",
-          "url": "https://github.com/EvanZhang008/open-walnut",
-          "summary": "Claude Code on your laptop and remote dev boxes, in one web page. Sessions keep running when SSH drops (no tmux), each session's changes get their own diff, plus tasks, notes, and memory. Self-hosted.",
+          "id": "topic-repo-blacker521--codex-local-bridge",
+          "title": "blacker521/codex-local-bridge",
+          "url": "https://github.com/blacker521/codex-local-bridge",
+          "summary": "单 VSIX 安装入口，让远程 Codex / Claude Code 通过编辑器 Remote 通道使用本机 CC Switch。",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": "MIT",
-          "published_at": "2026-11-18T20:47:48Z",
-          "checked_at": "2026-11-18T20:51:40Z"
+          "published_at": "2026-11-19T07:45:08Z",
+          "checked_at": "2026-11-19T07:51:02Z"
         },
         {
-          "id": "topic-repo-mcmadsen--lean-agent",
-          "title": "mcmadsen/lean-agent",
-          "url": "https://github.com/mcmadsen/lean-agent",
-          "summary": "Token-frugal orchestration for Claude Code: a front-desk session that hands work to cheap worker agents, one Remote Control session per thread, budgets, reviews and shared memory.",
+          "id": "topic-repo-emasoft--llm-externalizer-plugin",
+          "title": "Emasoft/llm-externalizer-plugin",
+          "url": "https://github.com/Emasoft/llm-externalizer-plugin",
+          "summary": "Claude Code plugin: MCP server that offloads bounded LLM tasks to cheaper local (LM Studio, Ollama, vLLM, llama.cpp) or remote (OpenRouter) models with profile-based configuration and ensemble mode",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": "MIT",
-          "published_at": "2026-11-18T20:45:13Z",
-          "checked_at": "2026-11-18T20:51:40Z"
+          "published_at": "2026-11-19T07:40:04Z",
+          "checked_at": "2026-11-19T07:51:02Z"
         },
         {
           "id": "topic-repo-ventura8--tutti",
@@ -508,14 +496,26 @@
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": "MIT",
-          "published_at": "2026-11-18T20:49:59Z",
-          "checked_at": "2026-11-18T20:51:40Z"
+          "published_at": "2026-11-19T07:50:19Z",
+          "checked_at": "2026-11-19T07:51:02Z"
+        },
+        {
+          "id": "topic-repo-arkaida--agent-orbit",
+          "title": "Arkaida/agent-orbit",
+          "url": "https://github.com/Arkaida/agent-orbit",
+          "summary": "A standalone native macOS session monitor for local Codex and remote Codex / Claude, with a floating orbit, completion alerts and themes.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "MIT",
+          "published_at": "2026-11-19T07:32:57Z",
+          "checked_at": "2026-11-19T07:51:02Z"
         }
       ],
       "health": {
         "rss": {
           "status": "ok",
-          "count": 12
+          "count": 13
         },
         "github": {
           "status": "ok",
@@ -533,8 +533,8 @@
         }
       },
       "ai_selected_ids": [],
-      "checked_at": "2026-11-18T20:51:40Z",
-      "last_attempt_at": "2026-11-18T20:51:42Z"
+      "checked_at": "2026-11-19T07:51:02Z",
+      "last_attempt_at": "2026-11-19T07:51:04Z"
     },
     {
       "id": "grok-video",
@@ -550,7 +550,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -561,7 +561,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -572,7 +572,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -583,7 +583,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -594,7 +594,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -605,7 +605,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -616,7 +616,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -627,7 +627,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -638,7 +638,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -649,7 +649,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -660,7 +660,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -671,7 +671,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -682,7 +682,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -693,7 +693,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -704,7 +704,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -715,7 +715,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -726,7 +726,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -737,7 +737,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -748,7 +748,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -759,68 +759,68 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
-          "id": "topic-repo-ypcc--knowledge-to-experience-harness",
-          "title": "YPCC/knowledge-to-experience-harness",
-          "url": "https://github.com/YPCC/knowledge-to-experience-harness",
-          "summary": "Reusable Knowledge-to-Experience Agent Harness: turns GitHub repos, papers, docs into short 3Blue1Brown-style educational videos, metadata, searchable mini-YouTube platform with grounded chat (Grok-integrable).",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": null,
-          "published_at": "2026-11-18T18:37:16Z",
-          "checked_at": "2026-11-18T20:51:42Z"
-        },
-        {
-          "id": "topic-repo-tubelabhq--youtube-research-skills",
-          "title": "TubeLabHQ/youtube-research-skills",
-          "url": "https://github.com/TubeLabHQ/youtube-research-skills",
-          "summary": "AI agent skills for YouTube research. Outlier videos, niche finding & validation, competitor research, comment mining, title formulas, thumbnail concepts, script breakdowns, monetization gaps & sponsor prospecting. Powered by TubeLab. Works with Claude Code, Cursor, Codex, ChatGPT, Grok.",
+          "id": "topic-repo-viralswipefile--viralswipefile-plugin",
+          "title": "viralswipefile/viralswipefile-plugin",
+          "url": "https://github.com/viralswipefile/viralswipefile-plugin",
+          "summary": "Know what to post on TikTok and Instagram Reels: viral videos and their hooks by niche and format, for Claude, ChatGPT, Codex, Cursor and Grok over MCP.",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": "MIT",
-          "published_at": "2026-11-18T18:35:37Z",
-          "checked_at": "2026-11-18T20:51:42Z"
+          "published_at": "2026-11-19T07:21:08Z",
+          "checked_at": "2026-11-19T07:51:04Z"
         },
         {
-          "id": "topic-repo-youmind-openlab--awesome-grok-imagine-prompts",
-          "title": "YouMind-OpenLab/awesome-grok-imagine-prompts",
-          "url": "https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts",
-          "summary": "🎬 Curated Grok Imagine (xAI) video generation prompts — cinematic, action, anime, product, meme styles. Includes prompt engineering tips, style guides, and creative video workflows.",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": "NOASSERTION",
-          "published_at": "2026-11-18T17:24:48Z",
-          "checked_at": "2026-11-18T20:51:42Z"
-        },
-        {
-          "id": "topic-repo-seinnaing911-coder--myanmar-free-video-dubber-tiktok",
-          "title": "seinnaing911-coder/myanmar-free-video-dubber-tiktok",
-          "url": "https://github.com/seinnaing911-coder/myanmar-free-video-dubber-tiktok",
-          "summary": "Myanmar video dubbing with session-only Grok key input and TikTok 9:16 export",
+          "id": "topic-repo-yishengjiang99--finalcut",
+          "title": "yishengjiang99/finalcut",
+          "url": "https://github.com/yishengjiang99/finalcut",
+          "summary": "Ffmpeg and Grok powered video editor. Hosted at https://grepawk.com",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": null,
-          "published_at": "2026-11-18T17:13:15Z",
-          "checked_at": "2026-11-18T20:51:42Z"
+          "published_at": "2026-11-19T04:42:50Z",
+          "checked_at": "2026-11-19T07:51:04Z"
         },
         {
-          "id": "topic-repo-imaginevid--awesome-grok-imagine-video-prompts-and-skills",
-          "title": "imagineVid/awesome-grok-imagine-video-prompts-and-skills",
-          "url": "https://github.com/imagineVid/awesome-grok-imagine-video-prompts-and-skills",
-          "summary": "Source-backed Grok Imagine Video prompts with real result clips, camera paths, audio-aware workflows, and multilingual guides.",
+          "id": "topic-repo-tryagi--xai",
+          "title": "tryAGI/Xai",
+          "url": "https://github.com/tryAGI/Xai",
+          "summary": "C# SDK for the xAI (Grok) API - chat, images, video, realtime voice, embeddings",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
-          "license": "NOASSERTION",
-          "published_at": "2026-11-18T16:56:18Z",
-          "checked_at": "2026-11-18T20:51:42Z"
+          "license": "MIT",
+          "published_at": "2026-11-19T04:35:32Z",
+          "checked_at": "2026-11-19T07:51:04Z"
+        },
+        {
+          "id": "topic-repo-mykemueller1-ctrl--grok-bot-restaurant-scout",
+          "title": "mykemueller1-ctrl/grok-bot-restaurant-scout",
+          "url": "https://github.com/mykemueller1-ctrl/grok-bot-restaurant-scout",
+          "summary": "Grok Bot configuration, skills, routines, and MCP connectors for a restaurant social commerce scout agent that finds trending food creators, drafts shoppable videos, and feeds the TikTok Shop catalog.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": null,
+          "published_at": "2026-11-19T04:20:37Z",
+          "checked_at": "2026-11-19T07:51:04Z"
+        },
+        {
+          "id": "topic-repo-tiennguyenoff--video-pod-grok-bot",
+          "title": "tiennguyenoff/Video-POD-Grok-Bot",
+          "url": "https://github.com/tiennguyenoff/Video-POD-Grok-Bot",
+          "summary": "Описание отсутствует.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": null,
+          "published_at": "2026-11-19T02:20:40Z",
+          "checked_at": "2026-11-19T07:51:04Z"
         }
       ],
       "health": {
@@ -844,8 +844,8 @@
         }
       },
       "ai_selected_ids": [],
-      "checked_at": "2026-11-18T20:51:42Z",
-      "last_attempt_at": "2026-11-18T20:51:44Z"
+      "checked_at": "2026-11-19T07:51:04Z",
+      "last_attempt_at": "2026-11-19T07:51:06Z"
     },
     {
       "id": "motion-web",
@@ -861,7 +861,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -872,7 +872,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
         },
         {
@@ -883,7 +883,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
         },
         {
@@ -894,7 +894,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
         },
         {
@@ -905,7 +905,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
         },
         {
@@ -916,7 +916,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
         },
         {
@@ -927,7 +927,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
         },
         {
@@ -938,7 +938,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
         },
         {
@@ -949,7 +949,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
         },
         {
@@ -960,7 +960,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
         },
         {
@@ -971,7 +971,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
         },
         {
@@ -982,7 +982,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
         },
         {
@@ -993,7 +993,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
         },
         {
@@ -1004,7 +1004,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
         },
         {
@@ -1015,7 +1015,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
         },
         {
@@ -1026,7 +1026,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
         },
         {
@@ -1037,7 +1037,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
         },
         {
@@ -1048,7 +1048,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
         },
         {
@@ -1059,7 +1059,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
         },
         {
@@ -1070,68 +1070,68 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
         },
         {
-          "id": "topic-repo-foreverfirefly872--creatoon",
-          "title": "foreverfirefly872/Creatoon",
-          "url": "https://github.com/foreverfirefly872/Creatoon",
-          "summary": "CreaToon is a free video animation tool for Windows that simplifies 2D animation creation with real-time feedback and special effects, making it ideal for web developers and designers.",
+          "id": "topic-repo-simplyraka90--auram-cafe-3d-tyoe",
+          "title": "Simplyraka90/Auram-Cafe-3d-tyoe",
+          "url": "https://github.com/Simplyraka90/Auram-Cafe-3d-tyoe",
+          "summary": "here the cafe web with the admin panle using next and three.js 3d animation includes",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": null,
-          "published_at": "2026-11-18T20:15:59Z",
-          "checked_at": "2026-11-18T20:51:45Z"
+          "published_at": "2026-11-19T07:50:12Z",
+          "checked_at": "2026-11-19T07:51:07Z"
         },
         {
-          "id": "topic-repo-woodoo-labs--kilopixel",
-          "title": "woodoo-labs/kilopixel",
-          "url": "https://github.com/woodoo-labs/kilopixel",
-          "summary": "Write HTML, get 60fps Canvas animations. A lightweight, zero-build Web Component framework for declarative graphics.",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": null,
-          "published_at": "2026-11-18T20:13:05Z",
-          "checked_at": "2026-11-18T20:51:45Z"
-        },
-        {
-          "id": "topic-repo-frankillusia--illusia-agency-website",
-          "title": "FrankIllusia/illusia-agency-website",
-          "url": "https://github.com/FrankIllusia/illusia-agency-website",
-          "summary": "illusiaagency.com — Next.js 14, GSAP scroll animations, AI-powered creative agency",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": null,
-          "published_at": "2026-11-18T20:09:26Z",
-          "checked_at": "2026-11-18T20:51:45Z"
-        },
-        {
-          "id": "topic-repo-ainsep--kuinetic",
-          "title": "AINSEP/kuinetic",
-          "url": "https://github.com/AINSEP/kuinetic",
-          "summary": "Declarative web animation from HTML attributes. Native CSS where possible, JS only where necessary.",
+          "id": "topic-repo-timpickle--playbook-studio-web",
+          "title": "TIMPICKLE/playbook-studio-web",
+          "url": "https://github.com/TIMPICKLE/playbook-studio-web",
+          "summary": "Independent football playbook editor: formations, routes, animation, local backups and printable wristbands. Public-feature research with REA.",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": "MIT",
-          "published_at": "2026-11-18T20:03:01Z",
-          "checked_at": "2026-11-18T20:51:45Z"
+          "published_at": "2026-11-19T07:24:02Z",
+          "checked_at": "2026-11-19T07:51:07Z"
         },
         {
-          "id": "topic-repo-commando769--3d-flash-animator",
-          "title": "commando769/3d-Flash-Animator",
-          "url": "https://github.com/commando769/3d-Flash-Animator",
-          "summary": "3D Flash Animator, a multimedia tool for Windows, allows you to create stunning 3D animations and easily convert images into interactive flash content, perfect for enhancing web experiences.",
+          "id": "topic-repo-adityaradye733-debug--webcraft",
+          "title": "adityaradye733-debug/Webcraft",
+          "url": "https://github.com/adityaradye733-debug/Webcraft",
+          "summary": "I build fast, modern, and SEO-friendly websites & eCommerce stores. Clean code, smooth animations, and a results-first approach.",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
-          "license": "MIT",
-          "published_at": "2026-11-18T19:59:22Z",
-          "checked_at": "2026-11-18T20:51:45Z"
+          "license": null,
+          "published_at": "2026-11-19T07:47:29Z",
+          "checked_at": "2026-11-19T07:51:07Z"
+        },
+        {
+          "id": "topic-repo-naretchartham2525-cpu--web-animation",
+          "title": "naretchartham2525-cpu/web-animation",
+          "url": "https://github.com/naretchartham2525-cpu/web-animation",
+          "summary": "Описание отсутствует.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": null,
+          "published_at": "2026-11-19T06:58:16Z",
+          "checked_at": "2026-11-19T07:51:07Z"
+        },
+        {
+          "id": "topic-repo-game-ever--gameever-web",
+          "title": "Game-Ever/gameever-web",
+          "url": "https://github.com/Game-Ever/gameever-web",
+          "summary": "Game Ever website — game & animation studio from Buenos Aires (Astro, EN/ES)",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": null,
+          "published_at": "2026-11-19T06:56:01Z",
+          "checked_at": "2026-11-19T07:51:07Z"
         }
       ],
       "health": {
@@ -1155,8 +1155,8 @@
         }
       },
       "ai_selected_ids": [],
-      "checked_at": "2026-11-18T20:51:45Z",
-      "last_attempt_at": "2026-11-18T20:51:47Z"
+      "checked_at": "2026-11-19T07:51:07Z",
+      "last_attempt_at": "2026-11-19T07:51:09Z"
     },
     {
       "id": "blender",
@@ -1165,17 +1165,6 @@
       "web_query": "Blender motion design",
       "items": [
         {
-          "id": "e4cc21e268351b6673",
-          "title": "Blender on Tablet: Path to Release",
-          "url": "https://code.blender.org/2026/11/tablet-path-to-release/",
-          "summary": "In 2025, Blender HQ organized a workshop to kick off the tablet project in Blender. Now that the project has reached a new stage, we wanted to revisit the previous discussions and propose a fresh plan of action. To do…",
-          "kind": "topic_rss",
-          "source_name": "Blender Developers",
-          "basis": "rss_excerpt",
-          "published_at": "2026-11-18T12:45:12Z",
-          "checked_at": "2026-11-18T20:51:16Z"
-        },
-        {
           "id": "skill-81dca9cf693d7864bd",
           "title": "Skill: motion-dev-animations-skill",
           "url": "https://github.com/199-biotechnologies/motion-dev-animations-skill",
@@ -1183,7 +1172,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -1194,7 +1183,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
         },
         {
@@ -1205,7 +1194,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
         },
         {
@@ -1216,7 +1205,7 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
         },
         {
@@ -1227,8 +1216,19 @@
           "kind": "topic_rss",
           "source_name": "Skillry",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:11Z",
+          "published_at": "2026-11-18T20:53:02Z",
           "checked_at": null
+        },
+        {
+          "id": "e4cc21e268351b6673",
+          "title": "Blender on Tablet: Path to Release",
+          "url": "https://code.blender.org/2026/11/tablet-path-to-release/",
+          "summary": "In 2025, Blender HQ organized a workshop to kick off the tablet project in Blender. Now that the project has reached a new stage, we wanted to revisit the previous discussions and propose a fresh plan of action. To do…",
+          "kind": "topic_rss",
+          "source_name": "Blender Developers",
+          "basis": "rss_excerpt",
+          "published_at": "2026-11-18T12:45:12Z",
+          "checked_at": "2026-11-19T07:50:44Z"
         },
         {
           "id": "e043b417e98aedf3bc",
@@ -1239,7 +1239,7 @@
           "source_name": "BlenderNation",
           "basis": "rss_excerpt",
           "published_at": "2026-11-16T07:31:21Z",
-          "checked_at": "2026-11-18T20:51:16Z"
+          "checked_at": "2026-11-19T07:50:44Z"
         },
         {
           "id": "16d2c05791639c17c7",
@@ -1250,7 +1250,7 @@
           "source_name": "BlenderNation",
           "basis": "rss_excerpt",
           "published_at": "2026-11-15T08:00:38Z",
-          "checked_at": "2026-11-18T20:51:16Z"
+          "checked_at": "2026-11-19T07:50:44Z"
         },
         {
           "id": "067ed2920ad16c4a68",
@@ -1261,7 +1261,7 @@
           "source_name": "BlenderNation",
           "basis": "rss_excerpt",
           "published_at": "2026-11-14T08:00:48Z",
-          "checked_at": "2026-11-18T20:51:16Z"
+          "checked_at": "2026-11-19T07:50:44Z"
         },
         {
           "id": "a0856d64957a231e0f",
@@ -1272,7 +1272,7 @@
           "source_name": "Blender Developers",
           "basis": "rss_excerpt",
           "published_at": "2026-11-13T14:07:13Z",
-          "checked_at": "2026-11-18T20:51:16Z"
+          "checked_at": "2026-11-19T07:50:44Z"
         },
         {
           "id": "099e353712707aafdd",
@@ -1283,7 +1283,7 @@
           "source_name": "BlenderNation",
           "basis": "rss_excerpt",
           "published_at": "2026-11-13T10:15:00Z",
-          "checked_at": "2026-11-18T20:51:16Z"
+          "checked_at": "2026-11-19T07:50:44Z"
         },
         {
           "id": "095d50b65d0f12d25d",
@@ -1294,7 +1294,7 @@
           "source_name": "Blender Developers",
           "basis": "rss_excerpt",
           "published_at": "2026-11-03T10:37:30Z",
-          "checked_at": "2026-11-18T20:51:16Z"
+          "checked_at": "2026-11-19T07:50:44Z"
         },
         {
           "id": "900e199369b6bee06c",
@@ -1305,7 +1305,7 @@
           "source_name": "Blender Developers",
           "basis": "rss_excerpt",
           "published_at": "2026-10-30T13:18:52Z",
-          "checked_at": "2026-11-18T20:51:16Z"
+          "checked_at": "2026-11-19T07:50:44Z"
         },
         {
           "id": "de8c72df8d1a2394b1",
@@ -1316,7 +1316,7 @@
           "source_name": "Three.js",
           "basis": "rss_excerpt",
           "published_at": "2026-10-30T08:03:18Z",
-          "checked_at": "2026-11-18T20:51:16Z"
+          "checked_at": "2026-11-19T07:50:44Z"
         },
         {
           "id": "a1f3db65653cf65854",
@@ -1327,7 +1327,7 @@
           "source_name": "Blender Developers",
           "basis": "rss_excerpt",
           "published_at": "2026-10-14T12:26:59Z",
-          "checked_at": "2026-11-18T20:51:16Z"
+          "checked_at": "2026-11-19T07:50:44Z"
         },
         {
           "id": "e5b60107e6763277b1",
@@ -1338,67 +1338,67 @@
           "source_name": "Codrops",
           "basis": "rss_excerpt",
           "published_at": "2026-09-12T08:40:31Z",
-          "checked_at": "2026-11-18T20:51:16Z"
+          "checked_at": "2026-11-19T07:50:44Z"
         },
         {
-          "id": "topic-repo-tzeentchnet--chromehounds-blender",
-          "title": "Tzeentchnet/Chromehounds-Blender",
-          "url": "https://github.com/Tzeentchnet/Chromehounds-Blender",
-          "summary": "Blender 5.2 importer for Chromehounds models, textures, animations, HOUND assemblies, and levels",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": "MIT",
-          "published_at": "2026-11-18T20:26:42Z",
-          "checked_at": "2026-11-18T20:51:47Z"
-        },
-        {
-          "id": "topic-repo-theeditor-face--roblox-story-studio",
-          "title": "theeditor-face/roblox-story-studio",
-          "url": "https://github.com/theeditor-face/roblox-story-studio",
-          "summary": "Autonomous 3D Roblox Story Animation Cloud Renderer (Parallel Headless Blender + Auto SFX/Music/Captions)",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": null,
-          "published_at": "2026-11-18T20:20:03Z",
-          "checked_at": "2026-11-18T20:51:47Z"
-        },
-        {
-          "id": "topic-repo-killercat4444--sanctuary-modding-toolkit",
-          "title": "Killercat4444/Sanctuary-Modding-Toolkit",
-          "url": "https://github.com/Killercat4444/Sanctuary-Modding-Toolkit",
-          "summary": "To be very clear, this was made with ChatGPt, this is a blender addon allowing for the import/export of meshes, textures, armatures, animations for SSS, this is meant as a mod creation tool.",
+          "id": "topic-repo-tsist--blender-render-batch",
+          "title": "tsist/blender-render-batch",
+          "url": "https://github.com/tsist/blender-render-batch",
+          "summary": "Ordered Blender animation renders with a Blender panel, restartable CLI, Colab runner, and skill.",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": "GPL-3.0",
-          "published_at": "2026-11-18T20:07:03Z",
-          "checked_at": "2026-11-18T20:51:47Z"
+          "published_at": "2026-11-19T07:46:51Z",
+          "checked_at": "2026-11-19T07:51:09Z"
         },
         {
-          "id": "topic-repo-faded-dream-project--halcyon",
-          "title": "Faded-Dream-Project/Halcyon",
-          "url": "https://github.com/Faded-Dream-Project/Halcyon",
-          "summary": "Halcyon: a calm, from-scratch 3D modeling and animation suite. Build game assets, props and tools, rig and animate them, and export anywhere. Simple to learn, easy to use, no clutter. An open-source Blender alternative. Part of the Faded Dream Project.",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": "NOASSERTION",
-          "published_at": "2026-11-18T20:50:44Z",
-          "checked_at": "2026-11-18T20:51:47Z"
-        },
-        {
-          "id": "topic-repo-andrewboldi--fluxdrive",
-          "title": "andrewboldi/fluxdrive",
-          "url": "https://github.com/andrewboldi/fluxdrive",
-          "summary": "3D-printed magnetic-gear bicycle: contactless pedaling + overtorque phase-slip recovery. Rust physics engines, LBM CFD, parametric CAD, Blender animation, device-level TDD.",
+          "id": "topic-repo-dustooned--2dope",
+          "title": "dustooned/2Dope",
+          "url": "https://github.com/dustooned/2Dope",
+          "summary": "Custom 2D-Animation to Blender app.",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": null,
-          "published_at": "2026-11-18T19:36:48Z",
-          "checked_at": "2026-11-18T20:51:47Z"
+          "published_at": "2026-11-19T07:30:47Z",
+          "checked_at": "2026-11-19T07:51:09Z"
+        },
+        {
+          "id": "topic-repo-i-smiling-buddha--blender-animation-skill",
+          "title": "i-smiling-buddha/blender-animation-skill",
+          "url": "https://github.com/i-smiling-buddha/blender-animation-skill",
+          "summary": "Ultimate Blender agent skill: 138 Blender skills fused into one. Modeling, rigging, animation, PBR, sims, rendering, game export, 90+ art styles. Tested in Blender 5.3. Claude Code, Codex, Cursor.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "NOASSERTION",
+          "published_at": "2026-11-19T07:38:09Z",
+          "checked_at": "2026-11-19T07:51:09Z"
+        },
+        {
+          "id": "topic-repo-rmgx-sanae--blender-cell-biology",
+          "title": "RMgX-sanae/blender-cell-biology",
+          "url": "https://github.com/RMgX-sanae/blender-cell-biology",
+          "summary": "Source-backed Blender cell biology models, mechanism animations, reference styles and reproducible agent workflows.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": null,
+          "published_at": "2026-11-19T07:44:34Z",
+          "checked_at": "2026-11-19T07:51:09Z"
+        },
+        {
+          "id": "topic-repo-cravvnn--renderlock",
+          "title": "cravvnn/RenderLock",
+          "url": "https://github.com/cravvnn/RenderLock",
+          "summary": "RenderLock turns Deadlock replays into editable Blender scenes: character animation, supported effects and an experimental character look.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "MIT",
+          "published_at": "2026-11-19T06:10:16Z",
+          "checked_at": "2026-11-19T07:51:09Z"
         }
       ],
       "health": {
@@ -1422,8 +1422,8 @@
         }
       },
       "ai_selected_ids": [],
-      "checked_at": "2026-11-18T20:51:47Z",
-      "last_attempt_at": "2026-11-18T20:51:49Z"
+      "checked_at": "2026-11-19T07:51:09Z",
+      "last_attempt_at": "2026-11-19T07:51:11Z"
     },
     {
       "id": "comfyui",
@@ -1439,7 +1439,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -1450,7 +1450,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -1461,7 +1461,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -1472,7 +1472,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -1483,7 +1483,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -1494,7 +1494,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -1505,7 +1505,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -1516,7 +1516,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -1527,7 +1527,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -1538,7 +1538,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -1549,7 +1549,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -1560,7 +1560,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -1571,7 +1571,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -1582,7 +1582,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -1593,7 +1593,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -1604,7 +1604,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -1615,7 +1615,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -1626,7 +1626,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -1637,7 +1637,7 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
@@ -1648,68 +1648,68 @@
           "kind": "topic_rss",
           "source_name": "Oneshotted",
           "basis": "rss_excerpt",
-          "published_at": "2026-11-18T07:55:12Z",
+          "published_at": "2026-11-18T20:53:03Z",
           "checked_at": null
         },
         {
-          "id": "topic-repo-rmatif--comfyui-stickertrack",
-          "title": "rmatif/ComfyUI-StickerTrack",
-          "url": "https://github.com/rmatif/ComfyUI-StickerTrack",
-          "summary": "Keep a sticker on a character's face through a video (SAM 3.1 + TAPNext++), exported as a per-frame JSON track",
+          "id": "topic-repo-harshipatel2006--comfyui-workflows",
+          "title": "HarshiPatel2006/ComfyUI-Workflows",
+          "url": "https://github.com/HarshiPatel2006/ComfyUI-Workflows",
+          "summary": "568 ready-to-use ComfyUI workflows (JSON) for FLUX, Qwen-Image, Wan, LTX, MiniMax H3 and Krea 2: text-to-image, image editing, upscaling, video, lip-sync, audio and 3D",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
-          "license": "Apache-2.0",
-          "published_at": "2026-11-18T20:48:54Z",
-          "checked_at": "2026-11-18T20:51:50Z"
+          "license": null,
+          "published_at": "2026-11-19T07:49:52Z",
+          "checked_at": "2026-11-19T07:51:12Z"
         },
         {
-          "id": "topic-repo-code2collapse--comfyui-customnodepacks",
-          "title": "Code2Collapse/ComfyUI-CustomNodePacks",
-          "url": "https://github.com/Code2Collapse/ComfyUI-CustomNodePacks",
-          "summary": "Experimental nodes! This is a production suite for ComfyUI — SAM2.1/SAM3 segmentation, alpha matting, inpaint crop/stitch, VFX tools (EXR I/O, LUTs, render passes), video mask propagation, temporal anchors, VAE merging, spline editors, and auto-versioned output.",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": "Apache-2.0",
-          "published_at": "2026-11-18T20:42:06Z",
-          "checked_at": "2026-11-18T20:51:50Z"
-        },
-        {
-          "id": "topic-repo-nicotina4ever--nl-video-suite",
-          "title": "Nicotina4ever/NL-Video-Suite",
-          "url": "https://github.com/Nicotina4ever/NL-Video-Suite",
-          "summary": "Video suite for local elaboration with ComfyUI, Ollama and other tools",
+          "id": "topic-repo-jutsuhq--ai-media-router",
+          "title": "jutsuhq/ai-media-router",
+          "url": "https://github.com/jutsuhq/ai-media-router",
+          "summary": "Open-source MCP server for AI video generation and images: Seedance, Kling, Veo, Wan, FLUX and more across 40+ providers (fal, Replicate, kie, Runware or your own ComfyUI) with your own keys, prices compared before spending, and a local library. One Rust binary, MIT.",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": "MIT",
-          "published_at": "2026-11-18T20:41:19Z",
-          "checked_at": "2026-11-18T20:51:50Z"
+          "published_at": "2026-11-19T07:46:22Z",
+          "checked_at": "2026-11-19T07:51:12Z"
         },
         {
-          "id": "topic-repo-abrahampaulj--nightmare-mobile",
-          "title": "AbrahamPaulJ/nightmare-mobile",
-          "url": "https://github.com/AbrahamPaulJ/nightmare-mobile",
-          "summary": "On-device, ComfyUI-style node graph for image/video diffusion on Android. Run MiniMax H3 and WAN 2.2 14B on the Qualcomm Hexagon NPU. SD1.5, SDXL, Flux, Z-Image, Anima, Qwen Image 2.1, Krea 2 & MOSS Image. Inpainting, outpainting, ControlNet, LoRA, IP-Adapter & LivePortrait. Fully offline, no server, no account.",
-          "kind": "topic_repository",
-          "source_name": "GitHub · публичные метаданные",
-          "basis": "metadata_only",
-          "license": "NOASSERTION",
-          "published_at": "2026-11-18T20:51:06Z",
-          "checked_at": "2026-11-18T20:51:50Z"
-        },
-        {
-          "id": "topic-repo-lordlocksley--comfyui-lokken-videotools",
-          "title": "LordLocksley/ComfyUI-Lokken-VideoTools",
-          "url": "https://github.com/LordLocksley/ComfyUI-Lokken-VideoTools",
-          "summary": "Video post-processing for ComfyUI: Lanczos upscaling, optional RIFE frame interpolation (Fill Nodes required), adjustable film grain, audio passthrough, configurable H.264 presets/profiles and CRF or lossless encoding, with selectable frame batching. Accepts video or image batches; outputs video, FPS and timing statistics.",
+          "id": "topic-repo-igorls--comfyui-h3-editor",
+          "title": "igorls/comfyui-h3-editor",
+          "url": "https://github.com/igorls/comfyui-h3-editor",
+          "summary": "A timeline video editor for MiniMax H3 inside ComfyUI: write shots, render them on your own GPU, cut picture and sound together, or let an agent make the video.",
           "kind": "topic_repository",
           "source_name": "GitHub · публичные метаданные",
           "basis": "metadata_only",
           "license": "GPL-3.0",
-          "published_at": "2026-11-18T20:36:20Z",
-          "checked_at": "2026-11-18T20:51:50Z"
+          "published_at": "2026-11-19T07:31:07Z",
+          "checked_at": "2026-11-19T07:51:12Z"
+        },
+        {
+          "id": "topic-repo-pche2020--mac-windows-remote-toolkit",
+          "title": "pche2020/mac-windows-remote-toolkit",
+          "url": "https://github.com/pche2020/mac-windows-remote-toolkit",
+          "summary": "Control a Windows PC from your Mac over LAN — Tailscale + SSH + RDP + ComfyUI remote rendering toolkit with MiniMax H3 local video generation, agent-ready setup docs and scripts.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "MIT",
+          "published_at": "2026-11-19T07:28:48Z",
+          "checked_at": "2026-11-19T07:51:12Z"
+        },
+        {
+          "id": "topic-repo-jutsuhq--kawarimi-local-character-swap",
+          "title": "jutsuhq/kawarimi-local-character-swap",
+          "url": "https://github.com/jutsuhq/kawarimi-local-character-swap",
+          "summary": "Free, open-source Viggle alternative for Windows and Linux: swap a person in a 4–30 s video for a character from one image with Wan 2.2 Animate on your own NVIDIA GPU (12 GB VRAM recommended). $0 per video, no cloud, no account. Rust and ONNX Runtime prep, ComfyUI render, MCP server. Unofficial.",
+          "kind": "topic_repository",
+          "source_name": "GitHub · публичные метаданные",
+          "basis": "metadata_only",
+          "license": "MIT",
+          "published_at": "2026-11-19T07:23:12Z",
+          "checked_at": "2026-11-19T07:51:12Z"
         }
       ],
       "health": {
@@ -1733,8 +1733,8 @@
         }
       },
       "ai_selected_ids": [],
-      "checked_at": "2026-11-18T20:51:50Z",
-      "last_attempt_at": "2026-11-18T20:51:52Z"
+      "checked_at": "2026-11-19T07:51:12Z",
+      "last_attempt_at": "2026-11-19T07:51:14Z"
     }
   ]
 }
