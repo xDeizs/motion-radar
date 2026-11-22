@@ -28,7 +28,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://github.com/mrdoob/three.js/releases/tag/r187",
-    "generated_at": "2026-11-21T19:44:25+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "fe7b225f29d029cecf": {
@@ -42,7 +42,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://github.com/pmndrs/react-three-fiber/releases/tag/v10.0.0-alpha.6",
-    "generated_at": "2026-11-21T19:44:25+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "6589cb60831970accb": {
@@ -56,7 +56,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://github.com/pmndrs/react-three-fiber/releases/tag/v9.8.2",
-    "generated_at": "2026-11-21T19:44:25+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "eb67409897ed2136a7": {
@@ -122,10 +122,10 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://tympanus.net/codrops/2026/09/14/inside-resns-digital-experiences/",
-    "generated_at": "2026-11-20T20:41:49+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "AI-разбор не выполнен (ValueError). Сохранена выдержка из RSS.",
-    "retry_after": "2026-11-21T20:41:37+00:00",
-    "ai_attempted_at": "2026-11-20T20:41:37+00:00"
+    "retry_after": "2026-11-23T07:22:31+00:00",
+    "ai_attempted_at": "2026-11-22T07:22:31+00:00"
   },
   "6ac95cc8a8f3622243": {
     "fingerprint": "a1bf027ff862e7d6a04756a5662b4bbda81f190105c5712829ed87b533156d59",
@@ -157,10 +157,10 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://tympanus.net/codrops/2026/09/12/yestalgia-bringing-decathlons-90s-spirit-to-life-through-a-playful-digital-experience/",
-    "generated_at": "2026-11-20T20:41:59+00:00",
+    "generated_at": "2026-11-22T07:22:53+00:00",
     "note": "AI-разбор не выполнен (ValueError). Сохранена выдержка из RSS.",
-    "retry_after": "2026-11-21T20:41:37+00:00",
-    "ai_attempted_at": "2026-11-20T20:41:37+00:00"
+    "retry_after": "2026-11-23T07:22:31+00:00",
+    "ai_attempted_at": "2026-11-22T07:22:31+00:00"
   },
   "4f7f988bf02b3fb9b2": {
     "fingerprint": "e2b041fafc4b6b7febcb01be2bdebad3d87bae198d8bb8b3e557028d1f15d9ee",
@@ -224,8 +224,10 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-    "generated_at": "2026-11-21T19:44:49+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+    "generated_at": "2026-11-22T07:23:13+00:00",
+    "note": "AI-разбор не выполнен (ValueError). Сохранена выдержка из RSS.",
+    "retry_after": "2026-11-23T07:22:31+00:00",
+    "ai_attempted_at": "2026-11-22T07:22:31+00:00"
   },
   "089c7a4580d379ee85": {
     "fingerprint": "7344203997c11c602a10086c89ddff4d10d71c3e046e9f0e1433b7d29376597d",
@@ -238,8 +240,10 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://lesterbanks.com/2026/07/ruxin-liang-shares-tips-keeping-ornatrix-fast/",
-    "generated_at": "2026-11-21T19:44:49+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+    "generated_at": "2026-11-22T07:23:32+00:00",
+    "note": "AI-разбор не выполнен (ValueError). Сохранена выдержка из RSS.",
+    "retry_after": "2026-11-23T07:22:31+00:00",
+    "ai_attempted_at": "2026-11-22T07:22:31+00:00"
   },
   "a5a1e0a36884c03268": {
     "fingerprint": "ace2c7ffc8dc30a7e2adba9caf4c2f6c7211b67c9a8e3b7db5af8dd16a956fa9",
@@ -342,7 +346,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://github.com/motiondivision/motion/releases/tag/v14.14.0",
-    "generated_at": "2026-11-21T19:44:25+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "a0856d64957a231e0f": {
@@ -408,7 +412,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.545",
-    "generated_at": "2026-11-21T19:44:25+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "fe3a28f9983930caa9": {
@@ -457,7 +461,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://github.com/rive-app/rive-wasm/releases/tag/2.54.0",
-    "generated_at": "2026-11-21T19:44:25+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "0530d700df86d67af8": {
@@ -471,7 +475,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.46.2",
-    "generated_at": "2026-11-21T19:44:25+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "52684679a07e2d9620": {
@@ -526,326 +530,6 @@
     "note": "Публичный HTML · robots.txt соблюдён. Модель выбрала фрагменты оригинала, а не написала перевод. Проверяй контекст у автора.",
     "summary_style": "model_selected_source_excerpts"
   },
-  "skill-6e18aa23e1f0d14413": {
-    "fingerprint": "603a7cbfc49c3513e936cae8a1f9b50bfa144784eb45ff127808ab04f7d367e5",
-    "engine": "extractive",
-    "model": null,
-    "summary": "Agent skill для motion / video (из oneshotted.io)",
-    "takeaways": [],
-    "topics": [
-      "AI / видео",
-      "Skills",
-      "Web / motion"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/heygen-com/hyperframes",
-    "generated_at": "2026-11-21T19:44:21+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
-  "skill-ef984a9e4c84dd12f2": {
-    "fingerprint": "2499a5205f194a86b12c9c813a8c4f997aa27ef78f0e272358366f3f414caf1a",
-    "engine": "extractive",
-    "model": null,
-    "summary": "Agent skill для motion / video (из oneshotted.io)",
-    "takeaways": [],
-    "topics": [
-      "AI / видео",
-      "Skills",
-      "Web / motion"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/greensock/gsap-skills",
-    "generated_at": "2026-11-21T19:44:21+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
-  "skill-0a09b687d088cc7fc7": {
-    "fingerprint": "a3729be14fe05931fd2847b00d48231f78487e088d5d4fdb1c2eb0c13bd445ad",
-    "engine": "extractive",
-    "model": null,
-    "summary": "Agent skill для motion / video (из oneshotted.io)",
-    "takeaways": [],
-    "topics": [
-      "AI / видео",
-      "Skills",
-      "Web / motion"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/remotion-dev/skills",
-    "generated_at": "2026-11-21T19:44:21+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
-  "skill-1a6fc40b5313375efd": {
-    "fingerprint": "216e6997146849f16986268c91869c362bff3496759d4d3583091a231ac4c1e8",
-    "engine": "extractive",
-    "model": null,
-    "summary": "Agent skill для motion / video (из oneshotted.io)",
-    "takeaways": [],
-    "topics": [
-      "AI / видео",
-      "Skills",
-      "Web / motion"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/LottieFiles/motion-design-skill",
-    "generated_at": "2026-11-21T19:44:21+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
-  "skill-7c5122b5e0dde22967": {
-    "fingerprint": "d33b1d4d78428d68e20feb22cbfc84a20c86cdeb9be66a3c8517cc8f298f83ca",
-    "engine": "extractive",
-    "model": null,
-    "summary": "Agent skill для motion / video (из oneshotted.io)",
-    "takeaways": [],
-    "topics": [
-      "AI / видео",
-      "Skills",
-      "Web / motion"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/cth9191/animate",
-    "generated_at": "2026-11-21T19:44:21+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
-  "skill-e766de53aa63e736f9": {
-    "fingerprint": "73d56ee64f45d7e058558cf36440f01fc829526549b790d6233132f6e2b095f1",
-    "engine": "extractive",
-    "model": null,
-    "summary": "Agent skill для motion / video (из oneshotted.io)",
-    "takeaways": [],
-    "topics": [
-      "AI / видео",
-      "Skills",
-      "Web / motion"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/echris6/motion-video-kit",
-    "generated_at": "2026-11-21T19:44:21+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
-  "skill-c79d844cf58a113726": {
-    "fingerprint": "607bd2fc44f945800300714849a3c24d724695279e94078d675a9ec4bbfd4043",
-    "engine": "extractive",
-    "model": null,
-    "summary": "Agent skill для motion / video (из oneshotted.io)",
-    "takeaways": [],
-    "topics": [
-      "AI / видео",
-      "Skills",
-      "Web / motion"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/Barty-Bart/motion-graphics",
-    "generated_at": "2026-11-21T19:44:21+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
-  "skill-c7818f3761053cc84d": {
-    "fingerprint": "d01497660444144e3676ae8baf905ba253ecfd7630fdb8f39210aa22fd4b676c",
-    "engine": "extractive",
-    "model": null,
-    "summary": "Agent skill для motion / video (из oneshotted.io)",
-    "takeaways": [],
-    "topics": [
-      "AI / видео",
-      "Skills",
-      "Web / motion"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/haidrrrry/claude-remotion-skill",
-    "generated_at": "2026-11-21T19:44:21+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
-  "skill-f5272bdeeafca6411a": {
-    "fingerprint": "89c327ea02d184a24d6bfc158aa21886c5d5a9f2c7190d3b43cc4a8e7f617fb6",
-    "engine": "extractive",
-    "model": null,
-    "summary": "Agent skill для motion / video (из oneshotted.io)",
-    "takeaways": [],
-    "topics": [
-      "AI / видео",
-      "Skills",
-      "Web / motion"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/whaleyxbt/claude-motion",
-    "generated_at": "2026-11-21T19:44:21+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
-  "skill-f901031b7aee195173": {
-    "fingerprint": "75943f5ace03970e2962a46103cbd9e05fe2dea878cd34b052bc2b898fc1e70f",
-    "engine": "extractive",
-    "model": null,
-    "summary": "Agent skill для motion / video (из oneshotted.io)",
-    "takeaways": [],
-    "topics": [
-      "AI / видео",
-      "Skills",
-      "Web / motion"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/op7418/guizang-product-video-skill",
-    "generated_at": "2026-11-21T19:44:21+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
-  "skill-32c8e7b924dad673c2": {
-    "fingerprint": "fe8dfe233892f82bdc673365c6af822b6239f68c8fd2806165a0746114b076c5",
-    "engine": "extractive",
-    "model": null,
-    "summary": "Agent skill для motion / video (из oneshotted.io)",
-    "takeaways": [],
-    "topics": [
-      "AI / видео",
-      "Skills",
-      "Web / motion"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/howseen-ai/claude-motion-design",
-    "generated_at": "2026-11-21T19:44:21+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
-  "skill-78a9a0ffc799cdf34b": {
-    "fingerprint": "ce687c9282637338ac2501cbe4dc8150f375bd6c63c52b8f47c3a50e71469baa",
-    "engine": "extractive",
-    "model": null,
-    "summary": "Agent skill для motion / video (из oneshotted.io)",
-    "takeaways": [],
-    "topics": [
-      "AI / видео",
-      "Skills",
-      "Web / motion"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/charlie947/motion-graphics-skills",
-    "generated_at": "2026-11-21T19:44:21+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
-  "skill-f1afdbde596c4e5385": {
-    "fingerprint": "2dde39e9d08122bdf8e8874453703ab01d1c195db2a28378b2f4d1b5049d8f2e",
-    "engine": "extractive",
-    "model": null,
-    "summary": "Agent skill для motion / video (из oneshotted.io)",
-    "takeaways": [],
-    "topics": [
-      "AI / видео",
-      "Skills",
-      "Web / motion"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/Pluviobyte/video-production-skills",
-    "generated_at": "2026-11-21T19:44:21+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
-  "skill-543eb78add492e9487": {
-    "fingerprint": "5060c5d10399acf69678df28f489a2f39effa3e2fe35abba2d7cfaaf52743be4",
-    "engine": "extractive",
-    "model": null,
-    "summary": "Agent skill для motion / video (из oneshotted.io)",
-    "takeaways": [],
-    "topics": [
-      "AI / видео",
-      "Skills",
-      "Web / motion"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/guanmo-ai/awesome-ai-motion",
-    "generated_at": "2026-11-21T19:44:21+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
-  "skill-67a309e65af7df97e3": {
-    "fingerprint": "168424f9dcffb236fb4b218d58d218530d06c1ba6999b2a8dfde6d40783a9791",
-    "engine": "extractive",
-    "model": null,
-    "summary": "Agent skill для motion / video (из oneshotted.io)",
-    "takeaways": [],
-    "topics": [
-      "AI / видео",
-      "Skills",
-      "Web / motion"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/AbubakrChan/product-launch-motion",
-    "generated_at": "2026-11-21T19:44:21+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
-  "skill-78a9052206ec58b9dd": {
-    "fingerprint": "b9cb133b98e25e7211fb3fd9ef25fe460f5bf2aadc889c2c3f07492338383d5c",
-    "engine": "extractive",
-    "model": null,
-    "summary": "Agent skill для motion / video (из oneshotted.io)",
-    "takeaways": [],
-    "topics": [
-      "AI / видео",
-      "Skills",
-      "Web / motion"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/nilbuild/video-demo",
-    "generated_at": "2026-11-21T19:44:21+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
-  "skill-f935ce5ab6bcb2dd2d": {
-    "fingerprint": "cb58ea9c5fe09bcc52b19df7d40054c48915636299afcb5e4d6cc61a9e038e74",
-    "engine": "extractive",
-    "model": null,
-    "summary": "Agent skill для motion / video (из oneshotted.io)",
-    "takeaways": [],
-    "topics": [
-      "AI / видео",
-      "Skills",
-      "Web / motion"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/iart-ai/motion-design-skills",
-    "generated_at": "2026-11-21T19:44:21+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
-  "skill-81dca9cf693d7864bd": {
-    "fingerprint": "5662c0232b3d4762669dc71a81c2a748ce9f3284d8ee42c199eaf6fec9ee9784",
-    "engine": "extractive",
-    "model": null,
-    "summary": "Agent skill для motion / video (из oneshotted.io)",
-    "takeaways": [],
-    "topics": [
-      "AI / видео",
-      "Skills",
-      "Web / motion"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/199-biotechnologies/motion-dev-animations-skill",
-    "generated_at": "2026-11-21T19:44:21+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
-  "skill-19a564642e7051ac1f": {
-    "fingerprint": "2ab90bc0e925cea686d7e4ceb23b87a3ac08e7fa92ca3dc4d3adc88e54051387",
-    "engine": "extractive",
-    "model": null,
-    "summary": "Agent skill для motion / video (из oneshotted.io)",
-    "takeaways": [],
-    "topics": [
-      "AI / видео",
-      "Skills",
-      "Web / motion"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/Sunwood-ai-labs/hyperframes-motion-reel-skill",
-    "generated_at": "2026-11-21T19:44:21+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
-  "skill-8f1fd90145fcc1a5e5": {
-    "fingerprint": "4cfd7a4f12ac01c655204dee4442f812aae412a1c41f152ce9e4323ebec6c998",
-    "engine": "extractive",
-    "model": null,
-    "summary": "Agent skill для motion / video (из oneshotted.io)",
-    "takeaways": [],
-    "topics": [
-      "AI / видео",
-      "Skills",
-      "Web / motion"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/frankxai/awesome-motion-design-agent-skills",
-    "generated_at": "2026-11-21T19:44:21+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
   "skill-e1e8264c40e7c3910a": {
     "fingerprint": "5c198fa4ac4e01a8def5d75fe22ebd87335472e410db93ed5321eea658c1cea0",
     "engine": "extractive",
@@ -859,7 +543,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-hyperframes-agent-chorus-reel",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-d0a3a58c3cfc6bea12": {
@@ -875,7 +559,23 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-hero-angled-gallery",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "skill-e216f81cd7f3ff85c1": {
+    "fingerprint": "308853a21d948eda20499ddb345b8261f3d34f8eabab866d2b4924dbcd27cc00",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Turn a product name, logo, or short brief into a 40-60 second 1080p Anthropic IPO style brand film. Opens with a synced spoken hook and real-logo fly-through, flows through letterpress kinetic questions, a cosmic breath pause, and a rapid montage, and finishes on a beat-locked orchestral cadence. Includes 100 original 1080p clips paired 1-to-1 with diegetic sounds, 5 continuous chamber-string scor",
+    "takeaways": [],
+    "topics": [
+      "AI / видео",
+      "Skills",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://skillry.dev/skills/bs-anthropic-ipo-style-film",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-f2e285baeef2285511": {
@@ -891,7 +591,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-anthropic-report-style-hero",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-b1f36631b858ba6816": {
@@ -907,7 +607,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-apricot-doodle-plan-deck",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-70a0268e79d18e3cc3": {
@@ -924,7 +624,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-ascii-glitch-launch-video",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-7996e529f1b88b2752": {
@@ -940,7 +640,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-aurawave-audio-landing",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-797bd16e91f27a1bd7": {
@@ -956,7 +656,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-brand-story-deck",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-432ab5681a0dfaa345": {
@@ -972,7 +672,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-cadence-marketing-landing",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-0bb17a1e25441979cb": {
@@ -988,7 +688,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-hyperframes-capability-keynote-launch",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-9f9340b1683cf14e12": {
@@ -1004,7 +704,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-hyperframes-chat-to-result-launch",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-3549b72d560913536c": {
@@ -1020,7 +720,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-cinematic-wilds-deck",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-a193567f28f00ff0bf": {
@@ -1036,7 +736,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-claude-style-illustration",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-84d3e00ba419589116": {
@@ -1052,7 +752,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-cobalt-serif-marketing-deck",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-fc99ba0c96098d1463": {
@@ -1068,7 +768,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-hyperframes-code-change-launch",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-a08e476f44e5b20c07": {
@@ -1084,7 +784,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-hero-contact-bar",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-feaa5cbc4f2536ccdd": {
@@ -1100,7 +800,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-cards-card-counter",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-67dddbeaea874d6d81": {
@@ -1116,7 +816,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-comparison-accumulation-blocks",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-f4f18d1efee3fd0c7e": {
@@ -1132,7 +832,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-diagram-anchored-callouts",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-cc4d763ab5a0ca1170": {
@@ -1148,7 +848,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-diagram-branch-reveal",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-17ba6d84b565834578": {
@@ -1164,7 +864,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-chapter-browser-reveal",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-b646d2c3d75164ccd0": {
@@ -1180,7 +880,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-comparison-calculation-roi",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-4d495132261f18c198": {
@@ -1196,7 +896,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-pip-calendar-reschedule",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-d060643be5024941bd": {
@@ -1212,7 +912,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-comparison-capacity-reset",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-a00825cf53c1420392": {
@@ -1228,7 +928,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-diagram-capacity-callouts",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-0a4b044482d359ee2e": {
@@ -1244,7 +944,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-cards-status-row",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-7854afd05af8f5b9f7": {
@@ -1260,7 +960,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-cards-corner-tags",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-e24fcaa51e95c95b63": {
@@ -1276,7 +976,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-chapter-border-orbit",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-caca30777a407c3d9e": {
@@ -1292,7 +992,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-chapter-character-reveal",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-6ea5e0881fd9684a9f": {
@@ -1308,7 +1008,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-chapter-grid-flip",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-e26a6bd41dc3c2c951": {
@@ -1324,7 +1024,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-chapter-grid-pan",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-f2d9c49623eeb0c882": {
@@ -1340,7 +1040,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-chapter-label-stack",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-e7761cb469173e260f": {
@@ -1356,7 +1056,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-chapter-title-stamp",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-3338ee83cc77aa9eef": {
@@ -1372,7 +1072,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-cards-chapter-stack",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-738519511ac9704ec8": {
@@ -1388,7 +1088,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-split-chart-swap",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-753eb396d3927074d7": {
@@ -1404,7 +1104,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-split-chart-pan",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-81328d8e90f563021b": {
@@ -1420,7 +1120,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-cards-chat-stack",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-d805f1d2b257afb4c3": {
@@ -1436,7 +1136,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-pip-chat-response",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-693d044be1e9ce7133": {
@@ -1452,7 +1152,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-comparison-column-annotations",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-a604b5f6638eb52c95": {
@@ -1468,7 +1168,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-spotlight-comment-emphasis",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-7978f53ce18956ef08": {
@@ -1484,7 +1184,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-c85d40425976fafc91": {
@@ -1500,7 +1200,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-comparison-composition-strip",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-065082dba4efbfd91a": {
@@ -1516,7 +1216,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-diagram-convergence-evidence",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-4efc575715a50e5c99": {
@@ -1532,7 +1232,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-type-copy-correction",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-109780e38befcbe0f0": {
@@ -1548,7 +1248,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-cards-cost-range",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-cb723bd0b771f3d8e1": {
@@ -1564,7 +1264,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-comparison-cost-total",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-ac80d095e8f423588e": {
@@ -1580,7 +1280,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-diagram-cycle-build",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-3dc1a78b6754802d49": {
@@ -1596,7 +1296,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-diagram-cycle-traversal",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-8ce799268c020de672": {
@@ -1612,7 +1312,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-diagram-decompose-scan",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-481fe976c3f3502583": {
@@ -1628,7 +1328,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-type-definition-reframe",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-020034c2e8e852bf3a": {
@@ -1644,7 +1344,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-comparison-device-allocation",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-98f505d4789eb212c0": {
@@ -1660,7 +1360,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-comparison-document-collapse",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-7d325d842c2a3a088e": {
@@ -1676,7 +1376,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-collage-dossier-role",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-15ac29ed90bdf1f3c9": {
@@ -1692,7 +1392,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-comparison-dual-sliders",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-2f544131183e80cc5a": {
@@ -1708,7 +1408,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-type-burst-statement",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-e7e1dd28b6d27093d5": {
@@ -1724,7 +1424,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-collage-evidence-summary",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-29e476da9cce983b1d": {
@@ -1740,7 +1440,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-comparison-feature-matrix",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-1c3c7d971ad11f2511": {
@@ -1756,7 +1456,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-comparison-focus-bars",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-9db8e5be934ebe1733": {
@@ -1772,7 +1472,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-cards-folder-grid",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-6a804f9dca9f3c5ea4": {
@@ -1788,7 +1488,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-diagram-funnel-absorption",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-2cefd56be3016e68a9": {
@@ -1804,7 +1504,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-cards-grid-priority",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-a5fb70c13875622279": {
@@ -1820,7 +1520,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-comparison-grouped-bars",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-f428125508e2dd2385": {
@@ -1836,7 +1536,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-diagram-handoff-explain",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-abc440095a77abeb1a": {
@@ -1852,7 +1552,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-diagram-hub-routing",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-59ae9df980d3725d10": {
@@ -1868,7 +1568,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-comparison-icon-distribution",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-dcb5471c6cadccdb02": {
@@ -1884,7 +1584,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-diagram-input-convergence",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-d6ec0e4aa041ebac1e": {
@@ -1900,7 +1600,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-cards-inspect-split",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-e85e356494cccd5b74": {
@@ -1916,7 +1616,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-spotlight-issue-resolution",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-58fc1a9f60d1160a88": {
@@ -1932,7 +1632,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-type-keyword-caption",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-68d4d6bdfb80a510df": {
@@ -1948,7 +1648,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-cards-keyword-resolve",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-346b704da91da7b4fc": {
@@ -1964,7 +1664,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-comparison-latest-history",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-ae48338a782d103bba": {
@@ -1980,7 +1680,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-comparison-line-trend",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-b0820d7c6e5c9e9d36": {
@@ -1996,7 +1696,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-diagram-list-bridge",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-51fd0649258f6c03b1": {
@@ -2012,7 +1712,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-cards-matrix-fill",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-d15576ecfc63efdfa5": {
@@ -2028,7 +1728,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-diagram-sequence-lanes",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-ebf3635b2f1c5a6b47": {
@@ -2044,7 +1744,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-spotlight-metric-audit",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-0060657667914162de": {
@@ -2060,7 +1760,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-spotlight-metric-to-detail",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-ca03006d33be865632": {
@@ -2076,7 +1776,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-diagram-milestone-detail",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-31e70917c4d2341d37": {
@@ -2092,7 +1792,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-spotlight-mobile-step",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-486162c5a5d135cda0": {
@@ -2108,7 +1808,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-diagram-scope-emphasis",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-54d096271865eb5dcf": {
@@ -2124,7 +1824,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-diagram-nested-workspace",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-64d0a9658a4f1142af": {
@@ -2140,7 +1840,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-pip-notification-log",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-db2764d6d2acba3c35": {
@@ -2156,7 +1856,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-comparison-query-screens",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-b1276e50575a15dce9": {
@@ -2172,7 +1872,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-comparison-one-many",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-cdb8af1bc573d16ff5": {
@@ -2188,7 +1888,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-type-opposing-labels",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-57055855d44aa46a78": {
@@ -2204,7 +1904,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-collage-testimonial-wall",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-0400ee0319b57c4370": {
@@ -2220,7 +1920,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-comparison-paired-swap",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-d692f94a733df6f347": {
@@ -2236,7 +1936,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-collage-parallax-proof",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-a7ba36cb8209cbc43b": {
@@ -2252,7 +1952,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-diagram-additive-equation",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-32e1cc19885b78d500": {
@@ -2268,7 +1968,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-split-phone-scale",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-5b96a9d58170f508f0": {
@@ -2284,7 +1984,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-split-phone-callouts",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-a7428b5431ee1719a2": {
@@ -2300,7 +2000,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-diagram-pipeline-fanout",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-ab97e82ad99d293d67": {
@@ -2316,7 +2016,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-diagram-pipeline-package",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-5aab5455ac143633e8": {
@@ -2332,7 +2032,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-transition-polygon-wipe",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-b2d581aa2a6bc61c67": {
@@ -2348,7 +2048,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-collage-portrait-notes",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-6444f3d27a06cb904c": {
@@ -2364,7 +2064,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-cards-foreground-row",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-2b49ee41d879f9e5a5": {
@@ -2380,7 +2080,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-split-progressive-list",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-1e4317b4026a45455d": {
@@ -2396,7 +2096,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-comparison-prompt-results",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-5bd44d26913ac93696": {
@@ -2412,7 +2112,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-comparison-quadrant-focus",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-9d642efb8012b74131": {
@@ -2428,7 +2128,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-diagram-quadrant-positioning",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-e3ddef18b5a045c5c8": {
@@ -2444,7 +2144,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-type-question-bubble",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-08230864cba8a890c7": {
@@ -2460,7 +2160,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-cards-list-audience",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-12a2e230bc0ad6cba9": {
@@ -2476,7 +2176,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-comparison-quote-sliders",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-f1d41ab6bace1d67ce": {
@@ -2492,7 +2192,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-split-quote-underline",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-5cde01d62246d6ddaf": {
@@ -2508,7 +2208,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-comparison-radar-reveal",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-bdabcbd4e0b33171a2": {
@@ -2524,7 +2224,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-diagram-radial-branches",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-1da3b3195c41248e94": {
@@ -2540,7 +2240,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-comparison-ratio-bars",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-cd50e77d894eb2a731": {
@@ -2556,7 +2256,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-cards-ratio-bridge",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-580ae96ad06c6dd3ef": {
@@ -2572,7 +2272,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-comparison-records-donut",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-9ac79a9ab2cf3a2452": {
@@ -2588,7 +2288,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-spotlight-region-callout",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-eaaacaf901557e6e9b": {
@@ -2604,7 +2304,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-split-response-spotlight",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-b5e6e10182aa08f118": {
@@ -2620,7 +2320,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-cards-roadmap-focus",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-663c91a604b581042d": {
@@ -2636,7 +2336,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-comparison-row-focus-cards",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-a54d77bc574aea53ed": {
@@ -2652,7 +2352,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-collage-scatter-presenter",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-7e18b3d48183fef04f": {
@@ -2668,7 +2368,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-comparison-sequential-bars",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-466b7fc9cae37b6f6b": {
@@ -2684,7 +2384,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-cards-sequential-list",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-e7facb5d20b86c0af6": {
@@ -2700,7 +2400,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-cards-context-conflict",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-c7371f988d292dde18": {
@@ -2716,7 +2416,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-spotlight-shortcut-target",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-ed150af83160cb1679": {
@@ -2733,7 +2433,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-pip-slides-focus",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-94af7b119dcdbc4910": {
@@ -2749,7 +2449,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-spotlight-quote-evidence",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-23cd9fa7691f55f75d": {
@@ -2765,7 +2465,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-type-spec-reveal",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-9d57f20e0d8877e289": {
@@ -2781,7 +2481,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-comparison-stage-loss",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-ab1ee3f43f5b427887": {
@@ -2797,7 +2497,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-split-status-focus",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-53f61ff962e0d5f640": {
@@ -2813,7 +2513,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-cards-steps-title",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-4e4a462fc93630cfca": {
@@ -2829,7 +2529,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-type-term-pressure",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-bbba42b4abb5a224eb": {
@@ -2845,7 +2545,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-cards-action-checklist",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-6b581f1a8fcff56adb": {
@@ -2861,7 +2561,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-comparison-target-overrun",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-7a616a65b9bb01f8f1": {
@@ -2877,7 +2577,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-diagram-tier-pyramid",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-dac1e8bfa7aca32474": {
@@ -2893,7 +2593,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-transition-tile-dissolve",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-98d28ce3f95582d379": {
@@ -2909,7 +2609,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-collage-document-stack",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-d02a22593e9f2fe474": {
@@ -2925,7 +2625,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-diagram-timeline-nodes",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-a2fd6e9ff3e4b4e31c": {
@@ -2941,7 +2641,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-type-behind-subject",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-596d8b2b44d1631384": {
@@ -2957,7 +2657,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-type-title-takeover",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-21b4001bbbe35247d0": {
@@ -2973,7 +2673,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-type-topic-cloud",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-6c3433f3a7a1a6dc71": {
@@ -2989,7 +2689,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-comparison-trend-card-tour",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-4b25b41af5c3e701bd": {
@@ -3005,7 +2705,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-spotlight-voice-transcript",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-bc2abf943072f3ae76": {
@@ -3021,7 +2721,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-type-wall-checklist",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-575c493490925e37b4": {
@@ -3037,7 +2737,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-comparison-wording-choice",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-6ac0096afa6c0da1e8": {
@@ -3053,7 +2753,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-creatormotion-type-tag-stack",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-7a251e6af1213c6d58": {
@@ -3069,7 +2769,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-cue-style-launch-video",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-8fb79f59a1463ab91f": {
@@ -3086,7 +2786,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-hyperframes-device-canvas-launch",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-236ec36bd9e9b07400": {
@@ -3102,7 +2802,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-hero-drifting-marks",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-6d671fc1edb848ab34": {
@@ -3118,7 +2818,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-editorial-ink-landing",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-7c82ab887b0d4eaf4f": {
@@ -3134,7 +2834,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-fable5-2-style-launch-video",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-eabc9fdce8e18d1aac": {
@@ -3150,7 +2850,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-hero-film-strip",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-8e81122250eaac6f46": {
@@ -3166,7 +2866,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-hyperframes-format-shift-launch",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-10278cee73f514fdf3": {
@@ -3182,7 +2882,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-hyperframes-frame-token-launch",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-73d103d39a8e5c6852": {
@@ -3198,7 +2898,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-image-narrative-deck",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-21789296e30830844d": {
@@ -3214,7 +2914,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-indigo-ledger-landing",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-c0811458cd025ab206": {
@@ -3231,7 +2931,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-iphone-duo-mockup",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-e17027a761a3f5bddd": {
@@ -3248,7 +2948,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-research-evidence-recreated",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-e1f3ef554bae613df8": {
@@ -3265,7 +2965,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-cta-cards-pull-back",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-64ca5a23096b10fee6": {
@@ -3282,7 +2982,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-dock-whips-spinner",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-6fc1714b9116452d8d": {
@@ -3299,7 +2999,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-flow-runner-card-whips",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-20a7b9ccfd7ff63529": {
@@ -3316,7 +3016,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-agent-completes-checklist",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-287c6f853701529deb": {
@@ -3333,7 +3033,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-reveal-multiple-agents-logo",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-7269a54b42bc706df2": {
@@ -3350,7 +3050,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-hub-between-van",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-aa4fa0b4017203d6ae": {
@@ -3367,7 +3067,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-grid-cards-dot-collapse",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-35439e5d203c866e70": {
@@ -3384,7 +3084,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-closed-laptop-exits",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-bfa063be0ea484f631": {
@@ -3401,7 +3101,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-turn-product-mode",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-7e768834a19e13833b": {
@@ -3418,7 +3118,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-cta-closing-offer-agent",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-2c240b9ebd4fd59549": {
@@ -3435,7 +3135,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-changes-agent-work",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-51122224e237f9bb60": {
@@ -3452,7 +3152,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-prompt-sent-loader",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-ad29c0f9a194f105d3": {
@@ -3469,7 +3169,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-orb-network-approval",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-fdc8b61f3464988122": {
@@ -3486,7 +3186,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-influencer-agent-typed",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-8ae33c25cb9ef1c59b": {
@@ -3503,7 +3203,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-flow-agent-activity-real",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-77476576500c5e8fa7": {
@@ -3520,7 +3220,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-data-repair-order-auto",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-791b59c98b1d43b0aa": {
@@ -3537,7 +3237,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-autopilot-core-learns",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-6be645222c48fc502e": {
@@ -3554,7 +3254,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-you-keep-control",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-7da04fb30a9977f83f": {
@@ -3571,7 +3271,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-grid-portrait-cards-stream",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-a2fec2278d2a25a11b": {
@@ -3588,7 +3288,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-routing-agent-card",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-8a44eef4cb3260fc56": {
@@ -3605,7 +3305,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-data-products-you-own",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-7ce32045eba69c633c": {
@@ -3622,7 +3322,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-grid-headline-about-redefining",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-c87276bd89df48355d": {
@@ -3639,7 +3339,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-reveal-brand-reveal-products",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-d7e788a165843fa62f": {
@@ -3656,7 +3356,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-lead-counter-pill",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-f286c04f0a6faa01fc": {
@@ -3673,7 +3373,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-ball-types-retry",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-af35bd39ce61c786c8": {
@@ -3690,7 +3390,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-hand-drawn-box",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-29483bce37d6f9cd78": {
@@ -3707,7 +3407,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-boxes-drawn-described",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-3d16f332629e98111a": {
@@ -3724,7 +3424,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-data-truck-lockup-dissolves",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-6702c72f97590b0872": {
@@ -3741,7 +3441,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-beat-cut-montage",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-3b1abd663b7ac5dc10": {
@@ -3758,7 +3458,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-submit-creative-brief",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-af2890843d50487149": {
@@ -3775,7 +3475,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-cta-brush-wipe-sunset",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-81ca0f1ea3cf5cff6a": {
@@ -3792,7 +3492,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-opening-claim-product",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-ebc1852a9c4a29d5cb": {
@@ -3809,7 +3509,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-grid-accumulated-chaos-brand",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-ec443c74487ac3bdef": {
@@ -3826,7 +3526,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-type-manager-chases-estimates",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-d70515ca37f0f67488": {
@@ -3843,7 +3543,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-crowds-animal-agents",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-20d47c57018bca2255": {
@@ -3860,7 +3560,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-agency-owner-creates",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-ee4af1868ed5c0f4af": {
@@ -3877,7 +3577,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-systems-code-migration",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-27bb2cec8c9f99b6ba": {
@@ -3894,7 +3594,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-prompt-types-itself",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-89e0bbbc3bc1b15da1": {
@@ -3911,7 +3611,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-cta-code-tiles-converge",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-545a52d38a0d55aef6": {
@@ -3928,7 +3628,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-grid-coding-agent-lockups",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-dbeba821a5f353eb6e": {
@@ -3945,7 +3645,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-frog-strikes-cloud",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-1d1927cd9c146fc2cd": {
@@ -3962,7 +3662,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-data-integration-cards-drop",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-adb12b8d80f5cd610f": {
@@ -3979,7 +3679,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-booked-call-contacts",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-b183dcaf0dfd9fe2b3": {
@@ -3996,7 +3696,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-data-corner-radius-drag",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-601cd166d9460e215a": {
@@ -4013,7 +3713,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-typed-prompt-bursts",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-11db700abbbbb5da8c": {
@@ -4030,7 +3730,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-agent-shortlists-influencers",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-f3a92f8a131cb5c198": {
@@ -4047,7 +3747,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-data-ranks-creator-designs",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-36fe31b303b39ecc0f": {
@@ -4064,7 +3764,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-cta-approach-call-action",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-848405c9bccd8c567f": {
@@ -4081,7 +3781,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-grid-native-resolution-close",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-6489762281dc8b6908": {
@@ -4098,7 +3798,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-opening-question-product",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-2a69e007a21b8dc007": {
@@ -4115,7 +3815,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-type-demonstrate-parameter-system",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-3dc6e53528a45a2a91": {
@@ -4132,7 +3832,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-blueprint-flash-authored",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-1cf370458b9d238f8f": {
@@ -4149,7 +3849,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-emblem-assembles-radial",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-831f7f0a804d877b2c": {
@@ -4166,7 +3866,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-cta-emblem-lights-copper",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-283ac2330e405009ee": {
@@ -4183,7 +3883,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-cta-earthrise-dives-through",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-5c2fcaeb2204ecfcc3": {
@@ -4200,7 +3900,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-flow-pinned-flyer-restyled",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-ad7e137ed0642cba58": {
@@ -4217,7 +3917,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-reveal-laptop-phone-terminal",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-69e17127ee69398359": {
@@ -4234,7 +3934,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-exploded-security-chip",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-4b19e53af566b310fc": {
@@ -4251,7 +3951,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-data-invoices-slap-down",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-720168dd78618be1c5": {
@@ -4268,7 +3968,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-checklist-scrolls-through",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-36e0c3572824ba46e0": {
@@ -4285,7 +3985,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-reveal-fleet-lineup-whip",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-a46feb38826e79ba2e": {
@@ -4302,7 +4002,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-knob-slider-bounce",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-7ee6090f4c0c60efc7": {
@@ -4319,7 +4019,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-grid-upload-existing-footage",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-40ee8433a8c53b59b5": {
@@ -4336,7 +4036,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-grid-grid-panel-swings",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-4dcf981e32c0a9779b": {
@@ -4352,7 +4052,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-469b1b8136053349af": {
@@ -4369,7 +4069,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-grid-camera-pushes-petroglyph",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-9a25eb226bb9b5debf": {
@@ -4386,7 +4086,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-cta-camera-pulls-back",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-85f4d55c6f73a7a704": {
@@ -4403,7 +4103,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-grid-pan-settles-embroidered",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-ae0e0539f17b653658": {
@@ -4420,7 +4120,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-cursor-clicks-glowing",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-cb66e12656643f2fce": {
@@ -4437,7 +4137,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-glowing-orb-pulls",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-9b3012988ede1022e8": {
@@ -4454,7 +4154,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-grid-hero-flies-through",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-74458e2a13bffaf97f": {
@@ -4471,7 +4171,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-cta-thermal-hand-types",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-a3e0f11f04830872d2": {
@@ -4488,7 +4188,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-grid-what-will-you",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-1b1eb861a5e80e2932": {
@@ -4505,7 +4205,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-live-widgets-resolve",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-890ed5d8f9d8f8c7ee": {
@@ -4522,7 +4222,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-thermal-scan-glass",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-2afeed08a234ab68ac": {
@@ -4539,7 +4239,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-reveal-rainbow-twists-dna",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-59358eca8b531939e3": {
@@ -4556,7 +4256,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-data-hidden-costs-miss",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-bfa92c095b0ff67cb7": {
@@ -4573,7 +4273,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-enter-product-type",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-676142047fa6c9fcfe": {
@@ -4590,7 +4290,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-grid-line-glyphs-pop",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-b7ba77fb5fec6a5284": {
@@ -4607,7 +4307,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-ideas-scattered-across",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-b385ae82afca3d24ad": {
@@ -4624,7 +4324,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-idle-vehicle-cards",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-4372fa458bb12d6138": {
@@ -4641,7 +4341,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-cta-montage-cloud-folder",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-bccd9d59a4f64457cc": {
@@ -4658,7 +4358,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-building-image-pipeline",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-7c9b19a8661cee3f68": {
@@ -4675,7 +4375,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-prompt-find-crumbles-ink",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-465736492136046b4c": {
@@ -4692,7 +4392,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-headline-quantity-expands",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-aad8d9b23ef8829acc": {
@@ -4709,7 +4409,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-grid-keywords-action-intention",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-c7d7fa7ae50eb6251e": {
@@ -4726,7 +4426,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-opening-claim-brand",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-73defac2849fa5eb48": {
@@ -4743,7 +4443,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-inputs-accumulate-knowledge",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-62f714976e600d89a7": {
@@ -4760,7 +4460,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-star-flash-irises",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-927c374197efcf56a6": {
@@ -4777,7 +4477,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-set-values-complete",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-09401d4426a6fa26f1": {
@@ -4794,7 +4494,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-data-headline-lands-over",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-0fe91be9ba0fa94843": {
@@ -4811,7 +4511,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-cta-hardware-key-pro",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-f1cc95670f74a5449f": {
@@ -4828,7 +4528,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-camera-pull-back",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-1afe11130f9119515d": {
@@ -4845,7 +4545,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-flow-cant-find-wallet",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-4ab8576e267f958b71": {
@@ -4862,7 +4562,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-cta-sunflower-footage-dissolves",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-93544c0be2adf7a637": {
@@ -4879,7 +4579,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-grid-click-propagates-claim",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-571d14aa003eb2cb64": {
@@ -4896,7 +4596,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-meet-contracts-growth",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-b6717d78ecdaefec8e": {
@@ -4913,7 +4613,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-prompt-menu-card-fills",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-9af03cee84093a0b02": {
@@ -4930,7 +4630,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-cta-fives-multiply-global",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-8d31853d880402b4d3": {
@@ -4947,7 +4647,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-data-channel-badges-orbit",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-c1c37c8e48ae02e59e": {
@@ -4964,7 +4664,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-cta-provider-handoff-final",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-c26cfeb319f7d6e8d8": {
@@ -4981,7 +4681,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-cta-closing-claim-symbol",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-1d97dbf0835cc7765e": {
@@ -4998,7 +4698,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-type-capital-back-business",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-10365a2ca34000f5a5": {
@@ -5015,7 +4715,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-grid-glowing-mood-orbs",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-47cf4e0e084e5d4517": {
@@ -5032,7 +4732,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-grid-angle-moodboards-hard",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-609a599c3a025ff15a": {
@@ -5049,7 +4749,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-type-opening-identity-handoff",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-538c348281226e02bb": {
@@ -5066,7 +4766,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-flow-thermal-hero-word",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-6d47a7e05031701747": {
@@ -5083,7 +4783,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-flow-demo-studio-introduced",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-306f8e38dcca6d5a92": {
@@ -5100,7 +4800,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-grid-photos-woman-stack",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-d5bc78d92d1b7aba13": {
@@ -5117,7 +4817,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-grid-repair-order-cards",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-f85f6a7416465ac782": {
@@ -5134,7 +4834,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-keystroke-card-responder",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-b223b53b0b1c76e456": {
@@ -5151,7 +4851,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-cta-orb-sweeps-shrinks",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-4b12f6d02bd9e2f780": {
@@ -5168,7 +4868,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-cta-order-notifications-stack",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-c2be219b48b9c49a19": {
@@ -5185,7 +4885,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-grid-giant-mascot-spells",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-a7e28f147db266e910": {
@@ -5202,7 +4902,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-phone-pages-swipe",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-38a8b23c0336989f39": {
@@ -5219,7 +4919,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-prompt-fragmented-ops-pain",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-d6436cbcd2f0c5aa47": {
@@ -5236,7 +4936,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-prompt-waiting-guessing-forgetting",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-864e6e3138ff5a05eb": {
@@ -5253,7 +4953,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-data-dot-pops-colour",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-96173e66c24d1a8b21": {
@@ -5270,7 +4970,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-cta-particle-dome-headlines",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-db36451e68f00d2d89": {
@@ -5287,7 +4987,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-data-payment-rail-wordmark",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-b79aea8ca9f47eb698": {
@@ -5304,7 +5004,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-rapid-typed-statements",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-5df9b9ad9b45f271be": {
@@ -5321,7 +5021,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-data-canvas-builds-trapezoid",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-248b6c35a7fc7ed986": {
@@ -5338,7 +5038,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-real-device-integration",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-c9b2ab0df425c7723f": {
@@ -5355,7 +5055,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-phone-notification-approves",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-b8087700b44118ad1b": {
@@ -5372,7 +5072,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-flow-question-transforms-product",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-f1de2ae27b2fb5f395": {
@@ -5389,7 +5089,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-flow-files-organize-themselves",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-f965e83ba17a322687": {
@@ -5406,7 +5106,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-reveal-anatomy-panels-resolve",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-26798f424627455ba2": {
@@ -5423,7 +5123,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-flow-brand-introduction-surrounded",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-c34ffbce4be3f23aeb": {
@@ -5440,7 +5140,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-cta-photo-ring-bursts",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-67823861fd991c70d6": {
@@ -5457,7 +5157,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-compose-prompt-press",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-2b8fae571c77feed9d": {
@@ -5474,7 +5174,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-grid-same-product-person",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-55c560b87c6ff2333b": {
@@ -5491,7 +5191,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-cta-generated-options-resolve",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-a17ef65436d9d09498": {
@@ -5508,7 +5208,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-cta-growth-suite-cmo",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-85333f9b2eecfe6a7f": {
@@ -5525,7 +5225,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-dreamy-intro-line",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-a067faf83cf4e32b54": {
@@ -5542,7 +5242,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-streamline-execute-scale",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-15c55deaf56d1d224e": {
@@ -5559,7 +5259,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-reveal-plasma-orb-collapses",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-ec56c851ffc35a0482": {
@@ -5576,7 +5276,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-prompt-prompt-fetches-portfolio",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-9c92c14668d785b6ab": {
@@ -5593,7 +5293,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-data-copper-device-orbits",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-9154dbc2ffc4eaec0f": {
@@ -5610,7 +5310,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-reveal-enter-app-browse",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-313ce0f65de332e01d": {
@@ -5627,7 +5327,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-flow-presenter-slashes-out",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-9d02a365730422c8c8": {
@@ -5644,7 +5344,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-state-promise-commit",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-9d845ffbd6236d2bc8": {
@@ -5661,7 +5361,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-cta-finish-prompt-hand",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-41890d722549513939": {
@@ -5678,7 +5378,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-prompt-whip-submit-smear",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-dbd986b5942fc2e159": {
@@ -5695,7 +5395,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-agent-log-sla",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-610a1bcc5171a17cb1": {
@@ -5712,7 +5412,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-flow-user-ticks-moodboard",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-9395dae744a553fa9a": {
@@ -5729,7 +5429,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-pixel-perfect-duck",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-0e7ab7c430303fbeda": {
@@ -5746,7 +5446,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-data-fleet-hub-logo",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-1431d1b112c07406e0": {
@@ -5763,7 +5463,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-data-time-lapse-van",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-cb89d3da40a062477c": {
@@ -5780,7 +5480,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-data-metric-board-introduced",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-43c15a3f8a08b843ad": {
@@ -5797,7 +5497,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-flow-robot-hand-drops",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-6c26644ac92251d5e1": {
@@ -5814,7 +5514,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-flow-galaxy-collapses-black",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-cd71a7e95b60c66809": {
@@ -5831,7 +5531,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-data-hook-line-asks",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-984bfe984d02983367": {
@@ -5848,7 +5548,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-personality-tactile-money",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-c5ef2da0a8ad9b4cff": {
@@ -5865,7 +5565,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-value-mechanism-physical",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-287fd8ef81af8a0bd4": {
@@ -5882,7 +5582,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-flow-neon-tunnel-stream",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-86caf01ee9b9dc4403": {
@@ -5899,7 +5599,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-data-whip-carousel-through",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-83171daa32f8713d6c": {
@@ -5916,7 +5616,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-cta-tagline-builds-between",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-e7c5af694a1e8fb821": {
@@ -5933,7 +5633,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-imagine-changing-jacket",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-efd65eb9dbf5b0b106": {
@@ -5950,7 +5650,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-capsule-menu-syncs",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-9a8b34838ec9d551e9": {
@@ -5967,7 +5667,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-seven-agent-workspaces",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-dc4063c071c5c8c3e5": {
@@ -5984,7 +5684,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-genre-browse-zooms",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-5f55bd9777c22a4030": {
@@ -6001,7 +5701,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-prompt-type-request-browse",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-c181daaab987703414": {
@@ -6018,7 +5718,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-thermal-head-answers",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-3deeefafc6ee448935": {
@@ -6035,7 +5735,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-cta-orbiting-photo-cards",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-985cad91277a543041": {
@@ -6052,7 +5752,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-pencil-garden-paints",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-f9aee35ffc9b8d07fe": {
@@ -6069,7 +5769,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-reveal-sketch-pod-snaps",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-7f44e3e84c51413a63": {
@@ -6086,7 +5786,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-commit-order-watch",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-76a8b4bae46b50de17": {
@@ -6103,7 +5803,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-signal-agent-scans",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-f98d94b89e29b286a2": {
@@ -6120,7 +5820,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-grid-social-proof-wall",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-0f65d6c90bda3eee6e": {
@@ -6137,7 +5837,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-cta-sonar-slit-lockup",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-414ba7ab63f0ddad49": {
@@ -6154,7 +5854,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-token-choices-become",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-6bde065782ef65e5ac": {
@@ -6171,7 +5871,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-tulip-specimen-card",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-9ff6c022169ec733f6": {
@@ -6188,7 +5888,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-claim-transforms-professional",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-a7dfc5cae70d73a317": {
@@ -6205,7 +5905,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-build-claim-expand",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-0430f2b8ab62ea0afb": {
@@ -6222,7 +5922,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-team-chat-browser",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-dcf1f0fc9ce882091e": {
@@ -6239,7 +5939,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-start-line-wipes",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-9ea0a7d39bd2062cc4": {
@@ -6256,7 +5956,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-cta-fleet-hub-wordmark",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-3ed679b96ba0acb11f": {
@@ -6273,7 +5973,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-data-cursor-clicks-voice",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-00cf5dda325d73b249": {
@@ -6290,7 +5990,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-stuttering-headlines-escalate",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-2751f53ce4aeb1aed9": {
@@ -6307,7 +6007,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-data-mascot-style-examples",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-9029b135f54aa1ffb9": {
@@ -6324,7 +6024,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-data-vector-hero-flies",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-08c5c9d0554a3818c4": {
@@ -6341,7 +6041,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-grid-hard-cut-montage",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-247f2135d1bedc6415": {
@@ -6358,7 +6058,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-multiplayer-poster-assembles",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-5177fd158e28276940": {
@@ -6375,7 +6075,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-cta-business-segment-cards",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-bd43cebfc6f26166f3": {
@@ -6392,7 +6092,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-everyone-authorized-result",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-21708b1a842066d128": {
@@ -6409,7 +6109,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-tilted-wall-lifestyle",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-9d74be3b9657e5f666": {
@@ -6426,7 +6126,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-prompt-bar-types",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-ec0b3b8227b47be967": {
@@ -6443,7 +6143,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-diagnose-problem-through",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-45164eede550e36205": {
@@ -6460,7 +6160,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-reveal-devices-turn-beside",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-3bef5d7b057003706b": {
@@ -6477,7 +6177,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-grid-home-page-scrolls",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-d9c6e0961ff0f19d93": {
@@ -6494,7 +6194,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-type-specimen-types",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-95ae8b2b0c73780952": {
@@ -6511,7 +6211,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-capability-statement-typed",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-17cc8d26c8922838c2": {
@@ -6528,7 +6228,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-reveal-headline-generated-image",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-6c2eb3a3745c4b5f01": {
@@ -6545,7 +6245,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-data-website-url-headline",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-3faa3d7897b6475f1e": {
@@ -6562,7 +6262,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-url-typed-input",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-1d4d3a79a0164e8736": {
@@ -6579,7 +6279,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-type-headline-builds-word",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-50024b2c28a060a12b": {
@@ -6596,7 +6296,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-cta-language-pill-clicked",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-6e94cf3e859e25546c": {
@@ -6613,7 +6313,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-voice-message-routes",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-c262c9fdb91f94fab4": {
@@ -6630,7 +6330,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-data-product-arrives-presents",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-9356178ac64d3aa973": {
@@ -6647,7 +6347,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-bring-choice-back",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-525ca4ce4065346cbe": {
@@ -6664,7 +6364,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-phone-token-wallet",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-0ea3235b82412bc752": {
@@ -6681,7 +6381,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-warp-tunnel-verbs",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-7496bcab96aa4ae663": {
@@ -6698,7 +6398,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-bar-charts-count",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-0284e2dea089e0ab78": {
@@ -6715,7 +6415,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-data-opening-promise-measurable",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-7a276246a84b1996f5": {
@@ -6732,7 +6432,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-success-cards-become",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-7f8bb819d11f81440d": {
@@ -6749,7 +6449,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-typed-question-asks",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-34f7b37abb5e02f758": {
@@ -6766,7 +6466,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-data-content-sources-dragged",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-54f737335bc69c53e8": {
@@ -6783,7 +6483,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-scrawled-how-detonates",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-4c39841d37d7abdf5c": {
@@ -6800,7 +6500,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-launchmotion-ui-pills-shrink-column",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-94e2933c54ef79b3c1": {
@@ -6816,7 +6516,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-linear-agent-style-launch-video",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-51ce11fe26192195b1": {
@@ -6832,7 +6532,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-hyperframes-halftone-canvas-launch",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-7a7222b994321cc5b5": {
@@ -6848,7 +6548,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-magnetic-lattice-hero",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-58b6d2add7c6f39dbb": {
@@ -6864,7 +6564,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-manus2-0-style-launch-video",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-1db779658495fbcac0": {
@@ -6880,7 +6580,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-testimonial-masonry-wall",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-fed866f91b731baa76": {
@@ -6896,7 +6596,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-hero-minimal-motion",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-293ae6473a3d337dfd": {
@@ -6912,7 +6612,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-mint-noir-saas-site",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-8786e47dc7dadb06f4": {
@@ -6928,7 +6628,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-molten-glass-landing",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-4712ef76c92d4a3c73": {
@@ -6944,7 +6644,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-notion-style-localize-video",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-7da2fd7ae90594c75a": {
@@ -6960,7 +6660,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-testimonial-numbered-slider",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-63421caf268f91926f": {
@@ -6976,7 +6676,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-hyperframes-objection-reversal-launch",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-34c46889785287caad": {
@@ -6992,7 +6692,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-obsidian-cinema-landing",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-83b77f6bd04fcbae74": {
@@ -7008,7 +6708,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-openai-style-poster",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-4264e86668c322cc7b": {
@@ -7024,7 +6724,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-testimonial-orbiting-portraits",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-2756bfa162e62c1d4e": {
@@ -7040,7 +6740,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-hyperframes-pain-gag-reveal-launch",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-cc5ab6d7c00fb146d6": {
@@ -7056,7 +6756,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-paper-cutout-story-video",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-1cab0d7d9f0d2aca1f": {
@@ -7072,7 +6772,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-hero-particle-field",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-396d60ff9fd24e6a93": {
@@ -7088,7 +6788,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-hyperframes-partnership-aroll-launch",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-344e1aacab5734d51c": {
@@ -7104,7 +6804,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-hyperframes-persistent-chat-launch",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-e97d73663d01289fce": {
@@ -7120,7 +6820,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-hyperframes-pixel-promo",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-0367b6da318c7cdb08": {
@@ -7136,7 +6836,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-plush-crew-launch-video",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-2b01e56a4ba28e273e": {
@@ -7152,7 +6852,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-pop-motion-deck",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-e4e796ebc2c81d34b4": {
@@ -7168,7 +6868,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-testimonial-portrait-overlay",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-8698f88860cfb1c323": {
@@ -7184,7 +6884,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-testimonial-portrait-switcher",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-5e43079082a2a96c4d": {
@@ -7200,7 +6900,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-testimonial-portrait-tiles",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-99f05c23f0fbae1143": {
@@ -7216,7 +6916,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-product-redesign-launch-video",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-84691b9f7a483d63c5": {
@@ -7232,7 +6932,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-testimonial-profile-reel",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-29848e9fbcd28f2c33": {
@@ -7248,7 +6948,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-hero-skyline",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-47ce3240d1bb893a65": {
@@ -7264,7 +6964,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-hyperframes-sound-reveal-launch",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-42446c8b0b84e84f13": {
@@ -7280,7 +6980,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-hyperframes-square-morph-launch",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-30c3b0039bb03f8fb3": {
@@ -7296,7 +6996,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-hyperframes-technical-drawing-promo",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-3ec1cb6aa165f4306f": {
@@ -7312,7 +7012,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-tessellated-editorial-still-life",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-c22c32c41354cda4f3": {
@@ -7328,7 +7028,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-testimonial-columns",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-ebb3a76472f1594cbb": {
@@ -7344,7 +7044,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-hyperframes-texture-swatch-launch",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-0ee1e60a7f6716fc65": {
@@ -7360,7 +7060,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-testimonial-tilted-stack",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-aa5b25761964963c8d": {
@@ -7376,7 +7076,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-testimonial-tilted-card",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-098f4ea66dc9fde7ac": {
@@ -7392,7 +7092,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-testimonial-typed-row",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-74a663388aadcb2c95": {
@@ -7408,7 +7108,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-vaultic-fintech-landing",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-c6a295c41b5d1863b6": {
@@ -7424,7 +7124,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/bs-hyperframes-velocity-sting",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-905f21e83bc78b3057": {
@@ -7440,7 +7140,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/output/slides",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-00fff20947e73a8754": {
@@ -7456,7 +7156,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/use-case/product-launch",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-e44b19dea9d35cb36b": {
@@ -7472,7 +7172,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/agent/claude-code",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-c10da4448fb19ae541": {
@@ -7488,7 +7188,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/agent/minimax-code",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-d3e96ff9c2701a6c7b": {
@@ -7504,7 +7204,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/task/create-studio-portrait",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-3af1f689165968e4c8": {
@@ -7520,7 +7220,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/task/create-explainer-video",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-debe8e29da5788d06f": {
@@ -7536,7 +7236,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/task/build-landing-page",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-9bc99f160a35f18b7b": {
@@ -7552,7 +7252,7 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/html-slides",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
   "skill-9c664ebd65e4b9e4d0": {
@@ -7568,135 +7268,14 @@
     ],
     "input_kind": "rss_excerpt",
     "source_url": "https://skillry.dev/skills/use-case/presentations",
-    "generated_at": "2026-11-21T19:44:21+00:00",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
-  "skill-e0cac87c61042a1b8e": {
-    "fingerprint": "238ce1e6de0dbe781a381f98b29d634e22eeb1d6437fa72ad20486b6bec0fd40",
+  "skill-6e18aa23e1f0d14413": {
+    "fingerprint": "603a7cbfc49c3513e936cae8a1f9b50bfa144784eb45ff127808ab04f7d367e5",
     "engine": "extractive",
     "model": null,
-    "summary": "🎁 App deals for Black Friday/Cyber Monday etc. Free to submit yours!",
-    "takeaways": [],
-    "topics": [
-      "AI / видео",
-      "Web / motion"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/danmindru/rare-big-deal",
-    "generated_at": "2026-11-21T19:44:21+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
-  "skill-c5a3099a0798fd5595": {
-    "fingerprint": "e99eb307944660e6e76f750185bf1da47358d35d1939e446f1ef92c380a7a91f",
-    "engine": "extractive",
-    "model": null,
-    "summary": "A collection of several hundred online tools for OSINT",
-    "takeaways": [],
-    "topics": [
-      "AI / видео",
-      "Web / motion"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/cipher387/osint_stuff_tool_collection",
-    "generated_at": "2026-11-21T19:44:25+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
-  "skill-70772b1852e5bf1a65": {
-    "fingerprint": "3eee25811189e4d4706a9c4a3300cf380b84ab8a044cca9d5df5ee93daf8fc2c",
-    "engine": "extractive",
-    "model": null,
-    "summary": "I used this during college, to save time, so maybe it will help you too! My own aggregated, deduplicated list of 2027-2028 Tech Internships and New Grad positions.",
-    "takeaways": [],
-    "topics": [
-      "AI / видео",
-      "Web / motion"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/DereC4/internships-and-newgrad",
-    "generated_at": "2026-11-21T19:44:25+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
-  "skill-fd395ad328de528c3d": {
-    "fingerprint": "8c230cd1e8630162b33837ea5b99945bbf4c61e8aa89214bed3435856d6e8671",
-    "engine": "extractive",
-    "model": null,
-    "summary": "这是一个智能体开发管理平台MetaForge",
-    "takeaways": [],
-    "topics": [
-      "AI / видео",
-      "Web / motion"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/Real2000/MetaForge",
-    "generated_at": "2026-11-21T19:44:25+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
-  "skill-043defdbb1b1da4f18": {
-    "fingerprint": "27d2ba720a8674adbfd54c4e40d0cd64d947f519ecfe4aa2256cd72cc74f23ca",
-    "engine": "extractive",
-    "model": null,
-    "summary": "A daily paper-plane letter game on the real wind",
-    "takeaways": [],
-    "topics": [
-      "AI / видео",
-      "Web / motion"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/lukkrim/airmail",
-    "generated_at": "2026-11-21T19:44:25+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
-  "skill-2d6480e36010248d5b": {
-    "fingerprint": "069244e017923ee216e1fa5ea815d055e55a407179590d3a2ffd53e0fceb878b",
-    "engine": "extractive",
-    "model": null,
-    "summary": "A curated list of testing resources",
-    "takeaways": [],
-    "topics": [
-      "AI / видео",
-      "Web / motion"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/TheJambo/awesome-testing",
-    "generated_at": "2026-11-21T19:44:25+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
-  "skill-4f2ab71f61ae4ba05a": {
-    "fingerprint": "cf363b9f81d50410968257a97a1a65c7e92be40117da1eebe8661e735c24a39a",
-    "engine": "extractive",
-    "model": null,
-    "summary": "Phone video -> COLMAP -> 3D Gaussian Splatting -> cleaned, web-viewable digital twin. Built on free Colab GPUs.",
-    "takeaways": [],
-    "topics": [
-      "AI / видео",
-      "3D / Blender",
-      "Web / motion"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/Kishore-suthersingh/3dgs-digital-twin",
-    "generated_at": "2026-11-21T19:44:25+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
-  "skill-2439594c4b379e5942": {
-    "fingerprint": "9918123edf9fcd87c0916d618c64811032ed0e95f44f278e8820c23ec571f47d",
-    "engine": "extractive",
-    "model": null,
-    "summary": "dt2k2/dt2k2",
-    "takeaways": [],
-    "topics": [
-      "AI / видео",
-      "Web / motion"
-    ],
-    "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/dt2k2/dt2k2",
-    "generated_at": "2026-11-21T19:44:25+00:00",
-    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
-  },
-  "skill-9c3edf6d9aa4083499": {
-    "fingerprint": "f528c899164cfa92e75ea560eda25be792e03ef032ef4232e4c5807146c6d943",
-    "engine": "extractive",
-    "model": null,
-    "summary": "Reusable AI agent skills for structured analysis, focused planning, evidence-based review, image prompting, and IT procedure design.",
+    "summary": "Agent skill для motion / video (из oneshotted.io)",
     "takeaways": [],
     "topics": [
       "AI / видео",
@@ -7704,53 +7283,492 @@
       "Web / motion"
     ],
     "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/voytas75/skills",
-    "generated_at": "2026-11-21T19:44:25+00:00",
+    "source_url": "https://github.com/heygen-com/hyperframes",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
-  "skill-83aecbc7c166d2ac30": {
-    "fingerprint": "3b8850bffa157c5a75b1c54414ba997fd5237afa1c5a6553d5557afa6027fe57",
+  "skill-ef984a9e4c84dd12f2": {
+    "fingerprint": "2499a5205f194a86b12c9c813a8c4f997aa27ef78f0e272358366f3f414caf1a",
     "engine": "extractive",
     "model": null,
-    "summary": "linzeliang1222/my-awesome-stars",
+    "summary": "Agent skill для motion / video (из oneshotted.io)",
+    "takeaways": [],
+    "topics": [
+      "AI / видео",
+      "Skills",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/greensock/gsap-skills",
+    "generated_at": "2026-11-22T07:22:31+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "skill-0a09b687d088cc7fc7": {
+    "fingerprint": "a3729be14fe05931fd2847b00d48231f78487e088d5d4fdb1c2eb0c13bd445ad",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Agent skill для motion / video (из oneshotted.io)",
+    "takeaways": [],
+    "topics": [
+      "AI / видео",
+      "Skills",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/remotion-dev/skills",
+    "generated_at": "2026-11-22T07:22:31+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "skill-1a6fc40b5313375efd": {
+    "fingerprint": "216e6997146849f16986268c91869c362bff3496759d4d3583091a231ac4c1e8",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Agent skill для motion / video (из oneshotted.io)",
+    "takeaways": [],
+    "topics": [
+      "AI / видео",
+      "Skills",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/LottieFiles/motion-design-skill",
+    "generated_at": "2026-11-22T07:22:31+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "skill-7c5122b5e0dde22967": {
+    "fingerprint": "d33b1d4d78428d68e20feb22cbfc84a20c86cdeb9be66a3c8517cc8f298f83ca",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Agent skill для motion / video (из oneshotted.io)",
+    "takeaways": [],
+    "topics": [
+      "AI / видео",
+      "Skills",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/cth9191/animate",
+    "generated_at": "2026-11-22T07:22:31+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "skill-e766de53aa63e736f9": {
+    "fingerprint": "73d56ee64f45d7e058558cf36440f01fc829526549b790d6233132f6e2b095f1",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Agent skill для motion / video (из oneshotted.io)",
+    "takeaways": [],
+    "topics": [
+      "AI / видео",
+      "Skills",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/echris6/motion-video-kit",
+    "generated_at": "2026-11-22T07:22:31+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "skill-c79d844cf58a113726": {
+    "fingerprint": "607bd2fc44f945800300714849a3c24d724695279e94078d675a9ec4bbfd4043",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Agent skill для motion / video (из oneshotted.io)",
+    "takeaways": [],
+    "topics": [
+      "AI / видео",
+      "Skills",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/Barty-Bart/motion-graphics",
+    "generated_at": "2026-11-22T07:22:31+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "skill-c7818f3761053cc84d": {
+    "fingerprint": "d01497660444144e3676ae8baf905ba253ecfd7630fdb8f39210aa22fd4b676c",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Agent skill для motion / video (из oneshotted.io)",
+    "takeaways": [],
+    "topics": [
+      "AI / видео",
+      "Skills",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/haidrrrry/claude-remotion-skill",
+    "generated_at": "2026-11-22T07:22:31+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "skill-f5272bdeeafca6411a": {
+    "fingerprint": "89c327ea02d184a24d6bfc158aa21886c5d5a9f2c7190d3b43cc4a8e7f617fb6",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Agent skill для motion / video (из oneshotted.io)",
+    "takeaways": [],
+    "topics": [
+      "AI / видео",
+      "Skills",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/whaleyxbt/claude-motion",
+    "generated_at": "2026-11-22T07:22:31+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "skill-f901031b7aee195173": {
+    "fingerprint": "75943f5ace03970e2962a46103cbd9e05fe2dea878cd34b052bc2b898fc1e70f",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Agent skill для motion / video (из oneshotted.io)",
+    "takeaways": [],
+    "topics": [
+      "AI / видео",
+      "Skills",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/op7418/guizang-product-video-skill",
+    "generated_at": "2026-11-22T07:22:31+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "skill-32c8e7b924dad673c2": {
+    "fingerprint": "fe8dfe233892f82bdc673365c6af822b6239f68c8fd2806165a0746114b076c5",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Agent skill для motion / video (из oneshotted.io)",
+    "takeaways": [],
+    "topics": [
+      "AI / видео",
+      "Skills",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/howseen-ai/claude-motion-design",
+    "generated_at": "2026-11-22T07:22:31+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "skill-78a9a0ffc799cdf34b": {
+    "fingerprint": "ce687c9282637338ac2501cbe4dc8150f375bd6c63c52b8f47c3a50e71469baa",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Agent skill для motion / video (из oneshotted.io)",
+    "takeaways": [],
+    "topics": [
+      "AI / видео",
+      "Skills",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/charlie947/motion-graphics-skills",
+    "generated_at": "2026-11-22T07:22:31+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "skill-f1afdbde596c4e5385": {
+    "fingerprint": "2dde39e9d08122bdf8e8874453703ab01d1c195db2a28378b2f4d1b5049d8f2e",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Agent skill для motion / video (из oneshotted.io)",
+    "takeaways": [],
+    "topics": [
+      "AI / видео",
+      "Skills",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/Pluviobyte/video-production-skills",
+    "generated_at": "2026-11-22T07:22:31+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "skill-543eb78add492e9487": {
+    "fingerprint": "5060c5d10399acf69678df28f489a2f39effa3e2fe35abba2d7cfaaf52743be4",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Agent skill для motion / video (из oneshotted.io)",
+    "takeaways": [],
+    "topics": [
+      "AI / видео",
+      "Skills",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/guanmo-ai/awesome-ai-motion",
+    "generated_at": "2026-11-22T07:22:31+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "skill-67a309e65af7df97e3": {
+    "fingerprint": "168424f9dcffb236fb4b218d58d218530d06c1ba6999b2a8dfde6d40783a9791",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Agent skill для motion / video (из oneshotted.io)",
+    "takeaways": [],
+    "topics": [
+      "AI / видео",
+      "Skills",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/AbubakrChan/product-launch-motion",
+    "generated_at": "2026-11-22T07:22:31+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "skill-78a9052206ec58b9dd": {
+    "fingerprint": "b9cb133b98e25e7211fb3fd9ef25fe460f5bf2aadc889c2c3f07492338383d5c",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Agent skill для motion / video (из oneshotted.io)",
+    "takeaways": [],
+    "topics": [
+      "AI / видео",
+      "Skills",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/nilbuild/video-demo",
+    "generated_at": "2026-11-22T07:22:31+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "skill-f935ce5ab6bcb2dd2d": {
+    "fingerprint": "cb58ea9c5fe09bcc52b19df7d40054c48915636299afcb5e4d6cc61a9e038e74",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Agent skill для motion / video (из oneshotted.io)",
+    "takeaways": [],
+    "topics": [
+      "AI / видео",
+      "Skills",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/iart-ai/motion-design-skills",
+    "generated_at": "2026-11-22T07:22:31+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "skill-81dca9cf693d7864bd": {
+    "fingerprint": "5662c0232b3d4762669dc71a81c2a748ce9f3284d8ee42c199eaf6fec9ee9784",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Agent skill для motion / video (из oneshotted.io)",
+    "takeaways": [],
+    "topics": [
+      "AI / видео",
+      "Skills",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/199-biotechnologies/motion-dev-animations-skill",
+    "generated_at": "2026-11-22T07:22:31+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "skill-19a564642e7051ac1f": {
+    "fingerprint": "2ab90bc0e925cea686d7e4ceb23b87a3ac08e7fa92ca3dc4d3adc88e54051387",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Agent skill для motion / video (из oneshotted.io)",
+    "takeaways": [],
+    "topics": [
+      "AI / видео",
+      "Skills",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/Sunwood-ai-labs/hyperframes-motion-reel-skill",
+    "generated_at": "2026-11-22T07:22:31+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "skill-8f1fd90145fcc1a5e5": {
+    "fingerprint": "4cfd7a4f12ac01c655204dee4442f812aae412a1c41f152ce9e4323ebec6c998",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Agent skill для motion / video (из oneshotted.io)",
+    "takeaways": [],
+    "topics": [
+      "AI / видео",
+      "Skills",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/frankxai/awesome-motion-design-agent-skills",
+    "generated_at": "2026-11-22T07:22:31+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "skill-434ebd6361066db88a": {
+    "fingerprint": "e3a945ecd340a8300e09938b66e2676bef043b51889874d926150cf169fff0f3",
+    "engine": "extractive",
+    "model": null,
+    "summary": "itsrealaan18/STUDENT-INTERNSHIP-PROGRAM",
     "takeaways": [],
     "topics": [
       "AI / видео",
       "Web / motion"
     ],
     "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/linzeliang1222/my-awesome-stars",
-    "generated_at": "2026-11-21T19:44:25+00:00",
+    "source_url": "https://github.com/itsrealaan18/STUDENT-INTERNSHIP-PROGRAM",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
-  "skill-18fca4ba9a2b8d7364": {
-    "fingerprint": "315234c224458202ce321235be29de25778f579b302215175319a6eaff90283b",
+  "skill-b2a6e24fc001928fb4": {
+    "fingerprint": "88ca7996bc0976f3513f9e9a9c2670259c8840b5025b9e80e1fa4f47f21598ab",
     "engine": "extractive",
     "model": null,
-    "summary": "businessgroupikasle/ikasle-tech",
+    "summary": "Migrate WordPress sites (WPBakery, Gutenberg, Bricks, Elementor, Divi and more) to EmDash on Cloudflare Workers — and prove nothing was lost with automated gates.",
     "takeaways": [],
     "topics": [
       "AI / видео",
       "Web / motion"
     ],
     "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/businessgroupikasle/ikasle-tech",
-    "generated_at": "2026-11-21T19:44:25+00:00",
+    "source_url": "https://github.com/nurkamol/wp2emdash",
+    "generated_at": "2026-11-22T07:22:31+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   },
-  "skill-e2d750dd3b8b757a38": {
-    "fingerprint": "eec0d2b7e4e3aba50d6f602667cf6c50e4c31001588b34a3f428830b81fd2cdc",
+  "skill-4ac79c134642ca7b14": {
+    "fingerprint": "561b8953f35ea12a81ee466364a40a2e8d3d1d8409b3fae00d6e61e55f40574f",
     "engine": "extractive",
     "model": null,
-    "summary": "moussaclarke/awesome-stars",
+    "summary": "ShrenikMehar/gitatech-kit",
     "takeaways": [],
     "topics": [
       "AI / видео",
       "Web / motion"
     ],
     "input_kind": "rss_excerpt",
-    "source_url": "https://github.com/moussaclarke/awesome-stars",
-    "generated_at": "2026-11-21T19:44:25+00:00",
+    "source_url": "https://github.com/ShrenikMehar/gitatech-kit",
+    "generated_at": "2026-11-22T07:22:31+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "skill-a951b13e5e4e204196": {
+    "fingerprint": "e32aa997fb6f2aedc1a15f5149119431e7c980452ba664c7e7bcab229a0a1618",
+    "engine": "extractive",
+    "model": null,
+    "summary": "A static html page showcasing semantic html",
+    "takeaways": [],
+    "topics": [
+      "AI / видео",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/Sadman-Bin-Morshed/SP1",
+    "generated_at": "2026-11-22T07:22:31+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "skill-76a60fa6f7a19ea9e5": {
+    "fingerprint": "2c53a78786751cdd28951a4eaea2818f5f9709f7685b3ee8761967ff2f8871f5",
+    "engine": "extractive",
+    "model": null,
+    "summary": "SaaSy Land's open-source website, customer workspace, and admin console. Built with TanStack Start, React, TypeScript, Bun, and Cloudflare Workers, with Better Auth, Drizzle + D1, Polar billing and licensing, Resend email, and localized MDX content in nine languages.",
+    "takeaways": [],
+    "topics": [
+      "AI / видео",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/saasyland/saasyland.com",
+    "generated_at": "2026-11-22T07:22:31+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "skill-69807e2a00f522563c": {
+    "fingerprint": "b3e11977760b37f86e5b8e780c2ec242d73ef442874cf1ba1e77631f0019fe04",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Sovereign Rust Coding Harness built on Hermes & Contraprova",
+    "takeaways": [],
+    "topics": [
+      "AI / видео",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/aphesist/boopis",
+    "generated_at": "2026-11-22T07:22:31+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "skill-a6d458091339791a0d": {
+    "fingerprint": "1425d542209523b59e544ade7edb58053096b3995f7fb38209aa9edf80ae6654",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Creative writting, image generation, and video creation AI assistant",
+    "takeaways": [],
+    "topics": [
+      "AI / видео",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/CannaBusTeD/CBTeD",
+    "generated_at": "2026-11-22T07:22:31+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "skill-1c818d9e94bbb71d95": {
+    "fingerprint": "e4106df0c366004f21904334759a2cf20ede940dcf051426ee33dabe06d95263",
+    "engine": "extractive",
+    "model": null,
+    "summary": "Laziz730/Laziz730",
+    "takeaways": [],
+    "topics": [
+      "AI / видео",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/Laziz730/Laziz730",
+    "generated_at": "2026-11-22T07:22:31+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "skill-91400ee76655b3ba4c": {
+    "fingerprint": "2125529f4ad87f7587d68c652317f9b53835b4ea9020bd1da2b1f36e52080117",
+    "engine": "extractive",
+    "model": null,
+    "summary": "top30ongithub",
+    "takeaways": [],
+    "topics": [
+      "AI / видео",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/venkatesanps/top30ongithub",
+    "generated_at": "2026-11-22T07:22:31+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "skill-b84d3caa3ff1188ce5": {
+    "fingerprint": "f2b82e5e59d163b6b967b2ad240e4ce2b69f5bcb9b56ebf1dba833bebbdd4ddf",
+    "engine": "extractive",
+    "model": null,
+    "summary": "A modern, editorial-style personal portfolio showcasing the work, experience, technical expertise, and professional journey of Muhammad Jahanzaib.",
+    "takeaways": [],
+    "topics": [
+      "AI / видео",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/JahanzaibJameel/Portfolio-web",
+    "generated_at": "2026-11-22T07:22:31+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "skill-e9ab0568386f615011": {
+    "fingerprint": "60593bfed84e59ca2a812c9dea0af0c9afe6a53113858f8d67c9605b3c402ad1",
+    "engine": "extractive",
+    "model": null,
+    "summary": "oremeiyi/my_portfolio",
+    "takeaways": [],
+    "topics": [
+      "AI / видео",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/oremeiyi/my_portfolio",
+    "generated_at": "2026-11-22T07:22:31+00:00",
+    "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
+  },
+  "skill-4d378d2fa16324fa42": {
+    "fingerprint": "6fc1b81084d1e37f14f0b9718be2f85545dc265320b6b7646d03551a0e3f2f4e",
+    "engine": "extractive",
+    "model": null,
+    "summary": "DomGSCripps/DomGSCripps",
+    "takeaways": [],
+    "topics": [
+      "AI / видео",
+      "Web / motion"
+    ],
+    "input_kind": "rss_excerpt",
+    "source_url": "https://github.com/DomGSCripps/DomGSCripps",
+    "generated_at": "2026-11-22T07:23:52+00:00",
     "note": "Краткая выдержка из RSS. Это не AI-анализ и не полный текст статьи."
   }
 }
